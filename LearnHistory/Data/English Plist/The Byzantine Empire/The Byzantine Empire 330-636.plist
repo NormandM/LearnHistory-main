@@ -1,0 +1,366 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<!DOCTYPE plist PUBLIC "-//Apple//DTD PLIST 1.0//EN" "http://www.apple.com/DTDs/PropertyList-1.0.dtd">
+<plist version="1.0">
+<array>
+	<dict>
+		<key>correctTAnswer</key>
+		<string> Constantine the Great</string>
+		<key>date</key>
+		<string> 330 AD</string>
+		<key>id</key>
+		<string>44279490-e937-11ed-a05b-0242ac120003</string>
+		<key>incorrectAnswer1</key>
+		<string> Julius Caesar</string>
+		<key>incorrectAnswer2</key>
+		<string> Alexander the Great</string>
+		<key>incorrectAnswer3</key>
+		<string> Augustus</string>
+		<key>numberOfBadAnswers</key>
+		<integer>0</integer>
+		<key>numberOfBadAnswersQuiz</key>
+		<integer>0</integer>
+		<key>numberOfGoodAnswers</key>
+		<integer>0</integer>
+		<key>numberOfGoodAnswersQuiz</key>
+		<integer>0</integer>
+		<key>order</key>
+		<integer>1</integer>
+		<key>question</key>
+		<string>Who founded the city of Constantinople?</string>
+		<key>questionTrueOrFalse</key>
+		<string> Constantinople was founded by Emperor Augustus.</string>
+		<key>theme</key>
+		<string>The Byzantine Empire 330-636</string>
+		<key>timeLine</key>
+		<string> Foundation of Constantinople </string>
+		<key>trueOrFalseAnswer</key>
+		<string>False</string>
+		<key>wikiSearchWord</key>
+		<string> Constantinople</string>
+	</dict>
+	<dict>
+		<key>correctTAnswer</key>
+		<string> Theodosius I</string>
+		<key>date</key>
+		<string> 395 AD</string>
+		<key>id</key>
+		<string>442796fc-e937-11ed-a05b-0242ac120003</string>
+		<key>incorrectAnswer1</key>
+		<string> Diocletian</string>
+		<key>incorrectAnswer2</key>
+		<string> Constantine the Great</string>
+		<key>incorrectAnswer3</key>
+		<string> Augustus</string>
+		<key>numberOfBadAnswers</key>
+		<integer>0</integer>
+		<key>numberOfBadAnswersQuiz</key>
+		<integer>0</integer>
+		<key>numberOfGoodAnswers</key>
+		<integer>0</integer>
+		<key>numberOfGoodAnswersQuiz</key>
+		<integer>0</integer>
+		<key>order</key>
+		<integer>2</integer>
+		<key>question</key>
+		<string>Which Roman Emperor divided the empire into the Eastern and Western Roman Empires?</string>
+		<key>questionTrueOrFalse</key>
+		<string> The Roman Empire was permanently divided into the Eastern and Western Roman Empires in 285 AD.</string>
+		<key>theme</key>
+		<string>The Byzantine Empire 330-636</string>
+		<key>timeLine</key>
+		<string> Division of the Roman Empire </string>
+		<key>trueOrFalseAnswer</key>
+		<string>False</string>
+		<key>wikiSearchWord</key>
+		<string> Division of the Roman Empire</string>
+	</dict>
+	<dict>
+		<key>correctTAnswer</key>
+		<string> Romulus Augustulus</string>
+		<key>date</key>
+		<string> 476 AD</string>
+		<key>id</key>
+		<string>44279814-e937-11ed-a05b-0242ac120003</string>
+		<key>incorrectAnswer1</key>
+		<string> Julius Nepos</string>
+		<key>incorrectAnswer2</key>
+		<string> Flavius Stilicho</string>
+		<key>incorrectAnswer3</key>
+		<string> Odoacer</string>
+		<key>numberOfBadAnswers</key>
+		<integer>0</integer>
+		<key>numberOfBadAnswersQuiz</key>
+		<integer>0</integer>
+		<key>numberOfGoodAnswers</key>
+		<integer>0</integer>
+		<key>numberOfGoodAnswersQuiz</key>
+		<integer>0</integer>
+		<key>order</key>
+		<integer>3</integer>
+		<key>question</key>
+		<string>Who was the last emperor of the Western Roman Empire?</string>
+		<key>questionTrueOrFalse</key>
+		<string> The Fall of the Western Roman Empire occurred in the 5th century AD.</string>
+		<key>theme</key>
+		<string>The Byzantine Empire 330-636</string>
+		<key>timeLine</key>
+		<string> Fall of the Western Roman Empire </string>
+		<key>trueOrFalseAnswer</key>
+		<string>True</string>
+		<key>wikiSearchWord</key>
+		<string> Fall of the Western Roman Empire</string>
+	</dict>
+	<dict>
+		<key>correctTAnswer</key>
+		<string> Corpus Juris Civilis</string>
+		<key>date</key>
+		<string> 527-565 AD</string>
+		<key>id</key>
+		<string>4427990e-e937-11ed-a05b-0242ac120003</string>
+		<key>incorrectAnswer1</key>
+		<string> Theodosian Code</string>
+		<key>incorrectAnswer2</key>
+		<string> Twelve Tables</string>
+		<key>incorrectAnswer3</key>
+		<string> Code of Hammurabi</string>
+		<key>numberOfBadAnswers</key>
+		<integer>0</integer>
+		<key>numberOfBadAnswersQuiz</key>
+		<integer>0</integer>
+		<key>numberOfGoodAnswers</key>
+		<integer>0</integer>
+		<key>numberOfGoodAnswersQuiz</key>
+		<integer>0</integer>
+		<key>order</key>
+		<integer>4</integer>
+		<key>question</key>
+		<string>Which famous set of laws was compiled during the reign of Justinian I?</string>
+		<key>questionTrueOrFalse</key>
+		<string> Justinian I was the first Byzantine emperor.</string>
+		<key>theme</key>
+		<string>The Byzantine Empire 330-636</string>
+		<key>timeLine</key>
+		<string> Reign of Justinian I </string>
+		<key>trueOrFalseAnswer</key>
+		<string>False</string>
+		<key>wikiSearchWord</key>
+		<string> Justinian I</string>
+	</dict>
+	<dict>
+		<key>correctTAnswer</key>
+		<string> Hagia Sophia</string>
+		<key>date</key>
+		<string> 532 AD</string>
+		<key>id</key>
+		<string>44279c88-e937-11ed-a05b-0242ac120003</string>
+		<key>incorrectAnswer1</key>
+		<string> Church of the Holy Apostles</string>
+		<key>incorrectAnswer2</key>
+		<string> Hippodrome</string>
+		<key>incorrectAnswer3</key>
+		<string> Great Palace</string>
+		<key>numberOfBadAnswers</key>
+		<integer>0</integer>
+		<key>numberOfBadAnswersQuiz</key>
+		<integer>0</integer>
+		<key>numberOfGoodAnswers</key>
+		<integer>0</integer>
+		<key>numberOfGoodAnswersQuiz</key>
+		<integer>0</integer>
+		<key>order</key>
+		<integer>5</integer>
+		<key>question</key>
+		<string>Which building was destroyed during the Nika Riots and later rebuilt by Justinian I?</string>
+		<key>questionTrueOrFalse</key>
+		<string> The Nika Riots occurred during the reign of Emperor Justinian I.</string>
+		<key>theme</key>
+		<string>The Byzantine Empire 330-636</string>
+		<key>timeLine</key>
+		<string> Nika Riots </string>
+		<key>trueOrFalseAnswer</key>
+		<string>True</string>
+		<key>wikiSearchWord</key>
+		<string> Nika riots</string>
+	</dict>
+	<dict>
+		<key>correctTAnswer</key>
+		<string> Anthemius of Tralles and Isidore of Miletus</string>
+		<key>date</key>
+		<string> 537 AD</string>
+		<key>id</key>
+		<string>44279da0-e937-11ed-a05b-0242ac120003</string>
+		<key>incorrectAnswer1</key>
+		<string> Sinan and Michelangelo</string>
+		<key>incorrectAnswer2</key>
+		<string> Apollodorus of Damascus and Vitruvius</string>
+		<key>incorrectAnswer3</key>
+		<string> Filippo Brunelleschi and Leon Battista Alberti</string>
+		<key>numberOfBadAnswers</key>
+		<integer>0</integer>
+		<key>numberOfBadAnswersQuiz</key>
+		<integer>0</integer>
+		<key>numberOfGoodAnswers</key>
+		<integer>0</integer>
+		<key>numberOfGoodAnswersQuiz</key>
+		<integer>0</integer>
+		<key>order</key>
+		<integer>6</integer>
+		<key>question</key>
+		<string>Who were the two architects responsible for the design of the Hagia Sophia?</string>
+		<key>questionTrueOrFalse</key>
+		<string> Hagia Sophia was originally built as a mosque.</string>
+		<key>theme</key>
+		<string>The Byzantine Empire 330-636</string>
+		<key>timeLine</key>
+		<string> Completion of the Hagia Sophia </string>
+		<key>trueOrFalseAnswer</key>
+		<string>False</string>
+		<key>wikiSearchWord</key>
+		<string> Hagia Sophia</string>
+	</dict>
+	<dict>
+		<key>correctTAnswer</key>
+		<string> Alboin</string>
+		<key>date</key>
+		<string> 568 AD</string>
+		<key>id</key>
+		<string>44279ecc-e937-11ed-a05b-0242ac120003</string>
+		<key>incorrectAnswer1</key>
+		<string> Cleph</string>
+		<key>incorrectAnswer2</key>
+		<string> Authari</string>
+		<key>incorrectAnswer3</key>
+		<string> Agilulf</string>
+		<key>numberOfBadAnswers</key>
+		<integer>0</integer>
+		<key>numberOfBadAnswersQuiz</key>
+		<integer>0</integer>
+		<key>numberOfGoodAnswers</key>
+		<integer>0</integer>
+		<key>numberOfGoodAnswersQuiz</key>
+		<integer>0</integer>
+		<key>order</key>
+		<integer>7</integer>
+		<key>question</key>
+		<string>Who was the Lombard king that led the invasion of Italy?</string>
+		<key>questionTrueOrFalse</key>
+		<string> The Lombards invaded Italy in the 6th century AD.</string>
+		<key>theme</key>
+		<string>The Byzantine Empire 330-636</string>
+		<key>timeLine</key>
+		<string> Lombard Invasion of Italy </string>
+		<key>trueOrFalseAnswer</key>
+		<string>True</string>
+		<key>wikiSearchWord</key>
+		<string> Lombards</string>
+	</dict>
+	<dict>
+		<key>correctTAnswer</key>
+		<string> Greek</string>
+		<key>date</key>
+		<string> 610-641 AD</string>
+		<key>id</key>
+		<string>4427a0a2-e937-11ed-a05b-0242ac120003</string>
+		<key>incorrectAnswer1</key>
+		<string> Syriac</string>
+		<key>incorrectAnswer2</key>
+		<string> Aramaic</string>
+		<key>incorrectAnswer3</key>
+		<string> Coptic</string>
+		<key>numberOfBadAnswers</key>
+		<integer>0</integer>
+		<key>numberOfBadAnswersQuiz</key>
+		<integer>0</integer>
+		<key>numberOfGoodAnswers</key>
+		<integer>0</integer>
+		<key>numberOfGoodAnswersQuiz</key>
+		<integer>0</integer>
+		<key>order</key>
+		<integer>8</integer>
+		<key>question</key>
+		<string>What language did Emperor Heraclius make the official language of the Byzantine Empire, replacing Latin?</string>
+		<key>questionTrueOrFalse</key>
+		<string> Heraclius was defeated by the Persians in the Battle of Nineveh in 627, failing to push them out of Asia Minor.</string>
+		<key>theme</key>
+		<string>The Byzantine Empire 330-636</string>
+		<key>timeLine</key>
+		<string> Reign of Heraclius </string>
+		<key>trueOrFalseAnswer</key>
+		<string>False</string>
+		<key>wikiSearchWord</key>
+		<string> Heraclius</string>
+	</dict>
+	<dict>
+		<key>correctTAnswer</key>
+		<string> Avar and Persian</string>
+		<key>date</key>
+		<string> 626 AD</string>
+		<key>id</key>
+		<string>4427a1c4-e937-11ed-a05b-0242ac120003</string>
+		<key>incorrectAnswer1</key>
+		<string>Arab and Persian</string>
+		<key>incorrectAnswer2</key>
+		<string>Avar and Slavic</string>
+		<key>incorrectAnswer3</key>
+		<string>Persian and Slavic</string>
+		<key>numberOfBadAnswers</key>
+		<integer>0</integer>
+		<key>numberOfBadAnswersQuiz</key>
+		<integer>0</integer>
+		<key>numberOfGoodAnswers</key>
+		<integer>0</integer>
+		<key>numberOfGoodAnswersQuiz</key>
+		<integer>0</integer>
+		<key>order</key>
+		<integer>9</integer>
+		<key>question</key>
+		<string>Which two forces besieged Constantinople in 626 AD?</string>
+		<key>questionTrueOrFalse</key>
+		<string> The Siege of Constantinople in 626 AD was led by the Abbasid Caliphate</string>
+		<key>theme</key>
+		<string>The Byzantine Empire 330-636</string>
+		<key>timeLine</key>
+		<string> Siege of Constantinople </string>
+		<key>trueOrFalseAnswer</key>
+		<string>False</string>
+		<key>wikiSearchWord</key>
+		<string> Siege of Constantinople (626)</string>
+	</dict>
+	<dict>
+		<key>correctTAnswer</key>
+		<string> Khalid ibn al-Walid</string>
+		<key>date</key>
+		<string> 636 AD</string>
+		<key>id</key>
+		<string>4427a2e6-e937-11ed-a05b-0242ac120003</string>
+		<key>incorrectAnswer1</key>
+		<string> Abu Bakr</string>
+		<key>incorrectAnswer2</key>
+		<string> Umar ibn al-Khattab</string>
+		<key>incorrectAnswer3</key>
+		<string> Uthman ibn Affan</string>
+		<key>numberOfBadAnswers</key>
+		<integer>0</integer>
+		<key>numberOfBadAnswersQuiz</key>
+		<integer>0</integer>
+		<key>numberOfGoodAnswers</key>
+		<integer>0</integer>
+		<key>numberOfGoodAnswersQuiz</key>
+		<integer>0</integer>
+		<key>order</key>
+		<integer>10</integer>
+		<key>question</key>
+		<string>Which Muslim commander led the forces against the Byzantine Empire at the Battle of Yarmouk?</string>
+		<key>questionTrueOrFalse</key>
+		<string> The Battle of Yarmouk was a decisive victory for the Byzantine Empire.</string>
+		<key>theme</key>
+		<string>The Byzantine Empire 330-636</string>
+		<key>timeLine</key>
+		<string> Battle of Yarmouk </string>
+		<key>trueOrFalseAnswer</key>
+		<string>False</string>
+		<key>wikiSearchWord</key>
+		<string> Battle of Yarmouk</string>
+	</dict>
+</array>
+</plist>

@@ -1,0 +1,366 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<!DOCTYPE plist PUBLIC "-//Apple//DTD PLIST 1.0//EN" "http://www.apple.com/DTDs/PropertyList-1.0.dtd">
+<plist version="1.0">
+<array>
+	<dict>
+		<key>correctTAnswer</key>
+		<string>Rome</string>
+		<key>date</key>
+		<string>846</string>
+		<key>id</key>
+		<string>adaaf54c-8884-11ed-a1eb-0242ac120002</string>
+		<key>incorrectAnswer1</key>
+		<string>Constantinople</string>
+		<key>incorrectAnswer2</key>
+		<string>Jérusalem</string>
+		<key>incorrectAnswer3</key>
+		<string>Alexandrie</string>
+		<key>numberOfBadAnswers</key>
+		<integer>0</integer>
+		<key>numberOfBadAnswersQuiz</key>
+		<integer>0</integer>
+		<key>numberOfGoodAnswers</key>
+		<integer>0</integer>
+		<key>numberOfGoodAnswersQuiz</key>
+		<integer>0</integer>
+		<key>order</key>
+		<integer>20</integer>
+		<key>question</key>
+		<string>Quelle ville a été prise et saccagée par les forces musulmanes en 846 ?</string>
+		<key>questionTrueOrFalse</key>
+		<string>Les troupes sarrasines ont réussi à entrer dans la ville de Rome grâce au mur d&apos;Aurélien. </string>
+		<key>theme</key>
+		<string>Empire islamique 853-1258</string>
+		<key>timeLine</key>
+		<string>Rome est saccagée par les forces musulmanes</string>
+		<key>trueOrFalseAnswer</key>
+		<string>Faux</string>
+		<key>wikiSearchWord</key>
+		<string>Sac de Rome (846)</string>
+	</dict>
+	<dict>
+		<key>correctTAnswer</key>
+		<string>L&apos;empire byzantin</string>
+		<key>date</key>
+		<string>853</string>
+		<key>id</key>
+		<string>adaaf664-8884-11ed-a1eb-0242ac120002</string>
+		<key>incorrectAnswer1</key>
+		<string>L&apos;Empire ottoman</string>
+		<key>incorrectAnswer2</key>
+		<string>Le califat abbasside</string>
+		<key>incorrectAnswer3</key>
+		<string>Le califat omeyyade</string>
+		<key>numberOfBadAnswers</key>
+		<integer>0</integer>
+		<key>numberOfBadAnswersQuiz</key>
+		<integer>0</integer>
+		<key>numberOfGoodAnswers</key>
+		<integer>0</integer>
+		<key>numberOfGoodAnswersQuiz</key>
+		<integer>0</integer>
+		<key>order</key>
+		<integer>21</integer>
+		<key>question</key>
+		<string>Quel empire a repris la ville de Rome des mains des musulmans en 853 ?</string>
+		<key>questionTrueOrFalse</key>
+		<string>L&apos;Empire byzantin a été conquis par les Ottomans en 1453.</string>
+		<key>theme</key>
+		<string>Empire islamique 853-1258</string>
+		<key>timeLine</key>
+		<string>L&apos;empire byzantin reprend Rome aux musulmans.</string>
+		<key>trueOrFalseAnswer</key>
+		<string>Vrai</string>
+		<key>wikiSearchWord</key>
+		<string>Empire byzantin</string>
+	</dict>
+	<dict>
+		<key>correctTAnswer</key>
+		<string>L&apos;Afrique du Nord</string>
+		<key>date</key>
+		<string>929</string>
+		<key>id</key>
+		<string>adaaf786-8884-11ed-a1eb-0242ac120002</string>
+		<key>incorrectAnswer1</key>
+		<string>Asie du Sud-Ouest</string>
+		<key>incorrectAnswer2</key>
+		<string>Asie du Sud-Est</string>
+		<key>incorrectAnswer3</key>
+		<string>Afrique de l&apos;Est</string>
+		<key>numberOfBadAnswers</key>
+		<integer>0</integer>
+		<key>numberOfBadAnswersQuiz</key>
+		<integer>0</integer>
+		<key>numberOfGoodAnswers</key>
+		<integer>0</integer>
+		<key>numberOfGoodAnswersQuiz</key>
+		<integer>0</integer>
+		<key>order</key>
+		<integer>22</integer>
+		<key>question</key>
+		<string>Dans quelle région le califat fatimide a-t-il été établi ?</string>
+		<key>questionTrueOrFalse</key>
+		<string>Le Califat fatimide a été fondé par une dynastie sunnite.</string>
+		<key>theme</key>
+		<string>Empire islamique 853-1258</string>
+		<key>timeLine</key>
+		<string>Le califat fatimide est établi.</string>
+		<key>trueOrFalseAnswer</key>
+		<string>Faux</string>
+		<key>wikiSearchWord</key>
+		<string>Califat fatimide</string>
+	</dict>
+	<dict>
+		<key>correctTAnswer</key>
+		<string>Le califat fatimide</string>
+		<key>date</key>
+		<string>969</string>
+		<key>id</key>
+		<string>adaafa60-8884-11ed-a1eb-0242ac120002</string>
+		<key>incorrectAnswer1</key>
+		<string>Le califat omeyyade</string>
+		<key>incorrectAnswer2</key>
+		<string>Le califat abbasside</string>
+		<key>incorrectAnswer3</key>
+		<string>L&apos;Empire Seldjoukide</string>
+		<key>numberOfBadAnswers</key>
+		<integer>0</integer>
+		<key>numberOfBadAnswersQuiz</key>
+		<integer>0</integer>
+		<key>numberOfGoodAnswers</key>
+		<integer>0</integer>
+		<key>numberOfGoodAnswersQuiz</key>
+		<integer>0</integer>
+		<key>order</key>
+		<integer>23</integer>
+		<key>question</key>
+		<string>Quel califat a conquis l&apos;Égypte et a établi sa capitale au Caire ?</string>
+		<key>questionTrueOrFalse</key>
+		<string>L&apos;État abbasside était puissant lors de l&apos;arrivée au pouvoir des Fatimides.</string>
+		<key>theme</key>
+		<string>Empire islamique 853-1258</string>
+		<key>timeLine</key>
+		<string>Conquête de l&apos;Égypte par les Fatimides</string>
+		<key>trueOrFalseAnswer</key>
+		<string>Faux</string>
+		<key>wikiSearchWord</key>
+		<string>Période fatimide de l&apos;Égypte</string>
+	</dict>
+	<dict>
+		<key>correctTAnswer</key>
+		<string>Avicenne</string>
+		<key>date</key>
+		<string>980</string>
+		<key>id</key>
+		<string>adaafb96-8884-11ed-a1eb-0242ac120002</string>
+		<key>incorrectAnswer1</key>
+		<string>Hippocrate</string>
+		<key>incorrectAnswer2</key>
+		<string>Galien</string>
+		<key>incorrectAnswer3</key>
+		<string>Maïmonide</string>
+		<key>numberOfBadAnswers</key>
+		<integer>0</integer>
+		<key>numberOfBadAnswersQuiz</key>
+		<integer>0</integer>
+		<key>numberOfGoodAnswers</key>
+		<integer>0</integer>
+		<key>numberOfGoodAnswersQuiz</key>
+		<integer>0</integer>
+		<key>order</key>
+		<integer>24</integer>
+		<key>question</key>
+		<string>Quel médecin célèbre a vécu et travaillé pendant l&apos;âge d&apos;or arabo-musulman ?</string>
+		<key>questionTrueOrFalse</key>
+		<string>L&apos;œuvre philosophique d&apos;Ibn Sina est uniquement étudiée en Occident du point de vue de la philosophie, de l&apos;épistémologie et des sciences cognitives.</string>
+		<key>theme</key>
+		<string>Empire islamique 853-1258</string>
+		<key>timeLine</key>
+		<string>Naissance d&apos;Avicenne</string>
+		<key>trueOrFalseAnswer</key>
+		<string>Vrai</string>
+		<key>wikiSearchWord</key>
+		<string>Avicenne</string>
+	</dict>
+	<dict>
+		<key>correctTAnswer</key>
+		<string>La République</string>
+		<key>date</key>
+		<string>980</string>
+		<key>id</key>
+		<string>adaafcb8-8884-11ed-a1eb-0242ac120002</string>
+		<key>incorrectAnswer1</key>
+		<string>Le Canon de la médecine</string>
+		<key>incorrectAnswer2</key>
+		<string>Le Livre de la Guérison</string>
+		<key>incorrectAnswer3</key>
+		<string>L&apos;homme flottant</string>
+		<key>numberOfBadAnswers</key>
+		<integer>0</integer>
+		<key>numberOfBadAnswersQuiz</key>
+		<integer>0</integer>
+		<key>numberOfGoodAnswers</key>
+		<integer>0</integer>
+		<key>numberOfGoodAnswersQuiz</key>
+		<integer>0</integer>
+		<key>order</key>
+		<integer>25</integer>
+		<key>question</key>
+		<string>Lequel des ouvrages suivants n&apos;est PAS attribué à Avicenne ?</string>
+		<key>questionTrueOrFalse</key>
+		<string>L&apos;encyclopédie médicale Qanûn d&apos;Ibn Sina n&apos;a qu&apos;un intérêt historique.</string>
+		<key>theme</key>
+		<string>Empire islamique 853-1258</string>
+		<key>timeLine</key>
+		<string>Naissance d&apos;Avicenne</string>
+		<key>trueOrFalseAnswer</key>
+		<string>Faux</string>
+		<key>wikiSearchWord</key>
+		<string>Avicenne</string>
+	</dict>
+	<dict>
+		<key>correctTAnswer</key>
+		<string>Reprise de la Terre Sainte sous le contrôle des musulmans</string>
+		<key>date</key>
+		<string>1095</string>
+		<key>id</key>
+		<string>adaaff10-8884-11ed-a1eb-0242ac120002</string>
+		<key>incorrectAnswer1</key>
+		<string>Convertir le monde musulman au christianisme</string>
+		<key>incorrectAnswer2</key>
+		<string>Pour conquérir l&apos;Empire byzantin</string>
+		<key>incorrectAnswer3</key>
+		<string>Établir un État chrétien unifié en Europe</string>
+		<key>numberOfBadAnswers</key>
+		<integer>0</integer>
+		<key>numberOfBadAnswersQuiz</key>
+		<integer>0</integer>
+		<key>numberOfGoodAnswers</key>
+		<integer>0</integer>
+		<key>numberOfGoodAnswersQuiz</key>
+		<integer>0</integer>
+		<key>order</key>
+		<integer>27</integer>
+		<key>question</key>
+		<string>Quel était l&apos;objectif de la première croisade, lancée en 1095 ?</string>
+		<key>questionTrueOrFalse</key>
+		<string>La première croisade a abouti à la prise de Jérusalem et à la création des États latins d&apos;Orient.</string>
+		<key>theme</key>
+		<string>Empire islamique 853-1258</string>
+		<key>timeLine</key>
+		<string>Lancement de la première croisade</string>
+		<key>trueOrFalseAnswer</key>
+		<string>Vrai</string>
+		<key>wikiSearchWord</key>
+		<string>Première croisade</string>
+	</dict>
+	<dict>
+		<key>correctTAnswer</key>
+		<string>Saladin</string>
+		<key>date</key>
+		<string>1187</string>
+		<key>id</key>
+		<string>adab00fa-8884-11ed-a1eb-0242ac120002</string>
+		<key>incorrectAnswer1</key>
+		<string>Al-Ghazi</string>
+		<key>incorrectAnswer2</key>
+		<string>Tariq ibn Ziyad</string>
+		<key>incorrectAnswer3</key>
+		<string>Muawiyah I</string>
+		<key>numberOfBadAnswers</key>
+		<integer>0</integer>
+		<key>numberOfBadAnswersQuiz</key>
+		<integer>0</integer>
+		<key>numberOfGoodAnswers</key>
+		<integer>0</integer>
+		<key>numberOfGoodAnswersQuiz</key>
+		<integer>0</integer>
+		<key>order</key>
+		<integer>28</integer>
+		<key>question</key>
+		<string>Qui a reconquis la Terre sainte et rétabli le contrôle musulman sur Jérusalem en 1187 ?</string>
+		<key>questionTrueOrFalse</key>
+		<string>Le siège s&apos;est terminé par la reprise de Jérusalem aux croisés et la chute presque totale du royaume de Jérusalem.</string>
+		<key>theme</key>
+		<string>Empire islamique 853-1258</string>
+		<key>timeLine</key>
+		<string>Siège de Jérusalem par Saladin</string>
+		<key>trueOrFalseAnswer</key>
+		<string>Vrai</string>
+		<key>wikiSearchWord</key>
+		<string>Siège de Jérusalem (1187)</string>
+	</dict>
+	<dict>
+		<key>correctTAnswer</key>
+		<string>La tolérance religieuse de l&apos;empire</string>
+		<key>date</key>
+		<string>1200</string>
+		<key>id</key>
+		<string>adab021c-8884-11ed-a1eb-0242ac120002</string>
+		<key>incorrectAnswer1</key>
+		<string>Le vaste territoire de l&apos;empire</string>
+		<key>incorrectAnswer2</key>
+		<string>La volonté de l&apos;empire d&apos;imposer sa religion à ses sujets</string>
+		<key>incorrectAnswer3</key>
+		<string>Aucune de ces raisons</string>
+		<key>numberOfBadAnswers</key>
+		<integer>0</integer>
+		<key>numberOfBadAnswersQuiz</key>
+		<integer>0</integer>
+		<key>numberOfGoodAnswers</key>
+		<integer>0</integer>
+		<key>numberOfGoodAnswersQuiz</key>
+		<integer>0</integer>
+		<key>order</key>
+		<integer>29</integer>
+		<key>question</key>
+		<string>Parmi les facteurs suivants, lesquels ont facilité la propagation de l&apos;islam par l&apos;empire mongol ?</string>
+		<key>questionTrueOrFalse</key>
+		<string>L&apos;Empire mongol était unifié sur le plan linguistique et religieux.</string>
+		<key>theme</key>
+		<string>Empire islamique 853-1258</string>
+		<key>timeLine</key>
+		<string>Les conquêtes de l&apos;Empire mongol, d&apos;une grande partie du monde musulman.</string>
+		<key>trueOrFalseAnswer</key>
+		<string>Faux</string>
+		<key>wikiSearchWord</key>
+		<string>Empire mongol</string>
+	</dict>
+	<dict>
+		<key>correctTAnswer</key>
+		<string>L&apos;empire mongol</string>
+		<key>date</key>
+		<string>1258</string>
+		<key>id</key>
+		<string>adab0334-8884-11ed-a1eb-0242ac120002</string>
+		<key>incorrectAnswer1</key>
+		<string>L&apos;empire ottoman</string>
+		<key>incorrectAnswer2</key>
+		<string>L&apos;empire seldjoukide</string>
+		<key>incorrectAnswer3</key>
+		<string>Le califat fatimide</string>
+		<key>numberOfBadAnswers</key>
+		<integer>0</integer>
+		<key>numberOfBadAnswersQuiz</key>
+		<integer>0</integer>
+		<key>numberOfGoodAnswers</key>
+		<integer>0</integer>
+		<key>numberOfGoodAnswersQuiz</key>
+		<integer>0</integer>
+		<key>order</key>
+		<integer>30</integer>
+		<key>question</key>
+		<string>Quel empire a conquis Bagdad et détruit le califat abbasside en 1258 ?</string>
+		<key>questionTrueOrFalse</key>
+		<string>Environ 800 000 habitants de Bagdad ont été tués lors de la bataille.</string>
+		<key>theme</key>
+		<string>Empire islamique 853-1258</string>
+		<key>timeLine</key>
+		<string>Siège de Bagdad par les Mongols.</string>
+		<key>trueOrFalseAnswer</key>
+		<string>Vrai</string>
+		<key>wikiSearchWord</key>
+		<string>Bataille de Bagdad (1258)</string>
+	</dict>
+</array>
+</plist>

@@ -1,0 +1,366 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<!DOCTYPE plist PUBLIC "-//Apple//DTD PLIST 1.0//EN" "http://www.apple.com/DTDs/PropertyList-1.0.dtd">
+<plist version="1.0">
+<array>
+	<dict>
+		<key>correctTAnswer</key>
+		<string> Feu grégeois</string>
+		<key>date</key>
+		<string>674-678</string>
+		<key>id</key>
+		<string>65e77f82-eab8-11ed-a05b-0242ac120003</string>
+		<key>incorrectAnswer1</key>
+		<string> Catapulte</string>
+		<key>incorrectAnswer2</key>
+		<string> Baliste</string>
+		<key>incorrectAnswer3</key>
+		<string> Trébuchet</string>
+		<key>numberOfBadAnswers</key>
+		<integer>0</integer>
+		<key>numberOfBadAnswersQuiz</key>
+		<integer>0</integer>
+		<key>numberOfGoodAnswers</key>
+		<integer>0</integer>
+		<key>numberOfGoodAnswersQuiz</key>
+		<integer>0</integer>
+		<key>order</key>
+		<integer>11</integer>
+		<key>question</key>
+		<string>Quelle arme les Byzantins ont-ils utilisée pour défendre avec succès Constantinople lors du premier siège arabe ?</string>
+		<key>questionTrueOrFalse</key>
+		<string> Le siège de Constantinople (674-678) a été mené par les Arabes.</string>
+		<key>theme</key>
+		<string>L&apos;empire byzantin 674-1118</string>
+		<key>timeLine</key>
+		<string>Premier siège arabe de Constantinople</string>
+		<key>trueOrFalseAnswer</key>
+		<string>Vrai</string>
+		<key>wikiSearchWord</key>
+		<string>Siège de Constantinople (674-678)</string>
+	</dict>
+	<dict>
+		<key>correctTAnswer</key>
+		<string> Léon III l&apos;Isaurien</string>
+		<key>date</key>
+		<string>717-718</string>
+		<key>id</key>
+		<string>65e7809a-eab8-11ed-a05b-0242ac120003</string>
+		<key>incorrectAnswer1</key>
+		<string> Tibère III</string>
+		<key>incorrectAnswer2</key>
+		<string> Constantin IV</string>
+		<key>incorrectAnswer3</key>
+		<string> Justinien II</string>
+		<key>numberOfBadAnswers</key>
+		<integer>0</integer>
+		<key>numberOfBadAnswersQuiz</key>
+		<integer>0</integer>
+		<key>numberOfGoodAnswers</key>
+		<integer>0</integer>
+		<key>numberOfGoodAnswersQuiz</key>
+		<integer>0</integer>
+		<key>order</key>
+		<integer>12</integer>
+		<key>question</key>
+		<string>Qui était l&apos;empereur byzantin lors du second siège arabe de Constantinople ?</string>
+		<key>questionTrueOrFalse</key>
+		<string> Le siège de Constantinople (717-718) s&apos;est conclu par la victoire byzantine.</string>
+		<key>theme</key>
+		<string>L&apos;empire byzantin 674-1118</string>
+		<key>timeLine</key>
+		<string>Deuxième siège arabe de Constantinople</string>
+		<key>trueOrFalseAnswer</key>
+		<string>Vrai</string>
+		<key>wikiSearchWord</key>
+		<string>Siège de Constantinople (717-718)</string>
+	</dict>
+	<dict>
+		<key>correctTAnswer</key>
+		<string> Léon III l&apos;Isaurien</string>
+		<key>date</key>
+		<string>732</string>
+		<key>id</key>
+		<string>65e781e4-eab8-11ed-a05b-0242ac120003</string>
+		<key>incorrectAnswer1</key>
+		<string> Constantin V</string>
+		<key>incorrectAnswer2</key>
+		<string> Michel III</string>
+		<key>incorrectAnswer3</key>
+		<string> Empereur Théophile</string>
+		<key>numberOfBadAnswers</key>
+		<integer>0</integer>
+		<key>numberOfBadAnswersQuiz</key>
+		<integer>0</integer>
+		<key>numberOfGoodAnswers</key>
+		<integer>0</integer>
+		<key>numberOfGoodAnswersQuiz</key>
+		<integer>0</integer>
+		<key>order</key>
+		<integer>13</integer>
+		<key>question</key>
+		<string>Qui a initié la première période de l&apos;iconoclasme dans l&apos;Empire byzantin ?</string>
+		<key>questionTrueOrFalse</key>
+		<string> L&apos;iconoclasme était une période de destruction d&apos;images religieuses dans l&apos;Empire byzantin.</string>
+		<key>theme</key>
+		<string>L&apos;empire byzantin 674-1118</string>
+		<key>timeLine</key>
+		<string>Iconoclasme</string>
+		<key>trueOrFalseAnswer</key>
+		<string>Vrai</string>
+		<key>wikiSearchWord</key>
+		<string> Iconoclasme</string>
+	</dict>
+	<dict>
+		<key>correctTAnswer</key>
+		<string> Condamner la pratique de l&apos;iconoclasme</string>
+		<key>date</key>
+		<string>787</string>
+		<key>id</key>
+		<string>65e784c8-eab8-11ed-a05b-0242ac120003</string>
+		<key>incorrectAnswer1</key>
+		<string> Pour aborder la controverse arienne</string>
+		<key>incorrectAnswer2</key>
+		<string> Pour établir le credo de Nicée</string>
+		<key>incorrectAnswer3</key>
+		<string> Pour traiter la controverse monophysite</string>
+		<key>numberOfBadAnswers</key>
+		<integer>0</integer>
+		<key>numberOfBadAnswersQuiz</key>
+		<integer>0</integer>
+		<key>numberOfGoodAnswers</key>
+		<integer>0</integer>
+		<key>numberOfGoodAnswersQuiz</key>
+		<integer>0</integer>
+		<key>order</key>
+		<integer>14</integer>
+		<key>question</key>
+		<string>Quel était l&apos;objectif principal du deuxième concile de Nicée ?</string>
+		<key>questionTrueOrFalse</key>
+		<string>Le concile de Nicée II avait été convoqué par l&apos;impératrice Irène pour mettre fin au conflit lié à l&apos;iconoclasme</string>
+		<key>theme</key>
+		<string>L&apos;empire byzantin 674-1118</string>
+		<key>timeLine</key>
+		<string>Deuxième concile de Nicée</string>
+		<key>trueOrFalseAnswer</key>
+		<string>Vrai</string>
+		<key>wikiSearchWord</key>
+		<string>Deuxième concile de Nicée</string>
+	</dict>
+	<dict>
+		<key>correctTAnswer</key>
+		<string> Dynastie macédonienne</string>
+		<key>date</key>
+		<string>867-886</string>
+		<key>id</key>
+		<string>65e785ea-eab8-11ed-a05b-0242ac120003</string>
+		<key>incorrectAnswer1</key>
+		<string> Dynastie justinienne</string>
+		<key>incorrectAnswer2</key>
+		<string> Dynastie isaurienne</string>
+		<key>incorrectAnswer3</key>
+		<string> Dynastie des Comnènes</string>
+		<key>numberOfBadAnswers</key>
+		<integer>0</integer>
+		<key>numberOfBadAnswersQuiz</key>
+		<integer>0</integer>
+		<key>numberOfGoodAnswers</key>
+		<integer>0</integer>
+		<key>numberOfGoodAnswersQuiz</key>
+		<integer>0</integer>
+		<key>order</key>
+		<integer>15</integer>
+		<key>question</key>
+		<string>Quelle dynastie a été fondée par Basile Ier ?</string>
+		<key>questionTrueOrFalse</key>
+		<string> Basile Ier le Macédonien était un empereur byzantin d&apos;origine slave.</string>
+		<key>theme</key>
+		<string>L&apos;empire byzantin 674-1118</string>
+		<key>timeLine</key>
+		<string>Règne de Basile Ier</string>
+		<key>trueOrFalseAnswer</key>
+		<string>Faux</string>
+		<key>wikiSearchWord</key>
+		<string>Basile Ier le Macédonien</string>
+	</dict>
+	<dict>
+		<key>correctTAnswer</key>
+		<string> Igor de Kiev</string>
+		<key>date</key>
+		<string>941</string>
+		<key>id</key>
+		<string>65e78720-eab8-11ed-a05b-0242ac120003</string>
+		<key>incorrectAnswer1</key>
+		<string> Vladimir le Grand</string>
+		<key>incorrectAnswer2</key>
+		<string> Oleg de Novgorod</string>
+		<key>incorrectAnswer3</key>
+		<string> Sviatoslav Ier</string>
+		<key>numberOfBadAnswers</key>
+		<integer>0</integer>
+		<key>numberOfBadAnswersQuiz</key>
+		<integer>0</integer>
+		<key>numberOfGoodAnswers</key>
+		<integer>0</integer>
+		<key>numberOfGoodAnswersQuiz</key>
+		<integer>0</integer>
+		<key>order</key>
+		<integer>16</integer>
+		<key>question</key>
+		<string>Qui était le dirigeant des Kievan Rus&apos; lors de l&apos;attaque de Constantinople en 941 après J.-C. ?</string>
+		<key>questionTrueOrFalse</key>
+		<string> La guerre entre Rus&apos; et Byzantins (860) a entraîné l&apos;effondrement de L&apos;empire byzantin 674-1118.</string>
+		<key>theme</key>
+		<string>L&apos;empire byzantin 674-1118</string>
+		<key>timeLine</key>
+		<string>Attaque des Rus&apos; sur Constantinople</string>
+		<key>trueOrFalseAnswer</key>
+		<string>Faux</string>
+		<key>wikiSearchWord</key>
+		<string>Guerre entre Rus&apos; et Byzantins (860)</string>
+	</dict>
+	<dict>
+		<key>correctTAnswer</key>
+		<string> Basile le Tueur de Bulgares</string>
+		<key>date</key>
+		<string>976-1025</string>
+		<key>id</key>
+		<string>65e78842-eab8-11ed-a05b-0242ac120003</string>
+		<key>incorrectAnswer1</key>
+		<string> Basile le Conquérant</string>
+		<key>incorrectAnswer2</key>
+		<string> Basile le Grand</string>
+		<key>incorrectAnswer3</key>
+		<string> Basile le Victorieux</string>
+		<key>numberOfBadAnswers</key>
+		<integer>0</integer>
+		<key>numberOfBadAnswersQuiz</key>
+		<integer>0</integer>
+		<key>numberOfGoodAnswers</key>
+		<integer>0</integer>
+		<key>numberOfGoodAnswersQuiz</key>
+		<integer>0</integer>
+		<key>order</key>
+		<integer>17</integer>
+		<key>question</key>
+		<string>Quel surnom a été donné à Basile II pour ses succès militaires ?</string>
+		<key>questionTrueOrFalse</key>
+		<string>Basile II est un empereur byzantin qui a régné pendant près de 50 ans et qui a étendu l&apos;Empire byzantin à son apogée </string>
+		<key>theme</key>
+		<string>L&apos;empire byzantin 674-1118</string>
+		<key>timeLine</key>
+		<string>Règne de Basile II</string>
+		<key>trueOrFalseAnswer</key>
+		<string>Vrai</string>
+		<key>wikiSearchWord</key>
+		<string>Basile II</string>
+	</dict>
+	<dict>
+		<key>correctTAnswer</key>
+		<string>Le rôle du Saint-Esprit</string>
+		<key>date</key>
+		<string>1054</string>
+		<key>id</key>
+		<string>65e7895a-eab8-11ed-a05b-0242ac120003</string>
+		<key>incorrectAnswer1</key>
+		<string>L&apos;utilisation des icônes religieuses</string>
+		<key>incorrectAnswer2</key>
+		<string>La structure de la hiérarchie de l&apos;Église</string>
+		<key>incorrectAnswer3</key>
+		<string>La préférence pour le pain azyme dans l&apos;Eucharistie</string>
+		<key>numberOfBadAnswers</key>
+		<integer>0</integer>
+		<key>numberOfBadAnswersQuiz</key>
+		<integer>0</integer>
+		<key>numberOfGoodAnswers</key>
+		<integer>0</integer>
+		<key>numberOfGoodAnswersQuiz</key>
+		<integer>0</integer>
+		<key>order</key>
+		<integer>18</integer>
+		<key>question</key>
+		<string>Quel était le point de discorde théologique entre l&apos;Église orthodoxe orientale et l&apos;Église catholique romaine lors du schisme Est-Ouest ?</string>
+		<key>questionTrueOrFalse</key>
+		<string> La séparation des Églises d&apos;Orient et d&apos;Occident a eu lieu en 1154.</string>
+		<key>theme</key>
+		<string>L&apos;empire byzantin 674-1118</string>
+		<key>timeLine</key>
+		<string>Schisme Est-Ouest</string>
+		<key>trueOrFalseAnswer</key>
+		<string>Faux</string>
+		<key>wikiSearchWord</key>
+		<string>Séparation des Églises d&apos;Orient et d&apos;Occident</string>
+	</dict>
+	<dict>
+		<key>correctTAnswer</key>
+		<string> Alp Arslan</string>
+		<key>date</key>
+		<string>1071</string>
+		<key>id</key>
+		<string>65e78b1c-eab8-11ed-a05b-0242ac120003</string>
+		<key>incorrectAnswer1</key>
+		<string> Seldjoukide</string>
+		<key>incorrectAnswer2</key>
+		<string> Osman Ier</string>
+		<key>incorrectAnswer3</key>
+		<string> Ertugrul</string>
+		<key>numberOfBadAnswers</key>
+		<integer>0</integer>
+		<key>numberOfBadAnswersQuiz</key>
+		<integer>0</integer>
+		<key>numberOfGoodAnswers</key>
+		<integer>0</integer>
+		<key>numberOfGoodAnswersQuiz</key>
+		<integer>0</integer>
+		<key>order</key>
+		<integer>19</integer>
+		<key>question</key>
+		<string>Quel chef turc a défait les Byzantins lors de la bataille de Manzikert ?</string>
+		<key>questionTrueOrFalse</key>
+		<string> L&apos;Empire byzantin a remporté la bataille de Manzikert contre les Turcs seldjoukides.</string>
+		<key>theme</key>
+		<string>L&apos;empire byzantin 674-1118</string>
+		<key>timeLine</key>
+		<string>Bataille de Manzikert</string>
+		<key>trueOrFalseAnswer</key>
+		<string>Faux</string>
+		<key>wikiSearchWord</key>
+		<string>Bataille de Manzikert</string>
+	</dict>
+	<dict>
+		<key>correctTAnswer</key>
+		<string> Les chevaliers d&apos;Europe occidentale</string>
+		<key>date</key>
+		<string>1081-1118</string>
+		<key>id</key>
+		<string>65e78f4a-eab8-11ed-a05b-0242ac120003</string>
+		<key>incorrectAnswer1</key>
+		<string> Les Turcs seldjoukides</string>
+		<key>incorrectAnswer2</key>
+		<string> Le califat fatimide</string>
+		<key>incorrectAnswer3</key>
+		<string> Le Rus&apos; de Kiev</string>
+		<key>numberOfBadAnswers</key>
+		<integer>0</integer>
+		<key>numberOfBadAnswersQuiz</key>
+		<integer>0</integer>
+		<key>numberOfGoodAnswers</key>
+		<integer>0</integer>
+		<key>numberOfGoodAnswersQuiz</key>
+		<integer>0</integer>
+		<key>order</key>
+		<integer>20</integer>
+		<key>question</key>
+		<string>De quelle grande force militaire Alexios Ier Komnenos a-t-il demandé l&apos;aide pour défendre l&apos;Empire byzantin ?</string>
+		<key>questionTrueOrFalse</key>
+		<string> Alexis Ier Comnène a initié la Première croisade.</string>
+		<key>theme</key>
+		<string>L&apos;empire byzantin 674-1118</string>
+		<key>timeLine</key>
+		<string>Règne d&apos;Alexios Ier Comnène</string>
+		<key>trueOrFalseAnswer</key>
+		<string>Faux</string>
+		<key>wikiSearchWord</key>
+		<string>Alexis Ier Comnène</string>
+	</dict>
+</array>
+</plist>

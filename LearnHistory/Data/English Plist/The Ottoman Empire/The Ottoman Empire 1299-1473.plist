@@ -1,0 +1,366 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<!DOCTYPE plist PUBLIC "-//Apple//DTD PLIST 1.0//EN" "http://www.apple.com/DTDs/PropertyList-1.0.dtd">
+<plist version="1.0">
+<array>
+	<dict>
+		<key>correctTAnswer</key>
+		<string> Osman I</string>
+		<key>date</key>
+		<string>1299</string>
+		<key>id</key>
+		<string>8a69bfc2-ecfd-11ed-a05b-0242ac120003</string>
+		<key>incorrectAnswer1</key>
+		<string> Orhan</string>
+		<key>incorrectAnswer2</key>
+		<string> Murad I</string>
+		<key>incorrectAnswer3</key>
+		<string> Mehmed II</string>
+		<key>numberOfBadAnswers</key>
+		<integer>0</integer>
+		<key>numberOfBadAnswersQuiz</key>
+		<integer>0</integer>
+		<key>numberOfGoodAnswers</key>
+		<integer>0</integer>
+		<key>numberOfGoodAnswersQuiz</key>
+		<integer>0</integer>
+		<key>order</key>
+		<integer>1</integer>
+		<key>question</key>
+		<string> Who founded the Ottoman Empire?</string>
+		<key>questionTrueOrFalse</key>
+		<string> Osman I was the founder of the Ottoman Empire</string>
+		<key>theme</key>
+		<string>The Ottoman Empire 1299-1473</string>
+		<key>timeLine</key>
+		<string> Osman I founds Ottoman Empire</string>
+		<key>trueOrFalseAnswer</key>
+		<string>True</string>
+		<key>wikiSearchWord</key>
+		<string> Osman I </string>
+	</dict>
+	<dict>
+		<key>correctTAnswer</key>
+		<string> Bursa</string>
+		<key>date</key>
+		<string>1326</string>
+		<key>id</key>
+		<string>8a69c634-ecfd-11ed-a05b-0242ac120003</string>
+		<key>incorrectAnswer1</key>
+		<string> Istanbul</string>
+		<key>incorrectAnswer2</key>
+		<string> Edirne</string>
+		<key>incorrectAnswer3</key>
+		<string> Ankara</string>
+		<key>numberOfBadAnswers</key>
+		<integer>0</integer>
+		<key>numberOfBadAnswersQuiz</key>
+		<integer>0</integer>
+		<key>numberOfGoodAnswers</key>
+		<integer>0</integer>
+		<key>numberOfGoodAnswersQuiz</key>
+		<integer>0</integer>
+		<key>order</key>
+		<integer>2</integer>
+		<key>question</key>
+		<string> What was the first capital of the Ottoman Empire?</string>
+		<key>questionTrueOrFalse</key>
+		<string> Bursa was the second capital of the Ottoman Empire</string>
+		<key>theme</key>
+		<string>The Ottoman Empire 1299-1473</string>
+		<key>timeLine</key>
+		<string> Bursa: 1st Ottoman capital</string>
+		<key>trueOrFalseAnswer</key>
+		<string>False</string>
+		<key>wikiSearchWord</key>
+		<string> Conquest of Bursa </string>
+	</dict>
+	<dict>
+		<key>correctTAnswer</key>
+		<string> Gallipoli Peninsula</string>
+		<key>date</key>
+		<string>1354</string>
+		<key>id</key>
+		<string>8a69c7ce-ecfd-11ed-a05b-0242ac120003</string>
+		<key>incorrectAnswer1</key>
+		<string> Iberian Peninsula</string>
+		<key>incorrectAnswer2</key>
+		<string> Balkan Peninsula</string>
+		<key>incorrectAnswer3</key>
+		<string> Scandinavian Peninsula</string>
+		<key>numberOfBadAnswers</key>
+		<integer>0</integer>
+		<key>numberOfBadAnswersQuiz</key>
+		<integer>0</integer>
+		<key>numberOfGoodAnswers</key>
+		<integer>0</integer>
+		<key>numberOfGoodAnswersQuiz</key>
+		<integer>0</integer>
+		<key>order</key>
+		<integer>3</integer>
+		<key>question</key>
+		<string> Which European peninsula did the Ottomans first capture?</string>
+		<key>questionTrueOrFalse</key>
+		<string> The Capture of Gallipoli marked the Ottomans&apos; exit from Europe</string>
+		<key>theme</key>
+		<string>The Ottoman Empire 1299-1473</string>
+		<key>timeLine</key>
+		<string> Gallipoli: Ottomans in Europe</string>
+		<key>trueOrFalseAnswer</key>
+		<string>False</string>
+		<key>wikiSearchWord</key>
+		<string> Capture of Gallipoli </string>
+	</dict>
+	<dict>
+		<key>correctTAnswer</key>
+		<string> Battle of Kosovo</string>
+		<key>date</key>
+		<string>1389</string>
+		<key>id</key>
+		<string>8a69c922-ecfd-11ed-a05b-0242ac120003</string>
+		<key>incorrectAnswer1</key>
+		<string> Battle of Maritsa</string>
+		<key>incorrectAnswer2</key>
+		<string> Battle of Nicopolis</string>
+		<key>incorrectAnswer3</key>
+		<string> Battle of Ankara</string>
+		<key>numberOfBadAnswers</key>
+		<integer>0</integer>
+		<key>numberOfBadAnswersQuiz</key>
+		<integer>0</integer>
+		<key>numberOfGoodAnswers</key>
+		<integer>0</integer>
+		<key>numberOfGoodAnswersQuiz</key>
+		<integer>0</integer>
+		<key>order</key>
+		<integer>4</integer>
+		<key>question</key>
+		<string> Which battle resulted in an Ottoman victory over the Serbian army?</string>
+		<key>questionTrueOrFalse</key>
+		<string> The Battle of Kosovo resulted in a Serbian victory over the Ottomans</string>
+		<key>theme</key>
+		<string>The Ottoman Empire 1299-1473</string>
+		<key>timeLine</key>
+		<string> Kosovo: Ottomans beat Serbs</string>
+		<key>trueOrFalseAnswer</key>
+		<string>False</string>
+		<key>wikiSearchWord</key>
+		<string> Battle of Kosovo </string>
+	</dict>
+	<dict>
+		<key>correctTAnswer</key>
+		<string> Battle of Nicopolis</string>
+		<key>date</key>
+		<string>1396</string>
+		<key>id</key>
+		<string>8a69ca58-ecfd-11ed-a05b-0242ac120003</string>
+		<key>incorrectAnswer1</key>
+		<string> Battle of Kosovo</string>
+		<key>incorrectAnswer2</key>
+		<string> Battle of Maritsa</string>
+		<key>incorrectAnswer3</key>
+		<string> Battle of Ankara</string>
+		<key>numberOfBadAnswers</key>
+		<integer>0</integer>
+		<key>numberOfBadAnswersQuiz</key>
+		<integer>0</integer>
+		<key>numberOfGoodAnswers</key>
+		<integer>0</integer>
+		<key>numberOfGoodAnswersQuiz</key>
+		<integer>0</integer>
+		<key>order</key>
+		<integer>5</integer>
+		<key>question</key>
+		<string> In which battle did the Ottoman Empire defeat a Crusader army from Western Europe?</string>
+		<key>questionTrueOrFalse</key>
+		<string> The Battle of Nicopolis was an Ottoman victory against a Mongol army</string>
+		<key>theme</key>
+		<string>The Ottoman Empire 1299-1473</string>
+		<key>timeLine</key>
+		<string> Nicopolis: Crusader defeat</string>
+		<key>trueOrFalseAnswer</key>
+		<string>False</string>
+		<key>wikiSearchWord</key>
+		<string> Battle of Nicopolis </string>
+	</dict>
+	<dict>
+		<key>correctTAnswer</key>
+		<string> Timur</string>
+		<key>date</key>
+		<string>1402</string>
+		<key>id</key>
+		<string>8a69cb98-ecfd-11ed-a05b-0242ac120003</string>
+		<key>incorrectAnswer1</key>
+		<string> Genghis Khan</string>
+		<key>incorrectAnswer2</key>
+		<string> Alexander the Great</string>
+		<key>incorrectAnswer3</key>
+		<string> Napoleon Bonaparte</string>
+		<key>numberOfBadAnswers</key>
+		<integer>0</integer>
+		<key>numberOfBadAnswersQuiz</key>
+		<integer>0</integer>
+		<key>numberOfGoodAnswers</key>
+		<integer>0</integer>
+		<key>numberOfGoodAnswersQuiz</key>
+		<integer>0</integer>
+		<key>order</key>
+		<integer>6</integer>
+		<key>question</key>
+		<string> Who defeated the Ottomans in the Battle of Ankara, causing a temporary disintegration of the empire?</string>
+		<key>questionTrueOrFalse</key>
+		<string> The Battle of Ankara led to the temporary disintegration of the Ottoman Empire</string>
+		<key>theme</key>
+		<string>The Ottoman Empire 1299-1473</string>
+		<key>timeLine</key>
+		<string> Ankara: Timur halts Ottomans</string>
+		<key>trueOrFalseAnswer</key>
+		<string>True</string>
+		<key>wikiSearchWord</key>
+		<string> Battle of Ankara </string>
+	</dict>
+	<dict>
+		<key>correctTAnswer</key>
+		<string> Mehmed I</string>
+		<key>date</key>
+		<string>1413</string>
+		<key>id</key>
+		<string>8a69ce22-ecfd-11ed-a05b-0242ac120003</string>
+		<key>incorrectAnswer1</key>
+		<string> Orhan</string>
+		<key>incorrectAnswer2</key>
+		<string> Murad I</string>
+		<key>incorrectAnswer3</key>
+		<string> Bayezid II</string>
+		<key>numberOfBadAnswers</key>
+		<integer>0</integer>
+		<key>numberOfBadAnswersQuiz</key>
+		<integer>0</integer>
+		<key>numberOfGoodAnswers</key>
+		<integer>0</integer>
+		<key>numberOfGoodAnswersQuiz</key>
+		<integer>0</integer>
+		<key>order</key>
+		<integer>7</integer>
+		<key>question</key>
+		<string> Who restored the Ottoman Empire after the Interregnum?</string>
+		<key>questionTrueOrFalse</key>
+		<string> Mehmed I was responsible for the final dissolution of the Ottoman Empire</string>
+		<key>theme</key>
+		<string>The Ottoman Empire 1299-1473</string>
+		<key>timeLine</key>
+		<string> Mehmed I restores empire</string>
+		<key>trueOrFalseAnswer</key>
+		<string>False</string>
+		<key>wikiSearchWord</key>
+		<string> Mehmed I </string>
+	</dict>
+	<dict>
+		<key>correctTAnswer</key>
+		<string> Constantinople</string>
+		<key>date</key>
+		<string>1453</string>
+		<key>id</key>
+		<string>8a69cf30-ecfd-11ed-a05b-0242ac120003</string>
+		<key>incorrectAnswer1</key>
+		<string> Rome</string>
+		<key>incorrectAnswer2</key>
+		<string> Athens</string>
+		<key>incorrectAnswer3</key>
+		<string> Jerusalem</string>
+		<key>numberOfBadAnswers</key>
+		<integer>0</integer>
+		<key>numberOfBadAnswersQuiz</key>
+		<integer>0</integer>
+		<key>numberOfGoodAnswers</key>
+		<integer>0</integer>
+		<key>numberOfGoodAnswersQuiz</key>
+		<integer>0</integer>
+		<key>order</key>
+		<integer>8</integer>
+		<key>question</key>
+		<string> Which city&apos;s fall marked the end of the Byzantine Empire?</string>
+		<key>questionTrueOrFalse</key>
+		<string> The Fall of Constantinople marked the end of the Roman Empire</string>
+		<key>theme</key>
+		<string>The Ottoman Empire 1299-1473</string>
+		<key>timeLine</key>
+		<string> Constantinople falls</string>
+		<key>trueOrFalseAnswer</key>
+		<string>False</string>
+		<key>wikiSearchWord</key>
+		<string> Fall of Constantinople </string>
+	</dict>
+	<dict>
+		<key>correctTAnswer</key>
+		<string> Empire of Trebizond</string>
+		<key>date</key>
+		<string>1461</string>
+		<key>id</key>
+		<string>8a69d066-ecfd-11ed-a05b-0242ac120003</string>
+		<key>incorrectAnswer1</key>
+		<string> Bulgarian Empire</string>
+		<key>incorrectAnswer2</key>
+		<string> Serbian Empire</string>
+		<key>incorrectAnswer3</key>
+		<string> Latin Empire</string>
+		<key>numberOfBadAnswers</key>
+		<integer>0</integer>
+		<key>numberOfBadAnswersQuiz</key>
+		<integer>0</integer>
+		<key>numberOfGoodAnswers</key>
+		<integer>0</integer>
+		<key>numberOfGoodAnswersQuiz</key>
+		<integer>0</integer>
+		<key>order</key>
+		<integer>9</integer>
+		<key>question</key>
+		<string> Which empire did the Ottomans conquer, eliminating the last remnant of the Byzantine Empire?</string>
+		<key>questionTrueOrFalse</key>
+		<string> The Empire of Trebizond was a successor state of the Byzantine Empire</string>
+		<key>theme</key>
+		<string>The Ottoman Empire 1299-1473</string>
+		<key>timeLine</key>
+		<string> Trebizond conquered</string>
+		<key>trueOrFalseAnswer</key>
+		<string>True</string>
+		<key>wikiSearchWord</key>
+		<string> Empire of Trebizond </string>
+	</dict>
+	<dict>
+		<key>correctTAnswer</key>
+		<string> Ak Koyunlu</string>
+		<key>date</key>
+		<string>1473</string>
+		<key>id</key>
+		<string>8a69d340-ecfd-11ed-a05b-0242ac120003</string>
+		<key>incorrectAnswer1</key>
+		<string> Kara Koyunlu</string>
+		<key>incorrectAnswer2</key>
+		<string> Ayyubids</string>
+		<key>incorrectAnswer3</key>
+		<string> Seljuks</string>
+		<key>numberOfBadAnswers</key>
+		<integer>0</integer>
+		<key>numberOfBadAnswersQuiz</key>
+		<integer>0</integer>
+		<key>numberOfGoodAnswers</key>
+		<integer>0</integer>
+		<key>numberOfGoodAnswersQuiz</key>
+		<integer>0</integer>
+		<key>order</key>
+		<integer>10</integer>
+		<key>question</key>
+		<string> Which Turkmen confederation did the Ottomans defeat in the Battle of Otlukbeli?</string>
+		<key>questionTrueOrFalse</key>
+		<string> The Battle of Otlukbeli was a conflict between the Ottoman Empire and the British Empire</string>
+		<key>theme</key>
+		<string>The Ottoman Empire</string>
+		<key>timeLine</key>
+		<string> Otlukbeli: Ak Koyunlu defeated</string>
+		<key>trueOrFalseAnswer</key>
+		<string>False</string>
+		<key>wikiSearchWord</key>
+		<string> Battle of Otlukbeli </string>
+	</dict>
+</array>
+</plist>

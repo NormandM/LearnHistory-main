@@ -1,0 +1,366 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<!DOCTYPE plist PUBLIC "-//Apple//DTD PLIST 1.0//EN" "http://www.apple.com/DTDs/PropertyList-1.0.dtd">
+<plist version="1.0">
+<array>
+	<dict>
+		<key>correctTAnswer</key>
+		<string>A dispute over the succession to the throne of Spain</string>
+		<key>date</key>
+		<string>1701</string>
+		<key>id</key>
+		<string>f33adde6-8246-11ed-a1eb-0242ac120002</string>
+		<key>incorrectAnswer1</key>
+		<string>A border dispute between France and Spain</string>
+		<key>incorrectAnswer2</key>
+		<string>A dispute over trade routes in the Caribbean</string>
+		<key>incorrectAnswer3</key>
+		<string>A dispute over control of the Holy Roman Empire</string>
+		<key>numberOfBadAnswers</key>
+		<integer>0</integer>
+		<key>numberOfBadAnswersQuiz</key>
+		<integer>0</integer>
+		<key>numberOfGoodAnswers</key>
+		<integer>0</integer>
+		<key>numberOfGoodAnswersQuiz</key>
+		<integer>0</integer>
+		<key>order</key>
+		<integer>21</integer>
+		<key>question</key>
+		<string>What was the main cause of the War of the Spanish Succession of 1701?</string>
+		<key>questionTrueOrFalse</key>
+		<string>The War of the Spanish Succession resulted in a shift in power from Great Britain to Spain.</string>
+		<key>theme</key>
+		<string>Spain 1701-1975</string>
+		<key>timeLine</key>
+		<string> The War of the Spanish Succession begins. </string>
+		<key>trueOrFalseAnswer</key>
+		<string>False</string>
+		<key>wikiSearchWord</key>
+		<string>War of the Spanish Succession</string>
+	</dict>
+	<dict>
+		<key>correctTAnswer</key>
+		<string>France and the American colonies</string>
+		<key>date</key>
+		<string>1761</string>
+		<key>id</key>
+		<string>f33adefe-8246-11ed-a1eb-0242ac120002</string>
+		<key>incorrectAnswer1</key>
+		<string>The Ottoman Empire and Prussia</string>
+		<key>incorrectAnswer2</key>
+		<string>The Dutch Republic and Portugal</string>
+		<key>incorrectAnswer3</key>
+		<string>Austria and Russia</string>
+		<key>numberOfBadAnswers</key>
+		<integer>0</integer>
+		<key>numberOfBadAnswersQuiz</key>
+		<integer>0</integer>
+		<key>numberOfGoodAnswers</key>
+		<integer>0</integer>
+		<key>numberOfGoodAnswersQuiz</key>
+		<integer>0</integer>
+		<key>order</key>
+		<integer>22</integer>
+		<key>question</key>
+		<string>Who were Spain&apos;s allies in the Seven Years&apos; War?</string>
+		<key>questionTrueOrFalse</key>
+		<string>The Seven Years&apos; War was a regional conflict that only involved a few European Powers.</string>
+		<key>theme</key>
+		<string>Spain 1701-1975</string>
+		<key>timeLine</key>
+		<string> Spain joins the Seven Years&apos; War against Great Britain.</string>
+		<key>trueOrFalseAnswer</key>
+		<string>False</string>
+		<key>wikiSearchWord</key>
+		<string>Seven Years&apos; War</string>
+	</dict>
+	<dict>
+		<key>correctTAnswer</key>
+		<string>Napoleon Bonaparte</string>
+		<key>date</key>
+		<string>1808</string>
+		<key>id</key>
+		<string>f33ae016-8246-11ed-a1eb-0242ac120002</string>
+		<key>incorrectAnswer1</key>
+		<string>Duke of Wellington</string>
+		<key>incorrectAnswer2</key>
+		<string>King Louis XVI</string>
+		<key>incorrectAnswer3</key>
+		<string>King Ferdinand VII</string>
+		<key>numberOfBadAnswers</key>
+		<integer>0</integer>
+		<key>numberOfBadAnswersQuiz</key>
+		<integer>0</integer>
+		<key>numberOfGoodAnswers</key>
+		<integer>0</integer>
+		<key>numberOfGoodAnswersQuiz</key>
+		<integer>0</integer>
+		<key>order</key>
+		<integer>23</integer>
+		<key>question</key>
+		<string>Who was the leader of the French army during the Peninsular War?</string>
+		<key>questionTrueOrFalse</key>
+		<string>The Peninsular War started when the French and Spanish armies invaded and occupied Portugal in 1807 by transiting through Spain.</string>
+		<key>theme</key>
+		<string>Spain 1701-1975</string>
+		<key>timeLine</key>
+		<string> The Peninsular War is fought against the French Empire led by Napoleon.</string>
+		<key>trueOrFalseAnswer</key>
+		<string>True</string>
+		<key>wikiSearchWord</key>
+		<string>Peninsular War</string>
+	</dict>
+	<dict>
+		<key>correctTAnswer</key>
+		<string>Venezuela</string>
+		<key>date</key>
+		<string>1808</string>
+		<key>id</key>
+		<string>f33ae390-8246-11ed-a1eb-0242ac120002</string>
+		<key>incorrectAnswer1</key>
+		<string>Peru</string>
+		<key>incorrectAnswer2</key>
+		<string>Chile</string>
+		<key>incorrectAnswer3</key>
+		<string>Argentina</string>
+		<key>numberOfBadAnswers</key>
+		<integer>0</integer>
+		<key>numberOfBadAnswersQuiz</key>
+		<integer>0</integer>
+		<key>numberOfGoodAnswers</key>
+		<integer>0</integer>
+		<key>numberOfGoodAnswersQuiz</key>
+		<integer>0</integer>
+		<key>order</key>
+		<integer>24</integer>
+		<key>question</key>
+		<string>Which country did Simon Bolivar lead to independence from Spain?</string>
+		<key>questionTrueOrFalse</key>
+		<string>The main goal of the Spanish American wars of independence was to promote a unitary monarchy in Spain.</string>
+		<key>theme</key>
+		<string>Spain 1701-1975</string>
+		<key>timeLine</key>
+		<string>Spanish American wars of independence</string>
+		<key>trueOrFalseAnswer</key>
+		<string>False</string>
+		<key>wikiSearchWord</key>
+		<string>Spanish American wars of independence</string>
+	</dict>
+	<dict>
+		<key>correctTAnswer</key>
+		<string>Cuba, Puerto Rico and Guam</string>
+		<key>date</key>
+		<string>1898</string>
+		<key>id</key>
+		<string>f33ae4a8-8246-11ed-a1eb-0242ac120002</string>
+		<key>incorrectAnswer1</key>
+		<string>Cuba</string>
+		<key>incorrectAnswer2</key>
+		<string>Puerto Rico</string>
+		<key>incorrectAnswer3</key>
+		<string>Guam</string>
+		<key>numberOfBadAnswers</key>
+		<integer>0</integer>
+		<key>numberOfBadAnswersQuiz</key>
+		<integer>0</integer>
+		<key>numberOfGoodAnswers</key>
+		<integer>0</integer>
+		<key>numberOfGoodAnswersQuiz</key>
+		<integer>0</integer>
+		<key>order</key>
+		<integer>25</integer>
+		<key>question</key>
+		<string>Which of the following territories did the United States acquire as a result of the Spanish American War?</string>
+		<key>questionTrueOrFalse</key>
+		<string>The United States entered the Spanish-American War in support of Cuban independence.</string>
+		<key>theme</key>
+		<string>Spain 1701-1975</string>
+		<key>timeLine</key>
+		<string> The Spanish American War is fought.</string>
+		<key>trueOrFalseAnswer</key>
+		<string>True</string>
+		<key>wikiSearchWord</key>
+		<string>Spanish–American War</string>
+	</dict>
+	<dict>
+		<key>correctTAnswer</key>
+		<string>Republicans and Nationalists</string>
+		<key>date</key>
+		<string>1936</string>
+		<key>id</key>
+		<string>f33ae5b6-8246-11ed-a1eb-0242ac120002</string>
+		<key>incorrectAnswer1</key>
+		<string>Communists and Fascists</string>
+		<key>incorrectAnswer2</key>
+		<string>Democrats and Republicans</string>
+		<key>incorrectAnswer3</key>
+		<string>Monarchists and Republicans</string>
+		<key>numberOfBadAnswers</key>
+		<integer>0</integer>
+		<key>numberOfBadAnswersQuiz</key>
+		<integer>0</integer>
+		<key>numberOfGoodAnswers</key>
+		<integer>0</integer>
+		<key>numberOfGoodAnswersQuiz</key>
+		<integer>0</integer>
+		<key>order</key>
+		<integer>26</integer>
+		<key>question</key>
+		<string>Who were the primary factions involved in the Spanish Civil War?</string>
+		<key>questionTrueOrFalse</key>
+		<string>The coup d&apos;état of July 1936 was successful in gaining control of the entire country.</string>
+		<key>theme</key>
+		<string>Spain 1701-1975</string>
+		<key>timeLine</key>
+		<string> The Spanish Civil War begins </string>
+		<key>trueOrFalseAnswer</key>
+		<string>False</string>
+		<key>wikiSearchWord</key>
+		<string>Spanish Civil War</string>
+	</dict>
+	<dict>
+		<key>correctTAnswer</key>
+		<string>The German and Italian fascist powers</string>
+		<key>date</key>
+		<string>1937</string>
+		<key>id</key>
+		<string>f33ae6ce-8246-11ed-a1eb-0242ac120002</string>
+		<key>incorrectAnswer1</key>
+		<string>The Spanish Nationalist forces</string>
+		<key>incorrectAnswer2</key>
+		<string>The Soviet Union</string>
+		<key>incorrectAnswer3</key>
+		<string>The United States</string>
+		<key>numberOfBadAnswers</key>
+		<integer>0</integer>
+		<key>numberOfBadAnswersQuiz</key>
+		<integer>0</integer>
+		<key>numberOfGoodAnswers</key>
+		<integer>0</integer>
+		<key>numberOfGoodAnswersQuiz</key>
+		<integer>0</integer>
+		<key>order</key>
+		<integer>27</integer>
+		<key>question</key>
+		<string>Who was responsible for the bombing of Guernica?</string>
+		<key>questionTrueOrFalse</key>
+		<string>The bombing of Guernica was intended to destroy military targets and had no impact on civilians.</string>
+		<key>theme</key>
+		<string>Spain 1701-1975</string>
+		<key>timeLine</key>
+		<string>Bombing of Guernica</string>
+		<key>trueOrFalseAnswer</key>
+		<string>False</string>
+		<key>wikiSearchWord</key>
+		<string>Bombing of Guernica</string>
+	</dict>
+	<dict>
+		<key>correctTAnswer</key>
+		<string>He seized power in a military coup</string>
+		<key>date</key>
+		<string>1939</string>
+		<key>id</key>
+		<string>f33ae868-8246-11ed-a1eb-0242ac120002</string>
+		<key>incorrectAnswer1</key>
+		<string>He was elected in a free and fair election</string>
+		<key>incorrectAnswer2</key>
+		<string>He inherited the throne</string>
+		<key>incorrectAnswer3</key>
+		<string>He was appointed by the United Nations</string>
+		<key>numberOfBadAnswers</key>
+		<integer>0</integer>
+		<key>numberOfBadAnswersQuiz</key>
+		<integer>0</integer>
+		<key>numberOfGoodAnswers</key>
+		<integer>0</integer>
+		<key>numberOfGoodAnswersQuiz</key>
+		<integer>0</integer>
+		<key>order</key>
+		<integer>28</integer>
+		<key>question</key>
+		<string>How did Francisco Franco come to power in Spain?</string>
+		<key>questionTrueOrFalse</key>
+		<string>Franco&apos;s dictatorship used concentration camps and forced labor, leading to the deaths of tens of thousands of people.</string>
+		<key>theme</key>
+		<string>Spain 1701-1975</string>
+		<key>timeLine</key>
+		<string>Francisco Franco becomes dictator of Spain.</string>
+		<key>trueOrFalseAnswer</key>
+		<string>True</string>
+		<key>wikiSearchWord</key>
+		<string>Francisco Franco</string>
+	</dict>
+	<dict>
+		<key>correctTAnswer</key>
+		<string>Neutral</string>
+		<key>date</key>
+		<string>1939</string>
+		<key>id</key>
+		<string>f33ae9f8-8246-11ed-a1eb-0242ac120002</string>
+		<key>incorrectAnswer1</key>
+		<string>Allied with the Axis Powers</string>
+		<key>incorrectAnswer2</key>
+		<string>Allied with the Allied Powers</string>
+		<key>incorrectAnswer3</key>
+		<string>Involved in its own civil war</string>
+		<key>numberOfBadAnswers</key>
+		<integer>0</integer>
+		<key>numberOfBadAnswersQuiz</key>
+		<integer>0</integer>
+		<key>numberOfGoodAnswers</key>
+		<integer>0</integer>
+		<key>numberOfGoodAnswersQuiz</key>
+		<integer>0</integer>
+		<key>order</key>
+		<integer>29</integer>
+		<key>question</key>
+		<string>Which of the following best describes Spain&apos;s stance during World War II?</string>
+		<key>questionTrueOrFalse</key>
+		<string>In WW II Spain did not offer to join the war on the side of the Axis Powers.</string>
+		<key>theme</key>
+		<string>Spain 1701-1975</string>
+		<key>timeLine</key>
+		<string>Spain during World War II</string>
+		<key>trueOrFalseAnswer</key>
+		<string>False</string>
+		<key>wikiSearchWord</key>
+		<string>Spain during World War II</string>
+	</dict>
+	<dict>
+		<key>correctTAnswer</key>
+		<string>The death of dictator Francisco Franco</string>
+		<key>date</key>
+		<string>1975</string>
+		<key>id</key>
+		<string>f33aeb24-8246-11ed-a1eb-0242ac120002</string>
+		<key>incorrectAnswer1</key>
+		<string>The fall of the Soviet Union</string>
+		<key>incorrectAnswer2</key>
+		<string>The signing of the Maastricht Treaty</string>
+		<key>incorrectAnswer3</key>
+		<string>The publication of the &quot;Possible Program&quot; manifesto</string>
+		<key>numberOfBadAnswers</key>
+		<integer>0</integer>
+		<key>numberOfBadAnswersQuiz</key>
+		<integer>0</integer>
+		<key>numberOfGoodAnswers</key>
+		<integer>0</integer>
+		<key>numberOfGoodAnswersQuiz</key>
+		<integer>0</integer>
+		<key>order</key>
+		<integer>30</integer>
+		<key>question</key>
+		<string>What event marked the start of Spain&apos;s transition to democracy?</string>
+		<key>questionTrueOrFalse</key>
+		<string>The Transition was a completely peaceful process with no instances of political violence. </string>
+		<key>theme</key>
+		<string>Spain 1701-1975</string>
+		<key>timeLine</key>
+		<string>Spanish transition to democracy</string>
+		<key>trueOrFalseAnswer</key>
+		<string>False</string>
+		<key>wikiSearchWord</key>
+		<string>Spanish transition to democracy</string>
+	</dict>
+</array>
+</plist>

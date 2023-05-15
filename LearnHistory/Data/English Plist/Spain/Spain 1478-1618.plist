@@ -1,0 +1,366 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<!DOCTYPE plist PUBLIC "-//Apple//DTD PLIST 1.0//EN" "http://www.apple.com/DTDs/PropertyList-1.0.dtd">
+<plist version="1.0">
+<array>
+	<dict>
+		<key>correctTAnswer</key>
+		<string>To eliminate the influence of Jews and Muslims in Spain</string>
+		<key>date</key>
+		<string>1478</string>
+		<key>id</key>
+		<string>f33ad0a8-8246-11ed-a1eb-0242ac120002</string>
+		<key>incorrectAnswer1</key>
+		<string>To spread the Catholic faith throughout Europe</string>
+		<key>incorrectAnswer2</key>
+		<string>To suppress Protestantism</string>
+		<key>incorrectAnswer3</key>
+		<string>To persecute witches and heretics</string>
+		<key>numberOfBadAnswers</key>
+		<integer>0</integer>
+		<key>numberOfBadAnswersQuiz</key>
+		<integer>0</integer>
+		<key>numberOfGoodAnswers</key>
+		<integer>0</integer>
+		<key>numberOfGoodAnswersQuiz</key>
+		<integer>0</integer>
+		<key>order</key>
+		<integer>11</integer>
+		<key>question</key>
+		<string>What was the ultimate goal of the Spanish Inquisition?</string>
+		<key>questionTrueOrFalse</key>
+		<string>The Spanish Inquisition was the only manifestation of the Catholic Inquisition.</string>
+		<key>theme</key>
+		<string>Spain 1478-1618</string>
+		<key>timeLine</key>
+		<string>The Spanish Inquisitions begins.</string>
+		<key>trueOrFalseAnswer</key>
+		<string>False</string>
+		<key>wikiSearchWord</key>
+		<string>Spanish Inquisition</string>
+	</dict>
+	<dict>
+		<key>correctTAnswer</key>
+		<string>The conquest of Grenada</string>
+		<key>date</key>
+		<string>1492</string>
+		<key>id</key>
+		<string>f33ad1b6-8246-11ed-a1eb-0242ac120002</string>
+		<key>incorrectAnswer1</key>
+		<string>The signing of the Treaty of Tordesillas</string>
+		<key>incorrectAnswer2</key>
+		<string>The Battle of Roncevaux Pass</string>
+		<key>incorrectAnswer3</key>
+		<string>The coronation of King Ferdinand and Queen Isabella</string>
+		<key>numberOfBadAnswers</key>
+		<integer>0</integer>
+		<key>numberOfBadAnswersQuiz</key>
+		<integer>0</integer>
+		<key>numberOfGoodAnswers</key>
+		<integer>0</integer>
+		<key>numberOfGoodAnswersQuiz</key>
+		<integer>0</integer>
+		<key>order</key>
+		<integer>12</integer>
+		<key>question</key>
+		<string>Which event marked the end of the Reconquista in Spain?</string>
+		<key>questionTrueOrFalse</key>
+		<string>The Crown of Aragon played a significant role in the Granada war, providing troops and funds. </string>
+		<key>theme</key>
+		<string>Spain 1478-1618</string>
+		<key>timeLine</key>
+		<string> The Reconquista ends with the conquest of Grenada.</string>
+		<key>trueOrFalseAnswer</key>
+		<string>False</string>
+		<key>wikiSearchWord</key>
+		<string>Granada War</string>
+	</dict>
+	<dict>
+		<key>correctTAnswer</key>
+		<string>Queen Isabella</string>
+		<key>date</key>
+		<string>1492</string>
+		<key>id</key>
+		<string>f33ad346-8246-11ed-a1eb-0242ac120002</string>
+		<key>incorrectAnswer1</key>
+		<string>King Ferdinand</string>
+		<key>incorrectAnswer2</key>
+		<string>Queen Elizabeth</string>
+		<key>incorrectAnswer3</key>
+		<string>King Henry VIII</string>
+		<key>numberOfBadAnswers</key>
+		<integer>0</integer>
+		<key>numberOfBadAnswersQuiz</key>
+		<integer>0</integer>
+		<key>numberOfGoodAnswers</key>
+		<integer>0</integer>
+		<key>numberOfGoodAnswersQuiz</key>
+		<integer>0</integer>
+		<key>order</key>
+		<integer>13</integer>
+		<key>question</key>
+		<string>Who sponsored the expedition of explorer Christopher Columbus?</string>
+		<key>questionTrueOrFalse</key>
+		<string>Christopher Columbus was born in Italy. </string>
+		<key>theme</key>
+		<string>Spain 1478-1618</string>
+		<key>timeLine</key>
+		<string>Queen Isabella sponsors the expedition of explorer Christopher Columbus.</string>
+		<key>trueOrFalseAnswer</key>
+		<string>True</string>
+		<key>wikiSearchWord</key>
+		<string>Christopher Columbus</string>
+	</dict>
+	<dict>
+		<key>correctTAnswer</key>
+		<string>To expel Jews from Spain</string>
+		<key>date</key>
+		<string>1492</string>
+		<key>id</key>
+		<string>f33ad4b8-8246-11ed-a1eb-0242ac120002</string>
+		<key>incorrectAnswer1</key>
+		<string>To establish Spanish as the official language of Spain</string>
+		<key>incorrectAnswer2</key>
+		<string>To establish a new tax system in Spain</string>
+		<key>incorrectAnswer3</key>
+		<string>o declare war on a neighboring country</string>
+		<key>numberOfBadAnswers</key>
+		<integer>0</integer>
+		<key>numberOfBadAnswersQuiz</key>
+		<integer>0</integer>
+		<key>numberOfGoodAnswers</key>
+		<integer>0</integer>
+		<key>numberOfGoodAnswersQuiz</key>
+		<integer>0</integer>
+		<key>order</key>
+		<integer>14</integer>
+		<key>question</key>
+		<string>What was the main purpose of the Alhambra Decree?</string>
+		<key>questionTrueOrFalse</key>
+		<string>The Alhambra Decree was issued by the Catholic Monarchs of Spain in order to eliminate the influence of Jews on Spain&apos;s New Christian population.</string>
+		<key>theme</key>
+		<string>Spain 1478-1618</string>
+		<key>timeLine</key>
+		<string>The Alhambra Decree is issued, ordering the expulsion of Jews from Spain.</string>
+		<key>trueOrFalseAnswer</key>
+		<string>True</string>
+		<key>wikiSearchWord</key>
+		<string>Alhambra Decree</string>
+	</dict>
+	<dict>
+		<key>correctTAnswer</key>
+		<string>It established Spain as a major European power.</string>
+		<key>date</key>
+		<string>1516</string>
+		<key>id</key>
+		<string>f33ad5d0-8246-11ed-a1eb-0242ac120002</string>
+		<key>incorrectAnswer1</key>
+		<string>It marked the beginning of the Holy Roman Empire&apos;s decline.</string>
+		<key>incorrectAnswer2</key>
+		<string>It led to the spread of the Catholic faith throughout Europe.</string>
+		<key>incorrectAnswer3</key>
+		<string>It brought about the end of the Protestant Reformation.</string>
+		<key>numberOfBadAnswers</key>
+		<integer>0</integer>
+		<key>numberOfBadAnswersQuiz</key>
+		<integer>0</integer>
+		<key>numberOfGoodAnswers</key>
+		<integer>0</integer>
+		<key>numberOfGoodAnswersQuiz</key>
+		<integer>0</integer>
+		<key>order</key>
+		<integer>15</integer>
+		<key>question</key>
+		<string>What was the significance of Charles I being crowned Holy Roman Emperor?</string>
+		<key>questionTrueOrFalse</key>
+		<string>Charles V was not the head of the House of Habsburg. </string>
+		<key>theme</key>
+		<string>Spain 1478-1618</string>
+		<key>timeLine</key>
+		<string>Charles I is crowned Holy Roman Emperor</string>
+		<key>trueOrFalseAnswer</key>
+		<string>False</string>
+		<key>wikiSearchWord</key>
+		<string>Charles V, Holy Roman Emperor</string>
+	</dict>
+	<dict>
+		<key>correctTAnswer</key>
+		<string>The death of the last Hapsburg king, Charles II</string>
+		<key>date</key>
+		<string>1516 -1700</string>
+		<key>id</key>
+		<string>f33ad8a0-8246-11ed-a1eb-0242ac120002</string>
+		<key>incorrectAnswer1</key>
+		<string>The death of King Philip II</string>
+		<key>incorrectAnswer2</key>
+		<string>The defeat of the Spanish Armada</string>
+		<key>incorrectAnswer3</key>
+		<string>The signing of the Treaty of Westphalia</string>
+		<key>numberOfBadAnswers</key>
+		<integer>0</integer>
+		<key>numberOfBadAnswersQuiz</key>
+		<integer>0</integer>
+		<key>numberOfGoodAnswers</key>
+		<integer>0</integer>
+		<key>numberOfGoodAnswersQuiz</key>
+		<integer>0</integer>
+		<key>order</key>
+		<integer>16</integer>
+		<key>question</key>
+		<string>What event is often considered to mark the end of the Spanish Golden Age?</string>
+		<key>questionTrueOrFalse</key>
+		<string>The Spanish Golden Age was associated with the reigns of several powerful Spanish monarchs, including Isabella I and Ferdinand II. </string>
+		<key>theme</key>
+		<string>Spain 1478-1618</string>
+		<key>timeLine</key>
+		<string>Spanish Golden Age</string>
+		<key>trueOrFalseAnswer</key>
+		<string>True</string>
+		<key>wikiSearchWord</key>
+		<string>Spanish Golden Age</string>
+	</dict>
+	<dict>
+		<key>correctTAnswer</key>
+		<string>Hernan Cortes</string>
+		<key>date</key>
+		<string>1520</string>
+		<key>id</key>
+		<string>f33ad9ae-8246-11ed-a1eb-0242ac120002</string>
+		<key>incorrectAnswer1</key>
+		<string>Francisco Pizarro</string>
+		<key>incorrectAnswer2</key>
+		<string>Juan Ponce de Leon</string>
+		<key>incorrectAnswer3</key>
+		<string>Christopher Columbus</string>
+		<key>numberOfBadAnswers</key>
+		<integer>0</integer>
+		<key>numberOfBadAnswersQuiz</key>
+		<integer>0</integer>
+		<key>numberOfGoodAnswers</key>
+		<integer>0</integer>
+		<key>numberOfGoodAnswersQuiz</key>
+		<integer>0</integer>
+		<key>order</key>
+		<integer>17</integer>
+		<key>question</key>
+		<string>Who conquered the Aztecs Empire in Mexico for Spain?</string>
+		<key>questionTrueOrFalse</key>
+		<string>Hernán Cortés was a Spanish conquistador who led an expedition that caused the fall of the Aztec Empire.</string>
+		<key>theme</key>
+		<string>Spain 1478-1618</string>
+		<key>timeLine</key>
+		<string>Spanish explorer Hernan Cortes conquers the Aztecs Empire in Mexico.</string>
+		<key>trueOrFalseAnswer</key>
+		<string>True</string>
+		<key>wikiSearchWord</key>
+		<string>Hernán Cortés</string>
+	</dict>
+	<dict>
+		<key>correctTAnswer</key>
+		<string>To punish England for supporting the Dutch rebellion against Spanish rule</string>
+		<key>date</key>
+		<string>1588</string>
+		<key>id</key>
+		<string>f33adabc-8246-11ed-a1eb-0242ac120002</string>
+		<key>incorrectAnswer1</key>
+		<string>To convert the English to Catholicism</string>
+		<key>incorrectAnswer2</key>
+		<string>To seize control of the English throne</string>
+		<key>incorrectAnswer3</key>
+		<string>To establish a Spanish colony in England</string>
+		<key>numberOfBadAnswers</key>
+		<integer>0</integer>
+		<key>numberOfBadAnswersQuiz</key>
+		<integer>0</integer>
+		<key>numberOfGoodAnswers</key>
+		<integer>0</integer>
+		<key>numberOfGoodAnswersQuiz</key>
+		<integer>0</integer>
+		<key>order</key>
+		<integer>18</integer>
+		<key>question</key>
+		<string>Why did the Spanish Armada set out to invade England in 1588?</string>
+		<key>questionTrueOrFalse</key>
+		<string>The English fleet was able to attack the Armada as it sailed up the Channel because it was faster and more manoeuvrable than the larger Spanish galleons.</string>
+		<key>theme</key>
+		<string>Spain 1478-1618</string>
+		<key>timeLine</key>
+		<string>The Spanish Armada is defeated by the English navy</string>
+		<key>trueOrFalseAnswer</key>
+		<string>False</string>
+		<key>wikiSearchWord</key>
+		<string>Spanish Armada</string>
+	</dict>
+	<dict>
+		<key>correctTAnswer</key>
+		<string>His chivalry and bravery</string>
+		<key>date</key>
+		<string>1605</string>
+		<key>id</key>
+		<string>f33adbca-8246-11ed-a1eb-0242ac120002</string>
+		<key>incorrectAnswer1</key>
+		<string>His wealth and power</string>
+		<key>incorrectAnswer2</key>
+		<string>His intelligence and wit</string>
+		<key>incorrectAnswer3</key>
+		<string>His charm and charisma</string>
+		<key>numberOfBadAnswers</key>
+		<integer>0</integer>
+		<key>numberOfBadAnswersQuiz</key>
+		<integer>0</integer>
+		<key>numberOfGoodAnswers</key>
+		<integer>0</integer>
+		<key>numberOfGoodAnswersQuiz</key>
+		<integer>0</integer>
+		<key>order</key>
+		<integer>19</integer>
+		<key>question</key>
+		<string>What is the main character of &quot;Don Quixote&quot; known for?</string>
+		<key>questionTrueOrFalse</key>
+		<string>&quot;Don Quixote&quot; was originally interpreted as a tragic novel.</string>
+		<key>theme</key>
+		<string>Spain 1478-1618</string>
+		<key>timeLine</key>
+		<string> Miguel de Cervantes publishes the epic novel Don Quixote.</string>
+		<key>trueOrFalseAnswer</key>
+		<string>False</string>
+		<key>wikiSearchWord</key>
+		<string>Don Quixote</string>
+	</dict>
+	<dict>
+		<key>correctTAnswer</key>
+		<string>Religious conflict between Catholics and Protestants</string>
+		<key>date</key>
+		<string>1618</string>
+		<key>id</key>
+		<string>f33adcd8-8246-11ed-a1eb-0242ac120002</string>
+		<key>incorrectAnswer1</key>
+		<string>Territorial disputes between France and Spain</string>
+		<key>incorrectAnswer2</key>
+		<string>A struggle for power between the Habsburg and Ottoman empires</string>
+		<key>incorrectAnswer3</key>
+		<string>A revolt against the rule of the English monarchy</string>
+		<key>numberOfBadAnswers</key>
+		<integer>0</integer>
+		<key>numberOfBadAnswersQuiz</key>
+		<integer>0</integer>
+		<key>numberOfGoodAnswers</key>
+		<integer>0</integer>
+		<key>numberOfGoodAnswersQuiz</key>
+		<integer>0</integer>
+		<key>order</key>
+		<integer>20</integer>
+		<key>question</key>
+		<string>What was the primary cause of the Thirty Years&apos; War?</string>
+		<key>questionTrueOrFalse</key>
+		<string>The Peace of Westphalia, which ended the Thirty Years&apos; War, granted greater autonomy to states within the Holy Roman Empire.</string>
+		<key>theme</key>
+		<string>Spain 1478-1618</string>
+		<key>timeLine</key>
+		<string>The Thirty Years&apos; War begins.</string>
+		<key>trueOrFalseAnswer</key>
+		<string>True</string>
+		<key>wikiSearchWord</key>
+		<string>Thirty Years&apos; War</string>
+	</dict>
+</array>
+</plist>

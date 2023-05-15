@@ -1,0 +1,366 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<!DOCTYPE plist PUBLIC "-//Apple//DTD PLIST 1.0//EN" "http://www.apple.com/DTDs/PropertyList-1.0.dtd">
+<plist version="1.0">
+<array>
+	<dict>
+		<key>correctTAnswer</key>
+		<string>Osman I</string>
+		<key>date</key>
+		<string>1299</string>
+		<key>id</key>
+		<string>c18d3d12-f1a3-11ed-a05b-0242ac120003</string>
+		<key>incorrectAnswer1</key>
+		<string>Orhan</string>
+		<key>incorrectAnswer2</key>
+		<string>Murad I</string>
+		<key>incorrectAnswer3</key>
+		<string>Mehmed II</string>
+		<key>numberOfBadAnswers</key>
+		<integer>0</integer>
+		<key>numberOfBadAnswersQuiz</key>
+		<integer>0</integer>
+		<key>numberOfGoodAnswers</key>
+		<integer>0</integer>
+		<key>numberOfGoodAnswersQuiz</key>
+		<integer>0</integer>
+		<key>order</key>
+		<integer>1</integer>
+		<key>question</key>
+		<string>¿Quién fundó El Imperio Otomano?</string>
+		<key>questionTrueOrFalse</key>
+		<string>Osmán I estableció su emirato aprovechando la debilidad de los imperios selyúcida y bizantino. </string>
+		<key>theme</key>
+		<string>El Imperio Otomano 1299-1473</string>
+		<key>timeLine</key>
+		<string>Osman I funda el Imperio Otomano</string>
+		<key>trueOrFalseAnswer</key>
+		<string>Verdadero</string>
+		<key>wikiSearchWord</key>
+		<string>Osmán I</string>
+	</dict>
+	<dict>
+		<key>correctTAnswer</key>
+		<string>Bursa</string>
+		<key>date</key>
+		<string>1326</string>
+		<key>id</key>
+		<string>c18d4104-f1a3-11ed-a05b-0242ac120003</string>
+		<key>incorrectAnswer1</key>
+		<string>Estambul</string>
+		<key>incorrectAnswer2</key>
+		<string>Edirne</string>
+		<key>incorrectAnswer3</key>
+		<string>Ankara</string>
+		<key>numberOfBadAnswers</key>
+		<integer>0</integer>
+		<key>numberOfBadAnswersQuiz</key>
+		<integer>0</integer>
+		<key>numberOfGoodAnswers</key>
+		<integer>0</integer>
+		<key>numberOfGoodAnswersQuiz</key>
+		<integer>0</integer>
+		<key>order</key>
+		<integer>2</integer>
+		<key>question</key>
+		<string>¿Cuál fue la primera capital del Imperio Otomano?</string>
+		<key>questionTrueOrFalse</key>
+		<string>Los otomanos tenían experiencia en capturar ciudades antes del sitio de Bursa.</string>
+		<key>theme</key>
+		<string>El Imperio Otomano 1299-1473</string>
+		<key>timeLine</key>
+		<string>Bursa: 1ra capital otomana</string>
+		<key>trueOrFalseAnswer</key>
+		<string>Falso</string>
+		<key>wikiSearchWord</key>
+		<string>Sitio de Bursa</string>
+	</dict>
+	<dict>
+		<key>correctTAnswer</key>
+		<string>Península de Galípoli</string>
+		<key>date</key>
+		<string>1354</string>
+		<key>id</key>
+		<string>c18d4258-f1a3-11ed-a05b-0242ac120003</string>
+		<key>incorrectAnswer1</key>
+		<string>Península Ibérica</string>
+		<key>incorrectAnswer2</key>
+		<string>Península de los Balcanes</string>
+		<key>incorrectAnswer3</key>
+		<string>Península Escandinava</string>
+		<key>numberOfBadAnswers</key>
+		<integer>0</integer>
+		<key>numberOfBadAnswersQuiz</key>
+		<integer>0</integer>
+		<key>numberOfGoodAnswers</key>
+		<integer>0</integer>
+		<key>numberOfGoodAnswersQuiz</key>
+		<integer>0</integer>
+		<key>order</key>
+		<integer>3</integer>
+		<key>question</key>
+		<string>¿Qué península europea capturaron primero los otomanos?</string>
+		<key>questionTrueOrFalse</key>
+		<string>Los bizantinos habían perdido casi todas sus posesiones en Anatolia después de sufrir medio siglo de derrotas a manos de los otomanos. </string>
+		<key>theme</key>
+		<string>El Imperio Otomano 1299-1473</string>
+		<key>timeLine</key>
+		<string>Gallipoli: Otomanos en Europa</string>
+		<key>trueOrFalseAnswer</key>
+		<string>Verdadero</string>
+		<key>wikiSearchWord</key>
+		<string>Caída de Galípoli</string>
+	</dict>
+	<dict>
+		<key>correctTAnswer</key>
+		<string>Batalla de Kosovo</string>
+		<key>date</key>
+		<string>1389</string>
+		<key>id</key>
+		<string>c18d447e-f1a3-11ed-a05b-0242ac120003</string>
+		<key>incorrectAnswer1</key>
+		<string>Batalla de Maritsa</string>
+		<key>incorrectAnswer2</key>
+		<string>Batalla de Nicópolis</string>
+		<key>incorrectAnswer3</key>
+		<string>Batalla de Ankara</string>
+		<key>numberOfBadAnswers</key>
+		<integer>0</integer>
+		<key>numberOfBadAnswersQuiz</key>
+		<integer>0</integer>
+		<key>numberOfGoodAnswers</key>
+		<integer>0</integer>
+		<key>numberOfGoodAnswersQuiz</key>
+		<integer>0</integer>
+		<key>order</key>
+		<integer>4</integer>
+		<key>question</key>
+		<string>¿Qué batalla resultó en una victoria otomana sobre el ejército serbio?</string>
+		<key>questionTrueOrFalse</key>
+		<string>Después de la batalla, el principado serbio se convirtió en vasallo del Imperio otomano.</string>
+		<key>theme</key>
+		<string>El Imperio Otomano 1299-1473</string>
+		<key>timeLine</key>
+		<string>Kosovo: Otomanos vencen a los serbios</string>
+		<key>trueOrFalseAnswer</key>
+		<string>Verdadero</string>
+		<key>wikiSearchWord</key>
+		<string>Batalla de Kosovo</string>
+	</dict>
+	<dict>
+		<key>correctTAnswer</key>
+		<string>Batalla de Nicópolis</string>
+		<key>date</key>
+		<string>1396</string>
+		<key>id</key>
+		<string>c18d45be-f1a3-11ed-a05b-0242ac120003</string>
+		<key>incorrectAnswer1</key>
+		<string>Batalla de Kosovo</string>
+		<key>incorrectAnswer2</key>
+		<string>Batalla de Maritsa</string>
+		<key>incorrectAnswer3</key>
+		<string>Batalla de Ankara</string>
+		<key>numberOfBadAnswers</key>
+		<integer>0</integer>
+		<key>numberOfBadAnswersQuiz</key>
+		<integer>0</integer>
+		<key>numberOfGoodAnswers</key>
+		<integer>0</integer>
+		<key>numberOfGoodAnswersQuiz</key>
+		<integer>0</integer>
+		<key>order</key>
+		<integer>5</integer>
+		<key>question</key>
+		<string>¿En qué batalla derrotó el Imperio Otomano a un ejército de cruzados de Europa Occidental?</string>
+		<key>questionTrueOrFalse</key>
+		<string>Los otomanos resultaron derrotados en la batalla de Nicópolis.</string>
+		<key>theme</key>
+		<string>El Imperio Otomano 1299-1473</string>
+		<key>timeLine</key>
+		<string>Nicopolis: Derrota de los cruzados</string>
+		<key>trueOrFalseAnswer</key>
+		<string>Falso</string>
+		<key>wikiSearchWord</key>
+		<string>Batalla de Nicópolis</string>
+	</dict>
+	<dict>
+		<key>correctTAnswer</key>
+		<string>Timur</string>
+		<key>date</key>
+		<string>1402</string>
+		<key>id</key>
+		<string>c18d46fe-f1a3-11ed-a05b-0242ac120003</string>
+		<key>incorrectAnswer1</key>
+		<string>Genghis Khan</string>
+		<key>incorrectAnswer2</key>
+		<string>Alejandro Magno</string>
+		<key>incorrectAnswer3</key>
+		<string>Napoleón Bonaparte</string>
+		<key>numberOfBadAnswers</key>
+		<integer>0</integer>
+		<key>numberOfBadAnswersQuiz</key>
+		<integer>0</integer>
+		<key>numberOfGoodAnswers</key>
+		<integer>0</integer>
+		<key>numberOfGoodAnswersQuiz</key>
+		<integer>0</integer>
+		<key>order</key>
+		<integer>6</integer>
+		<key>question</key>
+		<string>¿Quién derrotó a los otomanos en la Batalla de Ankara, provocando una desintegración temporal del imperio?</string>
+		<key>questionTrueOrFalse</key>
+		<string>La batalla de Angora ocurrió en Europa.</string>
+		<key>theme</key>
+		<string>El Imperio Otomano 1299-1473</string>
+		<key>timeLine</key>
+		<string>Ankara: Timur detiene a los otomanos</string>
+		<key>trueOrFalseAnswer</key>
+		<string>Falso</string>
+		<key>wikiSearchWord</key>
+		<string>Batalla de Angora</string>
+	</dict>
+	<dict>
+		<key>correctTAnswer</key>
+		<string>Mehmed I</string>
+		<key>date</key>
+		<string>1413</string>
+		<key>id</key>
+		<string>c18d4820-f1a3-11ed-a05b-0242ac120003</string>
+		<key>incorrectAnswer1</key>
+		<string>Orhan</string>
+		<key>incorrectAnswer2</key>
+		<string>Murad I</string>
+		<key>incorrectAnswer3</key>
+		<string>Bayezid II</string>
+		<key>numberOfBadAnswers</key>
+		<integer>0</integer>
+		<key>numberOfBadAnswersQuiz</key>
+		<integer>0</integer>
+		<key>numberOfGoodAnswers</key>
+		<integer>0</integer>
+		<key>numberOfGoodAnswersQuiz</key>
+		<integer>0</integer>
+		<key>order</key>
+		<integer>7</integer>
+		<key>question</key>
+		<string>¿Quién restauró el Imperio Otomano después del Interregno?</string>
+		<key>questionTrueOrFalse</key>
+		<string>Mehmed I Çelebi fue sultán otomano desde 1413 hasta su muerte. </string>
+		<key>theme</key>
+		<string>El Imperio Otomano 1299-1473</string>
+		<key>timeLine</key>
+		<string>Mehmed I restaura el imperio</string>
+		<key>trueOrFalseAnswer</key>
+		<string>Verdadero</string>
+		<key>wikiSearchWord</key>
+		<string>Mehmed I</string>
+	</dict>
+	<dict>
+		<key>correctTAnswer</key>
+		<string>Constantinopla</string>
+		<key>date</key>
+		<string>1453</string>
+		<key>id</key>
+		<string>c18d4a5a-f1a3-11ed-a05b-0242ac120003</string>
+		<key>incorrectAnswer1</key>
+		<string>Roma</string>
+		<key>incorrectAnswer2</key>
+		<string>Atenas</string>
+		<key>incorrectAnswer3</key>
+		<string>Jerusalén</string>
+		<key>numberOfBadAnswers</key>
+		<integer>0</integer>
+		<key>numberOfBadAnswersQuiz</key>
+		<integer>0</integer>
+		<key>numberOfGoodAnswers</key>
+		<integer>0</integer>
+		<key>numberOfGoodAnswersQuiz</key>
+		<integer>0</integer>
+		<key>order</key>
+		<integer>8</integer>
+		<key>question</key>
+		<string>¿La caída de qué ciudad marcó el fin del Imperio Bizantino?</string>
+		<key>questionTrueOrFalse</key>
+		<string>La caída de Constantinopla no tuvo ningún impacto en la historia europea. </string>
+		<key>theme</key>
+		<string>El Imperio Otomano 1299-1473</string>
+		<key>timeLine</key>
+		<string>Constantinopla cae</string>
+		<key>trueOrFalseAnswer</key>
+		<string>Falso</string>
+		<key>wikiSearchWord</key>
+		<string>Caída de Constantinopla</string>
+	</dict>
+	<dict>
+		<key>correctTAnswer</key>
+		<string>Imperio de Trebisonda</string>
+		<key>date</key>
+		<string>1461</string>
+		<key>id</key>
+		<string>c18d4c58-f1a3-11ed-a05b-0242ac120003</string>
+		<key>incorrectAnswer1</key>
+		<string>Imperio Búlgaro</string>
+		<key>incorrectAnswer2</key>
+		<string>Imperio Serbio</string>
+		<key>incorrectAnswer3</key>
+		<string>Imperio Latino</string>
+		<key>numberOfBadAnswers</key>
+		<integer>0</integer>
+		<key>numberOfBadAnswersQuiz</key>
+		<integer>0</integer>
+		<key>numberOfGoodAnswers</key>
+		<integer>0</integer>
+		<key>numberOfGoodAnswersQuiz</key>
+		<integer>0</integer>
+		<key>order</key>
+		<integer>9</integer>
+		<key>question</key>
+		<string>¿Qué imperio conquistaron los otomanos, eliminando el último remanente del Imperio Bizantino?</string>
+		<key>questionTrueOrFalse</key>
+		<string>El Imperio de Trebisonda fue un Estado cristiano medieval de cultura griega.</string>
+		<key>theme</key>
+		<string>El Imperio Otomano 1299-1473</string>
+		<key>timeLine</key>
+		<string>Trebizonda conquistada</string>
+		<key>trueOrFalseAnswer</key>
+		<string>Verdadero</string>
+		<key>wikiSearchWord</key>
+		<string>Imperio de Trebisonda</string>
+	</dict>
+	<dict>
+		<key>correctTAnswer</key>
+		<string>Desempeñó un papel crucial en la resistencia albanesa contra los otomanos.</string>
+		<key>date</key>
+		<string>1473</string>
+		<key>id</key>
+		<string>c18d4e38-f1a3-11ed-a05b-0242ac120003</string>
+		<key>incorrectAnswer1</key>
+		<string>Luchó junto a los otomanos contra la resistencia albanesa.</string>
+		<key>incorrectAnswer2</key>
+		<string>Se rindió a los otomanos sin ninguna resistencia.</string>
+		<key>incorrectAnswer3</key>
+		<string>Fue exiliado de Albania antes de que tuviera lugar la conquista otomana.</string>
+		<key>numberOfBadAnswers</key>
+		<integer>0</integer>
+		<key>numberOfBadAnswersQuiz</key>
+		<integer>0</integer>
+		<key>numberOfGoodAnswers</key>
+		<integer>0</integer>
+		<key>numberOfGoodAnswersQuiz</key>
+		<integer>0</integer>
+		<key>order</key>
+		<integer>10</integer>
+		<key>question</key>
+		<string>¿Cuál fue el papel del noble y comandante militar albanés Skanderbeg durante la conquista otomana de Albania en 1479?</string>
+		<key>questionTrueOrFalse</key>
+		<string>La mayoría de los jefes locales de Albania se convirtieron en vasallos otomanos después de la batalla de Savra. </string>
+		<key>theme</key>
+		<string>El Imperio Otomano 1299-1473</string>
+		<key>timeLine</key>
+		<string>Conquista otomana de Albania</string>
+		<key>trueOrFalseAnswer</key>
+		<string>Verdadero</string>
+		<key>wikiSearchWord</key>
+		<string>Albania otomana</string>
+	</dict>
+</array>
+</plist>

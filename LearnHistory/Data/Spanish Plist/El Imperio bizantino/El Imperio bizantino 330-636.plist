@@ -1,0 +1,366 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<!DOCTYPE plist PUBLIC "-//Apple//DTD PLIST 1.0//EN" "http://www.apple.com/DTDs/PropertyList-1.0.dtd">
+<plist version="1.0">
+<array>
+	<dict>
+		<key>correctTAnswer</key>
+		<string>Constantino el Grande</string>
+		<key>date</key>
+		<string>330</string>
+		<key>id</key>
+		<string>e1cfc930-eb97-11ed-a05b-0242ac120003</string>
+		<key>incorrectAnswer1</key>
+		<string>Julio César</string>
+		<key>incorrectAnswer2</key>
+		<string>Alejandro Magno</string>
+		<key>incorrectAnswer3</key>
+		<string>Augusto</string>
+		<key>numberOfBadAnswers</key>
+		<integer>0</integer>
+		<key>numberOfBadAnswersQuiz</key>
+		<integer>0</integer>
+		<key>numberOfGoodAnswers</key>
+		<integer>0</integer>
+		<key>numberOfGoodAnswersQuiz</key>
+		<integer>0</integer>
+		<key>order</key>
+		<integer>1</integer>
+		<key>question</key>
+		<string>¿Quién fundó la ciudad de Constantinopla?</string>
+		<key>questionTrueOrFalse</key>
+		<string>Constantinopla fue capital del Imperio Romano de Oriente.</string>
+		<key>theme</key>
+		<string>El Imperio bizantino 330-636</string>
+		<key>timeLine</key>
+		<string>Fundación de Constantinopla</string>
+		<key>trueOrFalseAnswer</key>
+		<string>Verdadero</string>
+		<key>wikiSearchWord</key>
+		<string>Constantinopla</string>
+	</dict>
+	<dict>
+		<key>correctTAnswer</key>
+		<string>Teodosio I</string>
+		<key>date</key>
+		<string>395</string>
+		<key>id</key>
+		<string>e1cfcb74-eb97-11ed-a05b-0242ac120003</string>
+		<key>incorrectAnswer1</key>
+		<string>Diocleciano</string>
+		<key>incorrectAnswer2</key>
+		<string>Constantino el Grande</string>
+		<key>incorrectAnswer3</key>
+		<string>Augusto</string>
+		<key>numberOfBadAnswers</key>
+		<integer>0</integer>
+		<key>numberOfBadAnswersQuiz</key>
+		<integer>0</integer>
+		<key>numberOfGoodAnswers</key>
+		<integer>0</integer>
+		<key>numberOfGoodAnswersQuiz</key>
+		<integer>0</integer>
+		<key>order</key>
+		<integer>2</integer>
+		<key>question</key>
+		<string>¿Qué emperador romano dividió el imperio en los imperios romano oriental y occidental?</string>
+		<key>questionTrueOrFalse</key>
+		<string>El Imperio romano de Occidente existió entre los años 286 y 476</string>
+		<key>theme</key>
+		<string>El Imperio bizantino 330-636</string>
+		<key>timeLine</key>
+		<string>División del Imperio Romano</string>
+		<key>trueOrFalseAnswer</key>
+		<string>Verdadero</string>
+		<key>wikiSearchWord</key>
+		<string>Imperio Romano de Occidente</string>
+	</dict>
+	<dict>
+		<key>correctTAnswer</key>
+		<string>Rómulo Augusto</string>
+		<key>date</key>
+		<string>476</string>
+		<key>id</key>
+		<string>e1cfccb4-eb97-11ed-a05b-0242ac120003</string>
+		<key>incorrectAnswer1</key>
+		<string>Julio Nepote</string>
+		<key>incorrectAnswer2</key>
+		<string>Flavio Estilicón</string>
+		<key>incorrectAnswer3</key>
+		<string>Odoacro</string>
+		<key>numberOfBadAnswers</key>
+		<integer>0</integer>
+		<key>numberOfBadAnswersQuiz</key>
+		<integer>0</integer>
+		<key>numberOfGoodAnswers</key>
+		<integer>0</integer>
+		<key>numberOfGoodAnswersQuiz</key>
+		<integer>0</integer>
+		<key>order</key>
+		<integer>3</integer>
+		<key>question</key>
+		<string>¿Quién fue el último emperador del Imperio Romano de Occidente?</string>
+		<key>questionTrueOrFalse</key>
+		<string>La caída del Imperio romano de Occidente se vincula tradicionalmente con el año 476 d.C</string>
+		<key>theme</key>
+		<string>El Imperio bizantino 330-636</string>
+		<key>timeLine</key>
+		<string>Caída del Imperio Romano de Occidente</string>
+		<key>trueOrFalseAnswer</key>
+		<string>Verdadero</string>
+		<key>wikiSearchWord</key>
+		<string>Caída del Imperio Romano de Occidente</string>
+	</dict>
+	<dict>
+		<key>correctTAnswer</key>
+		<string>Corpus Juris Civilis</string>
+		<key>date</key>
+		<string>527-565</string>
+		<key>id</key>
+		<string>e1cfcdd6-eb97-11ed-a05b-0242ac120003</string>
+		<key>incorrectAnswer1</key>
+		<string>Código Teodosiano</string>
+		<key>incorrectAnswer2</key>
+		<string>Doce Tablas</string>
+		<key>incorrectAnswer3</key>
+		<string>Código de Hammurabi</string>
+		<key>numberOfBadAnswers</key>
+		<integer>0</integer>
+		<key>numberOfBadAnswersQuiz</key>
+		<integer>0</integer>
+		<key>numberOfGoodAnswers</key>
+		<integer>0</integer>
+		<key>numberOfGoodAnswersQuiz</key>
+		<integer>0</integer>
+		<key>order</key>
+		<integer>4</integer>
+		<key>question</key>
+		<string>¿Qué famoso conjunto de leyes se compiló durante el reinado de Justiniano I?</string>
+		<key>questionTrueOrFalse</key>
+		<string>Justiniano I fue el último emperador en usar el griego como lengua materna</string>
+		<key>theme</key>
+		<string>El Imperio bizantino 330-636</string>
+		<key>timeLine</key>
+		<string>Reinado de Justiniano I</string>
+		<key>trueOrFalseAnswer</key>
+		<string>Falso</string>
+		<key>wikiSearchWord</key>
+		<string>Justiniano I</string>
+	</dict>
+	<dict>
+		<key>correctTAnswer</key>
+		<string>Hagia Sophia</string>
+		<key>date</key>
+		<string>532</string>
+		<key>id</key>
+		<string>e1cfd1e6-eb97-11ed-a05b-0242ac120003</string>
+		<key>incorrectAnswer1</key>
+		<string>Iglesia de los Santos Apóstoles</string>
+		<key>incorrectAnswer2</key>
+		<string>Hipódromo</string>
+		<key>incorrectAnswer3</key>
+		<string>Gran Palacio</string>
+		<key>numberOfBadAnswers</key>
+		<integer>0</integer>
+		<key>numberOfBadAnswersQuiz</key>
+		<integer>0</integer>
+		<key>numberOfGoodAnswers</key>
+		<integer>0</integer>
+		<key>numberOfGoodAnswersQuiz</key>
+		<integer>0</integer>
+		<key>order</key>
+		<integer>5</integer>
+		<key>question</key>
+		<string>¿Qué edificio fue destruido durante las revueltas de Nika y luego reconstruido por Justiniano I?</string>
+		<key>questionTrueOrFalse</key>
+		<string>La revuelta de Nika comenzó en la iglesia de Santa Sofía</string>
+		<key>theme</key>
+		<string>El Imperio bizantino 330-636</string>
+		<key>timeLine</key>
+		<string>Revueltas de Nika</string>
+		<key>trueOrFalseAnswer</key>
+		<string>Falso</string>
+		<key>wikiSearchWord</key>
+		<string>Disturbios de Niká</string>
+	</dict>
+	<dict>
+		<key>correctTAnswer</key>
+		<string>Anthemius de Tralles e Isidoro de Mileto</string>
+		<key>date</key>
+		<string>537</string>
+		<key>id</key>
+		<string>e1cfd312-eb97-11ed-a05b-0242ac120003</string>
+		<key>incorrectAnswer1</key>
+		<string>Sinan y Miguel Ángel</string>
+		<key>incorrectAnswer2</key>
+		<string>Apolodoro de Damasco y Vitruvio</string>
+		<key>incorrectAnswer3</key>
+		<string>Filippo Brunelleschi y Leon Battista Alberti</string>
+		<key>numberOfBadAnswers</key>
+		<integer>0</integer>
+		<key>numberOfBadAnswersQuiz</key>
+		<integer>0</integer>
+		<key>numberOfGoodAnswers</key>
+		<integer>0</integer>
+		<key>numberOfGoodAnswersQuiz</key>
+		<integer>0</integer>
+		<key>order</key>
+		<integer>6</integer>
+		<key>question</key>
+		<string>¿Quiénes fueron los dos arquitectos responsables del diseño de Hagia Sophia?</string>
+		<key>questionTrueOrFalse</key>
+		<string>La Hagia Sophia fue originalmente construida como una mezquita.</string>
+		<key>theme</key>
+		<string>El Imperio bizantino 330-636</string>
+		<key>timeLine</key>
+		<string>Finalización de la Hagia Sophia</string>
+		<key>trueOrFalseAnswer</key>
+		<string>Falso</string>
+		<key>wikiSearchWord</key>
+		<string>Santa Sofía</string>
+	</dict>
+	<dict>
+		<key>correctTAnswer</key>
+		<string>Alboin</string>
+		<key>date</key>
+		<string>568</string>
+		<key>id</key>
+		<string>e1cfd434-eb97-11ed-a05b-0242ac120003</string>
+		<key>incorrectAnswer1</key>
+		<string>Cleph</string>
+		<key>incorrectAnswer2</key>
+		<string>Authari</string>
+		<key>incorrectAnswer3</key>
+		<string>Agilulfo</string>
+		<key>numberOfBadAnswers</key>
+		<integer>0</integer>
+		<key>numberOfBadAnswersQuiz</key>
+		<integer>0</integer>
+		<key>numberOfGoodAnswers</key>
+		<integer>0</integer>
+		<key>numberOfGoodAnswersQuiz</key>
+		<integer>0</integer>
+		<key>order</key>
+		<integer>7</integer>
+		<key>question</key>
+		<string>¿Quién fue el rey lombardo que lideró la invasión de Italia?</string>
+		<key>questionTrueOrFalse</key>
+		<string>Los lombardos eran originarios de Asia</string>
+		<key>theme</key>
+		<string>El Imperio bizantino 330-636</string>
+		<key>timeLine</key>
+		<string>Invasión lombarda de Italia</string>
+		<key>trueOrFalseAnswer</key>
+		<string>Falso</string>
+		<key>wikiSearchWord</key>
+		<string>Lombardos</string>
+	</dict>
+	<dict>
+		<key>correctTAnswer</key>
+		<string>Griego</string>
+		<key>date</key>
+		<string>610-641</string>
+		<key>id</key>
+		<string>e1cfd556-eb97-11ed-a05b-0242ac120003</string>
+		<key>incorrectAnswer1</key>
+		<string>Siríaco</string>
+		<key>incorrectAnswer2</key>
+		<string>Arameo</string>
+		<key>incorrectAnswer3</key>
+		<string>Copto</string>
+		<key>numberOfBadAnswers</key>
+		<integer>0</integer>
+		<key>numberOfBadAnswersQuiz</key>
+		<integer>0</integer>
+		<key>numberOfGoodAnswers</key>
+		<integer>0</integer>
+		<key>numberOfGoodAnswersQuiz</key>
+		<integer>0</integer>
+		<key>order</key>
+		<integer>8</integer>
+		<key>question</key>
+		<string>¿Qué idioma hizo el emperador Heraclio el idioma oficial del Imperio bizantino, reemplazando al latín?</string>
+		<key>questionTrueOrFalse</key>
+		<string>Heraclio introdujo el latín como lengua oficial del Imperio romano de Oriente</string>
+		<key>theme</key>
+		<string>El Imperio bizantino 330-636</string>
+		<key>timeLine</key>
+		<string>Reinado de Heraclio</string>
+		<key>trueOrFalseAnswer</key>
+		<string>Falso</string>
+		<key>wikiSearchWord</key>
+		<string>Heraclio</string>
+	</dict>
+	<dict>
+		<key>correctTAnswer</key>
+		<string>Ávaros y persas</string>
+		<key>date</key>
+		<string>626</string>
+		<key>id</key>
+		<string>e1cfd664-eb97-11ed-a05b-0242ac120003</string>
+		<key>incorrectAnswer1</key>
+		<string>Árabes y persas</string>
+		<key>incorrectAnswer2</key>
+		<string>Ávaros y eslavos</string>
+		<key>incorrectAnswer3</key>
+		<string>Persas y eslavos</string>
+		<key>numberOfBadAnswers</key>
+		<integer>0</integer>
+		<key>numberOfBadAnswersQuiz</key>
+		<integer>0</integer>
+		<key>numberOfGoodAnswers</key>
+		<integer>0</integer>
+		<key>numberOfGoodAnswersQuiz</key>
+		<integer>0</integer>
+		<key>order</key>
+		<integer>9</integer>
+		<key>question</key>
+		<string>¿Qué dos fuerzas sitiaron Constantinopla en 626?</string>
+		<key>questionTrueOrFalse</key>
+		<string>El fracaso del asedio de Constantinopla en 626 por parte de los ávaros, eslavos y persas sasánidas permitió a Bizancio recuperar territorios perdidos y firmar un tratado de paz favorable con las fronteras de 590.</string>
+		<key>theme</key>
+		<string>El Imperio bizantino 330-636</string>
+		<key>timeLine</key>
+		<string>Asedio de Constantinopla</string>
+		<key>trueOrFalseAnswer</key>
+		<string>Verdadero</string>
+		<key>wikiSearchWord</key>
+		<string>Sitio de Constantinopla (626)</string>
+	</dict>
+	<dict>
+		<key>correctTAnswer</key>
+		<string>Jalid ibn al-Walid</string>
+		<key>date</key>
+		<string>636</string>
+		<key>id</key>
+		<string>e1cfd77c-eb97-11ed-a05b-0242ac120003</string>
+		<key>incorrectAnswer1</key>
+		<string>Abu Bakr</string>
+		<key>incorrectAnswer2</key>
+		<string>Umar ibn al-Khattab</string>
+		<key>incorrectAnswer3</key>
+		<string>Uthman ibn Affan</string>
+		<key>numberOfBadAnswers</key>
+		<integer>0</integer>
+		<key>numberOfBadAnswersQuiz</key>
+		<integer>0</integer>
+		<key>numberOfGoodAnswers</key>
+		<integer>0</integer>
+		<key>numberOfGoodAnswersQuiz</key>
+		<integer>0</integer>
+		<key>order</key>
+		<integer>10</integer>
+		<key>question</key>
+		<string>¿Qué comandante musulmán lideró las fuerzas contra el Imperio bizantino en la batalla de Yarmouk?</string>
+		<key>questionTrueOrFalse</key>
+		<string>La batalla de Yarmuk ocurrió en agosto de 636 entre el Imperio bizantino y el Califato ortodoxo.</string>
+		<key>theme</key>
+		<string>El Imperio bizantino 330-636</string>
+		<key>timeLine</key>
+		<string>Batalla de Yarmouk</string>
+		<key>trueOrFalseAnswer</key>
+		<string>Verdadero</string>
+		<key>wikiSearchWord</key>
+		<string>Batalla de Yarmouk</string>
+	</dict>
+</array>
+</plist>

@@ -1,0 +1,366 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<!DOCTYPE plist PUBLIC "-//Apple//DTD PLIST 1.0//EN" "http://www.apple.com/DTDs/PropertyList-1.0.dtd">
+<plist version="1.0">
+<array>
+	<dict>
+		<key>correctTAnswer</key>
+		<string>It was spoken to him by the angel Gabriel in a cave called Hira</string>
+		<key>date</key>
+		<string>610</string>
+		<key>id</key>
+		<string>be7c6298-8884-11ed-a1eb-0242ac120002</string>
+		<key>incorrectAnswer1</key>
+		<string>It was written in a book that was revealed to him in a vision</string>
+		<key>incorrectAnswer2</key>
+		<string>It was transmitted to him through a dream</string>
+		<key>incorrectAnswer3</key>
+		<string>It was given to him by a group of wise men</string>
+		<key>numberOfBadAnswers</key>
+		<integer>0</integer>
+		<key>numberOfBadAnswersQuiz</key>
+		<integer>0</integer>
+		<key>numberOfGoodAnswers</key>
+		<integer>0</integer>
+		<key>numberOfGoodAnswersQuiz</key>
+		<integer>0</integer>
+		<key>order</key>
+		<integer>1</integer>
+		<key>question</key>
+		<string>How did Muhammad receive the first revelation of the Qur&apos;an?</string>
+		<key>questionTrueOrFalse</key>
+		<string>Muhammad&apos;s first revelation was written down immediately.</string>
+		<key>theme</key>
+		<string>Islamic Empire 610-712</string>
+		<key>timeLine</key>
+		<string>Prophet Muhammad receives the first revelation of the Qur&apos;an.</string>
+		<key>trueOrFalseAnswer</key>
+		<string>False</string>
+		<key>wikiSearchWord</key>
+		<string>Muhammad&apos;s first revelation</string>
+	</dict>
+	<dict>
+		<key>correctTAnswer</key>
+		<string>To escape persecution</string>
+		<key>date</key>
+		<string>622</string>
+		<key>id</key>
+		<string>be7c652c-8884-11ed-a1eb-0242ac120002</string>
+		<key>incorrectAnswer1</key>
+		<string>To spread Islam</string>
+		<key>incorrectAnswer2</key>
+		<string>Visit the Kaaba</string>
+		<key>incorrectAnswer3</key>
+		<string>To perform the pilgrimage</string>
+		<key>numberOfBadAnswers</key>
+		<integer>0</integer>
+		<key>numberOfBadAnswersQuiz</key>
+		<integer>0</integer>
+		<key>numberOfGoodAnswers</key>
+		<integer>0</integer>
+		<key>numberOfGoodAnswersQuiz</key>
+		<integer>0</integer>
+		<key>order</key>
+		<integer>2</integer>
+		<key>question</key>
+		<string>Why did Muhammad undertake the Hijra ?</string>
+		<key>questionTrueOrFalse</key>
+		<string>The Hijra marks the beginning of the Islamic calendar.</string>
+		<key>theme</key>
+		<string>Islamic Empire 610-712</string>
+		<key>timeLine</key>
+		<string>Muhammad undertakes the Hijra. </string>
+		<key>trueOrFalseAnswer</key>
+		<string>True</string>
+		<key>wikiSearchWord</key>
+		<string>Hijrah</string>
+	</dict>
+	<dict>
+		<key>correctTAnswer</key>
+		<string>Abu Bakr</string>
+		<key>date</key>
+		<string>632</string>
+		<key>id</key>
+		<string>be7c68ba-8884-11ed-a1eb-0242ac120002</string>
+		<key>incorrectAnswer1</key>
+		<string>Umar</string>
+		<key>incorrectAnswer2</key>
+		<string>Uthman</string>
+		<key>incorrectAnswer3</key>
+		<string>Ali</string>
+		<key>numberOfBadAnswers</key>
+		<integer>0</integer>
+		<key>numberOfBadAnswersQuiz</key>
+		<integer>0</integer>
+		<key>numberOfGoodAnswers</key>
+		<integer>0</integer>
+		<key>numberOfGoodAnswersQuiz</key>
+		<integer>0</integer>
+		<key>order</key>
+		<integer>3</integer>
+		<key>question</key>
+		<string>After the death of Muhammad, who became the first caliph?</string>
+		<key>questionTrueOrFalse</key>
+		<string>Muhammad was born in Mecca in the year 570 CE.</string>
+		<key>theme</key>
+		<string>Islamic Empire 610-712</string>
+		<key>timeLine</key>
+		<string>Muhammad dies</string>
+		<key>trueOrFalseAnswer</key>
+		<string>True</string>
+		<key>wikiSearchWord</key>
+		<string>Muhammad</string>
+	</dict>
+	<dict>
+		<key>correctTAnswer</key>
+		<string>Byzantines</string>
+		<key>date</key>
+		<string>632-640</string>
+		<key>id</key>
+		<string>be7c69f0-8884-11ed-a1eb-0242ac120002</string>
+		<key>incorrectAnswer1</key>
+		<string>Sassanid Persians</string>
+		<key>incorrectAnswer2</key>
+		<string>Romans</string>
+		<key>incorrectAnswer3</key>
+		<string>Egyptians</string>
+		<key>numberOfBadAnswers</key>
+		<integer>0</integer>
+		<key>numberOfBadAnswersQuiz</key>
+		<integer>0</integer>
+		<key>numberOfGoodAnswers</key>
+		<integer>0</integer>
+		<key>numberOfGoodAnswersQuiz</key>
+		<integer>0</integer>
+		<key>order</key>
+		<integer>4</integer>
+		<key>question</key>
+		<string>Who was the ruler of Egypt before the Arab-Islam conquest?</string>
+		<key>questionTrueOrFalse</key>
+		<string>The Byzantine Empire was able to successfully defend against the Muslim conquest of Egypt.</string>
+		<key>theme</key>
+		<string>Islamic Empire 610-712</string>
+		<key>timeLine</key>
+		<string>The conquests of Arabia, Palestine, and Egypt by the Arab-Muslim armies.</string>
+		<key>trueOrFalseAnswer</key>
+		<string>False</string>
+		<key>wikiSearchWord</key>
+		<string>Muslim conquest of Egypt</string>
+	</dict>
+	<dict>
+		<key>correctTAnswer</key>
+		<string>Ali</string>
+		<key>date</key>
+		<string>632-661</string>
+		<key>id</key>
+		<string>be7c6b08-8884-11ed-a1eb-0242ac120002</string>
+		<key>incorrectAnswer1</key>
+		<string>Abu Bakr</string>
+		<key>incorrectAnswer2</key>
+		<string>Umar</string>
+		<key>incorrectAnswer3</key>
+		<string>Uthman</string>
+		<key>numberOfBadAnswers</key>
+		<integer>0</integer>
+		<key>numberOfBadAnswersQuiz</key>
+		<integer>0</integer>
+		<key>numberOfGoodAnswers</key>
+		<integer>0</integer>
+		<key>numberOfGoodAnswersQuiz</key>
+		<integer>0</integer>
+		<key>order</key>
+		<integer>5</integer>
+		<key>question</key>
+		<string>Which Rashidun caliph is believed to be the first rightful caliph and Imam by Shia Muslims?</string>
+		<key>questionTrueOrFalse</key>
+		<string>Under Umar, the Rashidun Caliphate expanded at an unprecedented rate, conquering much of the Byzantine Empire and the Sasanian Empire.</string>
+		<key>theme</key>
+		<string>Islamic Empire 610-712</string>
+		<key>timeLine</key>
+		<string>Rashidun Caliphate</string>
+		<key>trueOrFalseAnswer</key>
+		<string>True</string>
+		<key>wikiSearchWord</key>
+		<string>Rashidun Caliphate</string>
+	</dict>
+	<dict>
+		<key>correctTAnswer</key>
+		<string>The support of the local population</string>
+		<key>date</key>
+		<string>647-709</string>
+		<key>id</key>
+		<string>be7c6d4c-8884-11ed-a1eb-0242ac120002</string>
+		<key>incorrectAnswer1</key>
+		<string>The strength of the Byzantine military</string>
+		<key>incorrectAnswer2</key>
+		<string>The use of advanced military technology</string>
+		<key>incorrectAnswer3</key>
+		<string>The strategic importance of the region</string>
+		<key>numberOfBadAnswers</key>
+		<integer>0</integer>
+		<key>numberOfBadAnswersQuiz</key>
+		<integer>0</integer>
+		<key>numberOfGoodAnswers</key>
+		<integer>0</integer>
+		<key>numberOfGoodAnswersQuiz</key>
+		<integer>0</integer>
+		<key>order</key>
+		<integer>6</integer>
+		<key>question</key>
+		<string>Which of the following was a key factor in the Muslim conquest of North Africa?</string>
+		<key>questionTrueOrFalse</key>
+		<string>The Muslim conquest of the Maghreb was led by Caliph Ali, the fourth caliph and the first male convert to Islam.</string>
+		<key>theme</key>
+		<string>Islamic Empire 610-712</string>
+		<key>timeLine</key>
+		<string>The conquest of North Africa</string>
+		<key>trueOrFalseAnswer</key>
+		<string>False</string>
+		<key>wikiSearchWord</key>
+		<string>Muslim conquest of the Maghreb</string>
+	</dict>
+	<dict>
+		<key>correctTAnswer</key>
+		<string>It resulted in the spread of Islam and the establishment of Muslim rule</string>
+		<key>date</key>
+		<string>651</string>
+		<key>id</key>
+		<string>be7c6e5a-8884-11ed-a1eb-0242ac120002</string>
+		<key>incorrectAnswer1</key>
+		<string>It resulted in a period of peace and prosperity</string>
+		<key>incorrectAnswer2</key>
+		<string>It led to the spread of Christianity in the region</string>
+		<key>incorrectAnswer3</key>
+		<string>It led to the collapse of trade and the economy</string>
+		<key>numberOfBadAnswers</key>
+		<integer>0</integer>
+		<key>numberOfBadAnswersQuiz</key>
+		<integer>0</integer>
+		<key>numberOfGoodAnswers</key>
+		<integer>0</integer>
+		<key>numberOfGoodAnswersQuiz</key>
+		<integer>0</integer>
+		<key>order</key>
+		<integer>7</integer>
+		<key>question</key>
+		<string>How did the Arab-Muslim conquest of the Sassanian Empire (Iran) impact the region ?</string>
+		<key>questionTrueOrFalse</key>
+		<string>The Sasanian Empire was in a state of political, social, economic, and military weakness when the Muslims in Arabia began to rise.</string>
+		<key>theme</key>
+		<string>Islamic Empire 610-712</string>
+		<key>timeLine</key>
+		<string>The Arab-Muslim conquest of the Sassanian Empire </string>
+		<key>trueOrFalseAnswer</key>
+		<string>True</string>
+		<key>wikiSearchWord</key>
+		<string>Muslim conquest of Persia</string>
+	</dict>
+	<dict>
+		<key>correctTAnswer</key>
+		<string>Damascus</string>
+		<key>date</key>
+		<string>661</string>
+		<key>id</key>
+		<string>be7c6c2a-8884-11ed-a1eb-0242ac120002</string>
+		<key>incorrectAnswer1</key>
+		<string>Baghdad</string>
+		<key>incorrectAnswer2</key>
+		<string>Cairo</string>
+		<key>incorrectAnswer3</key>
+		<string>Mecca</string>
+		<key>numberOfBadAnswers</key>
+		<integer>0</integer>
+		<key>numberOfBadAnswersQuiz</key>
+		<integer>0</integer>
+		<key>numberOfGoodAnswers</key>
+		<integer>0</integer>
+		<key>numberOfGoodAnswersQuiz</key>
+		<integer>0</integer>
+		<key>order</key>
+		<integer>8</integer>
+		<key>question</key>
+		<string>What was the capital of the Umayyad Caliphate?</string>
+		<key>questionTrueOrFalse</key>
+		<string>The Ancient City of Damascus has been influenced by several cultures, including Hellenistic, Roman, Byzantine, and Islamic.</string>
+		<key>theme</key>
+		<string>Islamic Empire 610-712</string>
+		<key>timeLine</key>
+		<string>Damascus becomes the capital of the Umayyad Caliphate</string>
+		<key>trueOrFalseAnswer</key>
+		<string>True</string>
+		<key>wikiSearchWord</key>
+		<string>Ancient City of Damascus</string>
+	</dict>
+	<dict>
+		<key>correctTAnswer</key>
+		<string>Berbers</string>
+		<key>date</key>
+		<string>711-756</string>
+		<key>id</key>
+		<string>be7c6f72-8884-11ed-a1eb-0242ac120002</string>
+		<key>incorrectAnswer1</key>
+		<string>Persians</string>
+		<key>incorrectAnswer2</key>
+		<string>Vikings</string>
+		<key>incorrectAnswer3</key>
+		<string>Huns</string>
+		<key>numberOfBadAnswers</key>
+		<integer>0</integer>
+		<key>numberOfBadAnswersQuiz</key>
+		<integer>0</integer>
+		<key>numberOfGoodAnswers</key>
+		<integer>0</integer>
+		<key>numberOfGoodAnswersQuiz</key>
+		<integer>0</integer>
+		<key>order</key>
+		<integer>9</integer>
+		<key>question</key>
+		<string>Which group played a significant role in the Arab-Muslim conquest of Spain?</string>
+		<key>questionTrueOrFalse</key>
+		<string>The Umayyad conquest of Hispania was led by Arab forces only.</string>
+		<key>theme</key>
+		<string>Islamic Empire 610-712</string>
+		<key>timeLine</key>
+		<string>The Arab-Muslim conquest of Spain</string>
+		<key>trueOrFalseAnswer</key>
+		<string>False</string>
+		<key>wikiSearchWord</key>
+		<string>Umayyad conquest of Hispania</string>
+	</dict>
+	<dict>
+		<key>correctTAnswer</key>
+		<string>To spread Islam</string>
+		<key>date</key>
+		<string>712</string>
+		<key>id</key>
+		<string>be7c708a-8884-11ed-a1eb-0242ac120002</string>
+		<key>incorrectAnswer1</key>
+		<string>To gain control of trade routes</string>
+		<key>incorrectAnswer2</key>
+		<string>To seek revenge for past conflicts</string>
+		<key>incorrectAnswer3</key>
+		<string>To establish a new capital city</string>
+		<key>numberOfBadAnswers</key>
+		<integer>0</integer>
+		<key>numberOfBadAnswersQuiz</key>
+		<integer>0</integer>
+		<key>numberOfGoodAnswers</key>
+		<integer>0</integer>
+		<key>numberOfGoodAnswersQuiz</key>
+		<integer>0</integer>
+		<key>order</key>
+		<integer>10</integer>
+		<key>question</key>
+		<string>What was the main reason for the Arab-Muslim conquest of Sindh ?</string>
+		<key>questionTrueOrFalse</key>
+		<string>Muhammad ibn Qasim conquered Sindh in the 8th century.</string>
+		<key>theme</key>
+		<string>Islamic Empire 610-712</string>
+		<key>timeLine</key>
+		<string>The Arab-Muslim conquest of Sindh</string>
+		<key>trueOrFalseAnswer</key>
+		<string>True</string>
+		<key>wikiSearchWord</key>
+		<string>Sind (caliphal province)</string>
+	</dict>
+</array>
+</plist>

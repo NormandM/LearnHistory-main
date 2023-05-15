@@ -1,0 +1,1086 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<!DOCTYPE plist PUBLIC "-//Apple//DTD PLIST 1.0//EN" "http://www.apple.com/DTDs/PropertyList-1.0.dtd">
+<plist version="1.0">
+<array>
+    <dict>
+          <key>id</key>
+          <string>c18d3d12-f1a3-11ed-a05b-0242ac120003</string>
+          <key>date</key>
+          <string>1299</string>
+          <key>question</key>
+          <string>¿Quién fundó el Imperio Otomano?</string>
+          <key>correctTAnswer</key>
+          <string>Osman I</string>
+          <key>incorrectAnswer1</key>
+          <string>Orhan</string>
+          <key>incorrectAnswer2</key>
+          <string>Murad I</string>
+          <key>incorrectAnswer3</key>
+          <string>Mehmed II</string>
+          <key>wikiSearchWord</key>
+          <string>Osmán I</string>
+          <key>questionTrueOrFalse</key>
+          <string>Osmán I estableció su emirato aprovechando la debilidad de los imperios selyúcida y bizantino. </string>
+          <key>trueOrFalseAnswer</key>
+          <string>Verdadero</string>
+          <key>timeLine</key>
+          <string>Osman I funda el Imperio Otomano</string>
+          <key>theme</key>
+          <string>El Imperio Otomano</string>
+          <key>numberOfGoodAnswers</key>
+          <integer>0</integer>
+          <key>numberOfBadAnswers</key>
+          <integer>0</integer>
+          <key>numberOfGoodAnswersQuiz</key>
+          <integer>0</integer>
+          <key>numberOfBadAnswersQuiz</key>
+          <integer>0</integer>
+          <key>order</key>
+          <integer>1</integer>
+    </dict>
+    <dict>
+          <key>id</key>
+          <string>c18d4104-f1a3-11ed-a05b-0242ac120003</string>
+          <key>date</key>
+          <string>1326</string>
+          <key>question</key>
+          <string>¿Cuál fue la primera capital del Imperio Otomano?</string>
+          <key>correctTAnswer</key>
+          <string>Bursa</string>
+          <key>incorrectAnswer1</key>
+          <string>Estambul</string>
+          <key>incorrectAnswer2</key>
+          <string>Edirne</string>
+          <key>incorrectAnswer3</key>
+          <string>Ankara</string>
+          <key>wikiSearchWord</key>
+          <string>Sitio de Bursa</string>
+          <key>questionTrueOrFalse</key>
+          <string>Los otomanos tenían experiencia en capturar ciudades antes del sitio de Bursa.</string>
+          <key>trueOrFalseAnswer</key>
+          <string>Falso</string>
+          <key>timeLine</key>
+          <string>Bursa: 1ra capital otomana</string>
+          <key>theme</key>
+          <string>El Imperio Otomano</string>
+          <key>numberOfGoodAnswers</key>
+          <integer>0</integer>
+          <key>numberOfBadAnswers</key>
+          <integer>0</integer>
+          <key>numberOfGoodAnswersQuiz</key>
+          <integer>0</integer>
+          <key>numberOfBadAnswersQuiz</key>
+          <integer>0</integer>
+          <key>order</key>
+          <integer>2</integer>
+    </dict>
+    <dict>
+          <key>id</key>
+          <string>c18d4258-f1a3-11ed-a05b-0242ac120003</string>
+          <key>date</key>
+          <string>1354</string>
+          <key>question</key>
+          <string>¿Qué península europea capturaron primero los otomanos?</string>
+          <key>correctTAnswer</key>
+          <string>Península de Galípoli</string>
+          <key>incorrectAnswer1</key>
+          <string>Península Ibérica</string>
+          <key>incorrectAnswer2</key>
+          <string>Península de los Balcanes</string>
+          <key>incorrectAnswer3</key>
+          <string>Península Escandinava</string>
+          <key>wikiSearchWord</key>
+          <string>Caída de Galípoli</string>
+          <key>questionTrueOrFalse</key>
+          <string>Los bizantinos habían perdido casi todas sus posesiones en Anatolia después de sufrir medio siglo de derrotas a manos de los otomanos. </string>
+          <key>trueOrFalseAnswer</key>
+          <string>Verdadero</string>
+          <key>timeLine</key>
+          <string>Gallipoli: Otomanos en Europa</string>
+          <key>theme</key>
+          <string>El Imperio Otomano</string>
+          <key>numberOfGoodAnswers</key>
+          <integer>0</integer>
+          <key>numberOfBadAnswers</key>
+          <integer>0</integer>
+          <key>numberOfGoodAnswersQuiz</key>
+          <integer>0</integer>
+          <key>numberOfBadAnswersQuiz</key>
+          <integer>0</integer>
+          <key>order</key>
+          <integer>3</integer>
+    </dict>
+    <dict>
+          <key>id</key>
+          <string>c18d447e-f1a3-11ed-a05b-0242ac120003</string>
+          <key>date</key>
+          <string>1389</string>
+          <key>question</key>
+          <string>¿Qué batalla resultó en una victoria otomana sobre el ejército serbio?</string>
+          <key>correctTAnswer</key>
+          <string>Batalla de Kosovo</string>
+          <key>incorrectAnswer1</key>
+          <string>Batalla de Maritsa</string>
+          <key>incorrectAnswer2</key>
+          <string>Batalla de Nicópolis</string>
+          <key>incorrectAnswer3</key>
+          <string>Batalla de Ankara</string>
+          <key>wikiSearchWord</key>
+          <string>Batalla de Kosovo</string>
+          <key>questionTrueOrFalse</key>
+          <string>Después de la batalla, el principado serbio se convirtió en vasallo del Imperio otomano.</string>
+          <key>trueOrFalseAnswer</key>
+          <string>Verdadero</string>
+          <key>timeLine</key>
+          <string>Kosovo: Otomanos vencen a los serbios</string>
+          <key>theme</key>
+          <string>El Imperio Otomano</string>
+          <key>numberOfGoodAnswers</key>
+          <integer>0</integer>
+          <key>numberOfBadAnswers</key>
+          <integer>0</integer>
+          <key>numberOfGoodAnswersQuiz</key>
+          <integer>0</integer>
+          <key>numberOfBadAnswersQuiz</key>
+          <integer>0</integer>
+          <key>order</key>
+          <integer>4</integer>
+    </dict>
+    <dict>
+          <key>id</key>
+          <string>c18d45be-f1a3-11ed-a05b-0242ac120003</string>
+          <key>date</key>
+          <string>1396</string>
+          <key>question</key>
+          <string>¿En qué batalla derrotó el Imperio Otomano a un ejército de cruzados de Europa Occidental?</string>
+          <key>correctTAnswer</key>
+          <string>Batalla de Nicópolis</string>
+          <key>incorrectAnswer1</key>
+          <string>Batalla de Kosovo</string>
+          <key>incorrectAnswer2</key>
+          <string>Batalla de Maritsa</string>
+          <key>incorrectAnswer3</key>
+          <string>Batalla de Ankara</string>
+          <key>wikiSearchWord</key>
+          <string>Batalla de Nicópolis</string>
+          <key>questionTrueOrFalse</key>
+          <string>Los otomanos resultaron derrotados en la batalla de Nicópolis.</string>
+          <key>trueOrFalseAnswer</key>
+          <string>Falso</string>
+          <key>timeLine</key>
+          <string>Nicopolis: Derrota de los cruzados</string>
+          <key>theme</key>
+          <string>El Imperio Otomano</string>
+          <key>numberOfGoodAnswers</key>
+          <integer>0</integer>
+          <key>numberOfBadAnswers</key>
+          <integer>0</integer>
+          <key>numberOfGoodAnswersQuiz</key>
+          <integer>0</integer>
+          <key>numberOfBadAnswersQuiz</key>
+          <integer>0</integer>
+          <key>order</key>
+          <integer>5</integer>
+    </dict>
+    <dict>
+          <key>id</key>
+          <string>c18d46fe-f1a3-11ed-a05b-0242ac120003</string>
+          <key>date</key>
+          <string>1402</string>
+          <key>question</key>
+          <string>¿Quién derrotó a los otomanos en la Batalla de Ankara, provocando una desintegración temporal del imperio?</string>
+          <key>correctTAnswer</key>
+          <string>Timur</string>
+          <key>incorrectAnswer1</key>
+          <string>Genghis Khan</string>
+          <key>incorrectAnswer2</key>
+          <string>Alejandro Magno</string>
+          <key>incorrectAnswer3</key>
+          <string>Napoleón Bonaparte</string>
+          <key>wikiSearchWord</key>
+          <string>Batalla de Angora</string>
+          <key>questionTrueOrFalse</key>
+          <string>La batalla de Angora ocurrió en Europa.</string>
+          <key>trueOrFalseAnswer</key>
+          <string>Falso</string>
+          <key>timeLine</key>
+          <string>Ankara: Timur detiene a los otomanos</string>
+          <key>theme</key>
+          <string>El Imperio Otomano</string>
+          <key>numberOfGoodAnswers</key>
+          <integer>0</integer>
+          <key>numberOfBadAnswers</key>
+          <integer>0</integer>
+          <key>numberOfGoodAnswersQuiz</key>
+          <integer>0</integer>
+          <key>numberOfBadAnswersQuiz</key>
+          <integer>0</integer>
+          <key>order</key>
+          <integer>6</integer>
+    </dict>
+    <dict>
+          <key>id</key>
+          <string>c18d4820-f1a3-11ed-a05b-0242ac120003</string>
+          <key>date</key>
+          <string>1413</string>
+          <key>question</key>
+          <string>¿Quién restauró el Imperio Otomano después del Interregno?</string>
+          <key>correctTAnswer</key>
+          <string>Mehmed I</string>
+          <key>incorrectAnswer1</key>
+          <string>Orhan</string>
+          <key>incorrectAnswer2</key>
+          <string>Murad I</string>
+          <key>incorrectAnswer3</key>
+          <string>Bayezid II</string>
+          <key>wikiSearchWord</key>
+          <string>Mehmed I</string>
+          <key>questionTrueOrFalse</key>
+          <string>Mehmed I Çelebi fue sultán otomano desde 1413 hasta su muerte. </string>
+          <key>trueOrFalseAnswer</key>
+          <string>Verdadero</string>
+          <key>timeLine</key>
+          <string>Mehmed I restaura el imperio</string>
+          <key>theme</key>
+          <string>El Imperio Otomano</string>
+          <key>numberOfGoodAnswers</key>
+          <integer>0</integer>
+          <key>numberOfBadAnswers</key>
+          <integer>0</integer>
+          <key>numberOfGoodAnswersQuiz</key>
+          <integer>0</integer>
+          <key>numberOfBadAnswersQuiz</key>
+          <integer>0</integer>
+          <key>order</key>
+          <integer>7</integer>
+    </dict>
+    <dict>
+          <key>id</key>
+          <string>c18d4a5a-f1a3-11ed-a05b-0242ac120003</string>
+          <key>date</key>
+          <string>1453</string>
+          <key>question</key>
+          <string>¿La caída de qué ciudad marcó el fin del Imperio Bizantino?</string>
+          <key>correctTAnswer</key>
+          <string>Constantinopla</string>
+          <key>incorrectAnswer1</key>
+          <string>Roma</string>
+          <key>incorrectAnswer2</key>
+          <string>Atenas</string>
+          <key>incorrectAnswer3</key>
+          <string>Jerusalén</string>
+          <key>wikiSearchWord</key>
+          <string>Caída de Constantinopla</string>
+          <key>questionTrueOrFalse</key>
+          <string>La caída de Constantinopla no tuvo ningún impacto en la historia europea. </string>
+          <key>trueOrFalseAnswer</key>
+          <string>Falso</string>
+          <key>timeLine</key>
+          <string>Constantinopla cae</string>
+          <key>theme</key>
+          <string>El Imperio Otomano</string>
+          <key>numberOfGoodAnswers</key>
+          <integer>0</integer>
+          <key>numberOfBadAnswers</key>
+          <integer>0</integer>
+          <key>numberOfGoodAnswersQuiz</key>
+          <integer>0</integer>
+          <key>numberOfBadAnswersQuiz</key>
+          <integer>0</integer>
+          <key>order</key>
+          <integer>8</integer>
+    </dict>
+    <dict>
+          <key>id</key>
+          <string>c18d4c58-f1a3-11ed-a05b-0242ac120003</string>
+          <key>date</key>
+          <string>1461</string>
+          <key>question</key>
+          <string>¿Qué imperio conquistaron los otomanos, eliminando el último remanente del Imperio Bizantino?</string>
+          <key>correctTAnswer</key>
+          <string>Imperio de Trebisonda</string>
+          <key>incorrectAnswer1</key>
+          <string>Imperio Búlgaro</string>
+          <key>incorrectAnswer2</key>
+          <string>Imperio Serbio</string>
+          <key>incorrectAnswer3</key>
+          <string>Imperio Latino</string>
+          <key>wikiSearchWord</key>
+          <string>Imperio de Trebisonda</string>
+          <key>questionTrueOrFalse</key>
+          <string>El Imperio de Trebisonda fue un Estado cristiano medieval de cultura griega.</string>
+          <key>trueOrFalseAnswer</key>
+          <string>Verdadero</string>
+          <key>timeLine</key>
+          <string>Trebizonda conquistada</string>
+          <key>theme</key>
+          <string>El Imperio Otomano</string>
+          <key>numberOfGoodAnswers</key>
+          <integer>0</integer>
+          <key>numberOfBadAnswers</key>
+          <integer>0</integer>
+          <key>numberOfGoodAnswersQuiz</key>
+          <integer>0</integer>
+          <key>numberOfBadAnswersQuiz</key>
+          <integer>0</integer>
+          <key>order</key>
+          <integer>9</integer>
+    </dict>
+    <dict>
+          <key>id</key>
+          <string>c18d4e38-f1a3-11ed-a05b-0242ac120003</string>
+          <key>date</key>
+          <string>1473</string>
+          <key>question</key>
+          <string>¿Cuál fue el papel del noble y comandante militar albanés Skanderbeg durante la conquista otomana de Albania en 1479?</string>
+          <key>correctTAnswer</key>
+          <string>Desempeñó un papel crucial en la resistencia albanesa contra los otomanos.</string>
+          <key>incorrectAnswer1</key>
+          <string>Luchó junto a los otomanos contra la resistencia albanesa.</string>
+          <key>incorrectAnswer2</key>
+          <string>Se rindió a los otomanos sin ninguna resistencia.</string>
+          <key>incorrectAnswer3</key>
+          <string>Fue exiliado de Albania antes de que tuviera lugar la conquista otomana.</string>
+          <key>wikiSearchWord</key>
+          <string>Albania otomana</string>
+          <key>questionTrueOrFalse</key>
+          <string>La mayoría de los jefes locales de Albania se convirtieron en vasallos otomanos después de la batalla de Savra. </string>
+          <key>trueOrFalseAnswer</key>
+          <string>Verdadero</string>
+          <key>timeLine</key>
+          <string>Conquista otomana de Albania</string>
+          <key>theme</key>
+          <string>El Imperio Otomano</string>
+          <key>numberOfGoodAnswers</key>
+          <integer>0</integer>
+          <key>numberOfBadAnswers</key>
+          <integer>0</integer>
+          <key>numberOfGoodAnswersQuiz</key>
+          <integer>0</integer>
+          <key>numberOfBadAnswersQuiz</key>
+          <integer>0</integer>
+          <key>order</key>
+          <integer>10</integer>
+    </dict>
+    <dict>
+          <key>id</key>
+          <string>c18d4f96-f1a3-11ed-a05b-0242ac120003</string>
+          <key>date</key>
+          <string>1480</string>
+          <key>question</key>
+          <string>¿Qué orden de caballeros defendió con éxito la isla de Rodas de un asedio otomano en 1480?</string>
+          <key>correctTAnswer</key>
+          <string>Caballeros Hospitalarios</string>
+          <key>incorrectAnswer1</key>
+          <string>Caballeros Templarios</string>
+          <key>incorrectAnswer2</key>
+          <string>Caballeros Teutónicos</string>
+          <key>incorrectAnswer3</key>
+          <string>Caballeros de Malta</string>
+          <key>wikiSearchWord</key>
+          <string>Sitio de Rodas (1480)</string>
+          <key>questionTrueOrFalse</key>
+          <string>El sitio de Rodas de 1480 fue un evento pacífico sin enfrentamientos militares. </string>
+          <key>trueOrFalseAnswer</key>
+          <string>Falso</string>
+          <key>timeLine</key>
+          <string>Fracasa el asedio a Rodas</string>
+          <key>theme</key>
+          <string>El Imperio Otomano</string>
+          <key>numberOfGoodAnswers</key>
+          <integer>0</integer>
+          <key>numberOfBadAnswers</key>
+          <integer>0</integer>
+          <key>numberOfGoodAnswersQuiz</key>
+          <integer>0</integer>
+          <key>numberOfBadAnswersQuiz</key>
+          <integer>0</integer>
+          <key>order</key>
+          <integer>11</integer>
+    </dict>
+    <dict>
+          <key>id</key>
+          <string>c18d516c-f1a3-11ed-a05b-0242ac120003</string>
+          <key>date</key>
+          <string>1514</string>
+          <key>question</key>
+          <string>¿A qué imperio derrotaron los otomanos en la Batalla de Chaldiran?</string>
+          <key>correctTAnswer</key>
+          <string>Imperio Safávida</string>
+          <key>incorrectAnswer1</key>
+          <string>Imperio Bizantino</string>
+          <key>incorrectAnswer2</key>
+          <string>Imperio Mameluco</string>
+          <key>incorrectAnswer3</key>
+          <string>Imperio Ayyubí</string>
+          <key>wikiSearchWord</key>
+          <string>Batalla de Chaldiran</string>
+          <key>questionTrueOrFalse</key>
+          <string>La batalla de Chaldiran marcó el comienzo de una guerra de cuarenta y un años entre los imperios otomano y safávida.</string>
+          <key>trueOrFalseAnswer</key>
+          <string>Verdadero</string>
+          <key>timeLine</key>
+          <string>Chaldiran: Safávidas vencidos</string>
+          <key>theme</key>
+          <string>El Imperio Otomano</string>
+          <key>numberOfGoodAnswers</key>
+          <integer>0</integer>
+          <key>numberOfBadAnswers</key>
+          <integer>0</integer>
+          <key>numberOfGoodAnswersQuiz</key>
+          <integer>0</integer>
+          <key>numberOfBadAnswersQuiz</key>
+          <integer>0</integer>
+          <key>order</key>
+          <integer>12</integer>
+    </dict>
+    <dict>
+          <key>id</key>
+          <string>c18d537e-f1a3-11ed-a05b-0242ac120003</string>
+          <key>date</key>
+          <string>1517</string>
+          <key>question</key>
+          <string>Después de conquistar Egipto mameluco, ¿qué título se agregó a la cartera del sultán otomano?</string>
+          <key>correctTAnswer</key>
+          <string>Califa</string>
+          <key>incorrectAnswer1</key>
+          <string>Rey</string>
+          <key>incorrectAnswer2</key>
+          <string>Emperador</string>
+          <key>incorrectAnswer3</key>
+          <string>Shah</string>
+          <key>wikiSearchWord</key>
+          <string>Guerra otomano-mameluca (1516-1517)</string>
+          <key>questionTrueOrFalse</key>
+          <string>La sede del poder político del Imperio otomano se trasladó a La Meca después de la guerra.</string>
+          <key>trueOrFalseAnswer</key>
+          <string>Falso</string>
+          <key>timeLine</key>
+          <string>Egipto mameluco conquistado</string>
+          <key>theme</key>
+          <string>El Imperio Otomano</string>
+          <key>numberOfGoodAnswers</key>
+          <integer>0</integer>
+          <key>numberOfBadAnswers</key>
+          <integer>0</integer>
+          <key>numberOfGoodAnswersQuiz</key>
+          <integer>0</integer>
+          <key>numberOfBadAnswersQuiz</key>
+          <integer>0</integer>
+          <key>order</key>
+          <integer>13</integer>
+    </dict>
+    <dict>
+          <key>id</key>
+          <string>c18d550e-f1a3-11ed-a05b-0242ac120003</string>
+          <key>date</key>
+          <string>1520-1566</string>
+          <key>question</key>
+          <string>¿Quién fue el sultán durante el apogeo del Imperio Otomano en términos de expansión territorial y logros culturales?</string>
+          <key>correctTAnswer</key>
+          <string>Suleimán el Magnífico</string>
+          <key>incorrectAnswer1</key>
+          <string>Selim I</string>
+          <key>incorrectAnswer2</key>
+          <string>Mehmed II</string>
+          <key>incorrectAnswer3</key>
+          <string>Bayezid II</string>
+          <key>wikiSearchWord</key>
+          <string>Solimán el Magnífico</string>
+          <key>questionTrueOrFalse</key>
+          <string>Solimán I emprendió una campaña militar contra las potencias cristianas en Europa Central y el Mediterráneo. </string>
+          <key>trueOrFalseAnswer</key>
+          <string>Verdadero</string>
+          <key>timeLine</key>
+          <string>Reinado de Suleimán: El imperio alcanza su apogeo</string>
+          <key>theme</key>
+          <string>El Imperio Otomano</string>
+          <key>numberOfGoodAnswers</key>
+          <integer>0</integer>
+          <key>numberOfBadAnswers</key>
+          <integer>0</integer>
+          <key>numberOfGoodAnswersQuiz</key>
+          <integer>0</integer>
+          <key>numberOfBadAnswersQuiz</key>
+          <integer>0</integer>
+          <key>order</key>
+          <integer>14</integer>
+    </dict>
+    <dict>
+          <key>id</key>
+          <string>c18d5676-f1a3-11ed-a05b-0242ac120003</string>
+          <key>date</key>
+          <string>1521</string>
+          <key>question</key>
+          <string>¿Qué ciudad conquistaron los otomanos en 1521, consolidando su control en los Balcanes?</string>
+          <key>correctTAnswer</key>
+          <string>Belgrado</string>
+          <key>incorrectAnswer1</key>
+          <string>Viena</string>
+          <key>incorrectAnswer2</key>
+          <string>Sofía</string>
+          <key>incorrectAnswer3</key>
+          <string>Budapest</string>
+          <key>wikiSearchWord</key>
+          <string>Historia de Belgrado</string>
+          <key>questionTrueOrFalse</key>
+          <string>La historia de la ciudad de Belgrado se remonta al V milenio a.C. </string>
+          <key>trueOrFalseAnswer</key>
+          <string>Verdadero</string>
+          <key>timeLine</key>
+          <string>Belgrado capturado</string>
+          <key>theme</key>
+          <string>El Imperio Otomano</string>
+          <key>numberOfGoodAnswers</key>
+          <integer>0</integer>
+          <key>numberOfBadAnswers</key>
+          <integer>0</integer>
+          <key>numberOfGoodAnswersQuiz</key>
+          <integer>0</integer>
+          <key>numberOfBadAnswersQuiz</key>
+          <integer>0</integer>
+          <key>order</key>
+          <integer>15</integer>
+    </dict>
+    <dict>
+          <key>id</key>
+          <string>c18d57ac-f1a3-11ed-a05b-0242ac120003</string>
+          <key>date</key>
+          <string>1522</string>
+          <key>question</key>
+          <string>¿Qué orden de caballeros perdió la isla de Rodas a los otomanos en 1522?</string>
+          <key>correctTAnswer</key>
+          <string>Caballeros Hospitalarios</string>
+          <key>incorrectAnswer1</key>
+          <string>Caballeros Templarios</string>
+          <key>incorrectAnswer2</key>
+          <string>Caballeros Teutónicos</string>
+          <key>incorrectAnswer3</key>
+          <string>Caballeros de Malta</string>
+          <key>wikiSearchWord</key>
+          <string>Sitio de Rodas (1522)</string>
+          <key>questionTrueOrFalse</key>
+          <string>El sitio de Rodas en 1522 fue el primer intento del Imperio otomano para expulsar a los Caballeros de Rodas de la isla. </string>
+          <key>trueOrFalseAnswer</key>
+          <string>Falso</string>
+          <key>timeLine</key>
+          <string>Rodas cae ante los otomanos</string>
+          <key>theme</key>
+          <string>El Imperio Otomano</string>
+          <key>numberOfGoodAnswers</key>
+          <integer>0</integer>
+          <key>numberOfBadAnswers</key>
+          <integer>0</integer>
+          <key>numberOfGoodAnswersQuiz</key>
+          <integer>0</integer>
+          <key>numberOfBadAnswersQuiz</key>
+          <integer>0</integer>
+          <key>order</key>
+          <integer>16</integer>
+    </dict>
+    <dict>
+          <key>id</key>
+          <string>c18d5928-f1a3-11ed-a05b-0242ac120003</string>
+          <key>date</key>
+          <string>1529</string>
+          <key>question</key>
+          <string>¿Qué ciudad asediaron sin éxito los otomanos por primera vez en 1529?</string>
+          <key>correctTAnswer</key>
+          <string>Viena</string>
+          <key>incorrectAnswer1</key>
+          <string>Belgrado</string>
+          <key>incorrectAnswer2</key>
+          <string>Budapest</string>
+          <key>incorrectAnswer3</key>
+          <string>Praga</string>
+          <key>wikiSearchWord</key>
+          <string>Sitio de Viena</string>
+          <key>questionTrueOrFalse</key>
+          <string>El Primer Sitio de Viena marcó el apogeo de la invasión otomana de Europa central. </string>
+          <key>trueOrFalseAnswer</key>
+          <string>Verdadero</string>
+          <key>timeLine</key>
+          <string>Fracasa el asedio a Viena</string>
+          <key>theme</key>
+          <string>El Imperio Otomano</string>
+          <key>numberOfGoodAnswers</key>
+          <integer>0</integer>
+          <key>numberOfBadAnswers</key>
+          <integer>0</integer>
+          <key>numberOfGoodAnswersQuiz</key>
+          <integer>0</integer>
+          <key>numberOfBadAnswersQuiz</key>
+          <integer>0</integer>
+          <key>order</key>
+          <integer>17</integer>
+    </dict>
+    <dict>
+          <key>id</key>
+          <string>c18d5aa4-f1a3-11ed-a05b-0242ac120003</string>
+          <key>date</key>
+          <string>1538</string>
+          <key>question</key>
+          <string>¿En qué batalla lograron los otomanos una victoria naval decisiva contra una alianza cristiana?</string>
+          <key>correctTAnswer</key>
+          <string>Batalla de Preveza</string>
+          <key>incorrectAnswer1</key>
+          <string>Batalla de Lepanto</string>
+          <key>incorrectAnswer2</key>
+          <string>Batalla de Navarino</string>
+          <key>incorrectAnswer3</key>
+          <string>Batalla de Djerba</string>
+          <key>wikiSearchWord</key>
+          <string>Batalla de Préveza</string>
+          <key>questionTrueOrFalse</key>
+          <string>La batalla de Préveza fue una victoria decisiva para la flota cristiana.</string>
+          <key>trueOrFalseAnswer</key>
+          <string>Falso</string>
+          <key>timeLine</key>
+          <string>Preveza: Victoria naval</string>
+          <key>theme</key>
+          <string>El Imperio Otomano</string>
+          <key>numberOfGoodAnswers</key>
+          <integer>0</integer>
+          <key>numberOfBadAnswers</key>
+          <integer>0</integer>
+          <key>numberOfGoodAnswersQuiz</key>
+          <integer>0</integer>
+          <key>numberOfBadAnswersQuiz</key>
+          <integer>0</integer>
+          <key>order</key>
+          <integer>18</integer>
+    </dict>
+    <dict>
+          <key>id</key>
+          <string>c18d5c98-f1a3-11ed-a05b-0242ac120003</string>
+          <key>date</key>
+          <string>1565</string>
+          <key>question</key>
+          <string>¿Qué isla no lograron capturar los otomanos de los Caballeros Hospitalarios en 1565?</string>
+          <key>correctTAnswer</key>
+          <string>Malta</string>
+          <key>incorrectAnswer1</key>
+          <string>Chipre</string>
+          <key>incorrectAnswer2</key>
+          <string>Creta</string>
+          <key>incorrectAnswer3</key>
+          <string>Sicilia</string>
+          <key>wikiSearchWord</key>
+          <string>Sitio de Malta (1565)</string>
+          <key>questionTrueOrFalse</key>
+          <string>El sitio de Malta es considerado uno de los asedios más importantes de la historia militar. </string>
+          <key>trueOrFalseAnswer</key>
+          <string>Verdadero</string>
+          <key>timeLine</key>
+          <string>Fracasa el asedio a Malta</string>
+          <key>theme</key>
+          <string>El Imperio Otomano</string>
+          <key>numberOfGoodAnswers</key>
+          <integer>0</integer>
+          <key>numberOfBadAnswers</key>
+          <integer>0</integer>
+          <key>numberOfGoodAnswersQuiz</key>
+          <integer>0</integer>
+          <key>numberOfBadAnswersQuiz</key>
+          <integer>0</integer>
+          <key>order</key>
+          <integer>19</integer>
+    </dict>
+    <dict>
+          <key>id</key>
+          <string>c18d5e0a-f1a3-11ed-a05b-0242ac120003</string>
+          <key>date</key>
+          <string>1571</string>
+          <key>question</key>
+          <string>¿En qué batalla sufrió el Imperio Otomano una gran derrota naval contra una coalición cristiana?</string>
+          <key>correctTAnswer</key>
+          <string>Batalla de Lepanto</string>
+          <key>incorrectAnswer1</key>
+          <string>Batalla de Preveza</string>
+          <key>incorrectAnswer2</key>
+          <string>Batalla de Navarino</string>
+          <key>incorrectAnswer3</key>
+          <string>Batalla de Djerba</string>
+          <key>wikiSearchWord</key>
+          <string>Batalla de Lepanto</string>
+          <key>questionTrueOrFalse</key>
+          <string>La batalla de Lepanto fue la última gran batalla naval de la historia occidental que se libró con naves de remo.</string>
+          <key>trueOrFalseAnswer</key>
+          <string>Verdadero</string>
+          <key>timeLine</key>
+          <string>Lepanto: Derrota naval</string>
+          <key>theme</key>
+          <string>El Imperio Otomano</string>
+          <key>numberOfGoodAnswers</key>
+          <integer>0</integer>
+          <key>numberOfBadAnswers</key>
+          <integer>0</integer>
+          <key>numberOfGoodAnswersQuiz</key>
+          <integer>0</integer>
+          <key>numberOfBadAnswersQuiz</key>
+          <integer>0</integer>
+          <key>order</key>
+          <integer>20</integer>
+    </dict>
+    <dict>
+          <key>id</key>
+          <string>c18d5f72-f1a3-11ed-a05b-0242ac120003</string>
+          <key>date</key>
+          <string>1593-1606</string>
+          <key>question</key>
+          <string>¿Cuál fue el resultado de la Guerra Larga entre los otomanos y los Habsburgo?</string>
+          <key>correctTAnswer</key>
+          <string>Estancamiento</string>
+          <key>incorrectAnswer1</key>
+          <string>Victoria otomana</string>
+          <key>incorrectAnswer2</key>
+          <string>Victoria de los Habsburgo</string>
+          <key>incorrectAnswer3</key>
+          <string>Tratado de paz con ganancias territoriales para ambos lados</string>
+          <key>wikiSearchWord</key>
+          <string>Guerras habsburgo-otomanas</string>
+          <key>questionTrueOrFalse</key>
+          <string>Las guerras habsburgo-otomanas se prolongaron hasta el siglo XX.</string>
+          <key>trueOrFalseAnswer</key>
+          <string>Falso</string>
+          <key>timeLine</key>
+          <string>Guerras entre los otomanos y los Habsburgo</string>
+          <key>theme</key>
+          <string>El Imperio Otomano</string>
+          <key>numberOfGoodAnswers</key>
+          <integer>0</integer>
+          <key>numberOfBadAnswers</key>
+          <integer>0</integer>
+          <key>numberOfGoodAnswersQuiz</key>
+          <integer>0</integer>
+          <key>numberOfBadAnswersQuiz</key>
+          <integer>0</integer>
+          <key>order</key>
+          <integer>21</integer>
+    </dict>
+    <dict>
+          <key>id</key>
+          <string>c18d60f8-f1a3-11ed-a05b-0242ac120003</string>
+          <key>date</key>
+          <string>1683</string>
+          <key>question</key>
+          <string>¿Qué ciudad asediaron sin éxito los otomanos por segunda vez en 1683?</string>
+          <key>correctTAnswer</key>
+          <string>Viena</string>
+          <key>incorrectAnswer1</key>
+          <string>Belgrado</string>
+          <key>incorrectAnswer2</key>
+          <string>Budapest</string>
+          <key>incorrectAnswer3</key>
+          <string>Praga</string>
+          <key>wikiSearchWord</key>
+          <string>Batalla de Kahlenberg</string>
+          <key>questionTrueOrFalse</key>
+          <string>El asedio a Viena duró dos meses. </string>
+          <key>trueOrFalseAnswer</key>
+          <string>Verdadero</string>
+          <key>timeLine</key>
+          <string>Fracasa nuevamente el asedio a Viena</string>
+          <key>theme</key>
+          <string>El Imperio Otomano</string>
+          <key>numberOfGoodAnswers</key>
+          <integer>0</integer>
+          <key>numberOfBadAnswers</key>
+          <integer>0</integer>
+          <key>numberOfGoodAnswersQuiz</key>
+          <integer>0</integer>
+          <key>numberOfBadAnswersQuiz</key>
+          <integer>0</integer>
+          <key>order</key>
+          <integer>22</integer>
+    </dict>
+    <dict>
+          <key>id</key>
+          <string>c18d626a-f1a3-11ed-a05b-0242ac120003</string>
+          <key>date</key>
+          <string>1699</string>
+          <key>question</key>
+          <string>¿En qué tratado cedió el Imperio Otomano territorios significativos en Europa?</string>
+          <key>correctTAnswer</key>
+          <string>Tratado de Karlowitz</string>
+          <key>incorrectAnswer1</key>
+          <string>Tratado de Westfalia</string>
+          <key>incorrectAnswer2</key>
+          <string>Tratado de Tordesillas</string>
+          <key>incorrectAnswer3</key>
+          <string>Tratado de Utrecht</string>
+          <key>wikiSearchWord</key>
+          <string>Paz de Karlowitz</string>
+          <key>questionTrueOrFalse</key>
+          <string>La Paz de Karlowitz puso fin únicamente a las guerras austro-turcas.</string>
+          <key>trueOrFalseAnswer</key>
+          <string>Falso</string>
+          <key>timeLine</key>
+          <string>Karlowitz: Pérdidas territoriales</string>
+          <key>theme</key>
+          <string>El Imperio Otomano</string>
+          <key>numberOfGoodAnswers</key>
+          <integer>0</integer>
+          <key>numberOfBadAnswers</key>
+          <integer>0</integer>
+          <key>numberOfGoodAnswersQuiz</key>
+          <integer>0</integer>
+          <key>numberOfBadAnswersQuiz</key>
+          <integer>0</integer>
+          <key>order</key>
+          <integer>23</integer>
+    </dict>
+    <dict>
+          <key>id</key>
+          <string>c18d63fa-f1a3-11ed-a05b-0242ac120003</string>
+          <key>date</key>
+          <string>1703-1730</string>
+          <key>question</key>
+          <string>¿Cómo se llama el período de relativa paz, crecimiento económico y florecimiento cultural de 1703 a 1730?</string>
+          <key>correctTAnswer</key>
+          <string>Era del Tulipán</string>
+          <key>incorrectAnswer1</key>
+          <string>Era Tanzimat</string>
+          <key>incorrectAnswer2</key>
+          <string>Edad de Oro</string>
+          <key>incorrectAnswer3</key>
+          <string>Era de la Ilustración</string>
+          <key>wikiSearchWord</key>
+          <string>Era de los tulipanes</string>
+          <key>questionTrueOrFalse</key>
+          <string>Durante la era de los tulipanes, el Imperio Otomano se orientó hacia Europa.</string>
+          <key>trueOrFalseAnswer</key>
+          <string>Verdadero</string>
+          <key>timeLine</key>
+          <string>Era del Tulipán: Crecimiento</string>
+          <key>theme</key>
+          <string>El Imperio Otomano</string>
+          <key>numberOfGoodAnswers</key>
+          <integer>0</integer>
+          <key>numberOfBadAnswers</key>
+          <integer>0</integer>
+          <key>numberOfGoodAnswersQuiz</key>
+          <integer>0</integer>
+          <key>numberOfBadAnswersQuiz</key>
+          <integer>0</integer>
+          <key>order</key>
+          <integer>24</integer>
+    </dict>
+    <dict>
+          <key>id</key>
+          <string>c18d65c6-f1a3-11ed-a05b-0242ac120003</string>
+          <key>date</key>
+          <string>1792-1808</string>
+          <key>question</key>
+          <string>¿Qué sultán implementó las reformas de Nizam-i Cedid (Nuevo Orden  de 1792 a 1808?</string>
+          <key>correctTAnswer</key>
+          <string>Selim III</string>
+          <key>incorrectAnswer1</key>
+          <string>Mahmud II</string>
+          <key>incorrectAnswer2</key>
+          <string>Abdulmejid I</string>
+          <key>incorrectAnswer3</key>
+          <string>Abdulhamid II</string>
+          <key>wikiSearchWord</key>
+          <string>Nizam-ı Cedid</string>
+          <key>questionTrueOrFalse</key>
+          <string>Las reformas del Nizam-ı Cedid se llevaron a cabo en el siglo XIX. </string>
+          <key>trueOrFalseAnswer</key>
+          <string>Falso</string>
+          <key>timeLine</key>
+          <string>Nizam-I Cedid</string>
+          <key>theme</key>
+          <string>El Imperio Otomano</string>
+          <key>numberOfGoodAnswers</key>
+          <integer>0</integer>
+          <key>numberOfBadAnswers</key>
+          <integer>0</integer>
+          <key>numberOfGoodAnswersQuiz</key>
+          <integer>0</integer>
+          <key>numberOfBadAnswersQuiz</key>
+          <integer>0</integer>
+          <key>order</key>
+          <integer>25</integer>
+    </dict>
+    <dict>
+          <key>id</key>
+          <string>c18d6792-f1a3-11ed-a05b-0242ac120003</string>
+          <key>date</key>
+          <string>1821-1832</string>
+          <key>question</key>
+          <string>¿Qué sociedad secreta, fundada en 1814, jugó un papel significativo en la organización y coordinación de la Guerra de Independencia griega?</string>
+          <key>correctTAnswer</key>
+          <string>La Filiki Eteria</string>
+          <key>incorrectAnswer1</key>
+          <string>Los Caballeros Templarios</string>
+          <key>incorrectAnswer2</key>
+          <string>Los Iluminati</string>
+          <key>incorrectAnswer3</key>
+          <string>Los Masones</string>
+          <key>wikiSearchWord</key>
+          <string>Guerra de independencia de Grecia</string>
+          <key>questionTrueOrFalse</key>
+          <string>La Batalla de Navarino resultó en la destrucción de la flota otomana-egipcia y cambió el rumbo de la guerra a favor de los revolucionarios griegos. </string>
+          <key>trueOrFalseAnswer</key>
+          <string>Verdadero</string>
+          <key>timeLine</key>
+          <string>Grecia obtiene independencia</string>
+          <key>theme</key>
+          <string>El Imperio Otomano</string>
+          <key>numberOfGoodAnswers</key>
+          <integer>0</integer>
+          <key>numberOfBadAnswers</key>
+          <integer>0</integer>
+          <key>numberOfGoodAnswersQuiz</key>
+          <integer>0</integer>
+          <key>numberOfBadAnswersQuiz</key>
+          <integer>0</integer>
+          <key>order</key>
+          <integer>26</integer>
+    </dict>
+    <dict>
+          <key>id</key>
+          <string>c18d68c8-f1a3-11ed-a05b-0242ac120003</string>
+          <key>date</key>
+          <string>1839-1876</string>
+          <key>question</key>
+          <string>¿Qué período de reformas de gran alcance intentó modernizar el Imperio Otomano de 1839 a 1876?</string>
+          <key>correctTAnswer</key>
+          <string>Era Tanzimat</string>
+          <key>incorrectAnswer1</key>
+          <string>Era del Tulipán</string>
+          <key>incorrectAnswer2</key>
+          <string>Primera Era Constitucional</string>
+          <key>incorrectAnswer3</key>
+          <string>Revolución de los Jóvenes Turcos</string>
+          <key>wikiSearchWord</key>
+          <string>Tanzimat</string>
+          <key>questionTrueOrFalse</key>
+          <string>Tanzimat fue un período de estancamiento y falta de avances en el Imperio otomano. </string>
+          <key>trueOrFalseAnswer</key>
+          <string>Falso</string>
+          <key>timeLine</key>
+          <string>Tanzimat: Modernización</string>
+          <key>theme</key>
+          <string>El Imperio Otomano</string>
+          <key>numberOfGoodAnswers</key>
+          <integer>0</integer>
+          <key>numberOfBadAnswers</key>
+          <integer>0</integer>
+          <key>numberOfGoodAnswersQuiz</key>
+          <integer>0</integer>
+          <key>numberOfBadAnswersQuiz</key>
+          <integer>0</integer>
+          <key>order</key>
+          <integer>27</integer>
+    </dict>
+    <dict>
+          <key>id</key>
+          <string>c18d6a12-f1a3-11ed-a05b-0242ac120003</string>
+          <key>date</key>
+          <string>1908</string>
+          <key>question</key>
+          <string>¿Qué evento en 1908 condujo a la restauración de la Constitución Otomana y la Segunda Era Constitucional?</string>
+          <key>correctTAnswer</key>
+          <string>La Revolución de los Jóvenes Turcos</string>
+          <key>incorrectAnswer1</key>
+          <string>Asesinato de Abdulhamid II</string>
+          <key>incorrectAnswer2</key>
+          <string>El Congreso de Berlín</string>
+          <key>incorrectAnswer3</key>
+          <string>Las Guerras Balcánicas</string>
+          <key>wikiSearchWord</key>
+          <string>Revolución de los Jóvenes Turcos</string>
+          <key>questionTrueOrFalse</key>
+          <string>El proceso de suplantar las instituciones monárquicas por instituciones constitucionales fue sencillo y rápido. </string>
+          <key>trueOrFalseAnswer</key>
+          <string>Falso</string>
+          <key>timeLine</key>
+          <string>Revolución de los Jóvenes Turcos</string>
+          <key>theme</key>
+          <string>El Imperio Otomano</string>
+          <key>numberOfGoodAnswers</key>
+          <integer>0</integer>
+          <key>numberOfBadAnswers</key>
+          <integer>0</integer>
+          <key>numberOfGoodAnswersQuiz</key>
+          <integer>0</integer>
+          <key>numberOfBadAnswersQuiz</key>
+          <integer>0</integer>
+          <key>order</key>
+          <integer>28</integer>
+    </dict>
+    <dict>
+          <key>id</key>
+          <string>c18d6b66-f1a3-11ed-a05b-0242ac120003</string>
+          <key>date</key>
+          <string>1914-1918</string>
+          <key>question</key>
+          <string>¿De qué lado se unió el Imperio Otomano durante la Primera Guerra Mundial?</string>
+          <key>correctTAnswer</key>
+          <string>Potencias Centrales</string>
+          <key>incorrectAnswer1</key>
+          <string>Potencias Aliadas</string>
+          <key>incorrectAnswer2</key>
+          <string>Neutral</string>
+          <key>incorrectAnswer3</key>
+          <string>Cambiaron de bando durante la guerra</string>
+          <key>wikiSearchWord</key>
+          <string>Imperio otomano durante la Primera Guerra Mundial</string>
+          <key>questionTrueOrFalse</key>
+          <string>El Imperio otomano capituló al final de la Primera Guerra Mundial. </string>
+          <key>trueOrFalseAnswer</key>
+          <string>Verdadero</string>
+          <key>timeLine</key>
+          <string>Primera Guerra Mundial: Aliado de las Potencias Centrales</string>
+          <key>theme</key>
+          <string>El Imperio Otomano</string>
+          <key>numberOfGoodAnswers</key>
+          <integer>0</integer>
+          <key>numberOfBadAnswers</key>
+          <integer>0</integer>
+          <key>numberOfGoodAnswersQuiz</key>
+          <integer>0</integer>
+          <key>numberOfBadAnswersQuiz</key>
+          <integer>0</integer>
+          <key>order</key>
+          <integer>29</integer>
+    </dict>
+    <dict>
+          <key>id</key>
+          <string>c18d6cd8-f1a3-11ed-a05b-0242ac120003</string>
+          <key>date</key>
+          <string>1922-1923</string>
+          <key>question</key>
+          <string>¿Qué líder formó la República de Turquía después de la disolución del Imperio Otomano?</string>
+          <key>correctTAnswer</key>
+          <string>Mustafa Kemal Atatürk</string>
+          <key>incorrectAnswer1</key>
+          <string>İsmet İnönü</string>
+          <key>incorrectAnswer2</key>
+          <string>Fethi Okyar</string>
+          <key>incorrectAnswer3</key>
+          <string>Recep Tayyip Erdoğan</string>
+          <key>wikiSearchWord</key>
+          <string>Disolución del Imperio otomano</string>
+          <key>questionTrueOrFalse</key>
+          <string>La disolución del Imperio otomano se produjo de manera pacífica y consensuada entre todas las partes involucradas. </string>
+          <key>trueOrFalseAnswer</key>
+          <string>Falso</string>
+          <key>timeLine</key>
+          <string>El imperio se disuelve, se forma Turquía</string>
+          <key>theme</key>
+          <string>El Imperio Otomano</string>
+          <key>numberOfGoodAnswers</key>
+          <integer>0</integer>
+          <key>numberOfBadAnswers</key>
+          <integer>0</integer>
+          <key>numberOfGoodAnswersQuiz</key>
+          <integer>0</integer>
+          <key>numberOfBadAnswersQuiz</key>
+          <integer>0</integer>
+          <key>order</key>
+          <integer>30</integer>
+    </dict>
+</array>
+</plist>

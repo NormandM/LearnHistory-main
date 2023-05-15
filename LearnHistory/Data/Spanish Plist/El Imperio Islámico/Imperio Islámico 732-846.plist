@@ -1,0 +1,366 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<!DOCTYPE plist PUBLIC "-//Apple//DTD PLIST 1.0//EN" "http://www.apple.com/DTDs/PropertyList-1.0.dtd">
+<plist version="1.0">
+<array>
+	<dict>
+		<key>correctTAnswer</key>
+		<string>Sufrieron muchas bajas y perdieron la moral, lo que provocó conflictos internos</string>
+		<key>date</key>
+		<string>732</string>
+		<key>id</key>
+		<string>fd9db31e-8884-11ed-a1eb-0242ac120002</string>
+		<key>incorrectAnswer1</key>
+		<string>Obtuvieron el control de nuevos territorios y extendieron el Islam por Europa</string>
+		<key>incorrectAnswer2</key>
+		<string>Se vieron obligados a pagar tributo a los francos y adoptar el cristianismo</string>
+		<key>incorrectAnswer3</key>
+		<string>Ganaron mayor prestigio y poder en Europa</string>
+		<key>numberOfBadAnswers</key>
+		<integer>0</integer>
+		<key>numberOfBadAnswersQuiz</key>
+		<integer>0</integer>
+		<key>numberOfGoodAnswers</key>
+		<integer>0</integer>
+		<key>numberOfGoodAnswersQuiz</key>
+		<integer>0</integer>
+		<key>order</key>
+		<integer>11</integer>
+		<key>question</key>
+		<string>¿Cuál fue la consecuencia a largo plazo de la batalla de Tours para los moros?</string>
+		<key>questionTrueOrFalse</key>
+		<string>La batalla de Poitiers fue una victoria para los musulmanes.</string>
+		<key>theme</key>
+		<string>Imperio Islámico 732-846</string>
+		<key>timeLine</key>
+		<string>Batalla de Tours</string>
+		<key>trueOrFalseAnswer</key>
+		<string>Falso</string>
+		<key>wikiSearchWord</key>
+		<string>Batalla de Poitiers (732)</string>
+	</dict>
+	<dict>
+		<key>correctTAnswer</key>
+		<string>La traducción de obras filosóficas y científicas griegas al árabe</string>
+		<key>date</key>
+		<string>750</string>
+		<key>id</key>
+		<string>fd9db4f4-8884-11ed-a1eb-0242ac120002</string>
+		<key>incorrectAnswer1</key>
+		<string>La construcción del Taj Mahal</string>
+		<key>incorrectAnswer2</key>
+		<string>El desarrollo de la imprenta</string>
+		<key>incorrectAnswer3</key>
+		<string>La construcción de la Gran Muralla China</string>
+		<key>numberOfBadAnswers</key>
+		<integer>0</integer>
+		<key>numberOfBadAnswersQuiz</key>
+		<integer>0</integer>
+		<key>numberOfGoodAnswers</key>
+		<integer>0</integer>
+		<key>numberOfGoodAnswersQuiz</key>
+		<integer>0</integer>
+		<key>order</key>
+		<integer>12</integer>
+		<key>question</key>
+		<string>¿Qué importantes logros culturales e intelectuales se asocian con el Califato Abbasí?</string>
+		<key>questionTrueOrFalse</key>
+		<string>El último califa abasí fue asesinado por los mongoles en 1258 y el imperio fue conquistado por Hulagu, nieto de Genghis Khan.</string>
+		<key>theme</key>
+		<string>Imperio Islámico 732-846</string>
+		<key>timeLine</key>
+		<string>Comienza el califato abasí. </string>
+		<key>trueOrFalseAnswer</key>
+		<string>Verdadero</string>
+		<key>wikiSearchWord</key>
+		<string>Califato abasí</string>
+	</dict>
+	<dict>
+		<key>correctTAnswer</key>
+		<string>En China</string>
+		<key>date</key>
+		<string>751</string>
+		<key>id</key>
+		<string>fd9db65c-8884-11ed-a1eb-0242ac120002</string>
+		<key>incorrectAnswer1</key>
+		<string>En la India</string>
+		<key>incorrectAnswer2</key>
+		<string>En Egipto</string>
+		<key>incorrectAnswer3</key>
+		<string>En Mesopotamia</string>
+		<key>numberOfBadAnswers</key>
+		<integer>0</integer>
+		<key>numberOfBadAnswersQuiz</key>
+		<integer>0</integer>
+		<key>numberOfGoodAnswers</key>
+		<integer>0</integer>
+		<key>numberOfGoodAnswersQuiz</key>
+		<integer>0</integer>
+		<key>order</key>
+		<integer>13</integer>
+		<key>question</key>
+		<string>¿Dónde encontró la civilización árabe el papel por primera vez?</string>
+		<key>questionTrueOrFalse</key>
+		<string>El Islam suní es la religión más practicada en Asia Central.</string>
+		<key>theme</key>
+		<string>Imperio Islámico 732-846</string>
+		<key>timeLine</key>
+		<string>Los musulmanes utilizan el papel por primera vez.</string>
+		<key>trueOrFalseAnswer</key>
+		<string>Verdadero</string>
+		<key>wikiSearchWord</key>
+		<string>Islam en Asia Central</string>
+	</dict>
+	<dict>
+		<key>correctTAnswer</key>
+		<string>Siglo X</string>
+		<key>date</key>
+		<string>756</string>
+		<key>id</key>
+		<string>fd9db788-8884-11ed-a1eb-0242ac120002</string>
+		<key>incorrectAnswer1</key>
+		<string>Siglo IX</string>
+		<key>incorrectAnswer2</key>
+		<string>Siglo XII</string>
+		<key>incorrectAnswer3</key>
+		<string>Siglo XI</string>
+		<key>numberOfBadAnswers</key>
+		<integer>0</integer>
+		<key>numberOfBadAnswersQuiz</key>
+		<integer>0</integer>
+		<key>numberOfGoodAnswers</key>
+		<integer>0</integer>
+		<key>numberOfGoodAnswersQuiz</key>
+		<integer>0</integer>
+		<key>order</key>
+		<integer>14</integer>
+		<key>question</key>
+		<string>¿Durante qué siglo alcanzó el emirato de Córdoba su máximo poder y prosperidad?</string>
+		<key>questionTrueOrFalse</key>
+		<string>El poder omeya era el más débil de los poderes independientes que surgieron en el Occidente musulmán.</string>
+		<key>theme</key>
+		<string>Imperio Islámico 732-846</string>
+		<key>timeLine</key>
+		<string>Fundación del emirato de Córdoba</string>
+		<key>trueOrFalseAnswer</key>
+		<string>Falso</string>
+		<key>wikiSearchWord</key>
+		<string>Emirato de Córdoba</string>
+	</dict>
+	<dict>
+		<key>correctTAnswer</key>
+		<string>Para servir de capital al califato abbasí</string>
+		<key>date</key>
+		<string>762</string>
+		<key>id</key>
+		<string>fd9dbd0a-8884-11ed-a1eb-0242ac120002</string>
+		<key>incorrectAnswer1</key>
+		<string>Como fortaleza militar</string>
+		<key>incorrectAnswer2</key>
+		<string>Para servir de centro de las artes y la cultura</string>
+		<key>incorrectAnswer3</key>
+		<string>Para servir de centro de intercambio y comercio</string>
+		<key>numberOfBadAnswers</key>
+		<integer>0</integer>
+		<key>numberOfBadAnswersQuiz</key>
+		<integer>0</integer>
+		<key>numberOfGoodAnswers</key>
+		<integer>0</integer>
+		<key>numberOfGoodAnswersQuiz</key>
+		<integer>0</integer>
+		<key>order</key>
+		<integer>15</integer>
+		<key>question</key>
+		<string>¿Cuál fue el principal objetivo de la fundación de Bagdad?</string>
+		<key>questionTrueOrFalse</key>
+		<string>Bagdad fue fundada en el siglo VIII y se convirtió en la capital del Califato abasí.</string>
+		<key>theme</key>
+		<string>Imperio Islámico 732-846</string>
+		<key>timeLine</key>
+		<string>Fundación de Bagdad</string>
+		<key>trueOrFalseAnswer</key>
+		<string>Verdadero</string>
+		<key>wikiSearchWord</key>
+		<string>Bagdad</string>
+	</dict>
+	<dict>
+		<key>correctTAnswer</key>
+		<string>Muhammad ibn Musa al-Jwarizmi</string>
+		<key>date</key>
+		<string>780</string>
+		<key>id</key>
+		<string>fd9dbe90-8884-11ed-a1eb-0242ac120002</string>
+		<key>incorrectAnswer1</key>
+		<string>Euclides</string>
+		<key>incorrectAnswer2</key>
+		<string>Pitágoras</string>
+		<key>incorrectAnswer3</key>
+		<string>René Descartes</string>
+		<key>numberOfBadAnswers</key>
+		<integer>0</integer>
+		<key>numberOfBadAnswersQuiz</key>
+		<integer>0</integer>
+		<key>numberOfGoodAnswers</key>
+		<integer>0</integer>
+		<key>numberOfGoodAnswersQuiz</key>
+		<integer>0</integer>
+		<key>order</key>
+		<integer>16</integer>
+		<key>question</key>
+		<string>¿A quién se atribuye la invención del álgebra?</string>
+		<key>questionTrueOrFalse</key>
+		<string>Al-Juarismi fue el primero en tratar el álgebra como una disciplina independiente .</string>
+		<key>theme</key>
+		<string>Imperio Islámico 732-846</string>
+		<key>timeLine</key>
+		<string>Nace Muhammad ibn Musa al-Jwarizmi</string>
+		<key>trueOrFalseAnswer</key>
+		<string>Verdadero</string>
+		<key>wikiSearchWord</key>
+		<string>Al-Juarismi</string>
+	</dict>
+	<dict>
+		<key>correctTAnswer</key>
+		<string>España</string>
+		<key>date</key>
+		<string>784</string>
+		<key>id</key>
+		<string>fd9dcf02-8884-11ed-a1eb-0242ac120002</string>
+		<key>incorrectAnswer1</key>
+		<string>Marruecos</string>
+		<key>incorrectAnswer2</key>
+		<string>Egipto</string>
+		<key>incorrectAnswer3</key>
+		<string>Iraq</string>
+		<key>numberOfBadAnswers</key>
+		<integer>0</integer>
+		<key>numberOfBadAnswersQuiz</key>
+		<integer>0</integer>
+		<key>numberOfGoodAnswers</key>
+		<integer>0</integer>
+		<key>numberOfGoodAnswersQuiz</key>
+		<integer>0</integer>
+		<key>order</key>
+		<integer>16</integer>
+		<key>question</key>
+		<string>¿En qué país se construyó la Mezquita Mayor de Córdoba?</string>
+		<key>questionTrueOrFalse</key>
+		<string>la Mezquita-Catedral de Córdoba se construyó como mezquita en el año 784.</string>
+		<key>theme</key>
+		<string>Imperio Islámico 732-846</string>
+		<key>timeLine</key>
+		<string>Se construye la Gran Mezquita de Córdoba</string>
+		<key>trueOrFalseAnswer</key>
+		<string>Verdadero</string>
+		<key>wikiSearchWord</key>
+		<string>Mezquita-catedral de Córdoba</string>
+	</dict>
+	<dict>
+		<key>correctTAnswer</key>
+		<string>El califa Harun al-Rashid</string>
+		<key>date</key>
+		<string>786</string>
+		<key>id</key>
+		<string>fd9dbfb2-8884-11ed-a1eb-0242ac120002</string>
+		<key>incorrectAnswer1</key>
+		<string>El califa Umar</string>
+		<key>incorrectAnswer2</key>
+		<string>l califa Abu Bakr</string>
+		<key>incorrectAnswer3</key>
+		<string>El Califa Alí</string>
+		<key>numberOfBadAnswers</key>
+		<integer>0</integer>
+		<key>numberOfBadAnswersQuiz</key>
+		<integer>0</integer>
+		<key>numberOfGoodAnswers</key>
+		<integer>0</integer>
+		<key>numberOfGoodAnswersQuiz</key>
+		<integer>0</integer>
+		<key>order</key>
+		<integer>17</integer>
+		<key>question</key>
+		<string>¿A quién se atribuye el establecimiento de la &quot;Edad de Oro islámica&quot;?</string>
+		<key>questionTrueOrFalse</key>
+		<string>La Edad de Oro del islam se extendió hasta el siglo xv. </string>
+		<key>theme</key>
+		<string>Imperio Islámico 732-846</string>
+		<key>timeLine</key>
+		<string>Comienza la Edad de Oro islámica</string>
+		<key>trueOrFalseAnswer</key>
+		<string>Falso</string>
+		<key>wikiSearchWord</key>
+		<string>Edad de Oro del islam</string>
+	</dict>
+	<dict>
+		<key>correctTAnswer</key>
+		<string>Árabe</string>
+		<key>date</key>
+		<string>786</string>
+		<key>id</key>
+		<string>fd9dc19c-8884-11ed-a1eb-0242ac120002</string>
+		<key>incorrectAnswer1</key>
+		<string>Persa</string>
+		<key>incorrectAnswer2</key>
+		<string>francés</string>
+		<key>incorrectAnswer3</key>
+		<string>Inglés</string>
+		<key>numberOfBadAnswers</key>
+		<integer>0</integer>
+		<key>numberOfBadAnswersQuiz</key>
+		<integer>0</integer>
+		<key>numberOfGoodAnswers</key>
+		<integer>0</integer>
+		<key>numberOfGoodAnswersQuiz</key>
+		<integer>0</integer>
+		<key>order</key>
+		<integer>17</integer>
+		<key>question</key>
+		<string>¿Cuál es la lengua original de Las mil y una noches?</string>
+		<key>questionTrueOrFalse</key>
+		<string>Las Mil y una noches fue escrita por un solo autor durante un corto período de tiempo. </string>
+		<key>theme</key>
+		<string>Imperio Islámico 732-846</string>
+		<key>timeLine</key>
+		<string> Se escriben Las mil y una noches</string>
+		<key>trueOrFalseAnswer</key>
+		<string>Falso</string>
+		<key>wikiSearchWord</key>
+		<string>Las mil y una noches</string>
+	</dict>
+	<dict>
+		<key>correctTAnswer</key>
+		<string>Sherezade</string>
+		<key>date</key>
+		<string>786</string>
+		<key>id</key>
+		<string>fd9dc50c-8884-11ed-a1eb-0242ac120002</string>
+		<key>incorrectAnswer1</key>
+		<string>Simbad</string>
+		<key>incorrectAnswer2</key>
+		<string>Aladino</string>
+		<key>incorrectAnswer3</key>
+		<string>Alí Babá</string>
+		<key>numberOfBadAnswers</key>
+		<integer>0</integer>
+		<key>numberOfBadAnswersQuiz</key>
+		<integer>0</integer>
+		<key>numberOfGoodAnswers</key>
+		<integer>0</integer>
+		<key>numberOfGoodAnswersQuiz</key>
+		<integer>0</integer>
+		<key>order</key>
+		<integer>18</integer>
+		<key>question</key>
+		<string>¿Quién es el personaje principal de Las mil y una noches?</string>
+		<key>questionTrueOrFalse</key>
+		<string>Las Mil y una noches fue traducida al árabe desde una obra persa llamada Hezār Afsān. </string>
+		<key>theme</key>
+		<string>Imperio Islámico 732-846</string>
+		<key>timeLine</key>
+		<string> Se escriben Las mil y una noches</string>
+		<key>trueOrFalseAnswer</key>
+		<string>Verdadero</string>
+		<key>wikiSearchWord</key>
+		<string>Las mil y una noches</string>
+	</dict>
+</array>
+</plist>

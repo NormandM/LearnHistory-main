@@ -1,0 +1,366 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<!DOCTYPE plist PUBLIC "-//Apple//DTD PLIST 1.0//EN" "http://www.apple.com/DTDs/PropertyList-1.0.dtd">
+<plist version="1.0">
+<array>
+	<dict>
+		<key>correctTAnswer</key>
+		<string> Jérusalem</string>
+		<key>date</key>
+		<string>1204</string>
+		<key>id</key>
+		<string>65e79094-eab8-11ed-a05b-0242ac120003</string>
+		<key>incorrectAnswer1</key>
+		<string> Le Caire</string>
+		<key>incorrectAnswer2</key>
+		<string> Antioche</string>
+		<key>incorrectAnswer3</key>
+		<string> Alexandrie</string>
+		<key>numberOfBadAnswers</key>
+		<integer>0</integer>
+		<key>numberOfBadAnswersQuiz</key>
+		<integer>0</integer>
+		<key>numberOfGoodAnswers</key>
+		<integer>0</integer>
+		<key>numberOfGoodAnswersQuiz</key>
+		<integer>0</integer>
+		<key>order</key>
+		<integer>21</integer>
+		<key>question</key>
+		<string>Quelle ville était la cible principale de la quatrième croisade avant qu&apos;elle ne soit détournée vers Constantinople ?</string>
+		<key>questionTrueOrFalse</key>
+		<string> La quatrième croisade a conduit à la prise de Constantinople par les croisés.</string>
+		<key>theme</key>
+		<string>L&apos;empire byzantin 1204-1461</string>
+		<key>timeLine</key>
+		<string>Quatrième croisade et sac de Constantinople</string>
+		<key>trueOrFalseAnswer</key>
+		<string>Vrai</string>
+		<key>wikiSearchWord</key>
+		<string>Quatrième croisade</string>
+	</dict>
+	<dict>
+		<key>correctTAnswer</key>
+		<string> Michel VIII Paléologue</string>
+		<key>date</key>
+		<string>1261</string>
+		<key>id</key>
+		<string>65e79206-eab8-11ed-a05b-0242ac120003</string>
+		<key>incorrectAnswer1</key>
+		<string> Andronic II Paléologue</string>
+		<key>incorrectAnswer2</key>
+		<string> Jean III Doukas Vatatzès</string>
+		<key>incorrectAnswer3</key>
+		<string> Théodore II Laskaris</string>
+		<key>numberOfBadAnswers</key>
+		<integer>0</integer>
+		<key>numberOfBadAnswersQuiz</key>
+		<integer>0</integer>
+		<key>numberOfGoodAnswers</key>
+		<integer>0</integer>
+		<key>numberOfGoodAnswersQuiz</key>
+		<integer>0</integer>
+		<key>order</key>
+		<integer>22</integer>
+		<key>question</key>
+		<string>Qui était l&apos;empereur byzantin responsable de la reconquête de Constantinople de l&apos;Empire latin ?</string>
+		<key>questionTrueOrFalse</key>
+		<string> L&apos;Empire latin de Constantinople a duré environ 150 ans.</string>
+		<key>theme</key>
+		<string>L&apos;empire byzantin 1204-1461</string>
+		<key>timeLine</key>
+		<string>Reprise de Constantinople</string>
+		<key>trueOrFalseAnswer</key>
+		<string>Faux</string>
+		<key>wikiSearchWord</key>
+		<string>Empire latin de Constantinople</string>
+	</dict>
+	<dict>
+		<key>correctTAnswer</key>
+		<string> Osman Ier</string>
+		<key>date</key>
+		<string>1302</string>
+		<key>id</key>
+		<string>65e79332-eab8-11ed-a05b-0242ac120003</string>
+		<key>incorrectAnswer1</key>
+		<string> Bayezid Ier</string>
+		<key>incorrectAnswer2</key>
+		<string> Orhan</string>
+		<key>incorrectAnswer3</key>
+		<string> Murad Ier</string>
+		<key>numberOfBadAnswers</key>
+		<integer>0</integer>
+		<key>numberOfBadAnswersQuiz</key>
+		<integer>0</integer>
+		<key>numberOfGoodAnswers</key>
+		<integer>0</integer>
+		<key>numberOfGoodAnswersQuiz</key>
+		<integer>0</integer>
+		<key>order</key>
+		<integer>23</integer>
+		<key>question</key>
+		<string>Quel chef ottoman a remporté une victoire décisive contre les Byzantins lors de la bataille de Bapheus ?</string>
+		<key>questionTrueOrFalse</key>
+		<string> La bataille de Bapheus a opposé les Byzantins aux Ottomans.</string>
+		<key>theme</key>
+		<string>L&apos;empire byzantin 1204-1461</string>
+		<key>timeLine</key>
+		<string>Bataille de Bapheus</string>
+		<key>trueOrFalseAnswer</key>
+		<string>Vrai</string>
+		<key>wikiSearchWord</key>
+		<string>Bataille de Bapheus</string>
+	</dict>
+	<dict>
+		<key>correctTAnswer</key>
+		<string> Jean VI Cantacuzène</string>
+		<key>date</key>
+		<string>1347-1354</string>
+		<key>id</key>
+		<string>65e7945e-eab8-11ed-a05b-0242ac120003</string>
+		<key>incorrectAnswer1</key>
+		<string> Jean V Paléologue</string>
+		<key>incorrectAnswer2</key>
+		<string> Andronic III Paléologue</string>
+		<key>incorrectAnswer3</key>
+		<string> Anne de Savoie</string>
+		<key>numberOfBadAnswers</key>
+		<integer>0</integer>
+		<key>numberOfBadAnswersQuiz</key>
+		<integer>0</integer>
+		<key>numberOfGoodAnswers</key>
+		<integer>0</integer>
+		<key>numberOfGoodAnswersQuiz</key>
+		<integer>0</integer>
+		<key>order</key>
+		<integer>24</integer>
+		<key>question</key>
+		<string>Qui a émergé en tant que vainqueur de la guerre civile byzantine de 1341-1347 ?</string>
+		<key>questionTrueOrFalse</key>
+		<string> La guerre civile de Byzance (1341-1347) a été résolue pacifiquement.</string>
+		<key>theme</key>
+		<string>L&apos;empire byzantin 1204-1461</string>
+		<key>timeLine</key>
+		<string>Guerre civile</string>
+		<key>trueOrFalseAnswer</key>
+		<string>Faux</string>
+		<key>wikiSearchWord</key>
+		<string>Guerre civile de Byzance (1341-1347)</string>
+	</dict>
+	<dict>
+		<key>correctTAnswer</key>
+		<string> Jean V Paléologue</string>
+		<key>date</key>
+		<string>1373</string>
+		<key>id</key>
+		<string>65e79580-eab8-11ed-a05b-0242ac120003</string>
+		<key>incorrectAnswer1</key>
+		<string> Jean VII Paléologue</string>
+		<key>incorrectAnswer2</key>
+		<string> Andronic IV Paléologue</string>
+		<key>incorrectAnswer3</key>
+		<string> Manuel II Paléologue</string>
+		<key>numberOfBadAnswers</key>
+		<integer>0</integer>
+		<key>numberOfBadAnswersQuiz</key>
+		<integer>0</integer>
+		<key>numberOfGoodAnswers</key>
+		<integer>0</integer>
+		<key>numberOfGoodAnswersQuiz</key>
+		<integer>0</integer>
+		<key>order</key>
+		<integer>25</integer>
+		<key>question</key>
+		<string>Quel empereur byzantin a été contraint de rendre l&apos;empire vassal de l&apos;État ottoman après une révolte ratée ?</string>
+		<key>questionTrueOrFalse</key>
+		<string> Les guerres turco-byzantines se sont achevées par la victoire finale de L&apos;empire byzantin 1204-1461.</string>
+		<key>theme</key>
+		<string>L&apos;empire byzantin 1204-1461</string>
+		<key>timeLine</key>
+		<string>État vassal ottoman</string>
+		<key>trueOrFalseAnswer</key>
+		<string>Faux</string>
+		<key>wikiSearchWord</key>
+		<string>Guerres turco-byzantines</string>
+	</dict>
+	<dict>
+		<key>correctTAnswer</key>
+		<string> Philadelphie</string>
+		<key>date</key>
+		<string>1390</string>
+		<key>id</key>
+		<string>65e79814-eab8-11ed-a05b-0242ac120003</string>
+		<key>incorrectAnswer1</key>
+		<string> Nicée</string>
+		<key>incorrectAnswer2</key>
+		<string> Nicomédie</string>
+		<key>incorrectAnswer3</key>
+		<string> Andrinople</string>
+		<key>numberOfBadAnswers</key>
+		<integer>0</integer>
+		<key>numberOfBadAnswersQuiz</key>
+		<integer>0</integer>
+		<key>numberOfGoodAnswers</key>
+		<integer>0</integer>
+		<key>numberOfGoodAnswersQuiz</key>
+		<integer>0</integer>
+		<key>order</key>
+		<integer>26</integer>
+		<key>question</key>
+		<string>Quelle était la dernière ville byzantine à tomber aux mains des Ottomans avant la chute de Constantinople ?</string>
+		<key>questionTrueOrFalse</key>
+		<string> La chute de Philadelphie en 1456 marque la fin de l&apos;Empire byzantin.</string>
+		<key>theme</key>
+		<string>L&apos;empire byzantin 1204-1461</string>
+		<key>timeLine</key>
+		<string>Chute de Philadelphie</string>
+		<key>trueOrFalseAnswer</key>
+		<string>Faux</string>
+		<key>wikiSearchWord</key>
+		<string>Chute de Philadelphie</string>
+	</dict>
+	<dict>
+		<key>correctTAnswer</key>
+		<string> Murad II</string>
+		<key>date</key>
+		<string>1422</string>
+		<key>id</key>
+		<string>65e79940-eab8-11ed-a05b-0242ac120003</string>
+		<key>incorrectAnswer1</key>
+		<string> Bayezid Ier</string>
+		<key>incorrectAnswer2</key>
+		<string> Mehmed Ier</string>
+		<key>incorrectAnswer3</key>
+		<string>Mehmed II</string>
+		<key>numberOfBadAnswers</key>
+		<integer>0</integer>
+		<key>numberOfBadAnswersQuiz</key>
+		<integer>0</integer>
+		<key>numberOfGoodAnswers</key>
+		<integer>0</integer>
+		<key>numberOfGoodAnswersQuiz</key>
+		<integer>0</integer>
+		<key>order</key>
+		<integer>27</integer>
+		<key>question</key>
+		<string>Quel sultan ottoman a dirigé le second siège de Constantinople en 1422 ?</string>
+		<key>questionTrueOrFalse</key>
+		<string> Les guerres turco-byzantines ont été déclenchées par des conflits religieux.</string>
+		<key>theme</key>
+		<string>L&apos;empire byzantin 1204-1461</string>
+		<key>timeLine</key>
+		<string>Deuxième siège ottoman de Constantinople</string>
+		<key>trueOrFalseAnswer</key>
+		<string>Vrai</string>
+		<key>wikiSearchWord</key>
+		<string>Guerres turco-byzantines</string>
+	</dict>
+	<dict>
+		<key>correctTAnswer</key>
+		<string> Réaliser l&apos;union ecclésiastique entre les Églises orthodoxe orientale et catholique romaine</string>
+		<key>date</key>
+		<string>1439</string>
+		<key>id</key>
+		<string>65e79a6c-eab8-11ed-a05b-0242ac120003</string>
+		<key>incorrectAnswer1</key>
+		<string> Pour aborder la montée du protestantisme</string>
+		<key>incorrectAnswer2</key>
+		<string> Pour organiser une nouvelle croisade contre l&apos;Empire ottoman</string>
+		<key>incorrectAnswer3</key>
+		<string> Pour réformer l&apos;Église catholique romaine</string>
+		<key>numberOfBadAnswers</key>
+		<integer>0</integer>
+		<key>numberOfBadAnswersQuiz</key>
+		<integer>0</integer>
+		<key>numberOfGoodAnswers</key>
+		<integer>0</integer>
+		<key>numberOfGoodAnswersQuiz</key>
+		<integer>0</integer>
+		<key>order</key>
+		<integer>28</integer>
+		<key>question</key>
+		<string>Quel était l&apos;objectif principal du Concile de Florence ?</string>
+		<key>questionTrueOrFalse</key>
+		<string> Les apports byzantins ont joué un rôle majeur dans la Renaissance italienne.</string>
+		<key>theme</key>
+		<string>L&apos;empire byzantin 1204-1461</string>
+		<key>timeLine</key>
+		<string>Concile de Florence</string>
+		<key>trueOrFalseAnswer</key>
+		<string>Vrai</string>
+		<key>wikiSearchWord</key>
+		<string>Apports byzantins à la Renaissance italienne</string>
+	</dict>
+	<dict>
+		<key>correctTAnswer</key>
+		<string> Constantin XI Paléologue</string>
+		<key>date</key>
+		<string>1453</string>
+		<key>id</key>
+		<string>65e79b84-eab8-11ed-a05b-0242ac120003</string>
+		<key>incorrectAnswer1</key>
+		<string> Jean VIII Paléologue</string>
+		<key>incorrectAnswer2</key>
+		<string> Thomas Paléologue</string>
+		<key>incorrectAnswer3</key>
+		<string> Démétrios Paléologue</string>
+		<key>numberOfBadAnswers</key>
+		<integer>0</integer>
+		<key>numberOfBadAnswersQuiz</key>
+		<integer>0</integer>
+		<key>numberOfGoodAnswers</key>
+		<integer>0</integer>
+		<key>numberOfGoodAnswersQuiz</key>
+		<integer>0</integer>
+		<key>order</key>
+		<integer>29</integer>
+		<key>question</key>
+		<string>Qui était le dernier empereur byzantin lors de la chute de Constantinople ?</string>
+		<key>questionTrueOrFalse</key>
+		<string> La chute de Constantinople a eu lieu en 1453.</string>
+		<key>theme</key>
+		<string>L&apos;empire byzantin 1204-1461</string>
+		<key>timeLine</key>
+		<string>Chute de Constantinople</string>
+		<key>trueOrFalseAnswer</key>
+		<string>Vrai</string>
+		<key>wikiSearchWord</key>
+		<string>Chute de Constantinople</string>
+	</dict>
+	<dict>
+		<key>correctTAnswer</key>
+		<string> David Megas Komnène</string>
+		<key>date</key>
+		<string>1461</string>
+		<key>id</key>
+		<string>65e79ca6-eab8-11ed-a05b-0242ac120003</string>
+		<key>incorrectAnswer1</key>
+		<string> Alexis IV Megas Comnène</string>
+		<key>incorrectAnswer2</key>
+		<string> Jean IV Megas Comnène</string>
+		<key>incorrectAnswer3</key>
+		<string> Manuel III Megas Comnène</string>
+		<key>numberOfBadAnswers</key>
+		<integer>0</integer>
+		<key>numberOfBadAnswersQuiz</key>
+		<integer>0</integer>
+		<key>numberOfGoodAnswers</key>
+		<integer>0</integer>
+		<key>numberOfGoodAnswersQuiz</key>
+		<integer>0</integer>
+		<key>order</key>
+		<integer>30</integer>
+		<key>question</key>
+		<string>Qui était le dirigeant de l&apos;Empire de Trébizonde au moment de sa chute face à l&apos;Empire ottoman ?</string>
+		<key>questionTrueOrFalse</key>
+		<string> L&apos;Empire de Trébizonde a été fondé par des descendants d&apos;Alexis Ier Comnène.</string>
+		<key>theme</key>
+		<string>L&apos;empire byzantin 1204-1461</string>
+		<key>timeLine</key>
+		<string>Chute de l&apos;Empire de Trébizonde</string>
+		<key>trueOrFalseAnswer</key>
+		<string>Faux</string>
+		<key>wikiSearchWord</key>
+		<string>Empire de Trébizonde</string>
+	</dict>
+</array>
+</plist>

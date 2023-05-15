@@ -1,0 +1,368 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<!DOCTYPE plist PUBLIC "-//Apple//DTD PLIST 1.0//EN" "http://www.apple.com/DTDs/PropertyList-1.0.dtd">
+<plist version="1.0">
+<array>
+	<dict>
+		<key>correctTAnswer</key>
+		<string>Afrique</string>
+		<key>date</key>
+		<string>Il y a 35 000 à 15 000 ans</string>
+		<key>id</key>
+		<string>f505f4f6-8310-11ed-a1eb-0242ac120002</string>
+		<key>incorrectAnswer1</key>
+		<string>Asie</string>
+		<key>incorrectAnswer2</key>
+		<string>Europe</string>
+		<key>incorrectAnswer3</key>
+		<string>Australie</string>
+		<key>numberOfBadAnswers</key>
+		<integer>0</integer>
+		<key>numberOfBadAnswersQuiz</key>
+		<integer>0</integer>
+		<key>numberOfGoodAnswers</key>
+		<integer>0</integer>
+		<key>numberOfGoodAnswersQuiz</key>
+		<integer>0</integer>
+		<key>order</key>
+		<integer>1</integer>
+		<key>question</key>
+		<string>On pense que les Ibères préhistoriques ont migré vers l&apos;Ibérie à partir de laquelle des régions suivantes ?</string>
+		<key>questionTrueOrFalse</key>
+		<string>La péninsule ibérique est connue pour son art pariétal exceptionnel.</string>
+		<key>theme</key>
+		<string>Espagne 35000-1469</string>
+		<key>timeLine</key>
+		<string>Homo sapiens arrive dans la péninsule ibérique</string>
+		<key>trueOrFalseAnswer</key>
+		<string>Vrai</string>
+		<key>wikiSearchWord</key>
+		<string>Art rupestre du bassin méditerranéen de la péninsule Ibérique</string>
+	</dict>
+	<dict>
+		<key>correctTAnswer</key>
+		<string>Agriculture et élevage</string>
+		<key>date</key>
+		<string>2200 av. - 1550 av.</string>
+		<key>id</key>
+		<string>f505f79e-8310-11ed-a1eb-0242ac120002</string>
+		<key>incorrectAnswer1</key>
+		<string>Échanges et commerce</string>
+		<key>incorrectAnswer2</key>
+		<string>Guerre et conquête</string>
+		<key>incorrectAnswer3</key>
+		<string>Chasse et cueillette
+
+</string>
+		<key>numberOfBadAnswers</key>
+		<integer>0</integer>
+		<key>numberOfBadAnswersQuiz</key>
+		<integer>0</integer>
+		<key>numberOfGoodAnswers</key>
+		<integer>0</integer>
+		<key>numberOfGoodAnswersQuiz</key>
+		<integer>0</integer>
+		<key>order</key>
+		<integer>2</integer>
+		<key>question</key>
+		<string>Quelle était l&apos;activité principale de l&apos;ancienne culture argarique ?</string>
+		<key>questionTrueOrFalse</key>
+		<string>La culture d&apos;El Argar est l&apos;un des exemples les plus remarquables d&apos;une société complexe précoce de la préhistoire européenne, avec des preuves de stratification sociale et de société hiérarchisée.</string>
+		<key>theme</key>
+		<string>Espagne 35000-1469</string>
+		<key>timeLine</key>
+		<string>La civilisation d&apos;El Argar </string>
+		<key>trueOrFalseAnswer</key>
+		<string>Vrai</string>
+		<key>wikiSearchWord</key>
+		<string>Culture d&apos;El Argar</string>
+	</dict>
+	<dict>
+		<key>correctTAnswer</key>
+		<string>Elles ont formé une relation symbiotique, s&apos;influençant mutuellement. </string>
+		<key>date</key>
+		<string>1000 av. - 500 av.</string>
+		<key>id</key>
+		<string>f505f8e8-8310-11ed-a1eb-0242ac120002</string>
+		<key>incorrectAnswer1</key>
+		<string>Ils ont combattu et conquis les Ibères.</string>
+		<key>incorrectAnswer2</key>
+		<string>Ils vivaient complètement séparés et isolés des Ibères.</string>
+		<key>incorrectAnswer3</key>
+		<string>Ils ont vécu à des époques différentes.</string>
+		<key>numberOfBadAnswers</key>
+		<integer>0</integer>
+		<key>numberOfBadAnswersQuiz</key>
+		<integer>0</integer>
+		<key>numberOfGoodAnswers</key>
+		<integer>0</integer>
+		<key>numberOfGoodAnswersQuiz</key>
+		<integer>0</integer>
+		<key>order</key>
+		<integer>3</integer>
+		<key>question</key>
+		<string>Comment les Celtes, qui ont immigré dans la péninsule ibérique, ont-ils interagi avec la population ibérique indigène ?</string>
+		<key>questionTrueOrFalse</key>
+		<string>La culture celtibère a plus d&apos;affinités avec la culture des Gaulois contemporains qu&apos;avec celle des Ibères.</string>
+		<key>theme</key>
+		<string>Espagne 35000-1469</string>
+		<key>timeLine</key>
+		<string> Les Celtes migrent vers la péninsule ibérique</string>
+		<key>trueOrFalseAnswer</key>
+		<string>Faux</string>
+		<key>wikiSearchWord</key>
+		<string>Celtibères</string>
+	</dict>
+	<dict>
+		<key>correctTAnswer</key>
+		<string>Plus de trois siècles</string>
+		<key>date</key>
+		<string>200 av.</string>
+		<key>id</key>
+		<string>f505fa1e-8310-11ed-a1eb-0242ac120002</string>
+		<key>incorrectAnswer1</key>
+		<string>En moins d&apos;une décennie</string>
+		<key>incorrectAnswer2</key>
+		<string>Cent ans</string>
+		<key>incorrectAnswer3</key>
+		<string>Cinquante ans</string>
+		<key>numberOfBadAnswers</key>
+		<integer>0</integer>
+		<key>numberOfBadAnswersQuiz</key>
+		<integer>0</integer>
+		<key>numberOfGoodAnswers</key>
+		<integer>0</integer>
+		<key>numberOfGoodAnswersQuiz</key>
+		<integer>0</integer>
+		<key>order</key>
+		<integer>4</integer>
+		<key>question</key>
+		<string>Combien de temps a duré la conquête romaine de la péninsule ibérique ?</string>
+		<key>questionTrueOrFalse</key>
+		<string>La conquête romaine de la péninsule Ibérique a entraîné une romanisation culturelle de l&apos;Hispanie.</string>
+		<key>theme</key>
+		<string>Espagne 35000-1469</string>
+		<key>timeLine</key>
+		<string>Conquête romaine de la péninsule ibérique.</string>
+		<key>trueOrFalseAnswer</key>
+		<string>Vrai</string>
+		<key>wikiSearchWord</key>
+		<string>Conquête romaine de la péninsule Ibérique</string>
+	</dict>
+	<dict>
+		<key>correctTAnswer</key>
+		<string>Par la conquête militaire</string>
+		<key>date</key>
+		<string>500</string>
+		<key>id</key>
+		<string>f505fb4a-8310-11ed-a1eb-0242ac120002</string>
+		<key>incorrectAnswer1</key>
+		<string>Par la diplomatie et la création d&apos;alliances</string>
+		<key>incorrectAnswer2</key>
+		<string>Par la domination économique</string>
+		<key>incorrectAnswer3</key>
+		<string>Par l&apos;assimilation culturelle</string>
+		<key>numberOfBadAnswers</key>
+		<integer>0</integer>
+		<key>numberOfBadAnswersQuiz</key>
+		<integer>0</integer>
+		<key>numberOfGoodAnswers</key>
+		<integer>0</integer>
+		<key>numberOfGoodAnswersQuiz</key>
+		<integer>0</integer>
+		<key>order</key>
+		<integer>5</integer>
+		<key>question</key>
+		<string>Comment les Wisigoths se sont-ils emparés d&apos;une grande partie de l&apos;Espagne ?</string>
+		<key>questionTrueOrFalse</key>
+		<string>Les Wisigoths ont contrôlé toute la péninsule Ibérique sauf les zones montagneuses du nord occupées par les Basques.</string>
+		<key>theme</key>
+		<string>Espagne 35000-1469</string>
+		<key>timeLine</key>
+		<string> Les Wisigoths s&apos;emparent d&apos;une grande partie de l&apos;Espagne.</string>
+		<key>trueOrFalseAnswer</key>
+		<string>Vrai</string>
+		<key>wikiSearchWord</key>
+		<string>Royaume wisigoth</string>
+	</dict>
+	<dict>
+		<key>correctTAnswer</key>
+		<string>Pour répandre l&apos;Islam</string>
+		<key>date</key>
+		<string>711</string>
+		<key>id</key>
+		<string>f505fc80-8310-11ed-a1eb-0242ac120002</string>
+		<key>incorrectAnswer1</key>
+		<string>Pour avoir accès aux ressources naturelles</string>
+		<key>incorrectAnswer2</key>
+		<string>Pour établir une nouvelle route commerciale</string>
+		<key>incorrectAnswer3</key>
+		<string>Pour se venger d&apos;un conflit antérieur</string>
+		<key>numberOfBadAnswers</key>
+		<integer>0</integer>
+		<key>numberOfBadAnswersQuiz</key>
+		<integer>0</integer>
+		<key>numberOfGoodAnswers</key>
+		<integer>0</integer>
+		<key>numberOfGoodAnswersQuiz</key>
+		<integer>0</integer>
+		<key>order</key>
+		<integer>6</integer>
+		<key>question</key>
+		<string>Quelle était la principale motivation de l&apos;invasion de l&apos;Espagne par les Maures ?</string>
+		<key>questionTrueOrFalse</key>
+		<string>Les Maures étaient principalement des populations urbaines et côtières du Maghreb.</string>
+		<key>theme</key>
+		<string>Espagne 35000-1469</string>
+		<key>timeLine</key>
+		<string>Les Maures envahissent l&apos;Espagne</string>
+		<key>trueOrFalseAnswer</key>
+		<string>Faux</string>
+		<key>wikiSearchWord</key>
+		<string>Maures</string>
+	</dict>
+	<dict>
+		<key>correctTAnswer</key>
+		<string>Les forces chrétiennes ont expulsé les musulmans.</string>
+		<key>date</key>
+		<string>718</string>
+		<key>id</key>
+		<string>f505fd8e-8310-11ed-a1eb-0242ac120002</string>
+		<key>incorrectAnswer1</key>
+		<string>Les musulmans ont conservé le contrôle de l&apos;Espagne</string>
+		<key>incorrectAnswer2</key>
+		<string>Les forces chrétiennes ont été vaincues et chassées d&apos;Espagne.</string>
+		<key>incorrectAnswer3</key>
+		<string>Les musulmans ont conservé le contrôle de certaines régions.</string>
+		<key>numberOfBadAnswers</key>
+		<integer>0</integer>
+		<key>numberOfBadAnswersQuiz</key>
+		<integer>0</integer>
+		<key>numberOfGoodAnswers</key>
+		<integer>0</integer>
+		<key>numberOfGoodAnswersQuiz</key>
+		<integer>0</integer>
+		<key>order</key>
+		<integer>7</integer>
+		<key>question</key>
+		<string>Quel a été le résultat de la reconquête de l&apos;Espagne ?</string>
+		<key>questionTrueOrFalse</key>
+		<string>La Reconquista se déroule sur huit siècles et est un processus politiquement uniforme.</string>
+		<key>theme</key>
+		<string>Espagne 35000-1469</string>
+		<key>timeLine</key>
+		<string> La Reconquista est lancée par les chrétiens pour reprendre l&apos;Espagne.</string>
+		<key>trueOrFalseAnswer</key>
+		<string>Faux</string>
+		<key>wikiSearchWord</key>
+		<string>Reconquista</string>
+	</dict>
+	<dict>
+		<key>correctTAnswer</key>
+		<string>Islam</string>
+		<key>date</key>
+		<string>756</string>
+		<key>id</key>
+		<string>f505feba-8310-11ed-a1eb-0242ac120002</string>
+		<key>incorrectAnswer1</key>
+		<string>La religion catholique</string>
+		<key>incorrectAnswer2</key>
+		<string>Le protestantisme</string>
+		<key>incorrectAnswer3</key>
+		<string>Le judaïsme</string>
+		<key>numberOfBadAnswers</key>
+		<integer>0</integer>
+		<key>numberOfBadAnswersQuiz</key>
+		<integer>0</integer>
+		<key>numberOfGoodAnswers</key>
+		<integer>0</integer>
+		<key>numberOfGoodAnswersQuiz</key>
+		<integer>0</integer>
+		<key>order</key>
+		<integer>8</integer>
+		<key>question</key>
+		<string>Quelle était la religion principale du califat de Cordoue ?</string>
+		<key>questionTrueOrFalse</key>
+		<string>La période du Califat omeyyade de Cordoue a été caractérisée par une expansion du commerce et de la culture.</string>
+		<key>theme</key>
+		<string>Espagne 35000-1469</string>
+		<key>timeLine</key>
+		<string>Califat de Cordoue</string>
+		<key>trueOrFalseAnswer</key>
+		<string>Vrai</string>
+		<key>wikiSearchWord</key>
+		<string>Califat de Cordoue</string>
+	</dict>
+	<dict>
+		<key>correctTAnswer</key>
+		<string>Castille (Espagne)</string>
+		<key>date</key>
+		<string>1139</string>
+		<key>id</key>
+		<string>f50601f8-8310-11ed-a1eb-0242ac120002</string>
+		<key>incorrectAnswer1</key>
+		<string>La France</string>
+		<key>incorrectAnswer2</key>
+		<string>Angleterre</string>
+		<key>incorrectAnswer3</key>
+		<string>Les Pays-Bas</string>
+		<key>numberOfBadAnswers</key>
+		<integer>0</integer>
+		<key>numberOfBadAnswersQuiz</key>
+		<integer>0</integer>
+		<key>numberOfGoodAnswers</key>
+		<integer>0</integer>
+		<key>numberOfGoodAnswersQuiz</key>
+		<integer>0</integer>
+		<key>order</key>
+		<integer>9</integer>
+		<key>question</key>
+		<string>Avec quel autre pays le royaume du Portugal a-t-il été allié au début de son histoire ?</string>
+		<key>questionTrueOrFalse</key>
+		<string>La vocation maritime du Portugal s&apos;est affirmée en raison de son littoral propice à la grande navigation et de sa situation géographique proche des grands axes européens.</string>
+		<key>theme</key>
+		<string>Espagne 35000-1469</string>
+		<key>timeLine</key>
+		<string>Le royaume du Portugal est établi</string>
+		<key>trueOrFalseAnswer</key>
+		<string>Faux</string>
+		<key>wikiSearchWord</key>
+		<string>Histoire du Portugal</string>
+	</dict>
+	<dict>
+		<key>correctTAnswer</key>
+		<string>Elle a été un personnage clé dans l&apos;unification de l&apos;Espagne.</string>
+		<key>date</key>
+		<string>1469</string>
+		<key>id</key>
+		<string>f506031a-8310-11ed-a1eb-0242ac120002</string>
+		<key>incorrectAnswer1</key>
+		<string>Elle était un chef militaire efficace.</string>
+		<key>incorrectAnswer2</key>
+		<string>Elle était une diplomate compétente.</string>
+		<key>incorrectAnswer3</key>
+		<string>Elle était un mécène des arts.</string>
+		<key>numberOfBadAnswers</key>
+		<integer>0</integer>
+		<key>numberOfBadAnswersQuiz</key>
+		<integer>0</integer>
+		<key>numberOfGoodAnswers</key>
+		<integer>0</integer>
+		<key>numberOfGoodAnswersQuiz</key>
+		<integer>0</integer>
+		<key>order</key>
+		<integer>10</integer>
+		<key>question</key>
+		<string>Quelle était la réputation d&apos;Isabelle Ier de Castille ?</string>
+		<key>questionTrueOrFalse</key>
+		<string>Christophe Colomb a découvert l&apos;Amérique pendant le règne d&apos;Isabelle la Catholique ?</string>
+		<key>theme</key>
+		<string>Espagne 35000-1469</string>
+		<key>timeLine</key>
+		<string> Mariage d&apos;Isabelle Ier de Castille et de Ferdinand II d&apos;Aragon.</string>
+		<key>trueOrFalseAnswer</key>
+		<string>Vrai</string>
+		<key>wikiSearchWord</key>
+		<string>Isabelle la Catholique</string>
+	</dict>
+</array>
+</plist>

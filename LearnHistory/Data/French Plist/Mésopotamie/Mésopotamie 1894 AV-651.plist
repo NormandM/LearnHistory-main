@@ -1,0 +1,366 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<!DOCTYPE plist PUBLIC "-//Apple//DTD PLIST 1.0//EN" "http://www.apple.com/DTDs/PropertyList-1.0.dtd">
+<plist version="1.0">
+<array>
+	<dict>
+		<key>correctTAnswer</key>
+		<string>Empire babylonien</string>
+		<key>date</key>
+		<string>1894 Av</string>
+		<key>id</key>
+		<string>084a3d2e-b77e-11ec-b909-0242ac120002</string>
+		<key>incorrectAnswer1</key>
+		<string>Akkadiens</string>
+		<key>incorrectAnswer2</key>
+		<string>Assyriens</string>
+		<key>incorrectAnswer3</key>
+		<string>Égyptiens</string>
+		<key>numberOfBadAnswers</key>
+		<integer>0</integer>
+		<key>numberOfBadAnswersQuiz</key>
+		<integer>0</integer>
+		<key>numberOfGoodAnswers</key>
+		<integer>0</integer>
+		<key>numberOfGoodAnswersQuiz</key>
+		<integer>0</integer>
+		<key>order</key>
+		<integer>11</integer>
+		<key>question</key>
+		<string>Après la destruction de la 3e dynastie d&apos;Ur, quel peuple a dominé la Mésopotamie ?</string>
+		<key>questionTrueOrFalse</key>
+		<string>L&apos;ancien empire de Babylone a régné de 1894 à 1595 avant Jésus-Christ.</string>
+		<key>theme</key>
+		<string>Mésopotamie 1894 AV-651</string>
+		<key>timeLine</key>
+		<string>Émergence de l&apos;ancien empire babylonien.</string>
+		<key>trueOrFalseAnswer</key>
+		<string>Vrai</string>
+		<key>wikiSearchWord</key>
+		<string>Première dynastie de Babylone</string>
+	</dict>
+	<dict>
+		<key>correctTAnswer</key>
+		<string>Hammurabi</string>
+		<key>date</key>
+		<string>1792 Av</string>
+		<key>id</key>
+		<string>084a3efa-b77e-11ec-b909-0242ac120002</string>
+		<key>incorrectAnswer1</key>
+		<string>Gilgamesh</string>
+		<key>incorrectAnswer2</key>
+		<string>Sargon</string>
+		<key>incorrectAnswer3</key>
+		<string>Ur-Nammu</string>
+		<key>numberOfBadAnswers</key>
+		<integer>0</integer>
+		<key>numberOfBadAnswersQuiz</key>
+		<integer>0</integer>
+		<key>numberOfGoodAnswers</key>
+		<integer>0</integer>
+		<key>numberOfGoodAnswersQuiz</key>
+		<integer>0</integer>
+		<key>order</key>
+		<integer>12</integer>
+		<key>question</key>
+		<string>Ce roi babylonien est surtout connu pour avoir publié un code de lois. Qui est-il ?</string>
+		<key>questionTrueOrFalse</key>
+		<string>Le règne de Hammurabi est l&apos;un des plus longs de l&apos;antiquité du Proche-Orient.</string>
+		<key>theme</key>
+		<string>Mésopotamie 1894 AV-651</string>
+		<key>timeLine</key>
+		<string>Le roi Hammurabi monte sur le trône de Babylone.</string>
+		<key>trueOrFalseAnswer</key>
+		<string>Vrai</string>
+		<key>wikiSearchWord</key>
+		<string>Hammurabi</string>
+	</dict>
+	<dict>
+		<key>correctTAnswer</key>
+		<string>Les Hittites</string>
+		<key>date</key>
+		<string>1595 Av</string>
+		<key>id</key>
+		<string>084a3ffe-b77e-11ec-b909-0242ac120002</string>
+		<key>incorrectAnswer1</key>
+		<string>Les Perses</string>
+		<key>incorrectAnswer2</key>
+		<string>Les Phéniciens</string>
+		<key>incorrectAnswer3</key>
+		<string>Les Turcs</string>
+		<key>numberOfBadAnswers</key>
+		<integer>0</integer>
+		<key>numberOfBadAnswersQuiz</key>
+		<integer>0</integer>
+		<key>numberOfGoodAnswers</key>
+		<integer>0</integer>
+		<key>numberOfGoodAnswersQuiz</key>
+		<integer>0</integer>
+		<key>order</key>
+		<integer>13</integer>
+		<key>question</key>
+		<string>Ils sont venus d&apos;Anatolie et ont saccagé Babylone en 1584 avant J.-C. Qui sont-ils ?</string>
+		<key>questionTrueOrFalse</key>
+		<string>Au XIVe av, les Hittites réussissent à faire passer la majeure partie de la Syrie sous leur coupe</string>
+		<key>theme</key>
+		<string>Mésopotamie 1894 AV-651</string>
+		<key>timeLine</key>
+		<string>Les Hittites mettent Babylone à sac.</string>
+		<key>trueOrFalseAnswer</key>
+		<string>Vrai</string>
+		<key>wikiSearchWord</key>
+		<string>Les Hittites</string>
+	</dict>
+	<dict>
+		<key>correctTAnswer</key>
+		<string>Ashurbanipal</string>
+		<key>date</key>
+		<string>631 Av</string>
+		<key>id</key>
+		<string>084a41f2-b77e-11ec-b909-0242ac120002</string>
+		<key>incorrectAnswer1</key>
+		<string>Sargon</string>
+		<key>incorrectAnswer2</key>
+		<string>Hammourabi</string>
+		<key>incorrectAnswer3</key>
+		<string>Gilgamesh</string>
+		<key>numberOfBadAnswers</key>
+		<integer>0</integer>
+		<key>numberOfBadAnswersQuiz</key>
+		<integer>0</integer>
+		<key>numberOfGoodAnswers</key>
+		<integer>0</integer>
+		<key>numberOfGoodAnswersQuiz</key>
+		<integer>0</integer>
+		<key>order</key>
+		<integer>15</integer>
+		<key>question</key>
+		<string>Qui est considéré comme le dernier grand roi d&apos;Assyrie ?</string>
+		<key>questionTrueOrFalse</key>
+		<string>La sculpture assyrienne atteignit son apogée sous le règne d’ Ashurbanipal.</string>
+		<key>theme</key>
+		<string>Mésopotamie 1894 AV-651</string>
+		<key>timeLine</key>
+		<string>Mort d&apos;Assurbanipal</string>
+		<key>trueOrFalseAnswer</key>
+		<string>Vrai</string>
+		<key>wikiSearchWord</key>
+		<string>Assurbanipal</string>
+	</dict>
+	<dict>
+		<key>correctTAnswer</key>
+		<string>Nabuchodonosor</string>
+		<key>date</key>
+		<string>587 Av</string>
+		<key>id</key>
+		<string>084a454e-b77e-11ec-b909-0242ac120002</string>
+		<key>incorrectAnswer1</key>
+		<string>Gilgamesh</string>
+		<key>incorrectAnswer2</key>
+		<string>Hammurabi</string>
+		<key>incorrectAnswer3</key>
+		<string>Sargon II</string>
+		<key>numberOfBadAnswers</key>
+		<integer>0</integer>
+		<key>numberOfBadAnswersQuiz</key>
+		<integer>0</integer>
+		<key>numberOfGoodAnswers</key>
+		<integer>0</integer>
+		<key>numberOfGoodAnswersQuiz</key>
+		<integer>0</integer>
+		<key>order</key>
+		<integer>17</integer>
+		<key>question</key>
+		<string>Quel roi néo-babylonien a détruit le royaume de Juda et sa capitale, Jérusalem ?</string>
+		<key>questionTrueOrFalse</key>
+		<string>On se souvient de Nabuchodonosor comme d&apos;un grand roi bâtisseur, mais il a eu peu de succès militaires.</string>
+		<key>theme</key>
+		<string>Mésopotamie 1894 AV-651</string>
+		<key>timeLine</key>
+		<string>Nabuchodonosor détruit le royaume de Juda.</string>
+		<key>trueOrFalseAnswer</key>
+		<string>Faux</string>
+		<key>wikiSearchWord</key>
+		<string>Nabuchodonosor II</string>
+	</dict>
+	<dict>
+		<key>correctTAnswer</key>
+		<string>Les Achéménides</string>
+		<key>date</key>
+		<string>539 Av</string>
+		<key>id</key>
+		<string>084a4648-b77e-11ec-b909-0242ac120002</string>
+		<key>incorrectAnswer1</key>
+		<string>Les Grecs</string>
+		<key>incorrectAnswer2</key>
+		<string>Les Romains</string>
+		<key>incorrectAnswer3</key>
+		<string>Les Hittites</string>
+		<key>numberOfBadAnswers</key>
+		<integer>0</integer>
+		<key>numberOfBadAnswersQuiz</key>
+		<integer>0</integer>
+		<key>numberOfGoodAnswers</key>
+		<integer>0</integer>
+		<key>numberOfGoodAnswersQuiz</key>
+		<integer>0</integer>
+		<key>order</key>
+		<integer>18</integer>
+		<key>question</key>
+		<string>Qui a conquis l&apos;empire néo-babylonien en 539 avant J.-C. ?</string>
+		<key>questionTrueOrFalse</key>
+		<string>L&apos;Empire achéménide s&apos;effondre, vaincu par Alexandre le Grand, en 330 av. J.-C</string>
+		<key>theme</key>
+		<string>Mésopotamie 1894 AV-651</string>
+		<key>timeLine</key>
+		<string>L&apos;empire perse achéménide conquiert l&apos;empire néo-babylonien.</string>
+		<key>trueOrFalseAnswer</key>
+		<string>Vrai</string>
+		<key>wikiSearchWord</key>
+		<string>Les Achéménides</string>
+	</dict>
+	<dict>
+		<key>correctTAnswer</key>
+		<string>Xerxès I</string>
+		<key>date</key>
+		<string>484 Av</string>
+		<key>id</key>
+		<string>084a474c-b77e-11ec-b909-0242ac120002</string>
+		<key>incorrectAnswer1</key>
+		<string>Cyrus le Grand</string>
+		<key>incorrectAnswer2</key>
+		<string>Darius I</string>
+		<key>incorrectAnswer3</key>
+		<string>Artaxerxès II </string>
+		<key>numberOfBadAnswers</key>
+		<integer>0</integer>
+		<key>numberOfBadAnswersQuiz</key>
+		<integer>0</integer>
+		<key>numberOfGoodAnswers</key>
+		<integer>0</integer>
+		<key>numberOfGoodAnswersQuiz</key>
+		<integer>0</integer>
+		<key>order</key>
+		<integer>19</integer>
+		<key>question</key>
+		<string>En 484 av., les Babyloniens se sont révoltés contre ce roi de l&apos;empire perse. Qui est ce roi ?</string>
+		<key>questionTrueOrFalse</key>
+		<string>Xerxès I est aussi appelé Xerxès le Grand.</string>
+		<key>theme</key>
+		<string>Mésopotamie 1894 AV-651</string>
+		<key>timeLine</key>
+		<string>Les Babyloniens se révoltent à nouveau contre Xerxès.</string>
+		<key>trueOrFalseAnswer</key>
+		<string>Vrai</string>
+		<key>wikiSearchWord</key>
+		<string>Xerxès Ier</string>
+	</dict>
+	<dict>
+		<key>correctTAnswer</key>
+		<string>Séleucos</string>
+		<key>date</key>
+		<string>321 Av</string>
+		<key>id</key>
+		<string>084a4850-b77e-11ec-b909-0242ac120002</string>
+		<key>incorrectAnswer1</key>
+		<string>Ptolémée</string>
+		<key>incorrectAnswer2</key>
+		<string>Cassandre</string>
+		<key>incorrectAnswer3</key>
+		<string>Antigonus</string>
+		<key>numberOfBadAnswers</key>
+		<integer>0</integer>
+		<key>numberOfBadAnswersQuiz</key>
+		<integer>0</integer>
+		<key>numberOfGoodAnswers</key>
+		<integer>0</integer>
+		<key>numberOfGoodAnswersQuiz</key>
+		<integer>0</integer>
+		<key>order</key>
+		<integer>20</integer>
+		<key>question</key>
+		<string>Après la division de l&apos;empire d&apos;Alexandre le Grand, qui a reçu la région de Babylone ?</string>
+		<key>questionTrueOrFalse</key>
+		<string>L&apos;empire séleucide ne s&apos;est jamais étendu en dehors de la Mésopotamie.</string>
+		<key>theme</key>
+		<string>Mésopotamie 1894 AV-651</string>
+		<key>timeLine</key>
+		<string>Séleucos reçoit la région mésopotamienne de Babylone.</string>
+		<key>trueOrFalseAnswer</key>
+		<string>Faux</string>
+		<key>wikiSearchWord</key>
+		<string>Empire séleucide</string>
+	</dict>
+	<dict>
+		<key>correctTAnswer</key>
+		<string>Les Parthes</string>
+		<key>date</key>
+		<string>129 Av</string>
+		<key>id</key>
+		<string>084a4a26-b77e-11ec-b909-0242ac120002</string>
+		<key>incorrectAnswer1</key>
+		<string>Les Hittites</string>
+		<key>incorrectAnswer2</key>
+		<string>Les Assyriens</string>
+		<key>incorrectAnswer3</key>
+		<string>Les Turcs</string>
+		<key>numberOfBadAnswers</key>
+		<integer>0</integer>
+		<key>numberOfBadAnswersQuiz</key>
+		<integer>0</integer>
+		<key>numberOfGoodAnswers</key>
+		<integer>0</integer>
+		<key>numberOfGoodAnswersQuiz</key>
+		<integer>0</integer>
+		<key>order</key>
+		<integer>21</integer>
+		<key>question</key>
+		<string>Qui est ce peuple venant de l&apos;Iran qui s’est emparé de la Mésopotamie en 129 av.</string>
+		<key>questionTrueOrFalse</key>
+		<string>Mithridate Ier est le roi parthe qui a conquis la Mésopotamie.</string>
+		<key>theme</key>
+		<string>Mésopotamie 1894 AV-651</string>
+		<key>timeLine</key>
+		<string>Les Parthes battent les Séleucides et s&apos;emparent de la Mésopotamie.</string>
+		<key>trueOrFalseAnswer</key>
+		<string>Vrai</string>
+		<key>wikiSearchWord</key>
+		<string>Mithridate Ier de Parthie</string>
+	</dict>
+	<dict>
+		<key>correctTAnswer</key>
+		<string>Les musulmans</string>
+		<key>date</key>
+		<string>651</string>
+		<key>id</key>
+		<string>084a4d0a-b77e-11ec-b909-0242ac120002</string>
+		<key>incorrectAnswer1</key>
+		<string>L&apos;empire ottoman</string>
+		<key>incorrectAnswer2</key>
+		<string>L&apos;empire bysantin</string>
+		<key>incorrectAnswer3</key>
+		<string>Les Vandales</string>
+		<key>numberOfBadAnswers</key>
+		<integer>0</integer>
+		<key>numberOfBadAnswersQuiz</key>
+		<integer>0</integer>
+		<key>numberOfGoodAnswers</key>
+		<integer>0</integer>
+		<key>numberOfGoodAnswersQuiz</key>
+		<integer>0</integer>
+		<key>order</key>
+		<integer>24</integer>
+		<key>question</key>
+		<string>Au 7e siècle, ils ont conquis une grande partie du monde, dont la Mésopotamie. Qui sont-ils?</string>
+		<key>questionTrueOrFalse</key>
+		<string>La conquête musulmane de la Mésopotamie a été lente et a pris plus de cent ans.</string>
+		<key>theme</key>
+		<string>Mésopotamie 1894 AV-651</string>
+		<key>timeLine</key>
+		<string>La conquête musulmane de la Mésopotamie.</string>
+		<key>trueOrFalseAnswer</key>
+		<string>Faux</string>
+		<key>wikiSearchWord</key>
+		<string>Expansion de l&apos;islam</string>
+	</dict>
+</array>
+</plist>

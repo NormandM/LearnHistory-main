@@ -1,0 +1,366 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<!DOCTYPE plist PUBLIC "-//Apple//DTD PLIST 1.0//EN" "http://www.apple.com/DTDs/PropertyList-1.0.dtd">
+<plist version="1.0">
+<array>
+	<dict>
+		<key>correctTAnswer</key>
+		<string>Éliminer l&apos;influence des juifs et des musulmans en Espagne</string>
+		<key>date</key>
+		<string>1478</string>
+		<key>id</key>
+		<string>f5060432-8310-11ed-a1eb-0242ac120002</string>
+		<key>incorrectAnswer1</key>
+		<string>Répandre la foi catholique dans toute l&apos;Europe</string>
+		<key>incorrectAnswer2</key>
+		<string>Supprimer le protestantisme</string>
+		<key>incorrectAnswer3</key>
+		<string>Persécuter les sorcières et les hérétiques.</string>
+		<key>numberOfBadAnswers</key>
+		<integer>0</integer>
+		<key>numberOfBadAnswersQuiz</key>
+		<integer>0</integer>
+		<key>numberOfGoodAnswers</key>
+		<integer>0</integer>
+		<key>numberOfGoodAnswersQuiz</key>
+		<integer>0</integer>
+		<key>order</key>
+		<integer>11</integer>
+		<key>question</key>
+		<string>Quel était le but ultime de l&apos;Inquisition espagnole ?</string>
+		<key>questionTrueOrFalse</key>
+		<string>L&apos;Inquisition espagnole était une institution unique en Europe au xiiie siècle.</string>
+		<key>theme</key>
+		<string>Espagne 1478-1618</string>
+		<key>timeLine</key>
+		<string>Début de l&apos;inquisition espagnole.</string>
+		<key>trueOrFalseAnswer</key>
+		<string>Faux</string>
+		<key>wikiSearchWord</key>
+		<string>Inquisition espagnole</string>
+	</dict>
+	<dict>
+		<key>correctTAnswer</key>
+		<string>La conquête de Grenade</string>
+		<key>date</key>
+		<string>1492</string>
+		<key>id</key>
+		<string>f506052c-8310-11ed-a1eb-0242ac120002</string>
+		<key>incorrectAnswer1</key>
+		<string>La signature du traité de Tordesillas</string>
+		<key>incorrectAnswer2</key>
+		<string>La bataille du col de Roncevaux</string>
+		<key>incorrectAnswer3</key>
+		<string>Le couronnement du roi Ferdinand et de la reine Isabelle</string>
+		<key>numberOfBadAnswers</key>
+		<integer>0</integer>
+		<key>numberOfBadAnswersQuiz</key>
+		<integer>0</integer>
+		<key>numberOfGoodAnswers</key>
+		<integer>0</integer>
+		<key>numberOfGoodAnswersQuiz</key>
+		<integer>0</integer>
+		<key>order</key>
+		<integer>12</integer>
+		<key>question</key>
+		<string>Quel événement a marqué la fin de la Reconquista en Espagne ?</string>
+		<key>questionTrueOrFalse</key>
+		<string>La guerre de Grenade a été menée par les Rois catholiques pour étendre leur influence en Afrique du Nord.</string>
+		<key>theme</key>
+		<string>Espagne 1478-1618</string>
+		<key>timeLine</key>
+		<string> La Reconquista se termine par la conquête de Grenade.</string>
+		<key>trueOrFalseAnswer</key>
+		<string>Faux</string>
+		<key>wikiSearchWord</key>
+		<string>Guerre de Grenade</string>
+	</dict>
+	<dict>
+		<key>correctTAnswer</key>
+		<string>La reine Isabelle</string>
+		<key>date</key>
+		<string>1492</string>
+		<key>id</key>
+		<string>f506063a-8310-11ed-a1eb-0242ac120002</string>
+		<key>incorrectAnswer1</key>
+		<string>Le roi Ferdinand</string>
+		<key>incorrectAnswer2</key>
+		<string>La reine Elizabeth</string>
+		<key>incorrectAnswer3</key>
+		<string>Le roi Henri VIII</string>
+		<key>numberOfBadAnswers</key>
+		<integer>0</integer>
+		<key>numberOfBadAnswersQuiz</key>
+		<integer>0</integer>
+		<key>numberOfGoodAnswers</key>
+		<integer>0</integer>
+		<key>numberOfGoodAnswersQuiz</key>
+		<integer>0</integer>
+		<key>order</key>
+		<integer>13</integer>
+		<key>question</key>
+		<string>Qui a parrainé l&apos;expédition de l&apos;explorateur Christophe Colomb ?</string>
+		<key>questionTrueOrFalse</key>
+		<string>Christophe Colomb a été nommé &quot;amiral de la mer Océane, gouverneur et vice-roi des Indes&quot; après son premier voyage en 1492.</string>
+		<key>theme</key>
+		<string>Espagne 1478-1618</string>
+		<key>timeLine</key>
+		<string>La reine Isabelle parraine l&apos;expédition de Christophe Colomb.</string>
+		<key>trueOrFalseAnswer</key>
+		<string>Vrai</string>
+		<key>wikiSearchWord</key>
+		<string>Christophe Colomb</string>
+	</dict>
+	<dict>
+		<key>correctTAnswer</key>
+		<string>Pour expulser les Juifs d&apos;Espagne</string>
+		<key>date</key>
+		<string>1492</string>
+		<key>id</key>
+		<string>f506073e-8310-11ed-a1eb-0242ac120002</string>
+		<key>incorrectAnswer1</key>
+		<string>Pour établir l&apos;espagnol comme langue officielle de l&apos;Espagne</string>
+		<key>incorrectAnswer2</key>
+		<string>Pour établir un nouveau système fiscal en Espagne</string>
+		<key>incorrectAnswer3</key>
+		<string>Déclarer la guerre à un pays voisin</string>
+		<key>numberOfBadAnswers</key>
+		<integer>0</integer>
+		<key>numberOfBadAnswersQuiz</key>
+		<integer>0</integer>
+		<key>numberOfGoodAnswers</key>
+		<integer>0</integer>
+		<key>numberOfGoodAnswersQuiz</key>
+		<integer>0</integer>
+		<key>order</key>
+		<integer>14</integer>
+		<key>question</key>
+		<string>Quel était l&apos;objectif principal du décret de l&apos;Alhambra ?</string>
+		<key>questionTrueOrFalse</key>
+		<string>L&apos;expulsion des Juifs d&apos;Espagne a eu lieu quatre mois après la signature du décret de l&apos;Alhambra.</string>
+		<key>theme</key>
+		<string>Espagne 1478-1618</string>
+		<key>timeLine</key>
+		<string>Publication du décret de l&apos;Alhambra, qui ordonne l&apos;expulsion des Juifs d&apos;Espagne.</string>
+		<key>trueOrFalseAnswer</key>
+		<string>Vrai</string>
+		<key>wikiSearchWord</key>
+		<string>Décret de l&apos;Alhambra</string>
+	</dict>
+	<dict>
+		<key>correctTAnswer</key>
+		<string>Il a fait de l&apos;Espagne une grande puissance européenne.</string>
+		<key>date</key>
+		<string>1516</string>
+		<key>id</key>
+		<string>f5060a72-8310-11ed-a1eb-0242ac120002</string>
+		<key>incorrectAnswer1</key>
+		<string>Il a marqué le début du déclin du Saint Empire romain germanique.</string>
+		<key>incorrectAnswer2</key>
+		<string>Elle a conduit à la propagation de la foi catholique dans toute l&apos;Europe.</string>
+		<key>incorrectAnswer3</key>
+		<string>Elle a entraîné la fin de la Réforme protestante.</string>
+		<key>numberOfBadAnswers</key>
+		<integer>0</integer>
+		<key>numberOfBadAnswersQuiz</key>
+		<integer>0</integer>
+		<key>numberOfGoodAnswers</key>
+		<integer>0</integer>
+		<key>numberOfGoodAnswersQuiz</key>
+		<integer>0</integer>
+		<key>order</key>
+		<integer>15</integer>
+		<key>question</key>
+		<string>Quelle est la signification du couronnement de Charles Ier comme empereur du Saint Empire romain germanique ?</string>
+		<key>questionTrueOrFalse</key>
+		<string>Charles de Habsbourg a abandonné ses pouvoirs à la fin de sa vie en raison de révoltes en Castille et dans le Saint-Empire.</string>
+		<key>theme</key>
+		<string>Espagne 1478-1618</string>
+		<key>timeLine</key>
+		<string>Charles Ier est couronné empereur du Saint Empire romain germanique.</string>
+		<key>trueOrFalseAnswer</key>
+		<string>Faux</string>
+		<key>wikiSearchWord</key>
+		<string>Charles Quint</string>
+	</dict>
+	<dict>
+		<key>correctTAnswer</key>
+		<string>La mort du dernier roi Habsbourg, Charles II</string>
+		<key>date</key>
+		<string>1516 -1700</string>
+		<key>id</key>
+		<string>f5060b76-8310-11ed-a1eb-0242ac120002</string>
+		<key>incorrectAnswer1</key>
+		<string>La mort du roi Philippe II</string>
+		<key>incorrectAnswer2</key>
+		<string>La défaite de l&apos;Armada espagnole</string>
+		<key>incorrectAnswer3</key>
+		<string>La signature du traité de Westphalie</string>
+		<key>numberOfBadAnswers</key>
+		<integer>0</integer>
+		<key>numberOfBadAnswersQuiz</key>
+		<integer>0</integer>
+		<key>numberOfGoodAnswers</key>
+		<integer>0</integer>
+		<key>numberOfGoodAnswersQuiz</key>
+		<integer>0</integer>
+		<key>order</key>
+		<integer>16</integer>
+		<key>question</key>
+		<string>Quel événement est souvent considéré comme marquant la fin de l&apos;âge d&apos;or espagnol ?</string>
+		<key>questionTrueOrFalse</key>
+		<string>La fin de la dynastie Habsbourg en Espagne a coïncidé avec la fin du Siècle d&apos;or espagnol. </string>
+		<key>theme</key>
+		<string>Espagne 1478-1618</string>
+		<key>timeLine</key>
+		<string>L&apos;âge d&apos;or espagnol</string>
+		<key>trueOrFalseAnswer</key>
+		<string>Vrai</string>
+		<key>wikiSearchWord</key>
+		<string>Siècle d&apos;or espagnol</string>
+	</dict>
+	<dict>
+		<key>correctTAnswer</key>
+		<string>Hernan Cortes</string>
+		<key>date</key>
+		<string>1520</string>
+		<key>id</key>
+		<string>f5061012-8310-11ed-a1eb-0242ac120002</string>
+		<key>incorrectAnswer1</key>
+		<string>Francisco Pizarro</string>
+		<key>incorrectAnswer2</key>
+		<string>Juan Ponce de Leon</string>
+		<key>incorrectAnswer3</key>
+		<string>Christophe Colomb</string>
+		<key>numberOfBadAnswers</key>
+		<integer>0</integer>
+		<key>numberOfBadAnswersQuiz</key>
+		<integer>0</integer>
+		<key>numberOfGoodAnswers</key>
+		<integer>0</integer>
+		<key>numberOfGoodAnswersQuiz</key>
+		<integer>0</integer>
+		<key>order</key>
+		<integer>17</integer>
+		<key>question</key>
+		<string>Qui a conquis l&apos;empire aztèque au Mexique pour l&apos;Espagne ?</string>
+		<key>questionTrueOrFalse</key>
+		<string>Cortés s&apos;est emparé de l&apos;Empire aztèque au nom de Charles Quint, roi d&apos;Aragon.</string>
+		<key>theme</key>
+		<string>Espagne 1478-1618</string>
+		<key>timeLine</key>
+		<string>L&apos;explorateur espagnol Hernan Cortes conquiert l&apos;empire aztèque.</string>
+		<key>trueOrFalseAnswer</key>
+		<string>Vrai</string>
+		<key>wikiSearchWord</key>
+		<string>Hernán Cortés</string>
+	</dict>
+	<dict>
+		<key>correctTAnswer</key>
+		<string>Pour punir l&apos;Angleterre d&apos;avoir soutenu la rébellion hollandaise.</string>
+		<key>date</key>
+		<string>1588</string>
+		<key>id</key>
+		<string>f506112a-8310-11ed-a1eb-0242ac120002</string>
+		<key>incorrectAnswer1</key>
+		<string>Convertir les Anglais au catholicisme</string>
+		<key>incorrectAnswer2</key>
+		<string>Pour prendre le contrôle du trône d&apos;Angleterre</string>
+		<key>incorrectAnswer3</key>
+		<string>Pour établir une colonie espagnole en Angleterre</string>
+		<key>numberOfBadAnswers</key>
+		<integer>0</integer>
+		<key>numberOfBadAnswersQuiz</key>
+		<integer>0</integer>
+		<key>numberOfGoodAnswers</key>
+		<integer>0</integer>
+		<key>numberOfGoodAnswersQuiz</key>
+		<integer>0</integer>
+		<key>order</key>
+		<integer>18</integer>
+		<key>question</key>
+		<string>Pourquoi l&apos;Armada espagnole a-t-elle entrepris d&apos;envahir l&apos;Angleterre en 1588 ?</string>
+		<key>questionTrueOrFalse</key>
+		<string>La bataille de Gravelines a été présentée comme une éclatante victoire espagnole.</string>
+		<key>theme</key>
+		<string>Espagne 1478-1618</string>
+		<key>timeLine</key>
+		<string>L&apos;Armada espagnole est vaincue par la marine anglaise.</string>
+		<key>trueOrFalseAnswer</key>
+		<string>Faux</string>
+		<key>wikiSearchWord</key>
+		<string>Invincible Armada</string>
+	</dict>
+	<dict>
+		<key>correctTAnswer</key>
+		<string>Sa chevalerie et sa bravoure</string>
+		<key>date</key>
+		<string>1605</string>
+		<key>id</key>
+		<string>f5061224-8310-11ed-a1eb-0242ac120002</string>
+		<key>incorrectAnswer1</key>
+		<string>Sa richesse et sa puissance</string>
+		<key>incorrectAnswer2</key>
+		<string>Son intelligence et son esprit</string>
+		<key>incorrectAnswer3</key>
+		<string>Son charme et son charisme</string>
+		<key>numberOfBadAnswers</key>
+		<integer>0</integer>
+		<key>numberOfBadAnswersQuiz</key>
+		<integer>0</integer>
+		<key>numberOfGoodAnswers</key>
+		<integer>0</integer>
+		<key>numberOfGoodAnswersQuiz</key>
+		<integer>0</integer>
+		<key>order</key>
+		<integer>19</integer>
+		<key>question</key>
+		<string>Pour quelle raison le personnage principal de &quot;Don Quichotte&quot; est-il connu ?</string>
+		<key>questionTrueOrFalse</key>
+		<string>Don Quichotte est considéré comme le premier roman moderne de la littérature mondiale. </string>
+		<key>theme</key>
+		<string>Espagne 1478-1618</string>
+		<key>timeLine</key>
+		<string> Miguel de Cervantes publie Don Quichotte.</string>
+		<key>trueOrFalseAnswer</key>
+		<string>Vrai</string>
+		<key>wikiSearchWord</key>
+		<string>Don Quichotte</string>
+	</dict>
+	<dict>
+		<key>correctTAnswer</key>
+		<string>Conflit religieux entre catholiques et protestants</string>
+		<key>date</key>
+		<string>1618</string>
+		<key>id</key>
+		<string>f506131e-8310-11ed-a1eb-0242ac120002</string>
+		<key>incorrectAnswer1</key>
+		<string>Litiges territoriaux entre la France et l&apos;Espagne</string>
+		<key>incorrectAnswer2</key>
+		<string>Une lutte pour le pouvoir entre les empires Habsbourg et Ottoman</string>
+		<key>incorrectAnswer3</key>
+		<string>Une révolte contre le pouvoir de la monarchie anglaise</string>
+		<key>numberOfBadAnswers</key>
+		<integer>0</integer>
+		<key>numberOfBadAnswersQuiz</key>
+		<integer>0</integer>
+		<key>numberOfGoodAnswers</key>
+		<integer>0</integer>
+		<key>numberOfGoodAnswersQuiz</key>
+		<integer>0</integer>
+		<key>order</key>
+		<integer>20</integer>
+		<key>question</key>
+		<string>Quelle a été la cause principale de la guerre de Trente Ans ?</string>
+		<key>questionTrueOrFalse</key>
+		<string>La paix de Westphalie a abouti à la victoire du féodalisme.</string>
+		<key>theme</key>
+		<string>Espagne 1478-1618</string>
+		<key>timeLine</key>
+		<string>Début de la guerre de Trente Ans.</string>
+		<key>trueOrFalseAnswer</key>
+		<string>Faux</string>
+		<key>wikiSearchWord</key>
+		<string>Guerre de Trente Ans</string>
+	</dict>
+</array>
+</plist>

@@ -1,0 +1,366 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<!DOCTYPE plist PUBLIC "-//Apple//DTD PLIST 1.0//EN" "http://www.apple.com/DTDs/PropertyList-1.0.dtd">
+<plist version="1.0">
+<array>
+	<dict>
+		<key>correctTAnswer</key>
+		<string>Se lo dijo el ángel Gabriel en una cueva llamada Hira</string>
+		<key>date</key>
+		<string>610</string>
+		<key>id</key>
+		<string>fd9d9adc-8884-11ed-a1eb-0242ac120002</string>
+		<key>incorrectAnswer1</key>
+		<string>Estaba escrito en un libro que le fue revelado en una visión</string>
+		<key>incorrectAnswer2</key>
+		<string>Le fue transmitido a través de un sueño</string>
+		<key>incorrectAnswer3</key>
+		<string>Le fue dado por un grupo de sabios</string>
+		<key>numberOfBadAnswers</key>
+		<integer>0</integer>
+		<key>numberOfBadAnswersQuiz</key>
+		<integer>0</integer>
+		<key>numberOfGoodAnswers</key>
+		<integer>0</integer>
+		<key>numberOfGoodAnswersQuiz</key>
+		<integer>0</integer>
+		<key>order</key>
+		<integer>1</integer>
+		<key>question</key>
+		<string>¿Cómo llegó la primera revelación del Corán al profeta Mahoma?</string>
+		<key>questionTrueOrFalse</key>
+		<string>Mabaas es una fecha del calendario islámico lunar conocida por su significado de resurgimiento de los valores humanos. </string>
+		<key>theme</key>
+		<string>Imperio Islámico 610-712</string>
+		<key>timeLine</key>
+		<string>El Profeta Muhammad recibe la primera revelación del Corán.</string>
+		<key>trueOrFalseAnswer</key>
+		<string>Verdadero</string>
+		<key>wikiSearchWord</key>
+		<string>Mabaas</string>
+	</dict>
+	<dict>
+		<key>correctTAnswer</key>
+		<string>Para escapar de la persecución</string>
+		<key>date</key>
+		<string>622</string>
+		<key>id</key>
+		<string>fd9d9e42-8884-11ed-a1eb-0242ac120002</string>
+		<key>incorrectAnswer1</key>
+		<string>Para difundir el Islam</string>
+		<key>incorrectAnswer2</key>
+		<string>Visita la Kaaba</string>
+		<key>incorrectAnswer3</key>
+		<string>Para realizar la peregrinación</string>
+		<key>numberOfBadAnswers</key>
+		<integer>0</integer>
+		<key>numberOfBadAnswersQuiz</key>
+		<integer>0</integer>
+		<key>numberOfGoodAnswers</key>
+		<integer>0</integer>
+		<key>numberOfGoodAnswersQuiz</key>
+		<integer>0</integer>
+		<key>order</key>
+		<integer>2</integer>
+		<key>question</key>
+		<string>¿Por qué emprendió Mahoma la Hijra (la migración o viaje de La Meca a Medina)?</string>
+		<key>questionTrueOrFalse</key>
+		<string>La palabra hiyra significa literalmente &quot;huida&quot;.</string>
+		<key>theme</key>
+		<string>Imperio Islámico 610-712</string>
+		<key>timeLine</key>
+		<string>Mahoma emprende la Hijra. </string>
+		<key>trueOrFalseAnswer</key>
+		<string>Falso</string>
+		<key>wikiSearchWord</key>
+		<string>Hégira</string>
+	</dict>
+	<dict>
+		<key>correctTAnswer</key>
+		<string>Abu Bakr</string>
+		<key>date</key>
+		<string>632</string>
+		<key>id</key>
+		<string>fd9da018-8884-11ed-a1eb-0242ac120002</string>
+		<key>incorrectAnswer1</key>
+		<string>Umar</string>
+		<key>incorrectAnswer2</key>
+		<string>Uthman</string>
+		<key>incorrectAnswer3</key>
+		<string>Ali</string>
+		<key>numberOfBadAnswers</key>
+		<integer>0</integer>
+		<key>numberOfBadAnswersQuiz</key>
+		<integer>0</integer>
+		<key>numberOfGoodAnswers</key>
+		<integer>0</integer>
+		<key>numberOfGoodAnswersQuiz</key>
+		<integer>0</integer>
+		<key>order</key>
+		<integer>3</integer>
+		<key>question</key>
+		<string>Tras la muerte de Mahoma, ¿quién se convirtió en el primer califa?</string>
+		<key>questionTrueOrFalse</key>
+		<string>Mahoma es considerado el &quot;último de los profetas&quot; en la religión musulmana.</string>
+		<key>theme</key>
+		<string>Imperio Islámico 610-712</string>
+		<key>timeLine</key>
+		<string>Muhammad muere</string>
+		<key>trueOrFalseAnswer</key>
+		<string>Verdadero</string>
+		<key>wikiSearchWord</key>
+		<string>Mahoma</string>
+	</dict>
+	<dict>
+		<key>correctTAnswer</key>
+		<string>Bizantinos</string>
+		<key>date</key>
+		<string>632-640</string>
+		<key>id</key>
+		<string>fd9da180-8884-11ed-a1eb-0242ac120002</string>
+		<key>incorrectAnswer1</key>
+		<string>Persas sasánidas</string>
+		<key>incorrectAnswer2</key>
+		<string>Romanos</string>
+		<key>incorrectAnswer3</key>
+		<string>Egipcios</string>
+		<key>numberOfBadAnswers</key>
+		<integer>0</integer>
+		<key>numberOfBadAnswersQuiz</key>
+		<integer>0</integer>
+		<key>numberOfGoodAnswers</key>
+		<integer>0</integer>
+		<key>numberOfGoodAnswersQuiz</key>
+		<integer>0</integer>
+		<key>order</key>
+		<integer>4</integer>
+		<key>question</key>
+		<string>¿Quién gobernaba Egipto antes de la conquista árabe-islámica?</string>
+		<key>questionTrueOrFalse</key>
+		<string>Los musulmanes conquistaron Egipto antes de tomar el control de las provincias bizantinas del Levante.</string>
+		<key>theme</key>
+		<string>Imperio Islámico 610-712</string>
+		<key>timeLine</key>
+		<string>Conquista de Arabia, Palestina y Egipto por los ejércitos árabe-musulmanes.</string>
+		<key>trueOrFalseAnswer</key>
+		<string>Falso</string>
+		<key>wikiSearchWord</key>
+		<string>Conquista musulmana de Egipto</string>
+	</dict>
+	<dict>
+		<key>correctTAnswer</key>
+		<string>Ali</string>
+		<key>date</key>
+		<string>632-661</string>
+		<key>id</key>
+		<string>fd9da338-8884-11ed-a1eb-0242ac120002</string>
+		<key>incorrectAnswer1</key>
+		<string>Abu Bakr</string>
+		<key>incorrectAnswer2</key>
+		<string>Umar</string>
+		<key>incorrectAnswer3</key>
+		<string>Uthman</string>
+		<key>numberOfBadAnswers</key>
+		<integer>0</integer>
+		<key>numberOfBadAnswersQuiz</key>
+		<integer>0</integer>
+		<key>numberOfGoodAnswers</key>
+		<integer>0</integer>
+		<key>numberOfGoodAnswersQuiz</key>
+		<integer>0</integer>
+		<key>order</key>
+		<integer>5</integer>
+		<key>question</key>
+		<string>¿Qué califa Rashidun es considerado el primer califa e Imam legítimo por los musulmanes chiíes?</string>
+		<key>questionTrueOrFalse</key>
+		<string>Según los chiíes, el primer califa fue Alí ibn Abi Tálib.</string>
+		<key>theme</key>
+		<string>Imperio Islámico 610-712</string>
+		<key>timeLine</key>
+		<string>Califato Rashidun</string>
+		<key>trueOrFalseAnswer</key>
+		<string>Verdadero</string>
+		<key>wikiSearchWord</key>
+		<string>Califato ortodoxo</string>
+	</dict>
+	<dict>
+		<key>correctTAnswer</key>
+		<string>El apoyo de la población local</string>
+		<key>date</key>
+		<string>647-709</string>
+		<key>id</key>
+		<string>fd9da8a6-8884-11ed-a1eb-0242ac120002</string>
+		<key>incorrectAnswer1</key>
+		<string>La fuerza del ejército bizantino</string>
+		<key>incorrectAnswer2</key>
+		<string>El uso de tecnología militar avanzada</string>
+		<key>incorrectAnswer3</key>
+		<string>La importancia estratégica de la región</string>
+		<key>numberOfBadAnswers</key>
+		<integer>0</integer>
+		<key>numberOfBadAnswersQuiz</key>
+		<integer>0</integer>
+		<key>numberOfGoodAnswers</key>
+		<integer>0</integer>
+		<key>numberOfGoodAnswersQuiz</key>
+		<integer>0</integer>
+		<key>order</key>
+		<integer>6</integer>
+		<key>question</key>
+		<string>¿Cuál de los siguientes fue un factor clave en la conquista musulmana del norte de África?</string>
+		<key>questionTrueOrFalse</key>
+		<string>La conquista musulmana del Magreb comenzó después de la muerte de Mahoma en el año 632.</string>
+		<key>theme</key>
+		<string>Imperio Islámico 610-712</string>
+		<key>timeLine</key>
+		<string>Conquista del norte de África</string>
+		<key>trueOrFalseAnswer</key>
+		<string>Verdadero</string>
+		<key>wikiSearchWord</key>
+		<string>Conquista musulmana del Magreb</string>
+	</dict>
+	<dict>
+		<key>correctTAnswer</key>
+		<string>Tuvo como resultado la propagación del Islam y del dominio musulmán</string>
+		<key>date</key>
+		<string>651</string>
+		<key>id</key>
+		<string>fd9daaa4-8884-11ed-a1eb-0242ac120002</string>
+		<key>incorrectAnswer1</key>
+		<string>Dio lugar a un período de paz y prosperidad</string>
+		<key>incorrectAnswer2</key>
+		<string>Condujo a la difusión del cristianismo en la región</string>
+		<key>incorrectAnswer3</key>
+		<string>Llevó al colapso del comercio y la economía</string>
+		<key>numberOfBadAnswers</key>
+		<integer>0</integer>
+		<key>numberOfBadAnswersQuiz</key>
+		<integer>0</integer>
+		<key>numberOfGoodAnswers</key>
+		<integer>0</integer>
+		<key>numberOfGoodAnswersQuiz</key>
+		<integer>0</integer>
+		<key>order</key>
+		<integer>7</integer>
+		<key>question</key>
+		<string>¿Qué impacto tuvo en la región la conquista árabe-musulmana del Imperio sasánida (Irán)?</string>
+		<key>questionTrueOrFalse</key>
+		<string>La mayoría de los pueblos iranios adoptaron la rama sunita del islam durante la conquista musulmana. </string>
+		<key>theme</key>
+		<string>Imperio Islámico 610-712</string>
+		<key>timeLine</key>
+		<string>Conquista árabe-musulmana del Imperio sasánida </string>
+		<key>trueOrFalseAnswer</key>
+		<string>Falso</string>
+		<key>wikiSearchWord</key>
+		<string>Conquista musulmana de Persia</string>
+	</dict>
+	<dict>
+		<key>correctTAnswer</key>
+		<string>Damasco</string>
+		<key>date</key>
+		<string>661</string>
+		<key>id</key>
+		<string>fd9da734-8884-11ed-a1eb-0242ac120002</string>
+		<key>incorrectAnswer1</key>
+		<string>Bagdad</string>
+		<key>incorrectAnswer2</key>
+		<string>El Cairo</string>
+		<key>incorrectAnswer3</key>
+		<string>La Meca</string>
+		<key>numberOfBadAnswers</key>
+		<integer>0</integer>
+		<key>numberOfBadAnswersQuiz</key>
+		<integer>0</integer>
+		<key>numberOfGoodAnswers</key>
+		<integer>0</integer>
+		<key>numberOfGoodAnswersQuiz</key>
+		<integer>0</integer>
+		<key>order</key>
+		<integer>8</integer>
+		<key>question</key>
+		<string>¿Cuál era la capital del Califato Omeya?</string>
+		<key>questionTrueOrFalse</key>
+		<string>La ciudad vieja de Damasco está rodeada por murallas construidas durante el período islámico.</string>
+		<key>theme</key>
+		<string>Imperio Islámico 610-712</string>
+		<key>timeLine</key>
+		<string>Damasco se convierte en la capital del Califato Omeya</string>
+		<key>trueOrFalseAnswer</key>
+		<string>Falso</string>
+		<key>wikiSearchWord</key>
+		<string>Ciudad vieja de Damasco</string>
+	</dict>
+	<dict>
+		<key>correctTAnswer</key>
+		<string>Bereberes</string>
+		<key>date</key>
+		<string>711-756</string>
+		<key>id</key>
+		<string>fd9dae3c-8884-11ed-a1eb-0242ac120002</string>
+		<key>incorrectAnswer1</key>
+		<string>Persas</string>
+		<key>incorrectAnswer2</key>
+		<string>Vikingos</string>
+		<key>incorrectAnswer3</key>
+		<string>Hunos</string>
+		<key>numberOfBadAnswers</key>
+		<integer>0</integer>
+		<key>numberOfBadAnswersQuiz</key>
+		<integer>0</integer>
+		<key>numberOfGoodAnswers</key>
+		<integer>0</integer>
+		<key>numberOfGoodAnswersQuiz</key>
+		<integer>0</integer>
+		<key>order</key>
+		<integer>9</integer>
+		<key>question</key>
+		<string>¿Cuál de los siguientes grupos desempeñó un papel importante en la conquista árabe-musulmana de España?</string>
+		<key>questionTrueOrFalse</key>
+		<string>La conquista omeya de Hispania fue un proceso político y militar que duró 15 años, desde el 711 al 726.</string>
+		<key>theme</key>
+		<string>Imperio Islámico 610-712</string>
+		<key>timeLine</key>
+		<string>Conquista árabe-musulmana de España</string>
+		<key>trueOrFalseAnswer</key>
+		<string>Verdadero</string>
+		<key>wikiSearchWord</key>
+		<string>Conquista omeya de Hispania</string>
+	</dict>
+	<dict>
+		<key>correctTAnswer</key>
+		<string>Para difundir el Islam</string>
+		<key>date</key>
+		<string>712</string>
+		<key>id</key>
+		<string>fd9daf86-8884-11ed-a1eb-0242ac120002</string>
+		<key>incorrectAnswer1</key>
+		<string>Para hacerse con el control de las rutas comerciales</string>
+		<key>incorrectAnswer2</key>
+		<string>En busca de venganza por conflictos pasados</string>
+		<key>incorrectAnswer3</key>
+		<string>Para establecer una nueva capital</string>
+		<key>numberOfBadAnswers</key>
+		<integer>0</integer>
+		<key>numberOfBadAnswersQuiz</key>
+		<integer>0</integer>
+		<key>numberOfGoodAnswers</key>
+		<integer>0</integer>
+		<key>numberOfGoodAnswersQuiz</key>
+		<integer>0</integer>
+		<key>order</key>
+		<integer>10</integer>
+		<key>question</key>
+		<string>¿Cuál fue el principal motivo de la conquista árabe-musulmana de Sindh (sureste de Pakistán)?</string>
+		<key>questionTrueOrFalse</key>
+		<string>Las conquistas musulmanas en el subcontinente indio comenzaron en el siglo XI con las invasiones de túrquicos y afganos.</string>
+		<key>theme</key>
+		<string>Imperio Islámico 610-712</string>
+		<key>timeLine</key>
+		<string>Conquista árabe-musulmana de Sindh</string>
+		<key>trueOrFalseAnswer</key>
+		<string>Falso</string>
+		<key>wikiSearchWord</key>
+		<string>Conquistas musulmanas en el subcontinente indio</string>
+	</dict>
+</array>
+</plist>

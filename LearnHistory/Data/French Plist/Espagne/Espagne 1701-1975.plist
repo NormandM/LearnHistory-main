@@ -1,0 +1,366 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<!DOCTYPE plist PUBLIC "-//Apple//DTD PLIST 1.0//EN" "http://www.apple.com/DTDs/PropertyList-1.0.dtd">
+<plist version="1.0">
+<array>
+	<dict>
+		<key>correctTAnswer</key>
+		<string>Un conflit sur la succession au trône d&apos;Espagne</string>
+		<key>date</key>
+		<string>1701</string>
+		<key>id</key>
+		<string>f5061422-8310-11ed-a1eb-0242ac120002</string>
+		<key>incorrectAnswer1</key>
+		<string>Un différend frontalier entre la France et l&apos;Espagne</string>
+		<key>incorrectAnswer2</key>
+		<string>Un conflit sur les routes commerciales dans les Caraïbes</string>
+		<key>incorrectAnswer3</key>
+		<string>Une dispute contrôler du Saint Empire romain germanique</string>
+		<key>numberOfBadAnswers</key>
+		<integer>0</integer>
+		<key>numberOfBadAnswersQuiz</key>
+		<integer>0</integer>
+		<key>numberOfGoodAnswers</key>
+		<integer>0</integer>
+		<key>numberOfGoodAnswersQuiz</key>
+		<integer>0</integer>
+		<key>order</key>
+		<integer>21</integer>
+		<key>question</key>
+		<string>Quelle a été la cause principale de la guerre de Succession d&apos;Espagne de 1701 ?</string>
+		<key>questionTrueOrFalse</key>
+		<string>L&apos;enjeu de la guerre de Succession d&apos;Espagne était le partage des colonies d&apos;Espagne.</string>
+		<key>theme</key>
+		<string>Espagne 1701-1975</string>
+		<key>timeLine</key>
+		<string> Début de la guerre de Succession d&apos;Espagne. </string>
+		<key>trueOrFalseAnswer</key>
+		<string>Faux</string>
+		<key>wikiSearchWord</key>
+		<string>Guerre de Succession d&apos;Espagne</string>
+	</dict>
+	<dict>
+		<key>correctTAnswer</key>
+		<string>La France et les colonies américaines</string>
+		<key>date</key>
+		<string>1761</string>
+		<key>id</key>
+		<string>f5061526-8310-11ed-a1eb-0242ac120002</string>
+		<key>incorrectAnswer1</key>
+		<string>L&apos;Empire ottoman et la Prusse</string>
+		<key>incorrectAnswer2</key>
+		<string>La République néerlandaise et le Portugal</string>
+		<key>incorrectAnswer3</key>
+		<string>L&apos;Autriche et la Russie</string>
+		<key>numberOfBadAnswers</key>
+		<integer>0</integer>
+		<key>numberOfBadAnswersQuiz</key>
+		<integer>0</integer>
+		<key>numberOfGoodAnswers</key>
+		<integer>0</integer>
+		<key>numberOfGoodAnswersQuiz</key>
+		<integer>0</integer>
+		<key>order</key>
+		<integer>22</integer>
+		<key>question</key>
+		<string>Qui étaient les alliés de l&apos;Espagne pendant la guerre de Sept Ans ?</string>
+		<key>questionTrueOrFalse</key>
+		<string>La Guerre de Sept Ans est un conflit majeur de l&apos;histoire de l&apos;Europe, le premier qui puisse être qualifié de « guerre mondiale ».</string>
+		<key>theme</key>
+		<string>Espagne 1701-1975</string>
+		<key>timeLine</key>
+		<string> L&apos;Espagne rejoint la guerre de Sept Ans contre la Grande-Bretagne.</string>
+		<key>trueOrFalseAnswer</key>
+		<string>Vrai</string>
+		<key>wikiSearchWord</key>
+		<string>Guerre de Sept Ans</string>
+	</dict>
+	<dict>
+		<key>correctTAnswer</key>
+		<string>Napoléon Bonaparte</string>
+		<key>date</key>
+		<string>1808</string>
+		<key>id</key>
+		<string>f506162a-8310-11ed-a1eb-0242ac120002</string>
+		<key>incorrectAnswer1</key>
+		<string>Duc de Wellington</string>
+		<key>incorrectAnswer2</key>
+		<string>Le roi Louis XVI</string>
+		<key>incorrectAnswer3</key>
+		<string>Le roi Ferdinand VII</string>
+		<key>numberOfBadAnswers</key>
+		<integer>0</integer>
+		<key>numberOfBadAnswersQuiz</key>
+		<integer>0</integer>
+		<key>numberOfGoodAnswers</key>
+		<integer>0</integer>
+		<key>numberOfGoodAnswersQuiz</key>
+		<integer>0</integer>
+		<key>order</key>
+		<integer>23</integer>
+		<key>question</key>
+		<string>Qui était le chef de l&apos;armée française pendant la guerre péninsulaire ?</string>
+		<key>questionTrueOrFalse</key>
+		<string>L&apos;insurrection espagnole a débuté lorsque Madrid s&apos;est soulevé contre l&apos;armée française.</string>
+		<key>theme</key>
+		<string>Espagne 1701-1975</string>
+		<key>timeLine</key>
+		<string> La guerre péninsulaire est menée contre l&apos;Empire français dirigé par Napoléon.</string>
+		<key>trueOrFalseAnswer</key>
+		<string>Vrai</string>
+		<key>wikiSearchWord</key>
+		<string>Guerre d&apos;indépendance espagnole</string>
+	</dict>
+	<dict>
+		<key>correctTAnswer</key>
+		<string>Venezuela</string>
+		<key>date</key>
+		<string>1808</string>
+		<key>id</key>
+		<string>f5061724-8310-11ed-a1eb-0242ac120002</string>
+		<key>incorrectAnswer1</key>
+		<string>Pérou</string>
+		<key>incorrectAnswer2</key>
+		<string>Chili</string>
+		<key>incorrectAnswer3</key>
+		<string>Argentine</string>
+		<key>numberOfBadAnswers</key>
+		<integer>0</integer>
+		<key>numberOfBadAnswersQuiz</key>
+		<integer>0</integer>
+		<key>numberOfGoodAnswers</key>
+		<integer>0</integer>
+		<key>numberOfGoodAnswersQuiz</key>
+		<integer>0</integer>
+		<key>order</key>
+		<integer>24</integer>
+		<key>question</key>
+		<string>Quel pays Simon Bolivar a-t-il conduit à l&apos;indépendance vis-à-vis de l&apos;Espagne ?</string>
+		<key>questionTrueOrFalse</key>
+		<string>L&apos;indépendance politique a été l&apos;objectif principal des Hispano-Américains pendant les guerres d&apos;indépendance. </string>
+		<key>theme</key>
+		<string>Espagne 1701-1975</string>
+		<key>timeLine</key>
+		<string>Guerres d&apos;indépendance hispano-américaines</string>
+		<key>trueOrFalseAnswer</key>
+		<string>Faux</string>
+		<key>wikiSearchWord</key>
+		<string>Guerres d&apos;indépendance hispano-américaines</string>
+	</dict>
+	<dict>
+		<key>correctTAnswer</key>
+		<string>Cuba, Porto Rico et Guam</string>
+		<key>date</key>
+		<string>1898</string>
+		<key>id</key>
+		<string>f50619c2-8310-11ed-a1eb-0242ac120002</string>
+		<key>incorrectAnswer1</key>
+		<string>Cuba</string>
+		<key>incorrectAnswer2</key>
+		<string>Porto Rico</string>
+		<key>incorrectAnswer3</key>
+		<string>Guam</string>
+		<key>numberOfBadAnswers</key>
+		<integer>0</integer>
+		<key>numberOfBadAnswersQuiz</key>
+		<integer>0</integer>
+		<key>numberOfGoodAnswers</key>
+		<integer>0</integer>
+		<key>numberOfGoodAnswersQuiz</key>
+		<integer>0</integer>
+		<key>order</key>
+		<integer>25</integer>
+		<key>question</key>
+		<string>Lequel des territoires suivants les États-Unis ont-ils acquis à la suite de la guerre hispano-américaine ?</string>
+		<key>questionTrueOrFalse</key>
+		<string>La guerre hispano-américaine eut pour conséquence la prise de contrôle de colonies espagnoles par les États-Unis d&apos;Amérique.</string>
+		<key>theme</key>
+		<string>Espagne 1701-1975</string>
+		<key>timeLine</key>
+		<string> La guerre hispano-américaine est déclenchée.</string>
+		<key>trueOrFalseAnswer</key>
+		<string>Vrai</string>
+		<key>wikiSearchWord</key>
+		<string>Guerre hispano-américaine</string>
+	</dict>
+	<dict>
+		<key>correctTAnswer</key>
+		<string>Républicains et nationalistes</string>
+		<key>date</key>
+		<string>1936</string>
+		<key>id</key>
+		<string>f5061b3e-8310-11ed-a1eb-0242ac120002</string>
+		<key>incorrectAnswer1</key>
+		<string>Communistes et fascistes</string>
+		<key>incorrectAnswer2</key>
+		<string>Démocrates et républicains</string>
+		<key>incorrectAnswer3</key>
+		<string>Monarchistes et républicains</string>
+		<key>numberOfBadAnswers</key>
+		<integer>0</integer>
+		<key>numberOfBadAnswersQuiz</key>
+		<integer>0</integer>
+		<key>numberOfGoodAnswers</key>
+		<integer>0</integer>
+		<key>numberOfGoodAnswersQuiz</key>
+		<integer>0</integer>
+		<key>order</key>
+		<integer>26</integer>
+		<key>question</key>
+		<string>Quelles étaient les principales factions impliquées dans la guerre civile espagnole ?</string>
+		<key>questionTrueOrFalse</key>
+		<string>La guerre d&apos;Espagne se termina par la victoire des républicains.</string>
+		<key>theme</key>
+		<string>Espagne 1701-1975</string>
+		<key>timeLine</key>
+		<string> Début de la guerre civile espagnole. </string>
+		<key>trueOrFalseAnswer</key>
+		<string>Faux</string>
+		<key>wikiSearchWord</key>
+		<string>Guerre d&apos;Espagne</string>
+	</dict>
+	<dict>
+		<key>correctTAnswer</key>
+		<string>Les pouvoirs fascistes allemand et italien</string>
+		<key>date</key>
+		<string>1937</string>
+		<key>id</key>
+		<string>f5061cce-8310-11ed-a1eb-0242ac120002</string>
+		<key>incorrectAnswer1</key>
+		<string>Les forces nationalistes espagnoles</string>
+		<key>incorrectAnswer2</key>
+		<string>L&apos;Union soviétique</string>
+		<key>incorrectAnswer3</key>
+		<string>Les États-Unis</string>
+		<key>numberOfBadAnswers</key>
+		<integer>0</integer>
+		<key>numberOfBadAnswersQuiz</key>
+		<integer>0</integer>
+		<key>numberOfGoodAnswers</key>
+		<integer>0</integer>
+		<key>numberOfGoodAnswersQuiz</key>
+		<integer>0</integer>
+		<key>order</key>
+		<integer>27</integer>
+		<key>question</key>
+		<string>Qui était responsable du bombardement de Guernica ?</string>
+		<key>questionTrueOrFalse</key>
+		<string>Le bombardement de Guernica a été réalisé pour soutenir le gouvernement de la Seconde République espagnole.</string>
+		<key>theme</key>
+		<string>Espagne 1701-1975</string>
+		<key>timeLine</key>
+		<string>Bombardement de Guernica</string>
+		<key>trueOrFalseAnswer</key>
+		<string>Faux</string>
+		<key>wikiSearchWord</key>
+		<string>Bombardement de Guernica</string>
+	</dict>
+	<dict>
+		<key>correctTAnswer</key>
+		<string>Il prend le pouvoir par un coup d&apos;État militaire</string>
+		<key>date</key>
+		<string>1939</string>
+		<key>id</key>
+		<string>f5061ddc-8310-11ed-a1eb-0242ac120002</string>
+		<key>incorrectAnswer1</key>
+		<string>Il a été élu lors d&apos;une élection libre et équitable</string>
+		<key>incorrectAnswer2</key>
+		<string>Il a hérité du trône</string>
+		<key>incorrectAnswer3</key>
+		<string>Il a été nommé par les Nations unies</string>
+		<key>numberOfBadAnswers</key>
+		<integer>0</integer>
+		<key>numberOfBadAnswersQuiz</key>
+		<integer>0</integer>
+		<key>numberOfGoodAnswers</key>
+		<integer>0</integer>
+		<key>numberOfGoodAnswersQuiz</key>
+		<integer>0</integer>
+		<key>order</key>
+		<integer>28</integer>
+		<key>question</key>
+		<string>Comment Francisco Franco est-il arrivé au pouvoir en Espagne ?</string>
+		<key>questionTrueOrFalse</key>
+		<string>Initialement le système autarcique, mis en place par Franco, proscrivait les investissements étrangers et les importations.</string>
+		<key>theme</key>
+		<string>Espagne 1701-1975</string>
+		<key>timeLine</key>
+		<string>Francisco Franco devient le dictateur de l&apos;Espagne.</string>
+		<key>trueOrFalseAnswer</key>
+		<string>Vrai</string>
+		<key>wikiSearchWord</key>
+		<string>Francisco Franco</string>
+	</dict>
+	<dict>
+		<key>correctTAnswer</key>
+		<string>Neutres</string>
+		<key>date</key>
+		<string>1939</string>
+		<key>id</key>
+		<string>f5061ed6-8310-11ed-a1eb-0242ac120002</string>
+		<key>incorrectAnswer1</key>
+		<string>Alliés des puissances de l&apos;Axe</string>
+		<key>incorrectAnswer2</key>
+		<string>Allié aux puissances alliées</string>
+		<key>incorrectAnswer3</key>
+		<string>Impliqué dans sa propre guerre civile</string>
+		<key>numberOfBadAnswers</key>
+		<integer>0</integer>
+		<key>numberOfBadAnswersQuiz</key>
+		<integer>0</integer>
+		<key>numberOfGoodAnswers</key>
+		<integer>0</integer>
+		<key>numberOfGoodAnswersQuiz</key>
+		<integer>0</integer>
+		<key>order</key>
+		<integer>29</integer>
+		<key>question</key>
+		<string>Lequel des énoncés suivants décrit le mieux la position de l&apos;Espagne pendant la Seconde Guerre mondiale ?</string>
+		<key>questionTrueOrFalse</key>
+		<string>L&apos;Espagne sous Franco était une puissance de l&apos;Axe pendant la Seconde Guerre mondiale.</string>
+		<key>theme</key>
+		<string>Espagne 1701-1975</string>
+		<key>timeLine</key>
+		<string>L&apos;Espagne pendant la Seconde Guerre mondiale</string>
+		<key>trueOrFalseAnswer</key>
+		<string>Faux</string>
+		<key>wikiSearchWord</key>
+		<string>Histoire de l&apos;Espagne pendant la Seconde Guerre mondiale</string>
+	</dict>
+	<dict>
+		<key>correctTAnswer</key>
+		<string>La mort du dictateur Francisco Franco</string>
+		<key>date</key>
+		<string>1975</string>
+		<key>id</key>
+		<string>f5061fc6-8310-11ed-a1eb-0242ac120002</string>
+		<key>incorrectAnswer1</key>
+		<string>La chute de l&apos;Union soviétique</string>
+		<key>incorrectAnswer2</key>
+		<string>La signature du traité de Maastricht</string>
+		<key>incorrectAnswer3</key>
+		<string>La publication du manifeste &quot;Programme Possible</string>
+		<key>numberOfBadAnswers</key>
+		<integer>0</integer>
+		<key>numberOfBadAnswersQuiz</key>
+		<integer>0</integer>
+		<key>numberOfGoodAnswers</key>
+		<integer>0</integer>
+		<key>numberOfGoodAnswersQuiz</key>
+		<integer>0</integer>
+		<key>order</key>
+		<integer>30</integer>
+		<key>question</key>
+		<string>Quel événement a marqué le début de la transition de l&apos;Espagne vers la démocratie ?</string>
+		<key>questionTrueOrFalse</key>
+		<string>Franco a été chef de l&apos;État en Espagne de 1936 à 1975.</string>
+		<key>theme</key>
+		<string>Espagne 1701-1975</string>
+		<key>timeLine</key>
+		<string>Transition espagnole vers la démocratie</string>
+		<key>trueOrFalseAnswer</key>
+		<string>Vrai</string>
+		<key>wikiSearchWord</key>
+		<string>Transition démocratique espagnole</string>
+	</dict>
+</array>
+</plist>

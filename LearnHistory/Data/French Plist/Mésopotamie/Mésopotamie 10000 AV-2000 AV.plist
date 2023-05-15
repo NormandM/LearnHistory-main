@@ -1,0 +1,368 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<!DOCTYPE plist PUBLIC "-//Apple//DTD PLIST 1.0//EN" "http://www.apple.com/DTDs/PropertyList-1.0.dtd">
+<plist version="1.0">
+<array>
+	<dict>
+		<key>New item</key>
+		<string></string>
+		<key>correctTAnswer</key>
+		<string>10000 Av</string>
+		<key>date</key>
+		<string>10000 Av</string>
+		<key>id</key>
+		<string>084a2ff0-b77e-11ec-b909-0242ac120002</string>
+		<key>incorrectAnswer1</key>
+		<string>15000 Av</string>
+		<key>incorrectAnswer2</key>
+		<string>20000 Av</string>
+		<key>incorrectAnswer3</key>
+		<string>5000 Av</string>
+		<key>numberOfBadAnswers</key>
+		<integer>0</integer>
+		<key>numberOfBadAnswersQuiz</key>
+		<integer>0</integer>
+		<key>numberOfGoodAnswers</key>
+		<integer>0</integer>
+		<key>numberOfGoodAnswersQuiz</key>
+		<integer>0</integer>
+		<key>order</key>
+		<integer>1</integer>
+		<key>question</key>
+		<string>Quand la Mésopotamie est-elle passée d&apos;une vie de chasses de cueillettes à l&apos;agriculture ?</string>
+		<key>questionTrueOrFalse</key>
+		<string>La Mésopotamie est située dans le système fluvial Tigre-Euphrate.</string>
+		<key>theme</key>
+		<string>Mésopotamie 10000 AV-2000 AV</string>
+		<key>timeLine</key>
+		<string>L&apos;agriculture apparaît en Mésopotamie.</string>
+		<key>trueOrFalseAnswer</key>
+		<string>Vrai</string>
+		<key>wikiSearchWord</key>
+		<string>Mésopotamie</string>
+	</dict>
+	<dict>
+		<key>correctTAnswer</key>
+		<string>Sumer</string>
+		<key>date</key>
+		<string>6000 Av</string>
+		<key>id</key>
+		<string>084a32f2-b77e-11ec-b909-0242ac120002</string>
+		<key>incorrectAnswer1</key>
+		<string>Égypte</string>
+		<key>incorrectAnswer2</key>
+		<string>Babylonien</string>
+		<key>incorrectAnswer3</key>
+		<string>Assyrien</string>
+		<key>numberOfBadAnswers</key>
+		<integer>0</integer>
+		<key>numberOfBadAnswersQuiz</key>
+		<integer>0</integer>
+		<key>numberOfGoodAnswers</key>
+		<integer>0</integer>
+		<key>numberOfGoodAnswersQuiz</key>
+		<integer>0</integer>
+		<key>order</key>
+		<integer>2</integer>
+		<key>question</key>
+		<string>Quelle est la plus ancienne civilisation connue de la Mésopotamie ?</string>
+		<key>questionTrueOrFalse</key>
+		<string>Sumer était située dans le nord de la Mésopotamie.</string>
+		<key>theme</key>
+		<string>Mésopotamie 10000 AV-2000 AV</string>
+		<key>timeLine</key>
+		<string>Émergence de la civilisation sumérienne.</string>
+		<key>trueOrFalseAnswer</key>
+		<string>Faux</string>
+		<key>wikiSearchWord</key>
+		<string>Sumer</string>
+	</dict>
+	<dict>
+		<key>correctTAnswer</key>
+		<string>Eridu</string>
+		<key>date</key>
+		<string>5400 Av</string>
+		<key>id</key>
+		<string>084a3414-b77e-11ec-b909-0242ac120002</string>
+		<key>incorrectAnswer1</key>
+		<string>Babylone</string>
+		<key>incorrectAnswer2</key>
+		<string>Thèbes</string>
+		<key>incorrectAnswer3</key>
+		<string>Persépolis</string>
+		<key>numberOfBadAnswers</key>
+		<integer>0</integer>
+		<key>numberOfBadAnswersQuiz</key>
+		<integer>0</integer>
+		<key>numberOfGoodAnswers</key>
+		<integer>0</integer>
+		<key>numberOfGoodAnswersQuiz</key>
+		<integer>0</integer>
+		<key>order</key>
+		<integer>3</integer>
+		<key>question</key>
+		<string>Quelle ville est considérée comme la plus ancienne de la civilisation sumérienne ?</string>
+		<key>questionTrueOrFalse</key>
+		<string>Les ruines d’Eridu se trouvent sur un vaste espace, à une vingtaine de kilomètres au sud-ouest d’Ur.</string>
+		<key>theme</key>
+		<string>Mésopotamie 10000 AV-2000 AV</string>
+		<key>timeLine</key>
+		<string>Fondation d&apos;Eridu.</string>
+		<key>trueOrFalseAnswer</key>
+		<string>Vrai</string>
+		<key>wikiSearchWord</key>
+		<string>Eridu</string>
+	</dict>
+	<dict>
+		<key>correctTAnswer</key>
+		<string>Cunéiforme</string>
+		<key>date</key>
+		<string>3400 Av</string>
+		<key>id</key>
+		<string>084a3522-b77e-11ec-b909-0242ac120002</string>
+		<key>incorrectAnswer1</key>
+		<string>Hiéroglyphes</string>
+		<key>incorrectAnswer2</key>
+		<string>Sémitique</string>
+		<key>incorrectAnswer3</key>
+		<string>Linéaire</string>
+		<key>numberOfBadAnswers</key>
+		<integer>0</integer>
+		<key>numberOfBadAnswersQuiz</key>
+		<integer>0</integer>
+		<key>numberOfGoodAnswers</key>
+		<integer>0</integer>
+		<key>numberOfGoodAnswersQuiz</key>
+		<integer>0</integer>
+		<key>order</key>
+		<integer>4</integer>
+		<key>question</key>
+		<string>Inventé par les Sumériens, c&apos;est le premier système d&apos;écriture. Comment s&apos;appelle-t-il ?</string>
+		<key>questionTrueOrFalse</key>
+		<string>Les Sumériens écrivaient sur du papyrus.</string>
+		<key>theme</key>
+		<string>Mésopotamie 10000 AV-2000 AV</string>
+		<key>timeLine</key>
+		<string>Création de l&apos;écriture cunéiforme.</string>
+		<key>trueOrFalseAnswer</key>
+		<string>Faux</string>
+		<key>wikiSearchWord</key>
+		<string>Cunéiforme</string>
+	</dict>
+	<dict>
+		<key>correctTAnswer</key>
+		<string>Uruk</string>
+		<key>date</key>
+		<string>3100 Av</string>
+		<key>id</key>
+		<string>084a3630-b77e-11ec-b909-0242ac120002</string>
+		<key>incorrectAnswer1</key>
+		<string>Ur</string>
+		<key>incorrectAnswer2</key>
+		<string>Babylone</string>
+		<key>incorrectAnswer3</key>
+		<string>Akkad</string>
+		<key>numberOfBadAnswers</key>
+		<integer>0</integer>
+		<key>numberOfBadAnswersQuiz</key>
+		<integer>0</integer>
+		<key>numberOfGoodAnswers</key>
+		<integer>0</integer>
+		<key>numberOfGoodAnswersQuiz</key>
+		<integer>0</integer>
+		<key>order</key>
+		<integer>5</integer>
+		<key>question</key>
+		<string>Dans quelle ville le légendaire le roi Gilgamesh est-il réputé avoir régné au 27e siècle avant J.-C. ?</string>
+		<key>questionTrueOrFalse</key>
+		<string>Uruk a joué un rôle de premier plan dans l&apos;urbanisation précoce de Sumer au milieu du IVe millénaire avant J.-C.</string>
+		<key>theme</key>
+		<string>Mésopotamie 10000 AV-2000 AV</string>
+		<key>timeLine</key>
+		<string>La ville d&apos;Uruk atteint 40000 habitants</string>
+		<key>trueOrFalseAnswer</key>
+		<string>Vrai</string>
+		<key>wikiSearchWord</key>
+		<string>Uruk</string>
+	</dict>
+	<dict>
+		<key>correctTAnswer</key>
+		<string>Assyrie et Babylonie </string>
+		<key>date</key>
+		<string>2400 Av</string>
+		<key>id</key>
+		<string>084a3734-b77e-11ec-b909-0242ac120002</string>
+		<key>incorrectAnswer1</key>
+		<string>Elam et Gutium</string>
+		<key>incorrectAnswer2</key>
+		<string>Achéménide et Sumer</string>
+		<key>incorrectAnswer3</key>
+		<string>Sumer et Elam</string>
+		<key>numberOfBadAnswers</key>
+		<integer>0</integer>
+		<key>numberOfBadAnswersQuiz</key>
+		<integer>0</integer>
+		<key>numberOfGoodAnswers</key>
+		<integer>0</integer>
+		<key>numberOfGoodAnswersQuiz</key>
+		<integer>0</integer>
+		<key>order</key>
+		<integer>6</integer>
+		<key>question</key>
+		<string>Quelles sont les deux nations qui ont résulté de la chute de l&apos;empire akkadien ?</string>
+		<key>questionTrueOrFalse</key>
+		<string>L&apos;empire akkadien atteint son apogée politique en 1000 av. J.-C.</string>
+		<key>theme</key>
+		<string>Mésopotamie 10000 AV-2000 AV</string>
+		<key>timeLine</key>
+		<string>La langue akkadienne remplace le sumérien comme langue principale.</string>
+		<key>trueOrFalseAnswer</key>
+		<string>Faux</string>
+		<key>wikiSearchWord</key>
+		<string>Empire Akkadien</string>
+	</dict>
+	<dict>
+		<key>correctTAnswer</key>
+		<string>Sargon d&apos;Akkad</string>
+		<key>date</key>
+		<string>2334–2279 Av</string>
+		<key>id</key>
+		<string>084a382e-b77e-11ec-b909-0242ac120002</string>
+		<key>incorrectAnswer1</key>
+		<string>Darius</string>
+		<key>incorrectAnswer2</key>
+		<string>Cyrius</string>
+		<key>incorrectAnswer3</key>
+		<string>Homère</string>
+		<key>numberOfBadAnswers</key>
+		<integer>0</integer>
+		<key>numberOfBadAnswersQuiz</key>
+		<integer>0</integer>
+		<key>numberOfGoodAnswers</key>
+		<integer>0</integer>
+		<key>numberOfGoodAnswersQuiz</key>
+		<integer>0</integer>
+		<key>order</key>
+		<integer>7</integer>
+		<key>question</key>
+		<string>Il fut le fondateur du premier empire : L&apos;empire akkadien. Qui est-il ?</string>
+		<key>questionTrueOrFalse</key>
+		<string>L&apos;empire de Sargon d&apos;Akkad comprenait la majeure partie de la Mésopotamie et certaines parties du Levant.</string>
+		<key>theme</key>
+		<string>Mésopotamie 10000 AV-2000 AV</string>
+		<key>timeLine</key>
+		<string>Règne de Sargon d&apos;Akkad</string>
+		<key>trueOrFalseAnswer</key>
+		<string>Vrai</string>
+		<key>wikiSearchWord</key>
+		<string>Sargon d&apos;Akkad</string>
+	</dict>
+	<dict>
+		<key>correctTAnswer</key>
+		<string>Epopée de Gilgamesh</string>
+		<key>date</key>
+		<string>2100-1200 Av</string>
+		<key>id</key>
+		<string>084a3a2c-b77e-11ec-b909-0242ac120002</string>
+		<key>incorrectAnswer1</key>
+		<string>Epopée d&apos;Emmerkar</string>
+		<key>incorrectAnswer2</key>
+		<string>Épopée d&apos;Arata</string>
+		<key>incorrectAnswer3</key>
+		<string>Epopée d&apos;Aga</string>
+		<key>numberOfBadAnswers</key>
+		<integer>0</integer>
+		<key>numberOfBadAnswersQuiz</key>
+		<integer>0</integer>
+		<key>numberOfGoodAnswers</key>
+		<integer>0</integer>
+		<key>numberOfGoodAnswersQuiz</key>
+		<integer>0</integer>
+		<key>order</key>
+		<integer>8</integer>
+		<key>question</key>
+		<string>Quel est le nom de ce poème épique considéré comme la première œuvre littéraire?</string>
+		<key>questionTrueOrFalse</key>
+		<string>Dans l&apos;épopée de Gilgamesh, ce dernier entreprend un long voyage pour découvrir le secret de la vie éternelle.</string>
+		<key>theme</key>
+		<string>Mésopotamie 10000 AV-2000 AV</string>
+		<key>timeLine</key>
+		<string>L&apos;Epopée de Gilgamesh est écrite.</string>
+		<key>trueOrFalseAnswer</key>
+		<string>Vrai</string>
+		<key>wikiSearchWord</key>
+		<string>Épopée de Gilgamesh</string>
+	</dict>
+	<dict>
+		<key>correctTAnswer</key>
+		<string>Ziggourat</string>
+		<key>date</key>
+		<string>2100 Av</string>
+		<key>id</key>
+		<string>084a3b30-b77e-11ec-b909-0242ac120002</string>
+		<key>incorrectAnswer1</key>
+		<string>Pyramide</string>
+		<key>incorrectAnswer2</key>
+		<string>Pagode</string>
+		<key>incorrectAnswer3</key>
+		<string>Sanctuaire</string>
+		<key>numberOfBadAnswers</key>
+		<integer>0</integer>
+		<key>numberOfBadAnswersQuiz</key>
+		<integer>0</integer>
+		<key>numberOfGoodAnswers</key>
+		<integer>0</integer>
+		<key>numberOfGoodAnswersQuiz</key>
+		<integer>0</integer>
+		<key>order</key>
+		<integer>9</integer>
+		<key>question</key>
+		<string>Comment se nomment les temples construits par les Sumériens qu’ils pensaient habités par leurs dieux?</string>
+		<key>questionTrueOrFalse</key>
+		<string>Le récit biblique de la tour de Babel est inspiré par la ziggurat de Babylone.</string>
+		<key>theme</key>
+		<string>Mésopotamie 10000 AV-2000 AV</string>
+		<key>timeLine</key>
+		<string>Construction de la grande ziggourat d&apos;Ur.</string>
+		<key>trueOrFalseAnswer</key>
+		<string>Vrai</string>
+		<key>wikiSearchWord</key>
+		<string>Ziggourat</string>
+	</dict>
+	<dict>
+		<key>correctTAnswer</key>
+		<string>Ur</string>
+		<key>date</key>
+		<string>2000 Av</string>
+		<key>id</key>
+		<string>084a3c34-b77e-11ec-b909-0242ac120002</string>
+		<key>incorrectAnswer1</key>
+		<string>Babylone</string>
+		<key>incorrectAnswer2</key>
+		<string>Uruk</string>
+		<key>incorrectAnswer3</key>
+		<string>Assur</string>
+		<key>numberOfBadAnswers</key>
+		<integer>0</integer>
+		<key>numberOfBadAnswersQuiz</key>
+		<integer>0</integer>
+		<key>numberOfGoodAnswers</key>
+		<integer>0</integer>
+		<key>numberOfGoodAnswersQuiz</key>
+		<integer>0</integer>
+		<key>order</key>
+		<integer>10</integer>
+		<key>question</key>
+		<string>Selon la Bible, quelle ville de Mésopotamie est le lieu de naissance d&apos;Abraham ?</string>
+		<key>questionTrueOrFalse</key>
+		<string>Ur ou Uruk est une prononciation différente du nom d&apos;une même ville.</string>
+		<key>theme</key>
+		<string>Mésopotamie 10000 AV-2000 AV</string>
+		<key>timeLine</key>
+		<string>Les Elamites s&apos;emparent d&apos;Ur. </string>
+		<key>trueOrFalseAnswer</key>
+		<string>Faux</string>
+		<key>wikiSearchWord</key>
+		<string>Ur (Mésopotamie)</string>
+	</dict>
+</array>
+</plist>

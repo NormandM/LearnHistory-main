@@ -1,0 +1,1088 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<!DOCTYPE plist PUBLIC "-//Apple//DTD PLIST 1.0//EN" "http://www.apple.com/DTDs/PropertyList-1.0.dtd">
+<plist version="1.0">
+<array>
+	<dict>
+		<key>id</key>
+		<string>f505f4f6-8310-11ed-a1eb-0242ac120002</string>
+		<key>date</key>
+		<string>Il y a 35 000 à 15 000 ans</string>
+		<key>question</key>
+		<string>On pense que les Ibères préhistoriques ont migré vers l&apos;Ibérie à partir de laquelle des régions suivantes ?</string>
+		<key>correctTAnswer</key>
+		<string>Afrique</string>
+		<key>incorrectAnswer1</key>
+		<string>Asie</string>
+		<key>incorrectAnswer2</key>
+		<string>Europe</string>
+		<key>incorrectAnswer3</key>
+		<string>Australie</string>
+		<key>wikiSearchWord</key>
+		<string>Préhistoire de la péninsule Ibérique</string>
+		<key>questionTrueOrFalse</key>
+		<string>La péninsule ibérique est connue pour son art pariétal exceptionnel.</string>
+		<key>trueOrFalseAnswer</key>
+		<string>Vrai</string>
+		<key>timeLine</key>
+		<string>Homo sapiens arrive dans la péninsule ibérique</string>
+		<key>theme</key>
+		<string>Espagne</string>
+		<key>numberOfGoodAnswers</key>
+		<integer>0</integer>
+		<key>numberOfBadAnswers</key>
+		<integer>0</integer>
+		<key>numberOfGoodAnswersQuiz</key>
+		<integer>0</integer>
+		<key>numberOfBadAnswersQuiz</key>
+		<integer>0</integer>
+		<key>order</key>
+		<integer>1</integer>
+	</dict>
+	<dict>
+		<key>id</key>
+		<string>f505f79e-8310-11ed-a1eb-0242ac120002</string>
+		<key>date</key>
+		<string>2200 av. - 1550 av.</string>
+		<key>question</key>
+		<string>Quelle était l&apos;activité principale de l&apos;ancienne culture argarique ?</string>
+		<key>correctTAnswer</key>
+		<string>Agriculture et élevage</string>
+		<key>incorrectAnswer1</key>
+		<string>Échanges et commerce</string>
+		<key>incorrectAnswer2</key>
+		<string>Guerre et conquête</string>
+		<key>incorrectAnswer3</key>
+		<string>Chasse et cueillette
+
+</string>
+		<key>wikiSearchWord</key>
+		<string>Culture d&apos;El Argar</string>
+		<key>questionTrueOrFalse</key>
+		<string>La culture d&apos;El Argar est l&apos;un des exemples les plus remarquables d&apos;une société complexe précoce de la préhistoire européenne, avec des preuves de stratification sociale et de société hiérarchisée.</string>
+		<key>trueOrFalseAnswer</key>
+		<string>Vrai</string>
+		<key>timeLine</key>
+		<string>La civilisation d&apos;El Argar </string>
+		<key>theme</key>
+		<string>Espagne</string>
+		<key>numberOfGoodAnswers</key>
+		<integer>0</integer>
+		<key>numberOfBadAnswers</key>
+		<integer>0</integer>
+		<key>numberOfGoodAnswersQuiz</key>
+		<integer>0</integer>
+		<key>numberOfBadAnswersQuiz</key>
+		<integer>0</integer>
+		<key>order</key>
+		<integer>2</integer>
+	</dict>
+	<dict>
+		<key>id</key>
+		<string>f505f8e8-8310-11ed-a1eb-0242ac120002</string>
+		<key>date</key>
+		<string>1000 av. - 500 av.</string>
+		<key>question</key>
+		<string>Comment les Celtes, qui ont immigré dans la péninsule ibérique, ont-ils interagi avec la population ibérique indigène ?</string>
+		<key>correctTAnswer</key>
+		<string>Elles ont formé une relation symbiotique, s&apos;influençant mutuellement. </string>
+		<key>incorrectAnswer1</key>
+		<string>Ils ont combattu et conquis les Ibères.</string>
+		<key>incorrectAnswer2</key>
+		<string>Ils vivaient complètement séparés et isolés des Ibères.</string>
+		<key>incorrectAnswer3</key>
+		<string>Ils ont vécu à des époques différentes.</string>
+		<key>wikiSearchWord</key>
+		<string>Celtibères</string>
+		<key>questionTrueOrFalse</key>
+		<string>La culture celtibère a plus d&apos;affinités avec la culture des Gaulois contemporains qu&apos;avec celle des Ibères.</string>
+		<key>trueOrFalseAnswer</key>
+		<string>Faux</string>
+		<key>timeLine</key>
+		<string> Les Celtes migrent vers la péninsule ibérique</string>
+		<key>theme</key>
+		<string>Espagne</string>
+		<key>numberOfGoodAnswers</key>
+		<integer>0</integer>
+		<key>numberOfBadAnswers</key>
+		<integer>0</integer>
+		<key>numberOfGoodAnswersQuiz</key>
+		<integer>0</integer>
+		<key>numberOfBadAnswersQuiz</key>
+		<integer>0</integer>
+		<key>order</key>
+		<integer>3</integer>
+	</dict>
+	<dict>
+		<key>id</key>
+		<string>f505fa1e-8310-11ed-a1eb-0242ac120002</string>
+		<key>date</key>
+		<string>200 av.</string>
+		<key>question</key>
+		<string>Combien de temps a duré la conquête romaine de la péninsule ibérique ?</string>
+		<key>correctTAnswer</key>
+		<string>Plus de trois siècles</string>
+		<key>incorrectAnswer1</key>
+		<string>En moins d&apos;une décennie</string>
+		<key>incorrectAnswer2</key>
+		<string>Cent ans</string>
+		<key>incorrectAnswer3</key>
+		<string>Cinquante ans</string>
+		<key>wikiSearchWord</key>
+		<string>Conquête romaine de la péninsule Ibérique</string>
+		<key>questionTrueOrFalse</key>
+		<string>La conquête romaine de la péninsule Ibérique a entraîné une romanisation culturelle de l&apos;Hispanie.</string>
+		<key>trueOrFalseAnswer</key>
+		<string>Vrai</string>
+		<key>timeLine</key>
+		<string>Conquête romaine de la péninsule ibérique.</string>
+		<key>theme</key>
+		<string>Espagne</string>
+		<key>numberOfGoodAnswers</key>
+		<integer>0</integer>
+		<key>numberOfBadAnswers</key>
+		<integer>0</integer>
+		<key>numberOfGoodAnswersQuiz</key>
+		<integer>0</integer>
+		<key>numberOfBadAnswersQuiz</key>
+		<integer>0</integer>
+		<key>order</key>
+		<integer>4</integer>
+	</dict>
+	<dict>
+		<key>id</key>
+		<string>f505fb4a-8310-11ed-a1eb-0242ac120002</string>
+		<key>date</key>
+		<string>500</string>
+		<key>question</key>
+		<string>Comment les Wisigoths se sont-ils emparés d&apos;une grande partie de l&apos;Espagne ?</string>
+		<key>correctTAnswer</key>
+		<string>Par la conquête militaire</string>
+		<key>incorrectAnswer1</key>
+		<string>Par la diplomatie et la création d&apos;alliances</string>
+		<key>incorrectAnswer2</key>
+		<string>Par la domination économique</string>
+		<key>incorrectAnswer3</key>
+		<string>Par l&apos;assimilation culturelle</string>
+		<key>wikiSearchWord</key>
+		<string>Royaume wisigoth</string>
+		<key>questionTrueOrFalse</key>
+		<string>Les Wisigoths ont contrôlé toute la péninsule Ibérique sauf les zones montagneuses du nord occupées par les Basques.</string>
+		<key>trueOrFalseAnswer</key>
+		<string>Vrai</string>
+		<key>timeLine</key>
+		<string> Les Wisigoths s&apos;emparent d&apos;une grande partie de l&apos;Espagne.</string>
+		<key>theme</key>
+		<string>Espagne</string>
+		<key>numberOfGoodAnswers</key>
+		<integer>0</integer>
+		<key>numberOfBadAnswers</key>
+		<integer>0</integer>
+		<key>numberOfGoodAnswersQuiz</key>
+		<integer>0</integer>
+		<key>numberOfBadAnswersQuiz</key>
+		<integer>0</integer>
+		<key>order</key>
+		<integer>5</integer>
+	</dict>
+	<dict>
+		<key>id</key>
+		<string>f505fc80-8310-11ed-a1eb-0242ac120002</string>
+		<key>date</key>
+		<string>711</string>
+		<key>question</key>
+		<string>Quelle était la principale motivation de l&apos;invasion de l&apos;Espagne par les Maures ?</string>
+		<key>correctTAnswer</key>
+		<string>Pour répandre l&apos;Islam</string>
+		<key>incorrectAnswer1</key>
+		<string>Pour avoir accès aux ressources naturelles</string>
+		<key>incorrectAnswer2</key>
+		<string>Pour établir une nouvelle route commerciale</string>
+		<key>incorrectAnswer3</key>
+		<string>Pour se venger d&apos;un conflit antérieur</string>
+		<key>wikiSearchWord</key>
+		<string>Maures</string>
+		<key>questionTrueOrFalse</key>
+		<string>Les Maures étaient principalement des populations urbaines et côtières du Maghreb.</string>
+		<key>trueOrFalseAnswer</key>
+		<string>Faux</string>
+		<key>timeLine</key>
+		<string>Les Maures envahissent l&apos;Espagne</string>
+		<key>theme</key>
+		<string>Espagne</string>
+		<key>numberOfGoodAnswers</key>
+		<integer>0</integer>
+		<key>numberOfBadAnswers</key>
+		<integer>0</integer>
+		<key>numberOfGoodAnswersQuiz</key>
+		<integer>0</integer>
+		<key>numberOfBadAnswersQuiz</key>
+		<integer>0</integer>
+		<key>order</key>
+		<integer>6</integer>
+	</dict>
+	<dict>
+		<key>id</key>
+		<string>f505fd8e-8310-11ed-a1eb-0242ac120002</string>
+		<key>date</key>
+		<string>718</string>
+		<key>question</key>
+		<string>Quel a été le résultat de la reconquête de l&apos;Espagne ?</string>
+		<key>correctTAnswer</key>
+		<string>Les forces chrétiennes ont expulsé les musulmans.</string>
+		<key>incorrectAnswer1</key>
+		<string>Les musulmans ont conservé le contrôle de l&apos;Espagne</string>
+		<key>incorrectAnswer2</key>
+		<string>Les forces chrétiennes ont été vaincues.</string>
+		<key>incorrectAnswer3</key>
+		<string>Les musulmans ont perdu une partie du territoire.</string>
+		<key>wikiSearchWord</key>
+		<string>Reconquista</string>
+		<key>questionTrueOrFalse</key>
+		<string>La Reconquista se déroule sur huit siècles et est un processus politiquement uniforme.</string>
+		<key>trueOrFalseAnswer</key>
+		<string>Faux</string>
+		<key>timeLine</key>
+		<string> La Reconquista est lancée par les chrétiens pour reprendre l&apos;Espagne.</string>
+		<key>theme</key>
+		<string>Espagne</string>
+		<key>numberOfGoodAnswers</key>
+		<integer>0</integer>
+		<key>numberOfBadAnswers</key>
+		<integer>0</integer>
+		<key>numberOfGoodAnswersQuiz</key>
+		<integer>0</integer>
+		<key>numberOfBadAnswersQuiz</key>
+		<integer>0</integer>
+		<key>order</key>
+		<integer>7</integer>
+	</dict>
+	<dict>
+		<key>id</key>
+		<string>f505feba-8310-11ed-a1eb-0242ac120002</string>
+		<key>date</key>
+		<string>756</string>
+		<key>question</key>
+		<string>Quelle était la religion principale du califat de Cordoue ?</string>
+		<key>correctTAnswer</key>
+		<string>Islam</string>
+		<key>incorrectAnswer1</key>
+		<string>La religion catholique</string>
+		<key>incorrectAnswer2</key>
+		<string>Le protestantisme</string>
+		<key>incorrectAnswer3</key>
+		<string>Le judaïsme</string>
+		<key>wikiSearchWord</key>
+		<string>Califat de Cordoue</string>
+		<key>questionTrueOrFalse</key>
+		<string>La période du Califat omeyyade de Cordoue a été caractérisée par une expansion du commerce et de la culture.</string>
+		<key>trueOrFalseAnswer</key>
+		<string>Vrai</string>
+		<key>timeLine</key>
+		<string>Califat de Cordoue</string>
+		<key>theme</key>
+		<string>Espagne</string>
+		<key>numberOfGoodAnswers</key>
+		<integer>0</integer>
+		<key>numberOfBadAnswers</key>
+		<integer>0</integer>
+		<key>numberOfGoodAnswersQuiz</key>
+		<integer>0</integer>
+		<key>numberOfBadAnswersQuiz</key>
+		<integer>0</integer>
+		<key>order</key>
+		<integer>8</integer>
+	</dict>
+	<dict>
+		<key>id</key>
+		<string>f50601f8-8310-11ed-a1eb-0242ac120002</string>
+		<key>date</key>
+		<string>1139</string>
+		<key>question</key>
+		<string>Avec quel autre pays le royaume du Portugal a-t-il été allié au début de son histoire ?</string>
+		<key>correctTAnswer</key>
+		<string>Castille (Espagne)</string>
+		<key>incorrectAnswer1</key>
+		<string>La France</string>
+		<key>incorrectAnswer2</key>
+		<string>Angleterre</string>
+		<key>incorrectAnswer3</key>
+		<string>Les Pays-Bas</string>
+		<key>wikiSearchWord</key>
+		<string>Histoire du Portugal</string>
+		<key>questionTrueOrFalse</key>
+		<string>La vocation maritime du Portugal s&apos;est affirmée en raison de son littoral propice à la grande navigation et de sa situation géographique proche des grands axes européens.</string>
+		<key>trueOrFalseAnswer</key>
+		<string>Faux</string>
+		<key>timeLine</key>
+		<string>Le royaume du Portugal est établi</string>
+		<key>theme</key>
+		<string>Espagne</string>
+		<key>numberOfGoodAnswers</key>
+		<integer>0</integer>
+		<key>numberOfBadAnswers</key>
+		<integer>0</integer>
+		<key>numberOfGoodAnswersQuiz</key>
+		<integer>0</integer>
+		<key>numberOfBadAnswersQuiz</key>
+		<integer>0</integer>
+		<key>order</key>
+		<integer>9</integer>
+	</dict>
+	<dict>
+		<key>id</key>
+		<string>f506031a-8310-11ed-a1eb-0242ac120002</string>
+		<key>date</key>
+		<string>1469</string>
+		<key>question</key>
+		<string>Quelle était la réputation d&apos;Isabelle Ier de Castille ?</string>
+		<key>correctTAnswer</key>
+		<string>Elle a été un personnage clé dans l&apos;unification de l&apos;Espagne.</string>
+		<key>incorrectAnswer1</key>
+		<string>Elle était un chef militaire efficace.</string>
+		<key>incorrectAnswer2</key>
+		<string>Elle était une diplomate compétente.</string>
+		<key>incorrectAnswer3</key>
+		<string>Elle était un mécène des arts.</string>
+		<key>wikiSearchWord</key>
+		<string>Isabelle la Catholique</string>
+		<key>questionTrueOrFalse</key>
+		<string>Christophe Colomb a découvert l&apos;Amérique pendant le règne d&apos;Isabelle la Catholique ?</string>
+		<key>trueOrFalseAnswer</key>
+		<string>Vrai</string>
+		<key>timeLine</key>
+		<string> Mariage d&apos;Isabelle Ier de Castille et de Ferdinand II d&apos;Aragon.</string>
+		<key>theme</key>
+		<string>Espagne</string>
+		<key>numberOfGoodAnswers</key>
+		<integer>0</integer>
+		<key>numberOfBadAnswers</key>
+		<integer>0</integer>
+		<key>numberOfGoodAnswersQuiz</key>
+		<integer>0</integer>
+		<key>numberOfBadAnswersQuiz</key>
+		<integer>0</integer>
+		<key>order</key>
+		<integer>10</integer>
+	</dict>
+	<dict>
+		<key>id</key>
+		<string>f5060432-8310-11ed-a1eb-0242ac120002</string>
+		<key>date</key>
+		<string>1478</string>
+		<key>question</key>
+		<string>Quel était le but ultime de l&apos;Inquisition espagnole ?</string>
+		<key>correctTAnswer</key>
+		<string>Éliminer l&apos;influence des juifs et des musulmans</string>
+		<key>incorrectAnswer1</key>
+		<string>Répandre la foi catholique dans toute l&apos;Europe</string>
+		<key>incorrectAnswer2</key>
+		<string>Supprimer le protestantisme</string>
+		<key>incorrectAnswer3</key>
+		<string>Persécuter les sorcières et les hérétiques.</string>
+		<key>wikiSearchWord</key>
+		<string>Inquisition espagnole</string>
+		<key>questionTrueOrFalse</key>
+		<string>L&apos;Inquisition espagnole était une institution unique en Europe au xiiie siècle.</string>
+		<key>trueOrFalseAnswer</key>
+		<string>Faux</string>
+		<key>timeLine</key>
+		<string>Début de l&apos;inquisition espagnole.</string>
+		<key>theme</key>
+		<string>Espagne</string>
+		<key>numberOfGoodAnswers</key>
+		<integer>0</integer>
+		<key>numberOfBadAnswers</key>
+		<integer>0</integer>
+		<key>numberOfGoodAnswersQuiz</key>
+		<integer>0</integer>
+		<key>numberOfBadAnswersQuiz</key>
+		<integer>0</integer>
+		<key>order</key>
+		<integer>11</integer>
+	</dict>
+	<dict>
+		<key>id</key>
+		<string>f506052c-8310-11ed-a1eb-0242ac120002</string>
+		<key>date</key>
+		<string>1492</string>
+		<key>question</key>
+		<string>Quel événement a marqué la fin de la Reconquista en Espagne ?</string>
+		<key>correctTAnswer</key>
+		<string>La conquête de Grenade</string>
+		<key>incorrectAnswer1</key>
+		<string>La signature du traité de Tordesillas</string>
+		<key>incorrectAnswer2</key>
+		<string>La bataille du col de Roncevaux</string>
+		<key>incorrectAnswer3</key>
+		<string>Le couronnement du roi Ferdinand et de la reine Isabelle</string>
+		<key>wikiSearchWord</key>
+		<string>Guerre de Grenade</string>
+		<key>questionTrueOrFalse</key>
+		<string>La guerre de Grenade a été menée par les Rois catholiques pour étendre leur influence en Afrique du Nord.</string>
+		<key>trueOrFalseAnswer</key>
+		<string>Faux</string>
+		<key>timeLine</key>
+		<string> La Reconquista se termine par la conquête de Grenade.</string>
+		<key>theme</key>
+		<string>Espagne</string>
+		<key>numberOfGoodAnswers</key>
+		<integer>0</integer>
+		<key>numberOfBadAnswers</key>
+		<integer>0</integer>
+		<key>numberOfGoodAnswersQuiz</key>
+		<integer>0</integer>
+		<key>numberOfBadAnswersQuiz</key>
+		<integer>0</integer>
+		<key>order</key>
+		<integer>12</integer>
+	</dict>
+	<dict>
+		<key>id</key>
+		<string>f506063a-8310-11ed-a1eb-0242ac120002</string>
+		<key>date</key>
+		<string>1492</string>
+		<key>question</key>
+		<string>Qui a parrainé l&apos;expédition de l&apos;explorateur Christophe Colomb ?</string>
+		<key>correctTAnswer</key>
+		<string>La reine Isabelle</string>
+		<key>incorrectAnswer1</key>
+		<string>Le roi Ferdinand</string>
+		<key>incorrectAnswer2</key>
+		<string>La reine Elizabeth</string>
+		<key>incorrectAnswer3</key>
+		<string>Le roi Henri VIII</string>
+		<key>wikiSearchWord</key>
+		<string>Christophe Colomb</string>
+		<key>questionTrueOrFalse</key>
+		<string>Christophe Colomb a été nommé &quot;amiral de la mer Océane, gouverneur et vice-roi des Indes&quot; après son premier voyage en 1492.</string>
+		<key>trueOrFalseAnswer</key>
+		<string>Vrai</string>
+		<key>timeLine</key>
+		<string>La reine Isabelle parraine l&apos;expédition de Christophe Colomb.</string>
+		<key>theme</key>
+		<string>Espagne</string>
+		<key>numberOfGoodAnswers</key>
+		<integer>0</integer>
+		<key>numberOfBadAnswers</key>
+		<integer>0</integer>
+		<key>numberOfGoodAnswersQuiz</key>
+		<integer>0</integer>
+		<key>numberOfBadAnswersQuiz</key>
+		<integer>0</integer>
+		<key>order</key>
+		<integer>13</integer>
+	</dict>
+	<dict>
+		<key>id</key>
+		<string>f506073e-8310-11ed-a1eb-0242ac120002</string>
+		<key>date</key>
+		<string>1492</string>
+		<key>question</key>
+		<string>Quel était l&apos;objectif principal du décret de l&apos;Alhambra ?</string>
+		<key>correctTAnswer</key>
+		<string>Pour expulser les Juifs d&apos;Espagne</string>
+		<key>incorrectAnswer1</key>
+		<string>Pour établir l&apos;espagnol comme langue officielle de l&apos;Espagne</string>
+		<key>incorrectAnswer2</key>
+		<string>Pour établir un nouveau système fiscal en Espagne</string>
+		<key>incorrectAnswer3</key>
+		<string>Déclarer la guerre à un pays voisin</string>
+		<key>wikiSearchWord</key>
+		<string>Décret de l&apos;Alhambra</string>
+		<key>questionTrueOrFalse</key>
+		<string>L&apos;expulsion des Juifs d&apos;Espagne a eu lieu quatre mois après la signature du décret de l&apos;Alhambra.</string>
+		<key>trueOrFalseAnswer</key>
+		<string>Vrai</string>
+		<key>timeLine</key>
+		<string>Publication du décret de l&apos;Alhambra, qui ordonne l&apos;expulsion des Juifs d&apos;Espagne.</string>
+		<key>theme</key>
+		<string>Espagne</string>
+		<key>numberOfGoodAnswers</key>
+		<integer>0</integer>
+		<key>numberOfBadAnswers</key>
+		<integer>0</integer>
+		<key>numberOfGoodAnswersQuiz</key>
+		<integer>0</integer>
+		<key>numberOfBadAnswersQuiz</key>
+		<integer>0</integer>
+		<key>order</key>
+		<integer>14</integer>
+	</dict>
+	<dict>
+		<key>id</key>
+		<string>f5060a72-8310-11ed-a1eb-0242ac120002</string>
+		<key>date</key>
+		<string>1516</string>
+		<key>question</key>
+		<string>Quelle est la conséquence du couronnement de Charles Ier comme empereur du Saint Empire romain germanique ?</string>
+		<key>correctTAnswer</key>
+		<string>Il a fait de l&apos;Espagne une grande puissance européenne.</string>
+		<key>incorrectAnswer1</key>
+		<string>Le début du déclin du Saint Empire romain germanique.</string>
+		<key>incorrectAnswer2</key>
+		<string>La propagation de la foi catholique dans toute l&apos;Europe.</string>
+		<key>incorrectAnswer3</key>
+		<string>Elle a entraîné la fin de la Réforme protestante.</string>
+		<key>wikiSearchWord</key>
+		<string>Charles Quint</string>
+		<key>questionTrueOrFalse</key>
+		<string>Charles de Habsbourg a abandonné ses pouvoirs à la fin de sa vie en raison de révoltes en Castille et dans le Saint-Empire.</string>
+		<key>trueOrFalseAnswer</key>
+		<string>Faux</string>
+		<key>timeLine</key>
+		<string>Charles Ier est couronné empereur du Saint Empire romain germanique.</string>
+		<key>theme</key>
+		<string>Espagne</string>
+		<key>numberOfGoodAnswers</key>
+		<integer>0</integer>
+		<key>numberOfBadAnswers</key>
+		<integer>0</integer>
+		<key>numberOfGoodAnswersQuiz</key>
+		<integer>0</integer>
+		<key>numberOfBadAnswersQuiz</key>
+		<integer>0</integer>
+		<key>order</key>
+		<integer>15</integer>
+	</dict>
+	<dict>
+		<key>id</key>
+		<string>f5060b76-8310-11ed-a1eb-0242ac120002</string>
+		<key>date</key>
+		<string>1516 -1700</string>
+		<key>question</key>
+		<string>Quel événement est souvent considéré comme marquant la fin de l&apos;âge d&apos;or espagnol ?</string>
+		<key>correctTAnswer</key>
+		<string>La mort du dernier roi Habsbourg, Charles II</string>
+		<key>incorrectAnswer1</key>
+		<string>La mort du roi Philippe II</string>
+		<key>incorrectAnswer2</key>
+		<string>La défaite de l&apos;Armada espagnole</string>
+		<key>incorrectAnswer3</key>
+		<string>La signature du traité de Westphalie</string>
+		<key>wikiSearchWord</key>
+		<string>Siècle d&apos;or espagnol</string>
+		<key>questionTrueOrFalse</key>
+		<string>La fin de la dynastie Habsbourg en Espagne a coïncidé avec la fin du Siècle d&apos;or espagnol. </string>
+		<key>trueOrFalseAnswer</key>
+		<string>Vrai</string>
+		<key>timeLine</key>
+		<string>L&apos;âge d&apos;or espagnol</string>
+		<key>theme</key>
+		<string>Espagne</string>
+		<key>numberOfGoodAnswers</key>
+		<integer>0</integer>
+		<key>numberOfBadAnswers</key>
+		<integer>0</integer>
+		<key>numberOfGoodAnswersQuiz</key>
+		<integer>0</integer>
+		<key>numberOfBadAnswersQuiz</key>
+		<integer>0</integer>
+		<key>order</key>
+		<integer>16</integer>
+	</dict>
+	<dict>
+		<key>id</key>
+		<string>f5061012-8310-11ed-a1eb-0242ac120002</string>
+		<key>date</key>
+		<string>1520</string>
+		<key>question</key>
+		<string>Qui a conquis l&apos;empire aztèque au Mexique pour l&apos;Espagne ?</string>
+		<key>correctTAnswer</key>
+		<string>Hernan Cortes</string>
+		<key>incorrectAnswer1</key>
+		<string>Francisco Pizarro</string>
+		<key>incorrectAnswer2</key>
+		<string>Juan Ponce de Leon</string>
+		<key>incorrectAnswer3</key>
+		<string>Christophe Colomb</string>
+		<key>wikiSearchWord</key>
+		<string>Hernán Cortés</string>
+		<key>questionTrueOrFalse</key>
+		<string>Cortés s&apos;est emparé de l&apos;Empire aztèque au nom de Charles Quint, roi d&apos;Aragon.</string>
+		<key>trueOrFalseAnswer</key>
+		<string>Vrai</string>
+		<key>timeLine</key>
+		<string>L&apos;explorateur espagnol Hernan Cortes conquiert l&apos;empire aztèque.</string>
+		<key>theme</key>
+		<string>Espagne</string>
+		<key>numberOfGoodAnswers</key>
+		<integer>0</integer>
+		<key>numberOfBadAnswers</key>
+		<integer>0</integer>
+		<key>numberOfGoodAnswersQuiz</key>
+		<integer>0</integer>
+		<key>numberOfBadAnswersQuiz</key>
+		<integer>0</integer>
+		<key>order</key>
+		<integer>17</integer>
+	</dict>
+	<dict>
+		<key>id</key>
+		<string>f506112a-8310-11ed-a1eb-0242ac120002</string>
+		<key>date</key>
+		<string>1588</string>
+		<key>question</key>
+		<string>Pourquoi l&apos;Armada espagnole a-t-elle entrepris d&apos;envahir l&apos;Angleterre en 1588 ?</string>
+		<key>correctTAnswer</key>
+		<string>Pour punir l&apos;Angleterre d&apos;avoir soutenu la rébellion hollandaise.</string>
+		<key>incorrectAnswer1</key>
+		<string>Convertir les Anglais au catholicisme</string>
+		<key>incorrectAnswer2</key>
+		<string>Pour prendre le contrôle du trône d&apos;Angleterre</string>
+		<key>incorrectAnswer3</key>
+		<string>Pour établir une colonie espagnole en Angleterre</string>
+		<key>wikiSearchWord</key>
+		<string>Invincible Armada</string>
+		<key>questionTrueOrFalse</key>
+		<string>La bataille de Gravelines a été présentée comme une éclatante victoire espagnole.</string>
+		<key>trueOrFalseAnswer</key>
+		<string>Faux</string>
+		<key>timeLine</key>
+		<string>L&apos;Armada espagnole est vaincue par la marine anglaise.</string>
+		<key>theme</key>
+		<string>Espagne</string>
+		<key>numberOfGoodAnswers</key>
+		<integer>0</integer>
+		<key>numberOfBadAnswers</key>
+		<integer>0</integer>
+		<key>numberOfGoodAnswersQuiz</key>
+		<integer>0</integer>
+		<key>numberOfBadAnswersQuiz</key>
+		<integer>0</integer>
+		<key>order</key>
+		<integer>18</integer>
+	</dict>
+	<dict>
+		<key>id</key>
+		<string>f5061224-8310-11ed-a1eb-0242ac120002</string>
+		<key>date</key>
+		<string>1605</string>
+		<key>question</key>
+		<string>Pour quelle raison le personnage principal de &quot;Don Quichotte&quot; est-il connu ?</string>
+		<key>correctTAnswer</key>
+		<string>Sa chevalerie et sa bravoure</string>
+		<key>incorrectAnswer1</key>
+		<string>Sa richesse et sa puissance</string>
+		<key>incorrectAnswer2</key>
+		<string>Son intelligence et son esprit</string>
+		<key>incorrectAnswer3</key>
+		<string>Son charme et son charisme</string>
+		<key>wikiSearchWord</key>
+		<string>Don Quichotte</string>
+		<key>questionTrueOrFalse</key>
+		<string>Don Quichotte est considéré comme le premier roman moderne de la littérature mondiale. </string>
+		<key>trueOrFalseAnswer</key>
+		<string>Vrai</string>
+		<key>timeLine</key>
+		<string> Miguel de Cervantes publie Don Quichotte.</string>
+		<key>theme</key>
+		<string>Espagne</string>
+		<key>numberOfGoodAnswers</key>
+		<integer>0</integer>
+		<key>numberOfBadAnswers</key>
+		<integer>0</integer>
+		<key>numberOfGoodAnswersQuiz</key>
+		<integer>0</integer>
+		<key>numberOfBadAnswersQuiz</key>
+		<integer>0</integer>
+		<key>order</key>
+		<integer>19</integer>
+	</dict>
+	<dict>
+		<key>id</key>
+		<string>f506131e-8310-11ed-a1eb-0242ac120002</string>
+		<key>date</key>
+		<string>1618</string>
+		<key>question</key>
+		<string>Quelle a été la cause principale de la guerre de Trente Ans ?</string>
+		<key>correctTAnswer</key>
+		<string>Conflit religieux entre catholiques et protestants</string>
+		<key>incorrectAnswer1</key>
+		<string>Litiges territoriaux entre la France et l&apos;Espagne</string>
+		<key>incorrectAnswer2</key>
+		<string>Une lutte pour le pouvoir entre Habsbourg et Ottoman</string>
+		<key>incorrectAnswer3</key>
+		<string>Une révolte contre la monarchie anglaise</string>
+		<key>wikiSearchWord</key>
+		<string>Guerre de Trente Ans</string>
+		<key>questionTrueOrFalse</key>
+		<string>La paix de Westphalie a abouti à la victoire du féodalisme.</string>
+		<key>trueOrFalseAnswer</key>
+		<string>Faux</string>
+		<key>timeLine</key>
+		<string>Début de la guerre de Trente Ans.</string>
+		<key>theme</key>
+		<string>Espagne</string>
+		<key>numberOfGoodAnswers</key>
+		<integer>0</integer>
+		<key>numberOfBadAnswers</key>
+		<integer>0</integer>
+		<key>numberOfGoodAnswersQuiz</key>
+		<integer>0</integer>
+		<key>numberOfBadAnswersQuiz</key>
+		<integer>0</integer>
+		<key>order</key>
+		<integer>20</integer>
+	</dict>
+	<dict>
+		<key>id</key>
+		<string>f5061422-8310-11ed-a1eb-0242ac120002</string>
+		<key>date</key>
+		<string>1701</string>
+		<key>question</key>
+		<string>Quelle a été la cause principale de la guerre de Succession d&apos;Espagne de 1701 ?</string>
+		<key>correctTAnswer</key>
+		<string>Un conflit sur la succession au trône d&apos;Espagne</string>
+		<key>incorrectAnswer1</key>
+		<string>Un différend frontalier entre la France et l&apos;Espagne</string>
+		<key>incorrectAnswer2</key>
+		<string>Un conflit sur les routes commerciales dans les Caraïbes</string>
+		<key>incorrectAnswer3</key>
+		<string>Une dispute contrôler du Saint Empire romain germanique</string>
+		<key>wikiSearchWord</key>
+		<string>Guerre de Succession d&apos;Espagne</string>
+		<key>questionTrueOrFalse</key>
+		<string>L&apos;enjeu de la guerre de Succession d&apos;Espagne était le partage des colonies d&apos;Espagne.</string>
+		<key>trueOrFalseAnswer</key>
+		<string>Faux</string>
+		<key>timeLine</key>
+		<string> Début de la guerre de Succession d&apos;Espagne. </string>
+		<key>theme</key>
+		<string>Espagne</string>
+		<key>numberOfGoodAnswers</key>
+		<integer>0</integer>
+		<key>numberOfBadAnswers</key>
+		<integer>0</integer>
+		<key>numberOfGoodAnswersQuiz</key>
+		<integer>0</integer>
+		<key>numberOfBadAnswersQuiz</key>
+		<integer>0</integer>
+		<key>order</key>
+		<integer>21</integer>
+	</dict>
+	<dict>
+		<key>id</key>
+		<string>f5061526-8310-11ed-a1eb-0242ac120002</string>
+		<key>date</key>
+		<string>1761</string>
+		<key>question</key>
+		<string>Qui étaient les alliés de l&apos;Espagne pendant la guerre de Sept Ans ?</string>
+		<key>correctTAnswer</key>
+		<string>La France et les colonies américaines</string>
+		<key>incorrectAnswer1</key>
+		<string>L&apos;Empire ottoman et la Prusse</string>
+		<key>incorrectAnswer2</key>
+		<string>La République néerlandaise et le Portugal</string>
+		<key>incorrectAnswer3</key>
+		<string>L&apos;Autriche et la Russie</string>
+		<key>wikiSearchWord</key>
+		<string>Guerre de Sept Ans</string>
+		<key>questionTrueOrFalse</key>
+		<string>La Guerre de Sept Ans est un conflit majeur de l&apos;histoire de l&apos;Europe, le premier qui puisse être qualifié de « guerre mondiale ».</string>
+		<key>trueOrFalseAnswer</key>
+		<string>Vrai</string>
+		<key>timeLine</key>
+		<string> L&apos;Espagne rejoint la guerre de Sept Ans contre la Grande-Bretagne.</string>
+		<key>theme</key>
+		<string>Espagne</string>
+		<key>numberOfGoodAnswers</key>
+		<integer>0</integer>
+		<key>numberOfBadAnswers</key>
+		<integer>0</integer>
+		<key>numberOfGoodAnswersQuiz</key>
+		<integer>0</integer>
+		<key>numberOfBadAnswersQuiz</key>
+		<integer>0</integer>
+		<key>order</key>
+		<integer>22</integer>
+	</dict>
+	<dict>
+		<key>id</key>
+		<string>f506162a-8310-11ed-a1eb-0242ac120002</string>
+		<key>date</key>
+		<string>1808</string>
+		<key>question</key>
+		<string>Qui était le chef de l&apos;armée française pendant la guerre péninsulaire ?</string>
+		<key>correctTAnswer</key>
+		<string>Napoléon Bonaparte</string>
+		<key>incorrectAnswer1</key>
+		<string>Duc de Wellington</string>
+		<key>incorrectAnswer2</key>
+		<string>Le roi Louis XVI</string>
+		<key>incorrectAnswer3</key>
+		<string>Le roi Ferdinand VII</string>
+		<key>wikiSearchWord</key>
+		<string>Guerre d&apos;indépendance espagnole</string>
+		<key>questionTrueOrFalse</key>
+		<string>L&apos;insurrection espagnole a débuté lorsque Madrid s&apos;est soulevé contre l&apos;armée française.</string>
+		<key>trueOrFalseAnswer</key>
+		<string>Vrai</string>
+		<key>timeLine</key>
+		<string> La guerre péninsulaire est menée contre l&apos;Empire français dirigé par Napoléon.</string>
+		<key>theme</key>
+		<string>Espagne</string>
+		<key>numberOfGoodAnswers</key>
+		<integer>0</integer>
+		<key>numberOfBadAnswers</key>
+		<integer>0</integer>
+		<key>numberOfGoodAnswersQuiz</key>
+		<integer>0</integer>
+		<key>numberOfBadAnswersQuiz</key>
+		<integer>0</integer>
+		<key>order</key>
+		<integer>23</integer>
+	</dict>
+	<dict>
+		<key>id</key>
+		<string>f5061724-8310-11ed-a1eb-0242ac120002</string>
+		<key>date</key>
+		<string>1808</string>
+		<key>question</key>
+		<string>Quel pays Simon Bolivar a-t-il conduit à l&apos;indépendance vis-à-vis de l&apos;Espagne ?</string>
+		<key>correctTAnswer</key>
+		<string>Venezuela</string>
+		<key>incorrectAnswer1</key>
+		<string>Pérou</string>
+		<key>incorrectAnswer2</key>
+		<string>Chili</string>
+		<key>incorrectAnswer3</key>
+		<string>Argentine</string>
+		<key>wikiSearchWord</key>
+		<string>Guerres d&apos;indépendance hispano-américaines</string>
+		<key>questionTrueOrFalse</key>
+		<string>L&apos;indépendance politique a été l&apos;objectif principal des Hispano-Américains pendant les guerres d&apos;indépendance. </string>
+		<key>trueOrFalseAnswer</key>
+		<string>Faux</string>
+		<key>timeLine</key>
+		<string>Guerres d&apos;indépendance hispano-américaines</string>
+		<key>theme</key>
+		<string>Espagne</string>
+		<key>numberOfGoodAnswers</key>
+		<integer>0</integer>
+		<key>numberOfBadAnswers</key>
+		<integer>0</integer>
+		<key>numberOfGoodAnswersQuiz</key>
+		<integer>0</integer>
+		<key>numberOfBadAnswersQuiz</key>
+		<integer>0</integer>
+		<key>order</key>
+		<integer>24</integer>
+	</dict>
+	<dict>
+		<key>id</key>
+		<string>f50619c2-8310-11ed-a1eb-0242ac120002</string>
+		<key>date</key>
+		<string>1898</string>
+		<key>question</key>
+		<string>Lequel des territoires suivants les États-Unis ont-ils acquis à la suite de la guerre hispano-américaine ?</string>
+		<key>correctTAnswer</key>
+		<string>Cuba, Porto Rico et Guam</string>
+		<key>incorrectAnswer1</key>
+		<string>Cuba</string>
+		<key>incorrectAnswer2</key>
+		<string>Porto Rico</string>
+		<key>incorrectAnswer3</key>
+		<string>Guam</string>
+		<key>wikiSearchWord</key>
+		<string>Guerre hispano-américaine</string>
+		<key>questionTrueOrFalse</key>
+		<string>La guerre hispano-américaine eut pour conséquence la prise de contrôle de colonies espagnoles par les États-Unis d&apos;Amérique.</string>
+		<key>trueOrFalseAnswer</key>
+		<string>Vrai</string>
+		<key>timeLine</key>
+		<string> La guerre hispano-américaine est déclenchée.</string>
+		<key>theme</key>
+		<string>Espagne</string>
+		<key>numberOfGoodAnswers</key>
+		<integer>0</integer>
+		<key>numberOfBadAnswers</key>
+		<integer>0</integer>
+		<key>numberOfGoodAnswersQuiz</key>
+		<integer>0</integer>
+		<key>numberOfBadAnswersQuiz</key>
+		<integer>0</integer>
+		<key>order</key>
+		<integer>25</integer>
+	</dict>
+	<dict>
+		<key>id</key>
+		<string>f5061b3e-8310-11ed-a1eb-0242ac120002</string>
+		<key>date</key>
+		<string>1936</string>
+		<key>question</key>
+		<string>Quelles étaient les principales factions impliquées dans la guerre civile espagnole ?</string>
+		<key>correctTAnswer</key>
+		<string>Républicains et nationalistes</string>
+		<key>incorrectAnswer1</key>
+		<string>Communistes et fascistes</string>
+		<key>incorrectAnswer2</key>
+		<string>Démocrates et républicains</string>
+		<key>incorrectAnswer3</key>
+		<string>Monarchistes et républicains</string>
+		<key>wikiSearchWord</key>
+		<string>Guerre d&apos;Espagne</string>
+		<key>questionTrueOrFalse</key>
+		<string>La guerre d&apos;Espagne se termina par la victoire des républicains.</string>
+		<key>trueOrFalseAnswer</key>
+		<string>Faux</string>
+		<key>timeLine</key>
+		<string> Début de la guerre civile espagnole. </string>
+		<key>theme</key>
+		<string>Espagne</string>
+		<key>numberOfGoodAnswers</key>
+		<integer>0</integer>
+		<key>numberOfBadAnswers</key>
+		<integer>0</integer>
+		<key>numberOfGoodAnswersQuiz</key>
+		<integer>0</integer>
+		<key>numberOfBadAnswersQuiz</key>
+		<integer>0</integer>
+		<key>order</key>
+		<integer>26</integer>
+	</dict>
+	<dict>
+		<key>id</key>
+		<string>f5061cce-8310-11ed-a1eb-0242ac120002</string>
+		<key>date</key>
+		<string>1937</string>
+		<key>question</key>
+		<string>Qui était responsable du bombardement de Guernica ?</string>
+		<key>correctTAnswer</key>
+		<string>Les pouvoirs fascistes allemand et italien</string>
+		<key>incorrectAnswer1</key>
+		<string>Les forces nationalistes espagnoles</string>
+		<key>incorrectAnswer2</key>
+		<string>L&apos;Union soviétique</string>
+		<key>incorrectAnswer3</key>
+		<string>Les États-Unis</string>
+		<key>wikiSearchWord</key>
+		<string>Bombardement de Guernica</string>
+		<key>questionTrueOrFalse</key>
+		<string>Le bombardement de Guernica a été réalisé pour soutenir le gouvernement de la Seconde République espagnole.</string>
+		<key>trueOrFalseAnswer</key>
+		<string>Faux</string>
+		<key>timeLine</key>
+		<string>Bombardement de Guernica</string>
+		<key>theme</key>
+		<string>Espagne</string>
+		<key>numberOfGoodAnswers</key>
+		<integer>0</integer>
+		<key>numberOfBadAnswers</key>
+		<integer>0</integer>
+		<key>numberOfGoodAnswersQuiz</key>
+		<integer>0</integer>
+		<key>numberOfBadAnswersQuiz</key>
+		<integer>0</integer>
+		<key>order</key>
+		<integer>27</integer>
+	</dict>
+	<dict>
+		<key>id</key>
+		<string>f5061ddc-8310-11ed-a1eb-0242ac120002</string>
+		<key>date</key>
+		<string>1939</string>
+		<key>question</key>
+		<string>Comment Francisco Franco est-il arrivé au pouvoir en Espagne ?</string>
+		<key>correctTAnswer</key>
+		<string>Il prend le pouvoir par un coup d&apos;État militaire</string>
+		<key>incorrectAnswer1</key>
+		<string>Il a été élu lors d&apos;une élection libre et équitable</string>
+		<key>incorrectAnswer2</key>
+		<string>Il a hérité du trône</string>
+		<key>incorrectAnswer3</key>
+		<string>Il a été nommé par les Nations unies</string>
+		<key>wikiSearchWord</key>
+		<string>Francisco Franco</string>
+		<key>questionTrueOrFalse</key>
+		<string>Initialement le système autarcique, mis en place par Franco, proscrivait les investissements étrangers et les importations.</string>
+		<key>trueOrFalseAnswer</key>
+		<string>Vrai</string>
+		<key>timeLine</key>
+		<string>Francisco Franco devient le dictateur de l&apos;Espagne.</string>
+		<key>theme</key>
+		<string>Espagne</string>
+		<key>numberOfGoodAnswers</key>
+		<integer>0</integer>
+		<key>numberOfBadAnswers</key>
+		<integer>0</integer>
+		<key>numberOfGoodAnswersQuiz</key>
+		<integer>0</integer>
+		<key>numberOfBadAnswersQuiz</key>
+		<integer>0</integer>
+		<key>order</key>
+		<integer>28</integer>
+	</dict>
+	<dict>
+		<key>id</key>
+		<string>f5061ed6-8310-11ed-a1eb-0242ac120002</string>
+		<key>date</key>
+		<string>1939</string>
+		<key>question</key>
+		<string>Lequel des énoncés suivants décrit le mieux la position de l&apos;Espagne pendant la Seconde Guerre mondiale ?</string>
+		<key>correctTAnswer</key>
+		<string>Neutres</string>
+		<key>incorrectAnswer1</key>
+		<string>Alliés des puissances de l&apos;Axe</string>
+		<key>incorrectAnswer2</key>
+		<string>Allié aux puissances alliées</string>
+		<key>incorrectAnswer3</key>
+		<string>Impliqué dans sa propre guerre civile</string>
+		<key>wikiSearchWord</key>
+		<string>Histoire de l&apos;Espagne pendant la Seconde Guerre mondiale</string>
+		<key>questionTrueOrFalse</key>
+		<string>L&apos;Espagne sous Franco était une puissance de l&apos;Axe pendant la Seconde Guerre mondiale.</string>
+		<key>trueOrFalseAnswer</key>
+		<string>Faux</string>
+		<key>timeLine</key>
+		<string>L&apos;Espagne pendant la Seconde Guerre mondiale</string>
+		<key>theme</key>
+		<string>Espagne</string>
+		<key>numberOfGoodAnswers</key>
+		<integer>0</integer>
+		<key>numberOfBadAnswers</key>
+		<integer>0</integer>
+		<key>numberOfGoodAnswersQuiz</key>
+		<integer>0</integer>
+		<key>numberOfBadAnswersQuiz</key>
+		<integer>0</integer>
+		<key>order</key>
+		<integer>29</integer>
+	</dict>
+	<dict>
+		<key>id</key>
+		<string>f5061fc6-8310-11ed-a1eb-0242ac120002</string>
+		<key>date</key>
+		<string>1975</string>
+		<key>question</key>
+		<string>Quel événement a marqué le début de la transition de l&apos;Espagne vers la démocratie ?</string>
+		<key>correctTAnswer</key>
+		<string>La mort du dictateur Francisco Franco</string>
+		<key>incorrectAnswer1</key>
+		<string>La chute de l&apos;Union soviétique</string>
+		<key>incorrectAnswer2</key>
+		<string>La signature du traité de Maastricht</string>
+		<key>incorrectAnswer3</key>
+		<string>La publication du manifeste &quot;Programme Possible</string>
+		<key>wikiSearchWord</key>
+		<string>Transition démocratique espagnole</string>
+		<key>questionTrueOrFalse</key>
+		<string>Franco a été chef de l&apos;État en Espagne de 1936 à 1975.</string>
+		<key>trueOrFalseAnswer</key>
+		<string>Vrai</string>
+		<key>timeLine</key>
+		<string>Transition espagnole vers la démocratie</string>
+		<key>theme</key>
+		<string>Espagne</string>
+		<key>numberOfGoodAnswers</key>
+		<integer>0</integer>
+		<key>numberOfBadAnswers</key>
+		<integer>0</integer>
+		<key>numberOfGoodAnswersQuiz</key>
+		<integer>0</integer>
+		<key>numberOfBadAnswersQuiz</key>
+		<integer>0</integer>
+		<key>order</key>
+		<integer>30</integer>
+	</dict>
+</array>
+</plist>

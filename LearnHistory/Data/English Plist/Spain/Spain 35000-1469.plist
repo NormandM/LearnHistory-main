@@ -1,0 +1,368 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<!DOCTYPE plist PUBLIC "-//Apple//DTD PLIST 1.0//EN" "http://www.apple.com/DTDs/PropertyList-1.0.dtd">
+<plist version="1.0">
+<array>
+	<dict>
+		<key>correctTAnswer</key>
+		<string>Africa</string>
+		<key>date</key>
+		<string>35000-15000 years ago</string>
+		<key>id</key>
+		<string>f33abf46-8246-11ed-a1eb-0242ac120002</string>
+		<key>incorrectAnswer1</key>
+		<string>Asia</string>
+		<key>incorrectAnswer2</key>
+		<string>Europe</string>
+		<key>incorrectAnswer3</key>
+		<string>Australia</string>
+		<key>numberOfBadAnswers</key>
+		<integer>0</integer>
+		<key>numberOfBadAnswersQuiz</key>
+		<integer>0</integer>
+		<key>numberOfGoodAnswers</key>
+		<integer>0</integer>
+		<key>numberOfGoodAnswersQuiz</key>
+		<integer>0</integer>
+		<key>order</key>
+		<integer>1</integer>
+		<key>question</key>
+		<string>The Prehistoric Iberians are believed to have migrated to Iberia from which of the following regions?</string>
+		<key>questionTrueOrFalse</key>
+		<string>The Iberian Peninsula is known for its impressive Paleolithic art.</string>
+		<key>theme</key>
+		<string>Spain 35000-1469</string>
+		<key>timeLine</key>
+		<string>Homo sapiens may have arrived in the Iberian Peninsula</string>
+		<key>trueOrFalseAnswer</key>
+		<string>True</string>
+		<key>wikiSearchWord</key>
+		<string>Prehistoric Iberia</string>
+	</dict>
+	<dict>
+		<key>correctTAnswer</key>
+		<string>Agriculture and livestock</string>
+		<key>date</key>
+		<string>2200 BC - 1550 BC</string>
+		<key>id</key>
+		<string>f33ac3a6-8246-11ed-a1eb-0242ac120002</string>
+		<key>incorrectAnswer1</key>
+		<string>Trade and commerce</string>
+		<key>incorrectAnswer2</key>
+		<string>Warfare and conquest</string>
+		<key>incorrectAnswer3</key>
+		<string>Hunting and gathering
+
+</string>
+		<key>numberOfBadAnswers</key>
+		<integer>0</integer>
+		<key>numberOfBadAnswersQuiz</key>
+		<integer>0</integer>
+		<key>numberOfGoodAnswers</key>
+		<integer>0</integer>
+		<key>numberOfGoodAnswersQuiz</key>
+		<integer>0</integer>
+		<key>order</key>
+		<integer>2</integer>
+		<key>question</key>
+		<string>What was the primary focus of the ancient Argaric culture?</string>
+		<key>questionTrueOrFalse</key>
+		<string>The Argaric culture was known for their early adoption of bronze and advanced metallurgy techniques.</string>
+		<key>theme</key>
+		<string>Spain 35000-1469</string>
+		<key>timeLine</key>
+		<string>The El Argar civilization </string>
+		<key>trueOrFalseAnswer</key>
+		<string>True</string>
+		<key>wikiSearchWord</key>
+		<string>Argaric culture</string>
+	</dict>
+	<dict>
+		<key>correctTAnswer</key>
+		<string>They formed a symbiotic relationship, their cultures influencing each other </string>
+		<key>date</key>
+		<string>1000 BC - 500 BC</string>
+		<key>id</key>
+		<string>f33ac4e6-8246-11ed-a1eb-0242ac120002</string>
+		<key>incorrectAnswer1</key>
+		<string>They fought against and conquered the Iberians</string>
+		<key>incorrectAnswer2</key>
+		<string>hey lived completely separate and isolated from the Iberians</string>
+		<key>incorrectAnswer3</key>
+		<string>They lived in different eras</string>
+		<key>numberOfBadAnswers</key>
+		<integer>0</integer>
+		<key>numberOfBadAnswersQuiz</key>
+		<integer>0</integer>
+		<key>numberOfGoodAnswers</key>
+		<integer>0</integer>
+		<key>numberOfGoodAnswersQuiz</key>
+		<integer>0</integer>
+		<key>order</key>
+		<integer>3</integer>
+		<key>question</key>
+		<string>How did the Celts, who immigrated to the Iberian Peninsula, interact with the native Iberian population?</string>
+		<key>questionTrueOrFalse</key>
+		<string>The Celtiberians were conquered by the Romans in 72 BC.</string>
+		<key>theme</key>
+		<string>Spain 35000-1469</string>
+		<key>timeLine</key>
+		<string> The Celts migrate to the Iberian Peninsula</string>
+		<key>trueOrFalseAnswer</key>
+		<string>True</string>
+		<key>wikiSearchWord</key>
+		<string>Celtiberians</string>
+	</dict>
+	<dict>
+		<key>correctTAnswer</key>
+		<string>More than three centuries</string>
+		<key>date</key>
+		<string>200 BC</string>
+		<key>id</key>
+		<string>f33ac608-8246-11ed-a1eb-0242ac120002</string>
+		<key>incorrectAnswer1</key>
+		<string>Less than a decade</string>
+		<key>incorrectAnswer2</key>
+		<string>A hundred years</string>
+		<key>incorrectAnswer3</key>
+		<string>Fifty years</string>
+		<key>numberOfBadAnswers</key>
+		<integer>0</integer>
+		<key>numberOfBadAnswersQuiz</key>
+		<integer>0</integer>
+		<key>numberOfGoodAnswers</key>
+		<integer>0</integer>
+		<key>numberOfGoodAnswersQuiz</key>
+		<integer>0</integer>
+		<key>order</key>
+		<integer>4</integer>
+		<key>question</key>
+		<string>How long did the Roman conquest of the Iberian Peninsula last?</string>
+		<key>questionTrueOrFalse</key>
+		<string>The Roman Republic conquered the Iberian Peninsula through a policy of aggressive expansion. </string>
+		<key>theme</key>
+		<string>Spain 35000-1469</string>
+		<key>timeLine</key>
+		<string>Roman conquest of the Iberian Peninsula</string>
+		<key>trueOrFalseAnswer</key>
+		<string>False</string>
+		<key>wikiSearchWord</key>
+		<string>Roman conquest of the Iberian Peninsula</string>
+	</dict>
+	<dict>
+		<key>correctTAnswer</key>
+		<string>Through military conquest</string>
+		<key>date</key>
+		<string>500</string>
+		<key>id</key>
+		<string>f33ac720-8246-11ed-a1eb-0242ac120002</string>
+		<key>incorrectAnswer1</key>
+		<string>Through diplomacy and alliance-building</string>
+		<key>incorrectAnswer2</key>
+		<string>Through economic domination</string>
+		<key>incorrectAnswer3</key>
+		<string>Through cultural assimilation</string>
+		<key>numberOfBadAnswers</key>
+		<integer>0</integer>
+		<key>numberOfBadAnswersQuiz</key>
+		<integer>0</integer>
+		<key>numberOfGoodAnswers</key>
+		<integer>0</integer>
+		<key>numberOfGoodAnswersQuiz</key>
+		<integer>0</integer>
+		<key>order</key>
+		<integer>5</integer>
+		<key>question</key>
+		<string>How did the Visigoths take over much of Spain?</string>
+		<key>questionTrueOrFalse</key>
+		<string>The Visigoths were originally a Germanic group that became foederati of Rome and later sought to restore the Roman order in Hispania.</string>
+		<key>theme</key>
+		<string>Spain 35000-1469</string>
+		<key>timeLine</key>
+		<string> The Visigoths take over much of Spain.</string>
+		<key>trueOrFalseAnswer</key>
+		<string>True</string>
+		<key>wikiSearchWord</key>
+		<string>Visigothic Kingdom</string>
+	</dict>
+	<dict>
+		<key>correctTAnswer</key>
+		<string>To spread Islam</string>
+		<key>date</key>
+		<string>711</string>
+		<key>id</key>
+		<string>f33ac84c-8246-11ed-a1eb-0242ac120002</string>
+		<key>incorrectAnswer1</key>
+		<string>To gain access to natural resources</string>
+		<key>incorrectAnswer2</key>
+		<string>To establish a new trade route</string>
+		<key>incorrectAnswer3</key>
+		<string>To seek revenge for a previous conflict</string>
+		<key>numberOfBadAnswers</key>
+		<integer>0</integer>
+		<key>numberOfBadAnswersQuiz</key>
+		<integer>0</integer>
+		<key>numberOfGoodAnswers</key>
+		<integer>0</integer>
+		<key>numberOfGoodAnswersQuiz</key>
+		<integer>0</integer>
+		<key>order</key>
+		<integer>6</integer>
+		<key>question</key>
+		<string>What was the primary motivation for the Moors&apos; invasion of Spain?</string>
+		<key>questionTrueOrFalse</key>
+		<string>The term &quot;Moor&quot;  has never been used to refer to Arabs, North African Berbers, or Muslim Europeans.</string>
+		<key>theme</key>
+		<string>Spain 35000-1469</string>
+		<key>timeLine</key>
+		<string>The Moors invade Spain</string>
+		<key>trueOrFalseAnswer</key>
+		<string>False</string>
+		<key>wikiSearchWord</key>
+		<string>Moors</string>
+	</dict>
+	<dict>
+		<key>correctTAnswer</key>
+		<string>The Christian forces expelled the Muslim.</string>
+		<key>date</key>
+		<string>718</string>
+		<key>id</key>
+		<string>f33ac978-8246-11ed-a1eb-0242ac120002</string>
+		<key>incorrectAnswer1</key>
+		<string>The Muslims retained control of Spain</string>
+		<key>incorrectAnswer2</key>
+		<string>The Christian forces were defeated and driven out of Spain</string>
+		<key>incorrectAnswer3</key>
+		<string>The Muslims retained control of some areas of Spain</string>
+		<key>numberOfBadAnswers</key>
+		<integer>0</integer>
+		<key>numberOfBadAnswersQuiz</key>
+		<integer>0</integer>
+		<key>numberOfGoodAnswers</key>
+		<integer>0</integer>
+		<key>numberOfGoodAnswersQuiz</key>
+		<integer>0</integer>
+		<key>order</key>
+		<integer>7</integer>
+		<key>question</key>
+		<string>What was the result of the reconquest of Spain?</string>
+		<key>questionTrueOrFalse</key>
+		<string>The Battle of Covadonga marks the beginning of the Reconquista.</string>
+		<key>theme</key>
+		<string>Spain 35000-1469</string>
+		<key>timeLine</key>
+		<string> The Reconquista begins by the Christians to retake Spain.</string>
+		<key>trueOrFalseAnswer</key>
+		<string>True</string>
+		<key>wikiSearchWord</key>
+		<string>Reconquista</string>
+	</dict>
+	<dict>
+		<key>correctTAnswer</key>
+		<string>Islam</string>
+		<key>date</key>
+		<string>756</string>
+		<key>id</key>
+		<string>f33acd38-8246-11ed-a1eb-0242ac120002</string>
+		<key>incorrectAnswer1</key>
+		<string>The Catholic religion</string>
+		<key>incorrectAnswer2</key>
+		<string>Protestantism</string>
+		<key>incorrectAnswer3</key>
+		<string>Judaism</string>
+		<key>numberOfBadAnswers</key>
+		<integer>0</integer>
+		<key>numberOfBadAnswersQuiz</key>
+		<integer>0</integer>
+		<key>numberOfGoodAnswers</key>
+		<integer>0</integer>
+		<key>numberOfGoodAnswersQuiz</key>
+		<integer>0</integer>
+		<key>order</key>
+		<integer>8</integer>
+		<key>question</key>
+		<string>What religion did the Caliphate of Córdoba primarily follow?</string>
+		<key>questionTrueOrFalse</key>
+		<string>The period of the Caliphate of Cordoba was characterized by a decline in trade and culture. </string>
+		<key>theme</key>
+		<string>Spain 35000-1469</string>
+		<key>timeLine</key>
+		<string>Caliphate of Córdoba</string>
+		<key>trueOrFalseAnswer</key>
+		<string>False</string>
+		<key>wikiSearchWord</key>
+		<string>Caliphate of Córdoba</string>
+	</dict>
+	<dict>
+		<key>correctTAnswer</key>
+		<string>Castile (Spain)</string>
+		<key>date</key>
+		<string>1139</string>
+		<key>id</key>
+		<string>f33ace82-8246-11ed-a1eb-0242ac120002</string>
+		<key>incorrectAnswer1</key>
+		<string>France</string>
+		<key>incorrectAnswer2</key>
+		<string>England</string>
+		<key>incorrectAnswer3</key>
+		<string>The Netherlands</string>
+		<key>numberOfBadAnswers</key>
+		<integer>0</integer>
+		<key>numberOfBadAnswersQuiz</key>
+		<integer>0</integer>
+		<key>numberOfGoodAnswers</key>
+		<integer>0</integer>
+		<key>numberOfGoodAnswersQuiz</key>
+		<integer>0</integer>
+		<key>order</key>
+		<integer>9</integer>
+		<key>question</key>
+		<string>What other country was the Kingdom of Portugal allied with during its early history?</string>
+		<key>questionTrueOrFalse</key>
+		<string>The Kingdom of Portugal was established after the fall of Rome.</string>
+		<key>theme</key>
+		<string>Spain 35000-1469</string>
+		<key>timeLine</key>
+		<string>The Kingdom of Portugal is established</string>
+		<key>trueOrFalseAnswer</key>
+		<string>False</string>
+		<key>wikiSearchWord</key>
+		<string>History of Portugal</string>
+	</dict>
+	<dict>
+		<key>correctTAnswer</key>
+		<string>She was a key figure in the unification of Spain.</string>
+		<key>date</key>
+		<string>1469</string>
+		<key>id</key>
+		<string>f33acf90-8246-11ed-a1eb-0242ac120002</string>
+		<key>incorrectAnswer1</key>
+		<string>She was a successful military leader.</string>
+		<key>incorrectAnswer2</key>
+		<string>She was a skilled diplomat.</string>
+		<key>incorrectAnswer3</key>
+		<string>She was a patron of the arts.</string>
+		<key>numberOfBadAnswers</key>
+		<integer>0</integer>
+		<key>numberOfBadAnswersQuiz</key>
+		<integer>0</integer>
+		<key>numberOfGoodAnswers</key>
+		<integer>0</integer>
+		<key>numberOfGoodAnswersQuiz</key>
+		<integer>0</integer>
+		<key>order</key>
+		<integer>10</integer>
+		<key>question</key>
+		<string>What was Isabella I of Castile known for?</string>
+		<key>questionTrueOrFalse</key>
+		<string>Isabella and Ferdinand supported and financed Christopher Columbus&apos;s 1492 voyage to the New World. </string>
+		<key>theme</key>
+		<string>Spain 35000-1469</string>
+		<key>timeLine</key>
+		<string> Isabella I of Castile and Ferdinand II of Aragon are married.</string>
+		<key>trueOrFalseAnswer</key>
+		<string>True</string>
+		<key>wikiSearchWord</key>
+		<string>Isabella I of Castile</string>
+	</dict>
+</array>
+</plist>

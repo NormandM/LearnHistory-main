@@ -1,0 +1,366 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<!DOCTYPE plist PUBLIC "-//Apple//DTD PLIST 1.0//EN" "http://www.apple.com/DTDs/PropertyList-1.0.dtd">
+<plist version="1.0">
+<array>
+	<dict>
+		<key>correctTAnswer</key>
+		<string> Jerusalem</string>
+		<key>date</key>
+		<string> 1204 AD</string>
+		<key>id</key>
+		<string>4427b592-e937-11ed-a05b-0242ac120003</string>
+		<key>incorrectAnswer1</key>
+		<string> Cairo</string>
+		<key>incorrectAnswer2</key>
+		<string> Antioch</string>
+		<key>incorrectAnswer3</key>
+		<string> Alexandria</string>
+		<key>numberOfBadAnswers</key>
+		<integer>0</integer>
+		<key>numberOfBadAnswersQuiz</key>
+		<integer>0</integer>
+		<key>numberOfGoodAnswers</key>
+		<integer>0</integer>
+		<key>numberOfGoodAnswersQuiz</key>
+		<integer>0</integer>
+		<key>order</key>
+		<integer>21</integer>
+		<key>question</key>
+		<string>Which city was the primary target of the Fourth Crusade before it was diverted to Constantinople?</string>
+		<key>questionTrueOrFalse</key>
+		<string> The Fourth Crusade resulted in the establishment of the Latin Empire.</string>
+		<key>theme</key>
+		<string>The Byzantine Empire 1204-1461</string>
+		<key>timeLine</key>
+		<string> Fourth Crusade and Sack of Constantinople </string>
+		<key>trueOrFalseAnswer</key>
+		<string>True</string>
+		<key>wikiSearchWord</key>
+		<string> Fourth Crusade</string>
+	</dict>
+	<dict>
+		<key>correctTAnswer</key>
+		<string> Michael VIII Palaiologos</string>
+		<key>date</key>
+		<string> 1261 AD</string>
+		<key>id</key>
+		<string>4427b6be-e937-11ed-a05b-0242ac120003</string>
+		<key>incorrectAnswer1</key>
+		<string> Andronikos II Palaiologos</string>
+		<key>incorrectAnswer2</key>
+		<string> John III Doukas Vatatzes</string>
+		<key>incorrectAnswer3</key>
+		<string> Theodore II Laskaris</string>
+		<key>numberOfBadAnswers</key>
+		<integer>0</integer>
+		<key>numberOfBadAnswersQuiz</key>
+		<integer>0</integer>
+		<key>numberOfGoodAnswers</key>
+		<integer>0</integer>
+		<key>numberOfGoodAnswersQuiz</key>
+		<integer>0</integer>
+		<key>order</key>
+		<integer>22</integer>
+		<key>question</key>
+		<string>Who was the Byzantine emperor responsible for recapturing Constantinople from the Latin Empire?</string>
+		<key>questionTrueOrFalse</key>
+		<string> The recapture of Constantinople by the Byzantines occurred in 1261 AD.</string>
+		<key>theme</key>
+		<string>The Byzantine Empire 1204-1461</string>
+		<key>timeLine</key>
+		<string> Recapture of Constantinople </string>
+		<key>trueOrFalseAnswer</key>
+		<string>True</string>
+		<key>wikiSearchWord</key>
+		<string> Reconquest of Constantinople</string>
+	</dict>
+	<dict>
+		<key>correctTAnswer</key>
+		<string> Osman I</string>
+		<key>date</key>
+		<string> 1302 AD</string>
+		<key>id</key>
+		<string>4427b7e0-e937-11ed-a05b-0242ac120003</string>
+		<key>incorrectAnswer1</key>
+		<string> Bayezid I</string>
+		<key>incorrectAnswer2</key>
+		<string> Orhan</string>
+		<key>incorrectAnswer3</key>
+		<string> Murad I</string>
+		<key>numberOfBadAnswers</key>
+		<integer>0</integer>
+		<key>numberOfBadAnswersQuiz</key>
+		<integer>0</integer>
+		<key>numberOfGoodAnswers</key>
+		<integer>0</integer>
+		<key>numberOfGoodAnswersQuiz</key>
+		<integer>0</integer>
+		<key>order</key>
+		<integer>23</integer>
+		<key>question</key>
+		<string>Which Ottoman leader achieved a decisive victory against the Byzantines at the Battle of Bapheus?</string>
+		<key>questionTrueOrFalse</key>
+		<string> The Battle of Bapheus was fought between the Byzantine Empire and the Ottoman Empire.</string>
+		<key>theme</key>
+		<string>The Byzantine Empire 1204-1461</string>
+		<key>timeLine</key>
+		<string> Battle of Bapheus </string>
+		<key>trueOrFalseAnswer</key>
+		<string>True</string>
+		<key>wikiSearchWord</key>
+		<string> Battle of Bapheus</string>
+	</dict>
+	<dict>
+		<key>correctTAnswer</key>
+		<string> John VI Kantakouzenos</string>
+		<key>date</key>
+		<string> 1347-1354 AD</string>
+		<key>id</key>
+		<string>4427b90c-e937-11ed-a05b-0242ac120003</string>
+		<key>incorrectAnswer1</key>
+		<string> John V Palaiologos</string>
+		<key>incorrectAnswer2</key>
+		<string> Andronikos III Palaiologos</string>
+		<key>incorrectAnswer3</key>
+		<string> Anna of Savoy</string>
+		<key>numberOfBadAnswers</key>
+		<integer>0</integer>
+		<key>numberOfBadAnswersQuiz</key>
+		<integer>0</integer>
+		<key>numberOfGoodAnswers</key>
+		<integer>0</integer>
+		<key>numberOfGoodAnswersQuiz</key>
+		<integer>0</integer>
+		<key>order</key>
+		<integer>24</integer>
+		<key>question</key>
+		<string>Who emerged as the victor of the Byzantine civil war of 1341-1347?</string>
+		<key>questionTrueOrFalse</key>
+		<string> The Byzantine Empire emerged stronger and more stable after the prolonged conflict of the civil war of 1341-1347.</string>
+		<key>theme</key>
+		<string>The Byzantine Empire 1204-1461</string>
+		<key>timeLine</key>
+		<string> Civil War </string>
+		<key>trueOrFalseAnswer</key>
+		<string>False</string>
+		<key>wikiSearchWord</key>
+		<string> Byzantine civil war of 1341–1347</string>
+	</dict>
+	<dict>
+		<key>correctTAnswer</key>
+		<string> John V Palaiologos</string>
+		<key>date</key>
+		<string> 1373 AD</string>
+		<key>id</key>
+		<string>4427ba38-e937-11ed-a05b-0242ac120003</string>
+		<key>incorrectAnswer1</key>
+		<string> John VII Palaiologos</string>
+		<key>incorrectAnswer2</key>
+		<string> Andronikos IV Palaiologos</string>
+		<key>incorrectAnswer3</key>
+		<string> Manuel II Palaiologos</string>
+		<key>numberOfBadAnswers</key>
+		<integer>0</integer>
+		<key>numberOfBadAnswersQuiz</key>
+		<integer>0</integer>
+		<key>numberOfGoodAnswers</key>
+		<integer>0</integer>
+		<key>numberOfGoodAnswersQuiz</key>
+		<integer>0</integer>
+		<key>order</key>
+		<integer>25</integer>
+		<key>question</key>
+		<string>Which Byzantine emperor was forced to make the empire an Ottoman vassal state after a failed revolt?</string>
+		<key>questionTrueOrFalse</key>
+		<string>The Byzantine–Ottoman wars were a series of conflicts that led to the fall of the Byzantine Empire and the rise of the Ottoman Empire.</string>
+		<key>theme</key>
+		<string>The Byzantine Empire 1204-1461</string>
+		<key>timeLine</key>
+		<string> Ottoman Vassal State </string>
+		<key>trueOrFalseAnswer</key>
+		<string>True</string>
+		<key>wikiSearchWord</key>
+		<string> Byzantine–Ottoman wars</string>
+	</dict>
+	<dict>
+		<key>correctTAnswer</key>
+		<string>Philadelphia</string>
+		<key>date</key>
+		<string> 1390 AD</string>
+		<key>id</key>
+		<string>4427bb50-e937-11ed-a05b-0242ac120003</string>
+		<key>incorrectAnswer1</key>
+		<string> Nicaea</string>
+		<key>incorrectAnswer2</key>
+		<string> Nicomedia</string>
+		<key>incorrectAnswer3</key>
+		<string> Adrianople</string>
+		<key>numberOfBadAnswers</key>
+		<integer>0</integer>
+		<key>numberOfBadAnswersQuiz</key>
+		<integer>0</integer>
+		<key>numberOfGoodAnswers</key>
+		<integer>0</integer>
+		<key>numberOfGoodAnswersQuiz</key>
+		<integer>0</integer>
+		<key>order</key>
+		<integer>26</integer>
+		<key>question</key>
+		<string>What was the last Byzantine city to fall to the Ottomans before the Fall of Constantinople?</string>
+		<key>questionTrueOrFalse</key>
+		<string> The Siege of Philadelphia marked the end of the Byzantine presence in Anatolia.</string>
+		<key>theme</key>
+		<string>The Byzantine Empire 1204-1461</string>
+		<key>timeLine</key>
+		<string> Siege of Philadelphia </string>
+		<key>trueOrFalseAnswer</key>
+		<string>True</string>
+		<key>wikiSearchWord</key>
+		<string>Fall of Philadelphia</string>
+	</dict>
+	<dict>
+		<key>correctTAnswer</key>
+		<string> Murad II</string>
+		<key>date</key>
+		<string> 1422 AD</string>
+		<key>id</key>
+		<string>4427bc68-e937-11ed-a05b-0242ac120003</string>
+		<key>incorrectAnswer1</key>
+		<string> Bayezid I</string>
+		<key>incorrectAnswer2</key>
+		<string> Mehmed I</string>
+		<key>incorrectAnswer3</key>
+		<string>Mehmed II</string>
+		<key>numberOfBadAnswers</key>
+		<integer>0</integer>
+		<key>numberOfBadAnswersQuiz</key>
+		<integer>0</integer>
+		<key>numberOfGoodAnswers</key>
+		<integer>0</integer>
+		<key>numberOfGoodAnswersQuiz</key>
+		<integer>0</integer>
+		<key>order</key>
+		<integer>27</integer>
+		<key>question</key>
+		<string>Which Ottoman sultan led the second siege of Constantinople in 1422?</string>
+		<key>questionTrueOrFalse</key>
+		<string>The weakened Byzantine Empire, under the Palaiologos Dynasty, could not fully recover before facing defeat by the Ottoman Turks.</string>
+		<key>theme</key>
+		<string>The Byzantine Empire 1204-1461</string>
+		<key>timeLine</key>
+		<string> Second Ottoman Siege of Constantinople </string>
+		<key>trueOrFalseAnswer</key>
+		<string>True</string>
+		<key>wikiSearchWord</key>
+		<string> Byzantine–Ottoman wars (Duplicate)</string>
+	</dict>
+	<dict>
+		<key>correctTAnswer</key>
+		<string> To achieve ecclesiastical union between the Eastern Orthodox and Roman Catholic Churches</string>
+		<key>date</key>
+		<string> 1439 AD</string>
+		<key>id</key>
+		<string>4427c190-e937-11ed-a05b-0242ac120003</string>
+		<key>incorrectAnswer1</key>
+		<string> To address the rise of Protestantism</string>
+		<key>incorrectAnswer2</key>
+		<string> To organize a new crusade against the Ottoman Empire</string>
+		<key>incorrectAnswer3</key>
+		<string> To reform the Roman Catholic Church</string>
+		<key>numberOfBadAnswers</key>
+		<integer>0</integer>
+		<key>numberOfBadAnswersQuiz</key>
+		<integer>0</integer>
+		<key>numberOfGoodAnswers</key>
+		<integer>0</integer>
+		<key>numberOfGoodAnswersQuiz</key>
+		<integer>0</integer>
+		<key>order</key>
+		<integer>28</integer>
+		<key>question</key>
+		<string>What was the primary goal of the Council of Florence?</string>
+		<key>questionTrueOrFalse</key>
+		<string>The Council of Basel elected an antipope, Felix V, in 1439.</string>
+		<key>theme</key>
+		<string>The Byzantine Empire 1204-1461</string>
+		<key>timeLine</key>
+		<string> Council of Florence </string>
+		<key>trueOrFalseAnswer</key>
+		<string>True</string>
+		<key>wikiSearchWord</key>
+		<string> Council of Florence</string>
+	</dict>
+	<dict>
+		<key>correctTAnswer</key>
+		<string> Constantine XI Palaiologos</string>
+		<key>date</key>
+		<string> 1453 AD</string>
+		<key>id</key>
+		<string>4427c2e4-e937-11ed-a05b-0242ac120003</string>
+		<key>incorrectAnswer1</key>
+		<string> John VIII Palaiologos</string>
+		<key>incorrectAnswer2</key>
+		<string> Thomas Palaiologos</string>
+		<key>incorrectAnswer3</key>
+		<string> Demetrios Palaiologos</string>
+		<key>numberOfBadAnswers</key>
+		<integer>0</integer>
+		<key>numberOfBadAnswersQuiz</key>
+		<integer>0</integer>
+		<key>numberOfGoodAnswers</key>
+		<integer>0</integer>
+		<key>numberOfGoodAnswersQuiz</key>
+		<integer>0</integer>
+		<key>order</key>
+		<integer>29</integer>
+		<key>question</key>
+		<string>Who was the last Byzantine emperor during the Fall of Constantinople?</string>
+		<key>questionTrueOrFalse</key>
+		<string> The Fall of Constantinople marked the end of the Byzantine Empire.</string>
+		<key>theme</key>
+		<string>The Byzantine Empire 1204-1461</string>
+		<key>timeLine</key>
+		<string> Fall of Constantinople </string>
+		<key>trueOrFalseAnswer</key>
+		<string>True</string>
+		<key>wikiSearchWord</key>
+		<string> Fall of Constantinople</string>
+	</dict>
+	<dict>
+		<key>correctTAnswer</key>
+		<string> David Megas Komnenos</string>
+		<key>date</key>
+		<string> 1461 AD</string>
+		<key>id</key>
+		<string>4427c41a-e937-11ed-a05b-0242ac120003</string>
+		<key>incorrectAnswer1</key>
+		<string> Alexios IV Megas Komnenos</string>
+		<key>incorrectAnswer2</key>
+		<string> John IV Megas Komnenos</string>
+		<key>incorrectAnswer3</key>
+		<string> Manuel III Megas Komnenos</string>
+		<key>numberOfBadAnswers</key>
+		<integer>0</integer>
+		<key>numberOfBadAnswersQuiz</key>
+		<integer>0</integer>
+		<key>numberOfGoodAnswers</key>
+		<integer>0</integer>
+		<key>numberOfGoodAnswersQuiz</key>
+		<integer>0</integer>
+		<key>order</key>
+		<integer>30</integer>
+		<key>question</key>
+		<string>Who was the ruler of the Empire of Trebizond at the time of its fall to the Ottoman Empire?</string>
+		<key>questionTrueOrFalse</key>
+		<string> The Fall of the Empire of Trebizond occurred in 1461 AD.</string>
+		<key>theme</key>
+		<string>The Byzantine Empire 1204-1461</string>
+		<key>timeLine</key>
+		<string> Fall of the Empire of Trebizond </string>
+		<key>trueOrFalseAnswer</key>
+		<string>True</string>
+		<key>wikiSearchWord</key>
+		<string> Empire of Trebizond</string>
+	</dict>
+</array>
+</plist>

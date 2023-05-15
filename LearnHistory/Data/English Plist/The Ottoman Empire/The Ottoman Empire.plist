@@ -1,0 +1,1086 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<!DOCTYPE plist PUBLIC "-//Apple//DTD PLIST 1.0//EN" "http://www.apple.com/DTDs/PropertyList-1.0.dtd">
+<plist version="1.0">
+<array>
+	<dict>
+		<key>id</key>
+		<string>8a69bfc2-ecfd-11ed-a05b-0242ac120003</string>
+		<key>date</key>
+		<string>1299</string>
+		<key>question</key>
+		<string> Who founded the Ottoman Empire?</string>
+		<key>correctTAnswer</key>
+		<string> Osman I</string>
+		<key>incorrectAnswer1</key>
+		<string> Orhan</string>
+		<key>incorrectAnswer2</key>
+		<string> Murad I</string>
+		<key>incorrectAnswer3</key>
+		<string> Mehmed II</string>
+		<key>wikiSearchWord</key>
+		<string> Osman I </string>
+		<key>questionTrueOrFalse</key>
+		<string>During Osman&apos;s lifetime, his principality transformed into a world empire.</string>
+		<key>trueOrFalseAnswer</key>
+		<string>False</string>
+		<key>timeLine</key>
+		<string> Osman I founds Ottoman Empire</string>
+		<key>theme</key>
+		<string>The Ottoman Empire</string>
+		<key>numberOfGoodAnswers</key>
+		<integer>0</integer>
+		<key>numberOfBadAnswers</key>
+		<integer>0</integer>
+		<key>numberOfGoodAnswersQuiz</key>
+		<integer>0</integer>
+		<key>numberOfBadAnswersQuiz</key>
+		<integer>0</integer>
+		<key>order</key>
+		<integer>1</integer>
+	</dict>
+	<dict>
+		<key>id</key>
+		<string>8a69c634-ecfd-11ed-a05b-0242ac120003</string>
+		<key>date</key>
+		<string>1326</string>
+		<key>question</key>
+		<string> What was the first capital of the Ottoman Empire?</string>
+		<key>correctTAnswer</key>
+		<string> Bursa</string>
+		<key>incorrectAnswer1</key>
+		<string> Istanbul</string>
+		<key>incorrectAnswer2</key>
+		<string> Edirne</string>
+		<key>incorrectAnswer3</key>
+		<string> Ankara</string>
+		<key>wikiSearchWord</key>
+		<string>Siege of Bursa</string>
+		<key>questionTrueOrFalse</key>
+		<string>The siege of Bursa was the first time the Ottomans captured a city. </string>
+		<key>trueOrFalseAnswer</key>
+		<string>True</string>
+		<key>timeLine</key>
+		<string> Bursa: 1st Ottoman capital</string>
+		<key>theme</key>
+		<string>The Ottoman Empire</string>
+		<key>numberOfGoodAnswers</key>
+		<integer>0</integer>
+		<key>numberOfBadAnswers</key>
+		<integer>0</integer>
+		<key>numberOfGoodAnswersQuiz</key>
+		<integer>0</integer>
+		<key>numberOfBadAnswersQuiz</key>
+		<integer>0</integer>
+		<key>order</key>
+		<integer>2</integer>
+	</dict>
+	<dict>
+		<key>id</key>
+		<string>8a69c7ce-ecfd-11ed-a05b-0242ac120003</string>
+		<key>date</key>
+		<string>1354</string>
+		<key>question</key>
+		<string> Which European peninsula did the Ottomans first capture?</string>
+		<key>correctTAnswer</key>
+		<string> Gallipoli Peninsula</string>
+		<key>incorrectAnswer1</key>
+		<string> Iberian Peninsula</string>
+		<key>incorrectAnswer2</key>
+		<string> Balkan Peninsula</string>
+		<key>incorrectAnswer3</key>
+		<string> Scandinavian Peninsula</string>
+		<key>wikiSearchWord</key>
+		<string>Fall of Gallipoli</string>
+		<key>questionTrueOrFalse</key>
+		<string>The conquest of Gallipoli allowed the Ottomans to advance into the southern Balkans, Serbia, and Hungary.</string>
+		<key>trueOrFalseAnswer</key>
+		<string>True</string>
+		<key>timeLine</key>
+		<string> Gallipoli: Ottomans in Europe</string>
+		<key>theme</key>
+		<string>The Ottoman Empire</string>
+		<key>numberOfGoodAnswers</key>
+		<integer>0</integer>
+		<key>numberOfBadAnswers</key>
+		<integer>0</integer>
+		<key>numberOfGoodAnswersQuiz</key>
+		<integer>0</integer>
+		<key>numberOfBadAnswersQuiz</key>
+		<integer>0</integer>
+		<key>order</key>
+		<integer>3</integer>
+	</dict>
+	<dict>
+		<key>id</key>
+		<string>8a69c922-ecfd-11ed-a05b-0242ac120003</string>
+		<key>date</key>
+		<string>1389</string>
+		<key>question</key>
+		<string> Which battle resulted in an Ottoman victory over the Serbian army?</string>
+		<key>correctTAnswer</key>
+		<string> Battle of Kosovo</string>
+		<key>incorrectAnswer1</key>
+		<string> Battle of Maritsa</string>
+		<key>incorrectAnswer2</key>
+		<string> Battle of Nicopolis</string>
+		<key>incorrectAnswer3</key>
+		<string> Battle of Ankara</string>
+		<key>wikiSearchWord</key>
+		<string> Battle of Kosovo </string>
+		<key>questionTrueOrFalse</key>
+		<string>The Serbian principalities had enough manpower to field large armies against future Ottoman campaigns. </string>
+		<key>trueOrFalseAnswer</key>
+		<string>False</string>
+		<key>timeLine</key>
+		<string> Kosovo: Ottomans beat Serbs</string>
+		<key>theme</key>
+		<string>The Ottoman Empire</string>
+		<key>numberOfGoodAnswers</key>
+		<integer>0</integer>
+		<key>numberOfBadAnswers</key>
+		<integer>0</integer>
+		<key>numberOfGoodAnswersQuiz</key>
+		<integer>0</integer>
+		<key>numberOfBadAnswersQuiz</key>
+		<integer>0</integer>
+		<key>order</key>
+		<integer>4</integer>
+	</dict>
+	<dict>
+		<key>id</key>
+		<string>8a69ca58-ecfd-11ed-a05b-0242ac120003</string>
+		<key>date</key>
+		<string>1396</string>
+		<key>question</key>
+		<string> In which battle did the Ottoman Empire defeat a Crusader army from Western Europe?</string>
+		<key>correctTAnswer</key>
+		<string> Battle of Nicopolis</string>
+		<key>incorrectAnswer1</key>
+		<string> Battle of Kosovo</string>
+		<key>incorrectAnswer2</key>
+		<string> Battle of Maritsa</string>
+		<key>incorrectAnswer3</key>
+		<string> Battle of Ankara</string>
+		<key>wikiSearchWord</key>
+		<string> Battle of Nicopolis </string>
+		<key>questionTrueOrFalse</key>
+		<string>The battle led to the end of the Second Bulgarian Empire.</string>
+		<key>trueOrFalseAnswer</key>
+		<string>True</string>
+		<key>timeLine</key>
+		<string> Nicopolis: Crusader defeat</string>
+		<key>theme</key>
+		<string>The Ottoman Empire</string>
+		<key>numberOfGoodAnswers</key>
+		<integer>0</integer>
+		<key>numberOfBadAnswers</key>
+		<integer>0</integer>
+		<key>numberOfGoodAnswersQuiz</key>
+		<integer>0</integer>
+		<key>numberOfBadAnswersQuiz</key>
+		<integer>0</integer>
+		<key>order</key>
+		<integer>5</integer>
+	</dict>
+	<dict>
+		<key>id</key>
+		<string>8a69cb98-ecfd-11ed-a05b-0242ac120003</string>
+		<key>date</key>
+		<string>1402</string>
+		<key>question</key>
+		<string> Who defeated the Ottomans in the Battle of Ankara, causing a temporary disintegration of the empire?</string>
+		<key>correctTAnswer</key>
+		<string> Timur</string>
+		<key>incorrectAnswer1</key>
+		<string> Genghis Khan</string>
+		<key>incorrectAnswer2</key>
+		<string> Alexander the Great</string>
+		<key>incorrectAnswer3</key>
+		<string> Napoleon Bonaparte</string>
+		<key>wikiSearchWord</key>
+		<string> Battle of Ankara </string>
+		<key>questionTrueOrFalse</key>
+		<string>The battle led to the Ottoman Interregnum.</string>
+		<key>trueOrFalseAnswer</key>
+		<string>True</string>
+		<key>timeLine</key>
+		<string> Ankara: Timur halts Ottomans</string>
+		<key>theme</key>
+		<string>The Ottoman Empire</string>
+		<key>numberOfGoodAnswers</key>
+		<integer>0</integer>
+		<key>numberOfBadAnswers</key>
+		<integer>0</integer>
+		<key>numberOfGoodAnswersQuiz</key>
+		<integer>0</integer>
+		<key>numberOfBadAnswersQuiz</key>
+		<integer>0</integer>
+		<key>order</key>
+		<integer>6</integer>
+	</dict>
+	<dict>
+		<key>id</key>
+		<string>8a69ce22-ecfd-11ed-a05b-0242ac120003</string>
+		<key>date</key>
+		<string>1413</string>
+		<key>question</key>
+		<string> Who restored the Ottoman Empire after the Interregnum?</string>
+		<key>correctTAnswer</key>
+		<string> Mehmed I</string>
+		<key>incorrectAnswer1</key>
+		<string> Orhan</string>
+		<key>incorrectAnswer2</key>
+		<string> Murad I</string>
+		<key>incorrectAnswer3</key>
+		<string> Bayezid II</string>
+		<key>wikiSearchWord</key>
+		<string> Mehmed I </string>
+		<key>questionTrueOrFalse</key>
+		<string>Mehmed I fought with his brothers over control of the Ottoman realm during the Ottoman Interregnum. </string>
+		<key>trueOrFalseAnswer</key>
+		<string>True</string>
+		<key>timeLine</key>
+		<string> Mehmed I restores empire</string>
+		<key>theme</key>
+		<string>The Ottoman Empire</string>
+		<key>numberOfGoodAnswers</key>
+		<integer>0</integer>
+		<key>numberOfBadAnswers</key>
+		<integer>0</integer>
+		<key>numberOfGoodAnswersQuiz</key>
+		<integer>0</integer>
+		<key>numberOfBadAnswersQuiz</key>
+		<integer>0</integer>
+		<key>order</key>
+		<integer>7</integer>
+	</dict>
+	<dict>
+		<key>id</key>
+		<string>8a69cf30-ecfd-11ed-a05b-0242ac120003</string>
+		<key>date</key>
+		<string>1453</string>
+		<key>question</key>
+		<string> Which city&apos;s fall marked the end of the Byzantine Empire?</string>
+		<key>correctTAnswer</key>
+		<string> Constantinople</string>
+		<key>incorrectAnswer1</key>
+		<string> Rome</string>
+		<key>incorrectAnswer2</key>
+		<string> Athens</string>
+		<key>incorrectAnswer3</key>
+		<string> Jerusalem</string>
+		<key>wikiSearchWord</key>
+		<string> Fall of Constantinople </string>
+		<key>questionTrueOrFalse</key>
+		<string>Among many modern historians, the fall of Constantinople is considered the beginning of the medieval period.</string>
+		<key>trueOrFalseAnswer</key>
+		<string>False</string>
+		<key>timeLine</key>
+		<string>Constantinople falls</string>
+		<key>theme</key>
+		<string>The Ottoman Empire</string>
+		<key>numberOfGoodAnswers</key>
+		<integer>0</integer>
+		<key>numberOfBadAnswers</key>
+		<integer>0</integer>
+		<key>numberOfGoodAnswersQuiz</key>
+		<integer>0</integer>
+		<key>numberOfBadAnswersQuiz</key>
+		<integer>0</integer>
+		<key>order</key>
+		<integer>8</integer>
+	</dict>
+	<dict>
+		<key>id</key>
+		<string>8a69d066-ecfd-11ed-a05b-0242ac120003</string>
+		<key>date</key>
+		<string>1461</string>
+		<key>question</key>
+		<string> Which empire did the Ottomans conquer, eliminating the last remnant of the Byzantine Empire?</string>
+		<key>correctTAnswer</key>
+		<string> Empire of Trebizond</string>
+		<key>incorrectAnswer1</key>
+		<string> Bulgarian Empire</string>
+		<key>incorrectAnswer2</key>
+		<string> Serbian Empire</string>
+		<key>incorrectAnswer3</key>
+		<string> Latin Empire</string>
+		<key>wikiSearchWord</key>
+		<string> Empire of Trebizond </string>
+		<key>questionTrueOrFalse</key>
+		<string>The Empire of Trebizond was the longest-lasting of the Byzantine successor states.</string>
+		<key>trueOrFalseAnswer</key>
+		<string>True</string>
+		<key>timeLine</key>
+		<string> Trebizond conquered</string>
+		<key>theme</key>
+		<string>The Ottoman Empire</string>
+		<key>numberOfGoodAnswers</key>
+		<integer>0</integer>
+		<key>numberOfBadAnswers</key>
+		<integer>0</integer>
+		<key>numberOfGoodAnswersQuiz</key>
+		<integer>0</integer>
+		<key>numberOfBadAnswersQuiz</key>
+		<integer>0</integer>
+		<key>order</key>
+		<integer>9</integer>
+	</dict>
+	<dict>
+		<key>id</key>
+		<string>8a69d340-ecfd-11ed-a05b-0242ac120003</string>
+		<key>date</key>
+		<string>1479</string>
+		<key>question</key>
+		<string>What was the role of the Albanian nobleman and military commander Skanderbeg during the Ottoman conquest of Albania in 1479?</string>
+		<key>correctTAnswer</key>
+		<string> He played a crucial role in the Albanian resistance against the Ottomans.</string>
+		<key>incorrectAnswer1</key>
+		<string>He fought alongside the Ottomans against the Albanian resistance.</string>
+		<key>incorrectAnswer2</key>
+		<string>He surrendered to the Ottomans without any resistance.</string>
+		<key>incorrectAnswer3</key>
+		<string>He was exiled from Albania before the Ottoman conquest took place.</string>
+		<key>wikiSearchWord</key>
+		<string>Albania under the Ottoman Empire</string>
+		<key>questionTrueOrFalse</key>
+		<string>Albanians who converted to Islam eventually dominated the Ottoman power structures disproportionally to their small population.</string>
+		<key>trueOrFalseAnswer</key>
+		<string>True</string>
+		<key>timeLine</key>
+		<string>Ottoman conquest of Albania </string>
+		<key>theme</key>
+		<string>The Ottoman Empire</string>
+		<key>numberOfGoodAnswers</key>
+		<integer>0</integer>
+		<key>numberOfBadAnswers</key>
+		<integer>0</integer>
+		<key>numberOfGoodAnswersQuiz</key>
+		<integer>0</integer>
+		<key>numberOfBadAnswersQuiz</key>
+		<integer>0</integer>
+		<key>order</key>
+		<integer>10</integer>
+	</dict>
+	<dict>
+		<key>id</key>
+		<string>8a69d462-ecfd-11ed-a05b-0242ac120003</string>
+		<key>date</key>
+		<string>1480</string>
+		<key>question</key>
+		<string> Which order of knights successfully defended the island of Rhodes from an Ottoman siege in 1480?</string>
+		<key>correctTAnswer</key>
+		<string> Knights Hospitaller</string>
+		<key>incorrectAnswer1</key>
+		<string> Knights Templar</string>
+		<key>incorrectAnswer2</key>
+		<string> Teutonic Knights</string>
+		<key>incorrectAnswer3</key>
+		<string> Knights of Malta</string>
+		<key>wikiSearchWord</key>
+		<string>Siege of Rhodes (1480)</string>
+		<key>questionTrueOrFalse</key>
+		<string>Siege of Rhodes (1480) was a successful Ottoman conquest</string>
+		<key>trueOrFalseAnswer</key>
+		<string>False</string>
+		<key>timeLine</key>
+		<string> Rhodes siege fails</string>
+		<key>theme</key>
+		<string>The Ottoman Empire</string>
+		<key>numberOfGoodAnswers</key>
+		<integer>0</integer>
+		<key>numberOfBadAnswers</key>
+		<integer>0</integer>
+		<key>numberOfGoodAnswersQuiz</key>
+		<integer>0</integer>
+		<key>numberOfBadAnswersQuiz</key>
+		<integer>0</integer>
+		<key>order</key>
+		<integer>11</integer>
+	</dict>
+	<dict>
+		<key>id</key>
+		<string>8a69d5ca-ecfd-11ed-a05b-0242ac120003</string>
+		<key>date</key>
+		<string>1514</string>
+		<key>question</key>
+		<string> Which empire did the Ottomans defeat in the Battle of Chaldiran?</string>
+		<key>correctTAnswer</key>
+		<string> Safavid Empire</string>
+		<key>incorrectAnswer1</key>
+		<string> Byzantine Empire</string>
+		<key>incorrectAnswer2</key>
+		<string> Mamluk Empire</string>
+		<key>incorrectAnswer3</key>
+		<string> Ayyubid Empire</string>
+		<key>wikiSearchWord</key>
+		<string> Battle of Chaldiran </string>
+		<key>questionTrueOrFalse</key>
+		<string>The Battle of Chaldiran marked the beginning of a 41-year-long war between the Ottoman Empire and the Safavid Empire.</string>
+		<key>trueOrFalseAnswer</key>
+		<string>True</string>
+		<key>timeLine</key>
+		<string> Chaldiran: Safavids beaten</string>
+		<key>theme</key>
+		<string>The Ottoman Empire</string>
+		<key>numberOfGoodAnswers</key>
+		<integer>0</integer>
+		<key>numberOfBadAnswers</key>
+		<integer>0</integer>
+		<key>numberOfGoodAnswersQuiz</key>
+		<integer>0</integer>
+		<key>numberOfBadAnswersQuiz</key>
+		<integer>0</integer>
+		<key>order</key>
+		<integer>12</integer>
+	</dict>
+	<dict>
+		<key>id</key>
+		<string>8a69d75a-ecfd-11ed-a05b-0242ac120003</string>
+		<key>date</key>
+		<string>1517</string>
+		<key>question</key>
+		<string> After conquering Mamluk Egypt, which title was added to the Ottoman sultan&apos;s portfolio?</string>
+		<key>correctTAnswer</key>
+		<string> Caliph</string>
+		<key>incorrectAnswer1</key>
+		<string> King</string>
+		<key>incorrectAnswer2</key>
+		<string> Emperor</string>
+		<key>incorrectAnswer3</key>
+		<string> Shah</string>
+		<key>wikiSearchWord</key>
+		<string>Ottoman–Mamluk War (1516–1517)</string>
+		<key>questionTrueOrFalse</key>
+		<string>The Ottoman–Mamluk War of 1516–1517 was the first major conflict between the Mamluk Sultanate and the Ottoman Empire.</string>
+		<key>trueOrFalseAnswer</key>
+		<string>False</string>
+		<key>timeLine</key>
+		<string> Mamluk Egypt conquered</string>
+		<key>theme</key>
+		<string>The Ottoman Empire</string>
+		<key>numberOfGoodAnswers</key>
+		<integer>0</integer>
+		<key>numberOfBadAnswers</key>
+		<integer>0</integer>
+		<key>numberOfGoodAnswersQuiz</key>
+		<integer>0</integer>
+		<key>numberOfBadAnswersQuiz</key>
+		<integer>0</integer>
+		<key>order</key>
+		<integer>13</integer>
+	</dict>
+	<dict>
+		<key>id</key>
+		<string>8a69d908-ecfd-11ed-a05b-0242ac120003</string>
+		<key>date</key>
+		<string>1520-1566</string>
+		<key>question</key>
+		<string> Who was the sultan during the peak of the Ottoman Empire in terms of territorial expansion and cultural achievements?</string>
+		<key>correctTAnswer</key>
+		<string> Suleiman the Magnificent</string>
+		<key>incorrectAnswer1</key>
+		<string> Selim I</string>
+		<key>incorrectAnswer2</key>
+		<string> Mehmed II</string>
+		<key>incorrectAnswer3</key>
+		<string> Bayezid II</string>
+		<key>wikiSearchWord</key>
+		<string> Suleiman the Magnificent </string>
+		<key>questionTrueOrFalse</key>
+		<string>Suleiman I personally led Ottoman armies in conquering Vienna in 1529.</string>
+		<key>trueOrFalseAnswer</key>
+		<string>False</string>
+		<key>timeLine</key>
+		<string> Suleiman&apos;s reign: Empire peaks</string>
+		<key>theme</key>
+		<string>The Ottoman Empire</string>
+		<key>numberOfGoodAnswers</key>
+		<integer>0</integer>
+		<key>numberOfBadAnswers</key>
+		<integer>0</integer>
+		<key>numberOfGoodAnswersQuiz</key>
+		<integer>0</integer>
+		<key>numberOfBadAnswersQuiz</key>
+		<integer>0</integer>
+		<key>order</key>
+		<integer>14</integer>
+	</dict>
+	<dict>
+		<key>id</key>
+		<string>8a69dd9a-ecfd-11ed-a05b-0242ac120003</string>
+		<key>date</key>
+		<string>1521</string>
+		<key>question</key>
+		<string> Which city did the Ottomans conquer in 1521, consolidating their control in the Balkans?</string>
+		<key>correctTAnswer</key>
+		<string> Belgrade</string>
+		<key>incorrectAnswer1</key>
+		<string> Vienna</string>
+		<key>incorrectAnswer2</key>
+		<string> Sofia</string>
+		<key>incorrectAnswer3</key>
+		<string> Budapest</string>
+		<key>wikiSearchWord</key>
+		<string> Siege of Belgrade (1521) </string>
+		<key>questionTrueOrFalse</key>
+		<string>Most of the Serbian inhabitants of Belgrade were deported to Constantinople after the fall of the city to the Ottomans.</string>
+		<key>trueOrFalseAnswer</key>
+		<string>True</string>
+		<key>timeLine</key>
+		<string> Belgrade captured</string>
+		<key>theme</key>
+		<string>The Ottoman Empire</string>
+		<key>numberOfGoodAnswers</key>
+		<integer>0</integer>
+		<key>numberOfBadAnswers</key>
+		<integer>0</integer>
+		<key>numberOfGoodAnswersQuiz</key>
+		<integer>0</integer>
+		<key>numberOfBadAnswersQuiz</key>
+		<integer>0</integer>
+		<key>order</key>
+		<integer>15</integer>
+	</dict>
+	<dict>
+		<key>id</key>
+		<string>8a69dfde-ecfd-11ed-a05b-0242ac120003</string>
+		<key>date</key>
+		<string>1522</string>
+		<key>question</key>
+		<string> Which order of knights lost the island of Rhodes to the Ottomans in 1522?</string>
+		<key>correctTAnswer</key>
+		<string> Knights Hospitaller</string>
+		<key>incorrectAnswer1</key>
+		<string> Knights Templar</string>
+		<key>incorrectAnswer2</key>
+		<string> Teutonic Knights</string>
+		<key>incorrectAnswer3</key>
+		<string> Knights of Malta</string>
+		<key>wikiSearchWord</key>
+		<string> Siege of Rhodes (1522) </string>
+		<key>questionTrueOrFalse</key>
+		<string>The walls were not demolished during the siege of Rhodes in 1522.</string>
+		<key>trueOrFalseAnswer</key>
+		<string>False</string>
+		<key>timeLine</key>
+		<string>Rhodes falls to Ottomans</string>
+		<key>theme</key>
+		<string>The Ottoman Empire</string>
+		<key>numberOfGoodAnswers</key>
+		<integer>0</integer>
+		<key>numberOfBadAnswers</key>
+		<integer>0</integer>
+		<key>numberOfGoodAnswersQuiz</key>
+		<integer>0</integer>
+		<key>numberOfBadAnswersQuiz</key>
+		<integer>0</integer>
+		<key>order</key>
+		<integer>16</integer>
+	</dict>
+	<dict>
+		<key>id</key>
+		<string>8a69e18c-ecfd-11ed-a05b-0242ac120003</string>
+		<key>date</key>
+		<string>1529</string>
+		<key>question</key>
+		<string> Which city did the Ottomans unsuccessfully besiege for the first time in 1529?</string>
+		<key>correctTAnswer</key>
+		<string> Vienna</string>
+		<key>incorrectAnswer1</key>
+		<string> Belgrade</string>
+		<key>incorrectAnswer2</key>
+		<string> Budapest</string>
+		<key>incorrectAnswer3</key>
+		<string> Prague</string>
+		<key>wikiSearchWord</key>
+		<string> Siege of Vienna (1529) </string>
+		<key>questionTrueOrFalse</key>
+		<string>The failure of the siege of Vienna marked the beginning of 150 years of peaceful relations between the Habsburgs and Ottomans.</string>
+		<key>trueOrFalseAnswer</key>
+		<string>False</string>
+		<key>timeLine</key>
+		<string> Vienna siege fails</string>
+		<key>theme</key>
+		<string>The Ottoman Empire</string>
+		<key>numberOfGoodAnswers</key>
+		<integer>0</integer>
+		<key>numberOfBadAnswers</key>
+		<integer>0</integer>
+		<key>numberOfGoodAnswersQuiz</key>
+		<integer>0</integer>
+		<key>numberOfBadAnswersQuiz</key>
+		<integer>0</integer>
+		<key>order</key>
+		<integer>17</integer>
+	</dict>
+	<dict>
+		<key>id</key>
+		<string>8a69e312-ecfd-11ed-a05b-0242ac120003</string>
+		<key>date</key>
+		<string>1538</string>
+		<key>question</key>
+		<string> In which battle did the Ottomans achieve a decisive naval victory against a Christian alliance?</string>
+		<key>correctTAnswer</key>
+		<string> Battle of Preveza</string>
+		<key>incorrectAnswer1</key>
+		<string> Battle of Lepanto</string>
+		<key>incorrectAnswer2</key>
+		<string> Battle of Navarino</string>
+		<key>incorrectAnswer3</key>
+		<string> Battle of Djerba</string>
+		<key>wikiSearchWord</key>
+		<string> Battle of Preveza </string>
+		<key>questionTrueOrFalse</key>
+		<string>The Battle of Preveza was a land battle between the Ottoman Empire and the Holy League.</string>
+		<key>trueOrFalseAnswer</key>
+		<string>False</string>
+		<key>timeLine</key>
+		<string> Preveza: Naval victory</string>
+		<key>theme</key>
+		<string>The Ottoman Empire</string>
+		<key>numberOfGoodAnswers</key>
+		<integer>0</integer>
+		<key>numberOfBadAnswers</key>
+		<integer>0</integer>
+		<key>numberOfGoodAnswersQuiz</key>
+		<integer>0</integer>
+		<key>numberOfBadAnswersQuiz</key>
+		<integer>0</integer>
+		<key>order</key>
+		<integer>18</integer>
+	</dict>
+	<dict>
+		<key>id</key>
+		<string>8a69e4b6-ecfd-11ed-a05b-0242ac120003</string>
+		<key>date</key>
+		<string>1565</string>
+		<key>question</key>
+		<string> Which island did the Ottomans fail to capture from the Knights Hospitaller in 1565?</string>
+		<key>correctTAnswer</key>
+		<string> Malta</string>
+		<key>incorrectAnswer1</key>
+		<string> Cyprus</string>
+		<key>incorrectAnswer2</key>
+		<string> Crete</string>
+		<key>incorrectAnswer3</key>
+		<string> Sicily</string>
+		<key>wikiSearchWord</key>
+		<string> Great Siege of Malta </string>
+		<key>questionTrueOrFalse</key>
+		<string>The Knights Hospitaller moved their headquarters to Malta after being expelled from Rhodes by the Ottomans in 1522.</string>
+		<key>trueOrFalseAnswer</key>
+		<string>True</string>
+		<key>timeLine</key>
+		<string> Malta siege fails</string>
+		<key>theme</key>
+		<string>The Ottoman Empire</string>
+		<key>numberOfGoodAnswers</key>
+		<integer>0</integer>
+		<key>numberOfBadAnswers</key>
+		<integer>0</integer>
+		<key>numberOfGoodAnswersQuiz</key>
+		<integer>0</integer>
+		<key>numberOfBadAnswersQuiz</key>
+		<integer>0</integer>
+		<key>order</key>
+		<integer>19</integer>
+	</dict>
+	<dict>
+		<key>id</key>
+		<string>8a69e632-ecfd-11ed-a05b-0242ac120003</string>
+		<key>date</key>
+		<string>1571</string>
+		<key>question</key>
+		<string> In which battle did the Ottoman Empire suffer a major naval defeat against a Christian coalition?</string>
+		<key>correctTAnswer</key>
+		<string> Battle of Lepanto</string>
+		<key>incorrectAnswer1</key>
+		<string> Battle of Preveza</string>
+		<key>incorrectAnswer2</key>
+		<string> Battle of Navarino</string>
+		<key>incorrectAnswer3</key>
+		<string> Battle of Djerba</string>
+		<key>wikiSearchWord</key>
+		<string> Battle of Lepanto </string>
+		<key>questionTrueOrFalse</key>
+		<string>The battle involved more than 400 warships, making it the largest naval battle in Western history since classical antiquity.</string>
+		<key>trueOrFalseAnswer</key>
+		<string>True</string>
+		<key>timeLine</key>
+		<string> Lepanto: Naval loss</string>
+		<key>theme</key>
+		<string>The Ottoman Empire</string>
+		<key>numberOfGoodAnswers</key>
+		<integer>0</integer>
+		<key>numberOfBadAnswers</key>
+		<integer>0</integer>
+		<key>numberOfGoodAnswersQuiz</key>
+		<integer>0</integer>
+		<key>numberOfBadAnswersQuiz</key>
+		<integer>0</integer>
+		<key>order</key>
+		<integer>20</integer>
+	</dict>
+	<dict>
+		<key>id</key>
+		<string>8a69e92a-ecfd-11ed-a05b-0242ac120003</string>
+		<key>date</key>
+		<string>1593-1606</string>
+		<key>question</key>
+		<string> What was the outcome of the Long War between the Ottomans and the Habsburgs?</string>
+		<key>correctTAnswer</key>
+		<string> Stalemate</string>
+		<key>incorrectAnswer1</key>
+		<string> Ottoman victory</string>
+		<key>incorrectAnswer2</key>
+		<string> Habsburg victory</string>
+		<key>incorrectAnswer3</key>
+		<string> Peace treaty with territorial gains for both sides</string>
+		<key>wikiSearchWord</key>
+		<string> Ottomans and the Habsburgs wars</string>
+		<key>questionTrueOrFalse</key>
+		<string>The Ottomans were able to maintain military parity with the Habsburgs until the early twentieth century.</string>
+		<key>trueOrFalseAnswer</key>
+		<string>False</string>
+		<key>timeLine</key>
+		<string> Ottomans and the Habsburgs wars</string>
+		<key>theme</key>
+		<string>The Ottoman Empire</string>
+		<key>numberOfGoodAnswers</key>
+		<integer>0</integer>
+		<key>numberOfBadAnswers</key>
+		<integer>0</integer>
+		<key>numberOfGoodAnswersQuiz</key>
+		<integer>0</integer>
+		<key>numberOfBadAnswersQuiz</key>
+		<integer>0</integer>
+		<key>order</key>
+		<integer>21</integer>
+	</dict>
+	<dict>
+		<key>id</key>
+		<string>8a69eb3c-ecfd-11ed-a05b-0242ac120003</string>
+		<key>date</key>
+		<string>1683</string>
+		<key>question</key>
+		<string> Which city did the Ottomans unsuccessfully besiege for the second time in 1683?</string>
+		<key>correctTAnswer</key>
+		<string> Vienna</string>
+		<key>incorrectAnswer1</key>
+		<string> Belgrade</string>
+		<key>incorrectAnswer2</key>
+		<string> Budapest</string>
+		<key>incorrectAnswer3</key>
+		<string> Prague</string>
+		<key>wikiSearchWord</key>
+		<string> Battle of Vienna </string>
+		<key>questionTrueOrFalse</key>
+		<string>The battle is considered a turning point in history, after which the Ottoman Turks ceased to be a threat to the Christian world.</string>
+		<key>trueOrFalseAnswer</key>
+		<string>True</string>
+		<key>timeLine</key>
+		<string> Vienna siege fails again</string>
+		<key>theme</key>
+		<string>The Ottoman Empire</string>
+		<key>numberOfGoodAnswers</key>
+		<integer>0</integer>
+		<key>numberOfBadAnswers</key>
+		<integer>0</integer>
+		<key>numberOfGoodAnswersQuiz</key>
+		<integer>0</integer>
+		<key>numberOfBadAnswersQuiz</key>
+		<integer>0</integer>
+		<key>order</key>
+		<integer>22</integer>
+	</dict>
+	<dict>
+		<key>id</key>
+		<string>8a69ecea-ecfd-11ed-a05b-0242ac120003</string>
+		<key>date</key>
+		<string>1699</string>
+		<key>question</key>
+		<string> In which treaty did the Ottoman Empire cede significant territories in Europe?</string>
+		<key>correctTAnswer</key>
+		<string> Treaty of Karlowitz</string>
+		<key>incorrectAnswer1</key>
+		<string> Treaty of Westphalia</string>
+		<key>incorrectAnswer2</key>
+		<string> Treaty of Tordesillas</string>
+		<key>incorrectAnswer3</key>
+		<string> Treaty of Utrecht</string>
+		<key>wikiSearchWord</key>
+		<string> Treaty of Karlowitz </string>
+		<key>questionTrueOrFalse</key>
+		<string>The Ottoman Empire was victorious in the Battle of Zenta, which led to the signing of the Treaty of Karlowitz.</string>
+		<key>trueOrFalseAnswer</key>
+		<string>False</string>
+		<key>timeLine</key>
+		<string> Karlowitz: Territorial losses</string>
+		<key>theme</key>
+		<string>The Ottoman Empire</string>
+		<key>numberOfGoodAnswers</key>
+		<integer>0</integer>
+		<key>numberOfBadAnswers</key>
+		<integer>0</integer>
+		<key>numberOfGoodAnswersQuiz</key>
+		<integer>0</integer>
+		<key>numberOfBadAnswersQuiz</key>
+		<integer>0</integer>
+		<key>order</key>
+		<integer>23</integer>
+	</dict>
+	<dict>
+		<key>id</key>
+		<string>8a69ee8e-ecfd-11ed-a05b-0242ac120003</string>
+		<key>date</key>
+		<string>1703-1730</string>
+		<key>question</key>
+		<string> What was the period of relative peace, economic growth, and cultural efflorescence from 1703 to 1730 called?</string>
+		<key>correctTAnswer</key>
+		<string> Tulip Era</string>
+		<key>incorrectAnswer1</key>
+		<string> Tanzimat Era</string>
+		<key>incorrectAnswer2</key>
+		<string> Golden Age</string>
+		<key>incorrectAnswer3</key>
+		<string> Era of Enlightenment</string>
+		<key>wikiSearchWord</key>
+		<string> Tulip period </string>
+		<key>questionTrueOrFalse</key>
+		<string>The Tulip Period saw a decline in Ottoman art and architecture.</string>
+		<key>trueOrFalseAnswer</key>
+		<string>False</string>
+		<key>timeLine</key>
+		<string> Tulip Era: Growth</string>
+		<key>theme</key>
+		<string>The Ottoman Empire</string>
+		<key>numberOfGoodAnswers</key>
+		<integer>0</integer>
+		<key>numberOfBadAnswers</key>
+		<integer>0</integer>
+		<key>numberOfGoodAnswersQuiz</key>
+		<integer>0</integer>
+		<key>numberOfBadAnswersQuiz</key>
+		<integer>0</integer>
+		<key>order</key>
+		<integer>24</integer>
+	</dict>
+	<dict>
+		<key>id</key>
+		<string>8a69f168-ecfd-11ed-a05b-0242ac120003</string>
+		<key>date</key>
+		<string>1792-1808</string>
+		<key>question</key>
+		<string> Which sultan implemented the Nizam-i Cedid (New Order) reforms from 1792 to 1808?</string>
+		<key>correctTAnswer</key>
+		<string> Selim III</string>
+		<key>incorrectAnswer1</key>
+		<string> Mahmud II</string>
+		<key>incorrectAnswer2</key>
+		<string> Abdulmejid I</string>
+		<key>incorrectAnswer3</key>
+		<string> Abdulhamid II</string>
+		<key>wikiSearchWord</key>
+		<string>Nizam-I Cedid</string>
+		<key>questionTrueOrFalse</key>
+		<string>Nizam-I Cedid reforms aimed to modernize the Ottoman Empire</string>
+		<key>trueOrFalseAnswer</key>
+		<string>True</string>
+		<key>timeLine</key>
+		<string>Nizam-I Cedid</string>
+		<key>theme</key>
+		<string>The Ottoman Empire</string>
+		<key>numberOfGoodAnswers</key>
+		<integer>0</integer>
+		<key>numberOfBadAnswers</key>
+		<integer>0</integer>
+		<key>numberOfGoodAnswersQuiz</key>
+		<integer>0</integer>
+		<key>numberOfBadAnswersQuiz</key>
+		<integer>0</integer>
+		<key>order</key>
+		<integer>25</integer>
+	</dict>
+	<dict>
+		<key>id</key>
+		<string>8a69f2f8-ecfd-11ed-a05b-0242ac120003</string>
+		<key>date</key>
+		<string>1821-1832</string>
+		<key>question</key>
+		<string>Which secret society, founded in 1814, played a significant role in organizing and coordinating the Greek War of Independence?</string>
+		<key>correctTAnswer</key>
+		<string>The Filiki Eteria</string>
+		<key>incorrectAnswer1</key>
+		<string>The Knights Templar</string>
+		<key>incorrectAnswer2</key>
+		<string>The Illuminati</string>
+		<key>incorrectAnswer3</key>
+		<string>The Freemasons</string>
+		<key>wikiSearchWord</key>
+		<string> Greek War of Independence </string>
+		<key>questionTrueOrFalse</key>
+		<string> During the Greek War of Independence, the Greeks received assistance from the British Empire, Kingdom of France, and the Russian Empire.</string>
+		<key>trueOrFalseAnswer</key>
+		<string>True</string>
+		<key>timeLine</key>
+		<string> Greece gains independence</string>
+		<key>theme</key>
+		<string>The Ottoman Empire</string>
+		<key>numberOfGoodAnswers</key>
+		<integer>0</integer>
+		<key>numberOfBadAnswers</key>
+		<integer>0</integer>
+		<key>numberOfGoodAnswersQuiz</key>
+		<integer>0</integer>
+		<key>numberOfBadAnswersQuiz</key>
+		<integer>0</integer>
+		<key>order</key>
+		<integer>26</integer>
+	</dict>
+	<dict>
+		<key>id</key>
+		<string>8a69f4ba-ecfd-11ed-a05b-0242ac120003</string>
+		<key>date</key>
+		<string>1839-1876</string>
+		<key>question</key>
+		<string> Which period of far-reaching reforms aimed to modernize the Ottoman Empire from 1839 to 1876?</string>
+		<key>correctTAnswer</key>
+		<string> Tanzimat Era</string>
+		<key>incorrectAnswer1</key>
+		<string> Tulip Era</string>
+		<key>incorrectAnswer2</key>
+		<string> First Constitutional Era</string>
+		<key>incorrectAnswer3</key>
+		<string> Young Turk Revolution</string>
+		<key>wikiSearchWord</key>
+		<string> Tanzimat </string>
+		<key>questionTrueOrFalse</key>
+		<string>The main goal of the Tanzimat era was to completely transform the Ottoman Empire into a Western-style nation.</string>
+		<key>trueOrFalseAnswer</key>
+		<string>False</string>
+		<key>timeLine</key>
+		<string> Tanzimat: Modernization</string>
+		<key>theme</key>
+		<string>The Ottoman Empire</string>
+		<key>numberOfGoodAnswers</key>
+		<integer>0</integer>
+		<key>numberOfBadAnswers</key>
+		<integer>0</integer>
+		<key>numberOfGoodAnswersQuiz</key>
+		<integer>0</integer>
+		<key>numberOfBadAnswersQuiz</key>
+		<integer>0</integer>
+		<key>order</key>
+		<integer>27</integer>
+	</dict>
+	<dict>
+		<key>id</key>
+		<string>8a69f690-ecfd-11ed-a05b-0242ac120003</string>
+		<key>date</key>
+		<string>1908</string>
+		<key>question</key>
+		<string> What event in 1908 led to the restoration of the Ottoman Constitution and the Second Constitutional Era?</string>
+		<key>correctTAnswer</key>
+		<string> The Young Turk Revolution</string>
+		<key>incorrectAnswer1</key>
+		<string> Abdulhamid II&apos;s assassination</string>
+		<key>incorrectAnswer2</key>
+		<string> The Congress of Berlin</string>
+		<key>incorrectAnswer3</key>
+		<string> The Balkan Wars</string>
+		<key>wikiSearchWord</key>
+		<string> Young Turk Revolution </string>
+		<key>questionTrueOrFalse</key>
+		<string>The Young Turk Revolution led to the establishment of a monarchy in the Ottoman Empire</string>
+		<key>trueOrFalseAnswer</key>
+		<string>False</string>
+		<key>timeLine</key>
+		<string> Young Turk Revolution</string>
+		<key>theme</key>
+		<string>The Ottoman Empire</string>
+		<key>numberOfGoodAnswers</key>
+		<integer>0</integer>
+		<key>numberOfBadAnswers</key>
+		<integer>0</integer>
+		<key>numberOfGoodAnswersQuiz</key>
+		<integer>0</integer>
+		<key>numberOfBadAnswersQuiz</key>
+		<integer>0</integer>
+		<key>order</key>
+		<integer>28</integer>
+	</dict>
+	<dict>
+		<key>id</key>
+		<string>8a69f80c-ecfd-11ed-a05b-0242ac120003</string>
+		<key>date</key>
+		<string>1914-1918</string>
+		<key>question</key>
+		<string> Which side did the Ottoman Empire join during World War I?</string>
+		<key>correctTAnswer</key>
+		<string> Central Powers</string>
+		<key>incorrectAnswer1</key>
+		<string> Allied Powers</string>
+		<key>incorrectAnswer2</key>
+		<string> Neutral</string>
+		<key>incorrectAnswer3</key>
+		<string> Changed sides during the war</string>
+		<key>wikiSearchWord</key>
+		<string> Ottoman Empire in World War I </string>
+		<key>questionTrueOrFalse</key>
+		<string> The Ottoman Empire was an industrial state well-prepared for the modern warfare of World War I.</string>
+		<key>trueOrFalseAnswer</key>
+		<string>False</string>
+		<key>timeLine</key>
+		<string> WWI: Central Powers ally</string>
+		<key>theme</key>
+		<string>The Ottoman Empire</string>
+		<key>numberOfGoodAnswers</key>
+		<integer>0</integer>
+		<key>numberOfBadAnswers</key>
+		<integer>0</integer>
+		<key>numberOfGoodAnswersQuiz</key>
+		<integer>0</integer>
+		<key>numberOfBadAnswersQuiz</key>
+		<integer>0</integer>
+		<key>order</key>
+		<integer>29</integer>
+	</dict>
+	<dict>
+		<key>id</key>
+		<string>8a69fc80-ecfd-11ed-a05b-0242ac120003</string>
+		<key>date</key>
+		<string>1922-1923</string>
+		<key>question</key>
+		<string> Which leader formed the Republic of Turkey after the dissolution of the Ottoman Empire?</string>
+		<key>correctTAnswer</key>
+		<string> Mustafa Kemal Atatürk</string>
+		<key>incorrectAnswer1</key>
+		<string> İsmet İnönü</string>
+		<key>incorrectAnswer2</key>
+		<string> Fethi Okyar</string>
+		<key>incorrectAnswer3</key>
+		<string> Recep Tayyip Erdoğan</string>
+		<key>wikiSearchWord</key>
+		<string> Dissolution of the Ottoman Empire </string>
+		<key>questionTrueOrFalse</key>
+		<string> The Treaty of Sèvres partitioned the remaining territories of the Ottoman Empire and left it significantly weakened.</string>
+		<key>trueOrFalseAnswer</key>
+		<string>True</string>
+		<key>timeLine</key>
+		<string> Empire dissolves, Turkey forms</string>
+		<key>theme</key>
+		<string>The Ottoman Empire</string>
+		<key>numberOfGoodAnswers</key>
+		<integer>0</integer>
+		<key>numberOfBadAnswers</key>
+		<integer>0</integer>
+		<key>numberOfGoodAnswersQuiz</key>
+		<integer>0</integer>
+		<key>numberOfBadAnswersQuiz</key>
+		<integer>0</integer>
+		<key>order</key>
+		<integer>30</integer>
+	</dict>
+</array>
+</plist>

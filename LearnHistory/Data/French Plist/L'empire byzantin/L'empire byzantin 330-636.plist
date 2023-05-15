@@ -1,0 +1,366 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<!DOCTYPE plist PUBLIC "-//Apple//DTD PLIST 1.0//EN" "http://www.apple.com/DTDs/PropertyList-1.0.dtd">
+<plist version="1.0">
+<array>
+	<dict>
+		<key>correctTAnswer</key>
+		<string>Constantin le Grand</string>
+		<key>date</key>
+		<string>330</string>
+		<key>id</key>
+		<string>65e76d62-eab8-11ed-a05b-0242ac120003</string>
+		<key>incorrectAnswer1</key>
+		<string>Jules César</string>
+		<key>incorrectAnswer2</key>
+		<string>Alexandre le Grand</string>
+		<key>incorrectAnswer3</key>
+		<string>Auguste</string>
+		<key>numberOfBadAnswers</key>
+		<integer>0</integer>
+		<key>numberOfBadAnswersQuiz</key>
+		<integer>0</integer>
+		<key>numberOfGoodAnswers</key>
+		<integer>0</integer>
+		<key>numberOfGoodAnswersQuiz</key>
+		<integer>0</integer>
+		<key>order</key>
+		<integer>1</integer>
+		<key>question</key>
+		<string>Qui a fondé la ville de Constantinople ?</string>
+		<key>questionTrueOrFalse</key>
+		<string> Constantinople était la capitale de l&apos;Empire romain d&apos;Orient.</string>
+		<key>theme</key>
+		<string>L&apos;empire byzantin 330-636</string>
+		<key>timeLine</key>
+		<string>Fondation de Constantinople</string>
+		<key>trueOrFalseAnswer</key>
+		<string>Vrai</string>
+		<key>wikiSearchWord</key>
+		<string>Constantinople</string>
+	</dict>
+	<dict>
+		<key>correctTAnswer</key>
+		<string> Théodose Ier</string>
+		<key>date</key>
+		<string>395</string>
+		<key>id</key>
+		<string>65e7715e-eab8-11ed-a05b-0242ac120003</string>
+		<key>incorrectAnswer1</key>
+		<string> Dioclétien</string>
+		<key>incorrectAnswer2</key>
+		<string> Constantin le Grand</string>
+		<key>incorrectAnswer3</key>
+		<string> Auguste</string>
+		<key>numberOfBadAnswers</key>
+		<integer>0</integer>
+		<key>numberOfBadAnswersQuiz</key>
+		<integer>0</integer>
+		<key>numberOfGoodAnswers</key>
+		<integer>0</integer>
+		<key>numberOfGoodAnswersQuiz</key>
+		<integer>0</integer>
+		<key>order</key>
+		<integer>2</integer>
+		<key>question</key>
+		<string>Quel empereur romain a divisé l&apos;empire en Empire romain d&apos;Orient et d&apos;Occident ?</string>
+		<key>questionTrueOrFalse</key>
+		<string> L&apos;Empire romain a été divisé en deux parties en 395 après.</string>
+		<key>theme</key>
+		<string>L&apos;empire byzantin 330-636</string>
+		<key>timeLine</key>
+		<string>Division de l&apos;Empire romain</string>
+		<key>trueOrFalseAnswer</key>
+		<string>Vrai</string>
+		<key>wikiSearchWord</key>
+		<string>Division de l&apos;Empire romain</string>
+	</dict>
+	<dict>
+		<key>correctTAnswer</key>
+		<string> Romulus Augustule</string>
+		<key>date</key>
+		<string>476</string>
+		<key>id</key>
+		<string>65e772a8-eab8-11ed-a05b-0242ac120003</string>
+		<key>incorrectAnswer1</key>
+		<string> Julius Nepos</string>
+		<key>incorrectAnswer2</key>
+		<string> Flavius Stilicho</string>
+		<key>incorrectAnswer3</key>
+		<string> Odoacre</string>
+		<key>numberOfBadAnswers</key>
+		<integer>0</integer>
+		<key>numberOfBadAnswersQuiz</key>
+		<integer>0</integer>
+		<key>numberOfGoodAnswers</key>
+		<integer>0</integer>
+		<key>numberOfGoodAnswersQuiz</key>
+		<integer>0</integer>
+		<key>order</key>
+		<integer>3</integer>
+		<key>question</key>
+		<string>Qui était le dernier empereur de l&apos;Empire romain d&apos;Occident ?</string>
+		<key>questionTrueOrFalse</key>
+		<string> L&apos;Empire romain d&apos;Occident a survécu jusqu&apos;au 10ème siècle.</string>
+		<key>theme</key>
+		<string>L&apos;empire byzantin 330-636</string>
+		<key>timeLine</key>
+		<string>Chute de l&apos;Empire romain d&apos;Occident</string>
+		<key>trueOrFalseAnswer</key>
+		<string>Faux</string>
+		<key>wikiSearchWord</key>
+		<string>Déclin de l&apos;Empire romain d&apos;Occident</string>
+	</dict>
+	<dict>
+		<key>correctTAnswer</key>
+		<string> Corpus Juris Civilis</string>
+		<key>date</key>
+		<string>527-565</string>
+		<key>id</key>
+		<string>65e77410-eab8-11ed-a05b-0242ac120003</string>
+		<key>incorrectAnswer1</key>
+		<string> Code théodosien</string>
+		<key>incorrectAnswer2</key>
+		<string> Douze Tables</string>
+		<key>incorrectAnswer3</key>
+		<string> Code de Hammurabi</string>
+		<key>numberOfBadAnswers</key>
+		<integer>0</integer>
+		<key>numberOfBadAnswersQuiz</key>
+		<integer>0</integer>
+		<key>numberOfGoodAnswers</key>
+		<integer>0</integer>
+		<key>numberOfGoodAnswersQuiz</key>
+		<integer>0</integer>
+		<key>order</key>
+		<integer>4</integer>
+		<key>question</key>
+		<string>Quel célèbre ensemble de lois a été compilé pendant le règne de Justinien Ier ?</string>
+		<key>questionTrueOrFalse</key>
+		<string> Justinien Ier était un empereur byzantin qui a régné au 6ème siècle.</string>
+		<key>theme</key>
+		<string>L&apos;empire byzantin 330-636</string>
+		<key>timeLine</key>
+		<string>Règne de Justinien Ier</string>
+		<key>trueOrFalseAnswer</key>
+		<string>Vrai</string>
+		<key>wikiSearchWord</key>
+		<string>Justinien Ier</string>
+	</dict>
+	<dict>
+		<key>correctTAnswer</key>
+		<string> Sainte-Sophie</string>
+		<key>date</key>
+		<string>532</string>
+		<key>id</key>
+		<string>65e775e6-eab8-11ed-a05b-0242ac120003</string>
+		<key>incorrectAnswer1</key>
+		<string> Église des Saints-Apôtres</string>
+		<key>incorrectAnswer2</key>
+		<string> Hippodrome</string>
+		<key>incorrectAnswer3</key>
+		<string> Grand Palais</string>
+		<key>numberOfBadAnswers</key>
+		<integer>0</integer>
+		<key>numberOfBadAnswersQuiz</key>
+		<integer>0</integer>
+		<key>numberOfGoodAnswers</key>
+		<integer>0</integer>
+		<key>numberOfGoodAnswersQuiz</key>
+		<integer>0</integer>
+		<key>order</key>
+		<integer>5</integer>
+		<key>question</key>
+		<string>Quel bâtiment a été détruit lors des émeutes de Nika et reconstruit par Justinien Ier ?</string>
+		<key>questionTrueOrFalse</key>
+		<string> La sédition Nika était une révolte militaire.</string>
+		<key>theme</key>
+		<string>L&apos;empire byzantin 330-636</string>
+		<key>timeLine</key>
+		<string>Émeutes de Nika</string>
+		<key>trueOrFalseAnswer</key>
+		<string>Faux</string>
+		<key>wikiSearchWord</key>
+		<string>Sédition Nika</string>
+	</dict>
+	<dict>
+		<key>correctTAnswer</key>
+		<string> Anthemius de Tralles et Isidore de Milet</string>
+		<key>date</key>
+		<string>537</string>
+		<key>id</key>
+		<string>65e77730-eab8-11ed-a05b-0242ac120003</string>
+		<key>incorrectAnswer1</key>
+		<string> Sinan et Michel-Ange</string>
+		<key>incorrectAnswer2</key>
+		<string> Apollodorus de Damas et Vitruve</string>
+		<key>incorrectAnswer3</key>
+		<string> Filippo Brunelleschi et Leon Battista Alberti</string>
+		<key>numberOfBadAnswers</key>
+		<integer>0</integer>
+		<key>numberOfBadAnswersQuiz</key>
+		<integer>0</integer>
+		<key>numberOfGoodAnswers</key>
+		<integer>0</integer>
+		<key>numberOfGoodAnswersQuiz</key>
+		<integer>0</integer>
+		<key>order</key>
+		<integer>6</integer>
+		<key>question</key>
+		<string>Qui étaient les deux architectes responsables de la conception de la basilique Sainte-Sophie ?</string>
+		<key>questionTrueOrFalse</key>
+		<string> Sainte-Sophie était initialement une église chrétienne.</string>
+		<key>theme</key>
+		<string>L&apos;empire byzantin 330-636</string>
+		<key>timeLine</key>
+		<string>Achèvement de la basilique Sainte-Sophie</string>
+		<key>trueOrFalseAnswer</key>
+		<string>Vrai</string>
+		<key>wikiSearchWord</key>
+		<string>Sainte-Sophie (Constantinople)</string>
+	</dict>
+	<dict>
+		<key>correctTAnswer</key>
+		<string> Alboin</string>
+		<key>date</key>
+		<string>568</string>
+		<key>id</key>
+		<string>65e77a64-eab8-11ed-a05b-0242ac120003</string>
+		<key>incorrectAnswer1</key>
+		<string> Cleph</string>
+		<key>incorrectAnswer2</key>
+		<string> Authari</string>
+		<key>incorrectAnswer3</key>
+		<string> Agilulf</string>
+		<key>numberOfBadAnswers</key>
+		<integer>0</integer>
+		<key>numberOfBadAnswersQuiz</key>
+		<integer>0</integer>
+		<key>numberOfGoodAnswers</key>
+		<integer>0</integer>
+		<key>numberOfGoodAnswersQuiz</key>
+		<integer>0</integer>
+		<key>order</key>
+		<integer>7</integer>
+		<key>question</key>
+		<string>Qui était le roi lombard qui a dirigé l&apos;invasion de l&apos;Italie ?</string>
+		<key>questionTrueOrFalse</key>
+		<string> Le Royaume lombard était situé en Afrique du Nord.</string>
+		<key>theme</key>
+		<string>L&apos;empire byzantin 330-636</string>
+		<key>timeLine</key>
+		<string>Invasion lombarde de l&apos;Italie</string>
+		<key>trueOrFalseAnswer</key>
+		<string>Faux</string>
+		<key>wikiSearchWord</key>
+		<string>Royaume lombard</string>
+	</dict>
+	<dict>
+		<key>correctTAnswer</key>
+		<string> Grec</string>
+		<key>date</key>
+		<string>610-641</string>
+		<key>id</key>
+		<string>65e77b9a-eab8-11ed-a05b-0242ac120003</string>
+		<key>incorrectAnswer1</key>
+		<string> Syriaque</string>
+		<key>incorrectAnswer2</key>
+		<string> Araméen</string>
+		<key>incorrectAnswer3</key>
+		<string> Copte</string>
+		<key>numberOfBadAnswers</key>
+		<integer>0</integer>
+		<key>numberOfBadAnswersQuiz</key>
+		<integer>0</integer>
+		<key>numberOfGoodAnswers</key>
+		<integer>0</integer>
+		<key>numberOfGoodAnswersQuiz</key>
+		<integer>0</integer>
+		<key>order</key>
+		<integer>8</integer>
+		<key>question</key>
+		<string>Quelle langue l&apos;empereur Héraclius a-t-il rendu officielle dans l&apos;Empire byzantin, en remplacement du latin ?</string>
+		<key>questionTrueOrFalse</key>
+		<string> Héraclius a vaincu les Perses sassanides lors de la bataille de Ninive.</string>
+		<key>theme</key>
+		<string>L&apos;empire byzantin 330-636</string>
+		<key>timeLine</key>
+		<string>Règne d&apos;Héraclius</string>
+		<key>trueOrFalseAnswer</key>
+		<string>Vrai</string>
+		<key>wikiSearchWord</key>
+		<string>Héraclius</string>
+	</dict>
+	<dict>
+		<key>correctTAnswer</key>
+		<string> Avar et Perse</string>
+		<key>date</key>
+		<string>626</string>
+		<key>id</key>
+		<string>65e77cbc-eab8-11ed-a05b-0242ac120003</string>
+		<key>incorrectAnswer1</key>
+		<string>Arabe et Perse</string>
+		<key>incorrectAnswer2</key>
+		<string>Avar et Slave</string>
+		<key>incorrectAnswer3</key>
+		<string>Perse et Slave</string>
+		<key>numberOfBadAnswers</key>
+		<integer>0</integer>
+		<key>numberOfBadAnswersQuiz</key>
+		<integer>0</integer>
+		<key>numberOfGoodAnswers</key>
+		<integer>0</integer>
+		<key>numberOfGoodAnswersQuiz</key>
+		<integer>0</integer>
+		<key>order</key>
+		<integer>9</integer>
+		<key>question</key>
+		<string>Quelles deux forces ont assiégé Constantinople en 626 ap. J.-C. ?</string>
+		<key>questionTrueOrFalse</key>
+		<string> Le siège de Constantinople a eu lieu au 5ème siècle.</string>
+		<key>theme</key>
+		<string>L&apos;empire byzantin 330-636</string>
+		<key>timeLine</key>
+		<string>Siège de Constantinople (626)</string>
+		<key>trueOrFalseAnswer</key>
+		<string>Faux</string>
+		<key>wikiSearchWord</key>
+		<string>Siège de Constantinople</string>
+	</dict>
+	<dict>
+		<key>correctTAnswer</key>
+		<string> Khalid ibn al-Walid</string>
+		<key>date</key>
+		<string>636</string>
+		<key>id</key>
+		<string>65e77e56-eab8-11ed-a05b-0242ac120003</string>
+		<key>incorrectAnswer1</key>
+		<string> Abou Bakr</string>
+		<key>incorrectAnswer2</key>
+		<string> Umar ibn al-Khattab</string>
+		<key>incorrectAnswer3</key>
+		<string> Uthman ibn Affan</string>
+		<key>numberOfBadAnswers</key>
+		<integer>0</integer>
+		<key>numberOfBadAnswersQuiz</key>
+		<integer>0</integer>
+		<key>numberOfGoodAnswers</key>
+		<integer>0</integer>
+		<key>numberOfGoodAnswersQuiz</key>
+		<integer>0</integer>
+		<key>order</key>
+		<integer>10</integer>
+		<key>question</key>
+		<string>Quel commandant musulman a dirigé les forces contre l&apos;Empire byzantin lors de la bataille de Yarmouk ?</string>
+		<key>questionTrueOrFalse</key>
+		<string> La bataille de Yarmouk a été remportée par l&apos;Empire byzantin.</string>
+		<key>theme</key>
+		<string>L&apos;empire byzantin 330-636</string>
+		<key>timeLine</key>
+		<string>Bataille de Yarmouk</string>
+		<key>trueOrFalseAnswer</key>
+		<string>Faux</string>
+		<key>wikiSearchWord</key>
+		<string>Bataille de Yarmouk</string>
+	</dict>
+</array>
+</plist>

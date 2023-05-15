@@ -1,0 +1,366 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<!DOCTYPE plist PUBLIC "-//Apple//DTD PLIST 1.0//EN" "http://www.apple.com/DTDs/PropertyList-1.0.dtd">
+<plist version="1.0">
+<array>
+	<dict>
+		<key>correctTAnswer</key>
+		<string>África</string>
+		<key>date</key>
+		<string>hace 35000-15000 años</string>
+		<key>id</key>
+		<string>08f49d78-8311-11ed-a1eb-0242ac120002</string>
+		<key>incorrectAnswer1</key>
+		<string>Asia</string>
+		<key>incorrectAnswer2</key>
+		<string>Europa</string>
+		<key>incorrectAnswer3</key>
+		<string>Australia</string>
+		<key>numberOfBadAnswers</key>
+		<integer>0</integer>
+		<key>numberOfBadAnswersQuiz</key>
+		<integer>0</integer>
+		<key>numberOfGoodAnswers</key>
+		<integer>0</integer>
+		<key>numberOfGoodAnswersQuiz</key>
+		<integer>0</integer>
+		<key>order</key>
+		<integer>1</integer>
+		<key>question</key>
+		<string>¿Se cree que los íberos prehistóricos emigraron a Iberia desde cuál de las siguientes regiones?</string>
+		<key>questionTrueOrFalse</key>
+		<string>La Península Ibérica es conocida por su excepcional arte rupestre.</string>
+		<key>theme</key>
+		<string>España 35000-1469</string>
+		<key>timeLine</key>
+		<string>El Homo sapiens llega a la Península Ibérica</string>
+		<key>trueOrFalseAnswer</key>
+		<string>Verdadero</string>
+		<key>wikiSearchWord</key>
+		<string>Prehistoria en la península ibérica</string>
+	</dict>
+	<dict>
+		<key>correctTAnswer</key>
+		<string>Agricultura y ganadería</string>
+		<key>date</key>
+		<string>2200 a.C. y 1550 a.C.</string>
+		<key>id</key>
+		<string>08f4a020-8311-11ed-a1eb-0242ac120002</string>
+		<key>incorrectAnswer1</key>
+		<string>Comercio</string>
+		<key>incorrectAnswer2</key>
+		<string>Guerra y conquista</string>
+		<key>incorrectAnswer3</key>
+		<string>Caza y recolección</string>
+		<key>numberOfBadAnswers</key>
+		<integer>0</integer>
+		<key>numberOfBadAnswersQuiz</key>
+		<integer>0</integer>
+		<key>numberOfGoodAnswers</key>
+		<integer>0</integer>
+		<key>numberOfGoodAnswersQuiz</key>
+		<integer>0</integer>
+		<key>order</key>
+		<integer>2</integer>
+		<key>question</key>
+		<string>¿Cuál era la actividad principal de la antigua cultura argárica?</string>
+		<key>questionTrueOrFalse</key>
+		<string>Los restos arqueológicos de la cultura argárica están poco conservados.</string>
+		<key>theme</key>
+		<string>España 35000-1469</string>
+		<key>timeLine</key>
+		<string>La civilización de El Argar </string>
+		<key>trueOrFalseAnswer</key>
+		<string>Falso</string>
+		<key>wikiSearchWord</key>
+		<string>Cultura argárica</string>
+	</dict>
+	<dict>
+		<key>correctTAnswer</key>
+		<string>Ambas culturas se influyeron mutuamente </string>
+		<key>date</key>
+		<string>1000 A.C. - 500 A.C.</string>
+		<key>id</key>
+		<string>08f4a16a-8311-11ed-a1eb-0242ac120002</string>
+		<key>incorrectAnswer1</key>
+		<string>Lucharon contra los íberos y los conquistaron</string>
+		<key>incorrectAnswer2</key>
+		<string>Vivían completamente separados y aislados de los íberos</string>
+		<key>incorrectAnswer3</key>
+		<string>Vivieron en épocas distintas</string>
+		<key>numberOfBadAnswers</key>
+		<integer>0</integer>
+		<key>numberOfBadAnswersQuiz</key>
+		<integer>0</integer>
+		<key>numberOfGoodAnswers</key>
+		<integer>0</integer>
+		<key>numberOfGoodAnswersQuiz</key>
+		<integer>0</integer>
+		<key>order</key>
+		<integer>3</integer>
+		<key>question</key>
+		<string>¿Cómo interactuaron los celtas, que emigraron a la Península Ibérica, con la población ibérica autóctona?</string>
+		<key>questionTrueOrFalse</key>
+		<string>Los romanos consideraban a los celtíberos una mezcla de celtas e íberos.</string>
+		<key>theme</key>
+		<string>España 35000-1469</string>
+		<key>timeLine</key>
+		<string> Los celtas emigran a la Península Ibérica</string>
+		<key>trueOrFalseAnswer</key>
+		<string>Verdadero</string>
+		<key>wikiSearchWord</key>
+		<string>Celtíberos</string>
+	</dict>
+	<dict>
+		<key>correctTAnswer</key>
+		<string>Más de tres siglos</string>
+		<key>date</key>
+		<string>200 A.C.</string>
+		<key>id</key>
+		<string>08f4a2a0-8311-11ed-a1eb-0242ac120002</string>
+		<key>incorrectAnswer1</key>
+		<string>En menos de una década</string>
+		<key>incorrectAnswer2</key>
+		<string>Un siglo</string>
+		<key>incorrectAnswer3</key>
+		<string>Cincuenta años</string>
+		<key>numberOfBadAnswers</key>
+		<integer>0</integer>
+		<key>numberOfBadAnswersQuiz</key>
+		<integer>0</integer>
+		<key>numberOfGoodAnswers</key>
+		<integer>0</integer>
+		<key>numberOfGoodAnswersQuiz</key>
+		<integer>0</integer>
+		<key>order</key>
+		<integer>4</integer>
+		<key>question</key>
+		<string>¿Cuánto duró la conquista romana de la Península Ibérica?</string>
+		<key>questionTrueOrFalse</key>
+		<string>La conquista romana de Hispania comenzó en 218 a. C. y terminó en 19 a. C. </string>
+		<key>theme</key>
+		<string>España 35000-1469</string>
+		<key>timeLine</key>
+		<string>Conquista romana de la Península Ibérica</string>
+		<key>trueOrFalseAnswer</key>
+		<string>Verdadero</string>
+		<key>wikiSearchWord</key>
+		<string>Conquista de Hispania</string>
+	</dict>
+	<dict>
+		<key>correctTAnswer</key>
+		<string>A través de la conquista militar</string>
+		<key>date</key>
+		<string>500</string>
+		<key>id</key>
+		<string>08f4a412-8311-11ed-a1eb-0242ac120002</string>
+		<key>incorrectAnswer1</key>
+		<string>Mediante la diplomacia y la creación de alianzas</string>
+		<key>incorrectAnswer2</key>
+		<string>A través de la dominación económica</string>
+		<key>incorrectAnswer3</key>
+		<string>Mediante la asimilación cultural</string>
+		<key>numberOfBadAnswers</key>
+		<integer>0</integer>
+		<key>numberOfBadAnswersQuiz</key>
+		<integer>0</integer>
+		<key>numberOfGoodAnswers</key>
+		<integer>0</integer>
+		<key>numberOfGoodAnswersQuiz</key>
+		<integer>0</integer>
+		<key>order</key>
+		<integer>5</integer>
+		<key>question</key>
+		<string>¿Cómo se apoderaron los visigodos de gran parte de España?</string>
+		<key>questionTrueOrFalse</key>
+		<string>El Reino visigodo de Toledo fue establecido después de la conquista musulmana de la península ibérica.</string>
+		<key>theme</key>
+		<string>España 35000-1469</string>
+		<key>timeLine</key>
+		<string> Los visigodos se apoderan de gran parte de España.</string>
+		<key>trueOrFalseAnswer</key>
+		<string>Falso</string>
+		<key>wikiSearchWord</key>
+		<string>Reino visigodo</string>
+	</dict>
+	<dict>
+		<key>correctTAnswer</key>
+		<string>Para difundir el Islam</string>
+		<key>date</key>
+		<string>711</string>
+		<key>id</key>
+		<string>08f4a566-8311-11ed-a1eb-0242ac120002</string>
+		<key>incorrectAnswer1</key>
+		<string>Para acceder a los recursos naturales</string>
+		<key>incorrectAnswer2</key>
+		<string>Para establecer una nueva ruta comercial</string>
+		<key>incorrectAnswer3</key>
+		<string>Para vengarse de un conflicto anterior</string>
+		<key>numberOfBadAnswers</key>
+		<integer>0</integer>
+		<key>numberOfBadAnswersQuiz</key>
+		<integer>0</integer>
+		<key>numberOfGoodAnswers</key>
+		<integer>0</integer>
+		<key>numberOfGoodAnswersQuiz</key>
+		<integer>0</integer>
+		<key>order</key>
+		<integer>6</integer>
+		<key>question</key>
+		<string>¿Cuál fue la motivación principal de la invasión de España por los moros?</string>
+		<key>questionTrueOrFalse</key>
+		<string>El término &quot;moro&quot; se utilizó solo en la literatura culta para referirse a musulmanes ibéricos durante la Reconquista. </string>
+		<key>theme</key>
+		<string>España 35000-1469</string>
+		<key>timeLine</key>
+		<string>Los árabes invaden España</string>
+		<key>trueOrFalseAnswer</key>
+		<string>Falso</string>
+		<key>wikiSearchWord</key>
+		<string>Moro</string>
+	</dict>
+	<dict>
+		<key>correctTAnswer</key>
+		<string>Los cristianos expulsaron a los musulmanes</string>
+		<key>date</key>
+		<string>718</string>
+		<key>id</key>
+		<string>08f4a688-8311-11ed-a1eb-0242ac120002</string>
+		<key>incorrectAnswer1</key>
+		<string>Los musulmanes conservaron el control de España</string>
+		<key>incorrectAnswer2</key>
+		<string>Las fuerzas cristianas fueron derrotadas y expulsadas de España</string>
+		<key>incorrectAnswer3</key>
+		<string>Los musulmanes conservaron el control de algunas zonas de España</string>
+		<key>numberOfBadAnswers</key>
+		<integer>0</integer>
+		<key>numberOfBadAnswersQuiz</key>
+		<integer>0</integer>
+		<key>numberOfGoodAnswers</key>
+		<integer>0</integer>
+		<key>numberOfGoodAnswersQuiz</key>
+		<integer>0</integer>
+		<key>order</key>
+		<integer>7</integer>
+		<key>question</key>
+		<string>¿Cuál fue el resultado de la reconquista de España?</string>
+		<key>questionTrueOrFalse</key>
+		<string>La Reconquista fue un período de aproximadamente 780 años.</string>
+		<key>theme</key>
+		<string>España 35000-1469</string>
+		<key>timeLine</key>
+		<string>Comienza la Reconquista por parte de los cristianos para retomar España.</string>
+		<key>trueOrFalseAnswer</key>
+		<string>Verdadero</string>
+		<key>wikiSearchWord</key>
+		<string>Reconquista</string>
+	</dict>
+	<dict>
+		<key>correctTAnswer</key>
+		<string>Islam</string>
+		<key>date</key>
+		<string>756</string>
+		<key>id</key>
+		<string>08f4ae4e-8311-11ed-a1eb-0242ac120002</string>
+		<key>incorrectAnswer1</key>
+		<string>La religión católica</string>
+		<key>incorrectAnswer2</key>
+		<string>Judaísmo</string>
+		<key>incorrectAnswer3</key>
+		<string>El protestantismo</string>
+		<key>numberOfBadAnswers</key>
+		<integer>0</integer>
+		<key>numberOfBadAnswersQuiz</key>
+		<integer>0</integer>
+		<key>numberOfGoodAnswers</key>
+		<integer>0</integer>
+		<key>numberOfGoodAnswersQuiz</key>
+		<integer>0</integer>
+		<key>order</key>
+		<integer>8</integer>
+		<key>question</key>
+		<string>¿Qué religión seguía principalmente el Califato de Córdoba?</string>
+		<key>questionTrueOrFalse</key>
+		<string>El Califato Omeya de Córdoba era conocido oficialmente como el Primer Califato Omeya.</string>
+		<key>theme</key>
+		<string>España 35000-1469</string>
+		<key>timeLine</key>
+		<string>Califato de Córdoba</string>
+		<key>trueOrFalseAnswer</key>
+		<string>Falso</string>
+		<key>wikiSearchWord</key>
+		<string>Califato de Córdoba</string>
+	</dict>
+	<dict>
+		<key>correctTAnswer</key>
+		<string>Castilla (España)</string>
+		<key>date</key>
+		<string>1139</string>
+		<key>id</key>
+		<string>08f4b092-8311-11ed-a1eb-0242ac120002</string>
+		<key>incorrectAnswer1</key>
+		<string>Francia</string>
+		<key>incorrectAnswer2</key>
+		<string>Inglaterra</string>
+		<key>incorrectAnswer3</key>
+		<string>Los Países Bajos</string>
+		<key>numberOfBadAnswers</key>
+		<integer>0</integer>
+		<key>numberOfBadAnswersQuiz</key>
+		<integer>0</integer>
+		<key>numberOfGoodAnswers</key>
+		<integer>0</integer>
+		<key>numberOfGoodAnswersQuiz</key>
+		<integer>0</integer>
+		<key>order</key>
+		<integer>9</integer>
+		<key>question</key>
+		<string>¿Con qué otro país estuvo aliado el Reino de Portugal durante sus primeros años de historia?</string>
+		<key>questionTrueOrFalse</key>
+		<string>Portugal se originó en la Edad Media y se convirtió en una potencia mundial durante la Edad Moderna</string>
+		<key>theme</key>
+		<string>España 35000-1469</string>
+		<key>timeLine</key>
+		<string>Se establece el Reino de Portugal</string>
+		<key>trueOrFalseAnswer</key>
+		<string>Verdadero</string>
+		<key>wikiSearchWord</key>
+		<string>Historia de Portugal</string>
+	</dict>
+	<dict>
+		<key>correctTAnswer</key>
+		<string>Fue una figura clave en la unificación de España.</string>
+		<key>date</key>
+		<string>1469</string>
+		<key>id</key>
+		<string>08f4b1c8-8311-11ed-a1eb-0242ac120002</string>
+		<key>incorrectAnswer1</key>
+		<string>Fue una exitosa líder militar</string>
+		<key>incorrectAnswer2</key>
+		<string>Era una hábil diplomática</string>
+		<key>incorrectAnswer3</key>
+		<string>Fue mecenas de las artes</string>
+		<key>numberOfBadAnswers</key>
+		<integer>0</integer>
+		<key>numberOfBadAnswersQuiz</key>
+		<integer>0</integer>
+		<key>numberOfGoodAnswers</key>
+		<integer>0</integer>
+		<key>numberOfGoodAnswersQuiz</key>
+		<integer>0</integer>
+		<key>order</key>
+		<integer>10</integer>
+		<key>question</key>
+		<string>¿Por qué era conocida Isabel I de Castilla?</string>
+		<key>questionTrueOrFalse</key>
+		<string>Isabel I de Castilla y Fernando de Aragón expulsaron a los judíos de sus reinos después de ganar la guerra de Granada.</string>
+		<key>theme</key>
+		<string>España 35000-1469</string>
+		<key>timeLine</key>
+		<string> Se casan Isabel I de Castilla y Fernando II de Aragón.</string>
+		<key>trueOrFalseAnswer</key>
+		<string>Verdadero</string>
+		<key>wikiSearchWord</key>
+		<string>Isabel I de Castilla</string>
+	</dict>
+</array>
+</plist>

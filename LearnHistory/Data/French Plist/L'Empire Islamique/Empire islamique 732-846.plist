@@ -1,0 +1,366 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<!DOCTYPE plist PUBLIC "-//Apple//DTD PLIST 1.0//EN" "http://www.apple.com/DTDs/PropertyList-1.0.dtd">
+<plist version="1.0">
+<array>
+	<dict>
+		<key>correctTAnswer</key>
+		<string>Ils ont subi de lourdes pertes et ont perdu le moral, ce qui a entraîné des conflits internes.</string>
+		<key>date</key>
+		<string>732</string>
+		<key>id</key>
+		<string>adaae7fa-8884-11ed-a1eb-0242ac120002</string>
+		<key>incorrectAnswer1</key>
+		<string>Ils ont pris le contrôle de nouveaux territoires et ont répandu l&apos;Islam dans toute l&apos;Europe</string>
+		<key>incorrectAnswer2</key>
+		<string>Ils ont été contraints de payer un tribut aux Francs et d&apos;adopter le christianisme.</string>
+		<key>incorrectAnswer3</key>
+		<string>Ils ont gagné en prestige et en puissance en Europe</string>
+		<key>numberOfBadAnswers</key>
+		<integer>0</integer>
+		<key>numberOfBadAnswersQuiz</key>
+		<integer>0</integer>
+		<key>numberOfGoodAnswers</key>
+		<integer>0</integer>
+		<key>numberOfGoodAnswersQuiz</key>
+		<integer>0</integer>
+		<key>order</key>
+		<integer>11</integer>
+		<key>question</key>
+		<string>Quelle a été la conséquence à long terme de la bataille de Tours pour les Maures ?</string>
+		<key>questionTrueOrFalse</key>
+		<string>Les historiens sont d&apos;accord sur le lieu de la bataille. </string>
+		<key>theme</key>
+		<string>Empire islamique 732-846</string>
+		<key>timeLine</key>
+		<string>La bataille de Tours</string>
+		<key>trueOrFalseAnswer</key>
+		<string>Faux</string>
+		<key>wikiSearchWord</key>
+		<string>Bataille de Poitiers (732)</string>
+	</dict>
+	<dict>
+		<key>correctTAnswer</key>
+		<string>La traduction des œuvres philosophiques et scientifiques grecques en arabe</string>
+		<key>date</key>
+		<string>750</string>
+		<key>id</key>
+		<string>adaae930-8884-11ed-a1eb-0242ac120002</string>
+		<key>incorrectAnswer1</key>
+		<string>La construction du Taj Mahal</string>
+		<key>incorrectAnswer2</key>
+		<string>Le développement de l&apos;imprimerie</string>
+		<key>incorrectAnswer3</key>
+		<string>La construction de la Grande Muraille de Chine</string>
+		<key>numberOfBadAnswers</key>
+		<integer>0</integer>
+		<key>numberOfBadAnswersQuiz</key>
+		<integer>0</integer>
+		<key>numberOfGoodAnswers</key>
+		<integer>0</integer>
+		<key>numberOfGoodAnswersQuiz</key>
+		<integer>0</integer>
+		<key>order</key>
+		<integer>12</integer>
+		<key>question</key>
+		<string>Quelles réalisations culturelles et intellectuelles importantes sont associées au califat abbasside ?</string>
+		<key>questionTrueOrFalse</key>
+		<string>Les califes abbassides ont exercé une autorité politique au Caire après leur restauration en 1261. </string>
+		<key>theme</key>
+		<string>Empire islamique 732-846</string>
+		<key>timeLine</key>
+		<string>Début du califat abbasside. </string>
+		<key>trueOrFalseAnswer</key>
+		<string>Faux</string>
+		<key>wikiSearchWord</key>
+		<string>Califat abbasside</string>
+	</dict>
+	<dict>
+		<key>correctTAnswer</key>
+		<string>En Chine</string>
+		<key>date</key>
+		<string>751</string>
+		<key>id</key>
+		<string>adaaebd8-8884-11ed-a1eb-0242ac120002</string>
+		<key>incorrectAnswer1</key>
+		<string>En Inde</string>
+		<key>incorrectAnswer2</key>
+		<string>En Égypte</string>
+		<key>incorrectAnswer3</key>
+		<string>En Mésopotamie</string>
+		<key>numberOfBadAnswers</key>
+		<integer>0</integer>
+		<key>numberOfBadAnswersQuiz</key>
+		<integer>0</integer>
+		<key>numberOfGoodAnswers</key>
+		<integer>0</integer>
+		<key>numberOfGoodAnswersQuiz</key>
+		<integer>0</integer>
+		<key>order</key>
+		<integer>13</integer>
+		<key>question</key>
+		<string>Où la civilisation arabe a-t-elle rencontré le papier pour la première fois ?</string>
+		<key>questionTrueOrFalse</key>
+		<string>Le papier a été introduit en Europe par l&apos;empire arabo-musulman.</string>
+		<key>theme</key>
+		<string>Empire islamique 732-846</string>
+		<key>timeLine</key>
+		<string>Première utilisation du papier par les musulmans.</string>
+		<key>trueOrFalseAnswer</key>
+		<string>Vrai</string>
+		<key>wikiSearchWord</key>
+		<string>Histoire du papier</string>
+	</dict>
+	<dict>
+		<key>correctTAnswer</key>
+		<string>Xe siècle</string>
+		<key>date</key>
+		<string>756</string>
+		<key>id</key>
+		<string>adaaed18-8884-11ed-a1eb-0242ac120002</string>
+		<key>incorrectAnswer1</key>
+		<string>IXe siècle</string>
+		<key>incorrectAnswer2</key>
+		<string>XII siècle</string>
+		<key>incorrectAnswer3</key>
+		<string>XIe siècle</string>
+		<key>numberOfBadAnswers</key>
+		<integer>0</integer>
+		<key>numberOfBadAnswersQuiz</key>
+		<integer>0</integer>
+		<key>numberOfGoodAnswers</key>
+		<integer>0</integer>
+		<key>numberOfGoodAnswersQuiz</key>
+		<integer>0</integer>
+		<key>order</key>
+		<integer>14</integer>
+		<key>question</key>
+		<string>Au cours de quel siècle l&apos;émirat de Cordoue a-t-il connu l&apos;apogée de sa puissance et de sa prospérité ?</string>
+		<key>questionTrueOrFalse</key>
+		<string>L&apos;Émirat omeyyade de Cordoue est devenue un califat en 929.</string>
+		<key>theme</key>
+		<string>Empire islamique 732-846</string>
+		<key>timeLine</key>
+		<string>Création de l&apos;émirat de Cordoue</string>
+		<key>trueOrFalseAnswer</key>
+		<string>Vrai</string>
+		<key>wikiSearchWord</key>
+		<string>Émirat de Cordoue</string>
+	</dict>
+	<dict>
+		<key>correctTAnswer</key>
+		<string>Pour servir de capitale au califat abbasside</string>
+		<key>date</key>
+		<string>762</string>
+		<key>id</key>
+		<string>adaaee44-8884-11ed-a1eb-0242ac120002</string>
+		<key>incorrectAnswer1</key>
+		<string>Pour servir de forteresse militaire</string>
+		<key>incorrectAnswer2</key>
+		<string>Pour servir de centre pour les arts et la culture</string>
+		<key>incorrectAnswer3</key>
+		<string>Pour servir de centre d&apos;échanges et de commerce</string>
+		<key>numberOfBadAnswers</key>
+		<integer>0</integer>
+		<key>numberOfBadAnswersQuiz</key>
+		<integer>0</integer>
+		<key>numberOfGoodAnswers</key>
+		<integer>0</integer>
+		<key>numberOfGoodAnswersQuiz</key>
+		<integer>0</integer>
+		<key>order</key>
+		<integer>15</integer>
+		<key>question</key>
+		<string>Quel était l&apos;objectif principal de la fondation de Bagdad ?</string>
+		<key>questionTrueOrFalse</key>
+		<string>Bagdad a-t-elle été un centre de culture et de connaissance important pendant des siècles</string>
+		<key>theme</key>
+		<string>Empire islamique 732-846</string>
+		<key>timeLine</key>
+		<string>La fondation de Bagdad</string>
+		<key>trueOrFalseAnswer</key>
+		<string>Vrai</string>
+		<key>wikiSearchWord</key>
+		<string>Bagdad</string>
+	</dict>
+	<dict>
+		<key>correctTAnswer</key>
+		<string>Muhammad ibn Musa al-Khwarizmi</string>
+		<key>date</key>
+		<string>780</string>
+		<key>id</key>
+		<string>adaaef48-8884-11ed-a1eb-0242ac120002</string>
+		<key>incorrectAnswer1</key>
+		<string>Euclide</string>
+		<key>incorrectAnswer2</key>
+		<string>Pythagore</string>
+		<key>incorrectAnswer3</key>
+		<string>René Descartes</string>
+		<key>numberOfBadAnswers</key>
+		<integer>0</integer>
+		<key>numberOfBadAnswersQuiz</key>
+		<integer>0</integer>
+		<key>numberOfGoodAnswers</key>
+		<integer>0</integer>
+		<key>numberOfGoodAnswersQuiz</key>
+		<integer>0</integer>
+		<key>order</key>
+		<integer>16</integer>
+		<key>question</key>
+		<string>À qui attribue-t-on l&apos;invention de l&apos;algèbre ?</string>
+		<key>questionTrueOrFalse</key>
+		<string>Al-Khwârizmîn était un mathématicien et un astrologue originaire de l&apos;Afghanistan.</string>
+		<key>theme</key>
+		<string>Empire islamique 732-846</string>
+		<key>timeLine</key>
+		<string>Naissance de Muhammad ibn Musa al-Khwarizmi.</string>
+		<key>trueOrFalseAnswer</key>
+		<string>Faux</string>
+		<key>wikiSearchWord</key>
+		<string>Al-Khwârizmî</string>
+	</dict>
+	<dict>
+		<key>correctTAnswer</key>
+		<string>Espagne</string>
+		<key>date</key>
+		<string>784</string>
+		<key>id</key>
+		<string>adaafdee-8884-11ed-a1eb-0242ac120002</string>
+		<key>incorrectAnswer1</key>
+		<string>Maroc</string>
+		<key>incorrectAnswer2</key>
+		<string>Égypte</string>
+		<key>incorrectAnswer3</key>
+		<string>Irak</string>
+		<key>numberOfBadAnswers</key>
+		<integer>0</integer>
+		<key>numberOfBadAnswersQuiz</key>
+		<integer>0</integer>
+		<key>numberOfGoodAnswers</key>
+		<integer>0</integer>
+		<key>numberOfGoodAnswersQuiz</key>
+		<integer>0</integer>
+		<key>order</key>
+		<integer>17</integer>
+		<key>question</key>
+		<string>Dans quel pays la Grande Mosquée de Cordoue a-t-elle été construite ?</string>
+		<key>questionTrueOrFalse</key>
+		<string>La mosquée-cathédrale de Cordoue a été une mosquée du viiie siècle jusqu&apos;à la Reconquête menée par le roi Ferdinand III de Castille.</string>
+		<key>theme</key>
+		<string>Empire islamique 732-846</string>
+		<key>timeLine</key>
+		<string>Construction de la Grande Mosquée de Cordoue</string>
+		<key>trueOrFalseAnswer</key>
+		<string>Vrai</string>
+		<key>wikiSearchWord</key>
+		<string>Mosquée-cathédrale de Cordoue</string>
+	</dict>
+	<dict>
+		<key>correctTAnswer</key>
+		<string>Le calife Harun al-Rashid</string>
+		<key>date</key>
+		<string>786</string>
+		<key>id</key>
+		<string>adaaf0ba-8884-11ed-a1eb-0242ac120002</string>
+		<key>incorrectAnswer1</key>
+		<string>Le calife Umar</string>
+		<key>incorrectAnswer2</key>
+		<string>Le calife Abu Bakr</string>
+		<key>incorrectAnswer3</key>
+		<string>Le calife Ali</string>
+		<key>numberOfBadAnswers</key>
+		<integer>0</integer>
+		<key>numberOfBadAnswersQuiz</key>
+		<integer>0</integer>
+		<key>numberOfGoodAnswers</key>
+		<integer>0</integer>
+		<key>numberOfGoodAnswersQuiz</key>
+		<integer>0</integer>
+		<key>order</key>
+		<integer>18</integer>
+		<key>question</key>
+		<string>Qui est connu pour avoir instauré l&apos;&quot;âge d&apos;or islamique&quot; ?</string>
+		<key>questionTrueOrFalse</key>
+		<string>L&apos;âge d&apos;or de l&apos;Islam a été une période de stagnation culturelle et scientifique.</string>
+		<key>theme</key>
+		<string>Empire islamique 732-846</string>
+		<key>timeLine</key>
+		<string>Début de l&apos;âge d&apos;or islamique</string>
+		<key>trueOrFalseAnswer</key>
+		<string>Faux</string>
+		<key>wikiSearchWord</key>
+		<string>Âge d&apos;or de l&apos;Islam</string>
+	</dict>
+	<dict>
+		<key>correctTAnswer</key>
+		<string>Arabe</string>
+		<key>date</key>
+		<string>786</string>
+		<key>id</key>
+		<string>adaaf1e6-8884-11ed-a1eb-0242ac120002</string>
+		<key>incorrectAnswer1</key>
+		<string>Perse</string>
+		<key>incorrectAnswer2</key>
+		<string>Français</string>
+		<key>incorrectAnswer3</key>
+		<string>Anglais</string>
+		<key>numberOfBadAnswers</key>
+		<integer>0</integer>
+		<key>numberOfBadAnswersQuiz</key>
+		<integer>0</integer>
+		<key>numberOfGoodAnswers</key>
+		<integer>0</integer>
+		<key>numberOfGoodAnswersQuiz</key>
+		<integer>0</integer>
+		<key>order</key>
+		<integer>19</integer>
+		<key>question</key>
+		<string>Quelle est la langue originale des Mille et Une Nuits ?</string>
+		<key>questionTrueOrFalse</key>
+		<string>Les Mille et Une Nuits est un recueil de contes écrits par un auteur connu.</string>
+		<key>theme</key>
+		<string>Empire islamique 732-846</string>
+		<key>timeLine</key>
+		<string> Rédaction des Mille et Une Nuits</string>
+		<key>trueOrFalseAnswer</key>
+		<string>Faux</string>
+		<key>wikiSearchWord</key>
+		<string>Les Mille et Une Nuits</string>
+	</dict>
+	<dict>
+		<key>correctTAnswer</key>
+		<string>Shéhérazade</string>
+		<key>date</key>
+		<string>786</string>
+		<key>id</key>
+		<string>adaaf434-8884-11ed-a1eb-0242ac120002</string>
+		<key>incorrectAnswer1</key>
+		<string>Sinbad</string>
+		<key>incorrectAnswer2</key>
+		<string>Aladin</string>
+		<key>incorrectAnswer3</key>
+		<string>Ali Baba</string>
+		<key>numberOfBadAnswers</key>
+		<integer>0</integer>
+		<key>numberOfBadAnswersQuiz</key>
+		<integer>0</integer>
+		<key>numberOfGoodAnswers</key>
+		<integer>0</integer>
+		<key>numberOfGoodAnswersQuiz</key>
+		<integer>0</integer>
+		<key>order</key>
+		<integer>20</integer>
+		<key>question</key>
+		<string>Qui est le personnage principal des Mille et Une Nuits ?</string>
+		<key>questionTrueOrFalse</key>
+		<string>Les Mille et Une Nuits est un recueil de contes originaires d&apos;Inde et du Moyen-Orient.</string>
+		<key>theme</key>
+		<string>Empire islamique 732-846</string>
+		<key>timeLine</key>
+		<string> Rédaction des Mille et Une Nuits</string>
+		<key>trueOrFalseAnswer</key>
+		<string>Vrai</string>
+		<key>wikiSearchWord</key>
+		<string>Les Mille et Une Nuits</string>
+	</dict>
+</array>
+</plist>

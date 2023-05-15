@@ -1,0 +1,366 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<!DOCTYPE plist PUBLIC "-//Apple//DTD PLIST 1.0//EN" "http://www.apple.com/DTDs/PropertyList-1.0.dtd">
+<plist version="1.0">
+<array>
+	<dict>
+		<key>correctTAnswer</key>
+		<string>Fuego griego</string>
+		<key>date</key>
+		<string>674-678</string>
+		<key>id</key>
+		<string>e1cfd880-eb97-11ed-a05b-0242ac120003</string>
+		<key>incorrectAnswer1</key>
+		<string>Catapulta</string>
+		<key>incorrectAnswer2</key>
+		<string>Ballesta</string>
+		<key>incorrectAnswer3</key>
+		<string>Trebuchet</string>
+		<key>numberOfBadAnswers</key>
+		<integer>0</integer>
+		<key>numberOfBadAnswersQuiz</key>
+		<integer>0</integer>
+		<key>numberOfGoodAnswers</key>
+		<integer>0</integer>
+		<key>numberOfGoodAnswersQuiz</key>
+		<integer>0</integer>
+		<key>order</key>
+		<integer>11</integer>
+		<key>question</key>
+		<string>¿Qué arma utilizaron los bizantinos para defender con éxito Constantinopla durante el primer asedio árabe?</string>
+		<key>questionTrueOrFalse</key>
+		<string>El &quot;fuego griego&quot; fue utilizado por primera vez por los bizantinos durante el sitio de Constantinopla entre 674 y 678, contribuyendo a su victoria sobre los omeyas.</string>
+		<key>theme</key>
+		<string>El Imperio bizantino 674-1118</string>
+		<key>timeLine</key>
+		<string>Primer asedio árabe de Constantinopla</string>
+		<key>trueOrFalseAnswer</key>
+		<string>Verdadero</string>
+		<key>wikiSearchWord</key>
+		<string>Sitio de Constantinopla (674-678)</string>
+	</dict>
+	<dict>
+		<key>correctTAnswer</key>
+		<string>León III el Isáurico</string>
+		<key>date</key>
+		<string>717-718</string>
+		<key>id</key>
+		<string>e1cfd9ca-eb97-11ed-a05b-0242ac120003</string>
+		<key>incorrectAnswer1</key>
+		<string>Tiberio III</string>
+		<key>incorrectAnswer2</key>
+		<string>Constantino IV</string>
+		<key>incorrectAnswer3</key>
+		<string>Justiniano II</string>
+		<key>numberOfBadAnswers</key>
+		<integer>0</integer>
+		<key>numberOfBadAnswersQuiz</key>
+		<integer>0</integer>
+		<key>numberOfGoodAnswers</key>
+		<integer>0</integer>
+		<key>numberOfGoodAnswersQuiz</key>
+		<integer>0</integer>
+		<key>order</key>
+		<integer>12</integer>
+		<key>question</key>
+		<string>¿Quién fue el emperador bizantino durante el segundo asedio árabe de Constantinopla?</string>
+		<key>questionTrueOrFalse</key>
+		<string>El sitio de Constantinopla entre 717 y 718 fue crucial para evitar la expansión del Califato Omeya en Europa.</string>
+		<key>theme</key>
+		<string>El Imperio bizantino 674-1118</string>
+		<key>timeLine</key>
+		<string>Segundo asedio árabe de Constantinopla</string>
+		<key>trueOrFalseAnswer</key>
+		<string>Verdadero</string>
+		<key>wikiSearchWord</key>
+		<string>Sitio de Constantinopla (717-718)</string>
+	</dict>
+	<dict>
+		<key>correctTAnswer</key>
+		<string>León III el Isáurico</string>
+		<key>date</key>
+		<string>732</string>
+		<key>id</key>
+		<string>e1cfdee8-eb97-11ed-a05b-0242ac120003</string>
+		<key>incorrectAnswer1</key>
+		<string>Constantino V</string>
+		<key>incorrectAnswer2</key>
+		<string>Miguel III</string>
+		<key>incorrectAnswer3</key>
+		<string>Emperador Teófilo</string>
+		<key>numberOfBadAnswers</key>
+		<integer>0</integer>
+		<key>numberOfBadAnswersQuiz</key>
+		<integer>0</integer>
+		<key>numberOfGoodAnswers</key>
+		<integer>0</integer>
+		<key>numberOfGoodAnswersQuiz</key>
+		<integer>0</integer>
+		<key>order</key>
+		<integer>13</integer>
+		<key>question</key>
+		<string>¿Quién inició el primer período de iconoclasia en el Imperio bizantino?</string>
+		<key>questionTrueOrFalse</key>
+		<string>La iconoclasia es la creación y promoción de imágenes religiosas y monumentos en una cultura.</string>
+		<key>theme</key>
+		<string>El Imperio bizantino 674-1118</string>
+		<key>timeLine</key>
+		<string>Iconoclasia</string>
+		<key>trueOrFalseAnswer</key>
+		<string>Falso</string>
+		<key>wikiSearchWord</key>
+		<string>Iconoclasia bizantina</string>
+	</dict>
+	<dict>
+		<key>correctTAnswer</key>
+		<string>Condenar la práctica del iconoclasmo</string>
+		<key>date</key>
+		<string>787</string>
+		<key>id</key>
+		<string>e1cfe118-eb97-11ed-a05b-0242ac120003</string>
+		<key>incorrectAnswer1</key>
+		<string>Abordar la controversia arriana</string>
+		<key>incorrectAnswer2</key>
+		<string>Establecer el Credo de Nicea</string>
+		<key>incorrectAnswer3</key>
+		<string>Abordar la controversia monofisita</string>
+		<key>numberOfBadAnswers</key>
+		<integer>0</integer>
+		<key>numberOfBadAnswersQuiz</key>
+		<integer>0</integer>
+		<key>numberOfGoodAnswers</key>
+		<integer>0</integer>
+		<key>numberOfGoodAnswersQuiz</key>
+		<integer>0</integer>
+		<key>order</key>
+		<integer>14</integer>
+		<key>question</key>
+		<string>¿Cuál fue el propósito principal del Segundo Concilio de Nicea?</string>
+		<key>questionTrueOrFalse</key>
+		<string>El Segundo Concilio de Nicea se celebró en el año 787 y fue convocado por Irene, madre del emperador Constantino VI.</string>
+		<key>theme</key>
+		<string>El Imperio bizantino 674-1118</string>
+		<key>timeLine</key>
+		<string>Segundo Concilio de Nicea</string>
+		<key>trueOrFalseAnswer</key>
+		<string>Verdadero</string>
+		<key>wikiSearchWord</key>
+		<string>Segundo Concilio de Nicea</string>
+	</dict>
+	<dict>
+		<key>correctTAnswer</key>
+		<string>Dinastía macedónica</string>
+		<key>date</key>
+		<string>867-886</string>
+		<key>id</key>
+		<string>e1cfe280-eb97-11ed-a05b-0242ac120003</string>
+		<key>incorrectAnswer1</key>
+		<string>Dinastía Justiniana</string>
+		<key>incorrectAnswer2</key>
+		<string>Dinastía Isáurica</string>
+		<key>incorrectAnswer3</key>
+		<string>Dinastía Comneno</string>
+		<key>numberOfBadAnswers</key>
+		<integer>0</integer>
+		<key>numberOfBadAnswersQuiz</key>
+		<integer>0</integer>
+		<key>numberOfGoodAnswers</key>
+		<integer>0</integer>
+		<key>numberOfGoodAnswersQuiz</key>
+		<integer>0</integer>
+		<key>order</key>
+		<integer>15</integer>
+		<key>question</key>
+		<string>¿Qué dinastía fundó Basilio I?</string>
+		<key>questionTrueOrFalse</key>
+		<string>Basilio I nació en una familia asentada en Constantinopla y era de origen griego.</string>
+		<key>theme</key>
+		<string>El Imperio bizantino 674-1118</string>
+		<key>timeLine</key>
+		<string>Reinado de Basilio I</string>
+		<key>trueOrFalseAnswer</key>
+		<string>Falso</string>
+		<key>wikiSearchWord</key>
+		<string>Basilio I</string>
+	</dict>
+	<dict>
+		<key>correctTAnswer</key>
+		<string>Igor de Kiev</string>
+		<key>date</key>
+		<string>941</string>
+		<key>id</key>
+		<string>e1cfe3ac-eb97-11ed-a05b-0242ac120003</string>
+		<key>incorrectAnswer1</key>
+		<string>Vladimir el Grande</string>
+		<key>incorrectAnswer2</key>
+		<string>Oleg de Nóvgorod</string>
+		<key>incorrectAnswer3</key>
+		<string>Sviatoslav I</string>
+		<key>numberOfBadAnswers</key>
+		<integer>0</integer>
+		<key>numberOfBadAnswersQuiz</key>
+		<integer>0</integer>
+		<key>numberOfGoodAnswers</key>
+		<integer>0</integer>
+		<key>numberOfGoodAnswersQuiz</key>
+		<integer>0</integer>
+		<key>order</key>
+		<integer>16</integer>
+		<key>question</key>
+		<string>¿Quién fue el gobernante de la Rus de Kiev durante el ataque a Constantinopla en 941?</string>
+		<key>questionTrueOrFalse</key>
+		<string>La guerra ruso-bizantina de 941 fue iniciada por los bizantinos después de las persecuciones de los judíos emprendidas por el emperador Romano I Lecapeno</string>
+		<key>theme</key>
+		<string>El Imperio bizantino 674-1118</string>
+		<key>timeLine</key>
+		<string>Ataque ruso en Constantinopla</string>
+		<key>trueOrFalseAnswer</key>
+		<string>Falso</string>
+		<key>wikiSearchWord</key>
+		<string>Guerra ruso-bizantina (941)</string>
+	</dict>
+	<dict>
+		<key>correctTAnswer</key>
+		<string>Basilio el Matador de Búlgaros</string>
+		<key>date</key>
+		<string>976-1025</string>
+		<key>id</key>
+		<string>e1cfe4ba-eb97-11ed-a05b-0242ac120003</string>
+		<key>incorrectAnswer1</key>
+		<string>Basilio el Conquistador</string>
+		<key>incorrectAnswer2</key>
+		<string>Basilio el Grande</string>
+		<key>incorrectAnswer3</key>
+		<string>Basilio el Victorioso</string>
+		<key>numberOfBadAnswers</key>
+		<integer>0</integer>
+		<key>numberOfBadAnswersQuiz</key>
+		<integer>0</integer>
+		<key>numberOfGoodAnswers</key>
+		<integer>0</integer>
+		<key>numberOfGoodAnswersQuiz</key>
+		<integer>0</integer>
+		<key>order</key>
+		<integer>17</integer>
+		<key>question</key>
+		<string>¿Qué apodo se le dio a Basilio II por sus éxitos militares?</string>
+		<key>questionTrueOrFalse</key>
+		<string>Basilio II fue un emperador bizantino que perdió una larga lucha contra el Primer Imperio búlgaro.</string>
+		<key>theme</key>
+		<string>El Imperio bizantino 674-1118</string>
+		<key>timeLine</key>
+		<string>Reinado de Basilio II</string>
+		<key>trueOrFalseAnswer</key>
+		<string>Falso</string>
+		<key>wikiSearchWord</key>
+		<string>Basilio II</string>
+	</dict>
+	<dict>
+		<key>correctTAnswer</key>
+		<string>Todos los anteriores</string>
+		<key>date</key>
+		<string>1054</string>
+		<key>id</key>
+		<string>e1cfe640-eb97-11ed-a05b-0242ac120003</string>
+		<key>incorrectAnswer1</key>
+		<string>Diferencias teológicas</string>
+		<key>incorrectAnswer2</key>
+		<string>Rivalidad política</string>
+		<key>incorrectAnswer3</key>
+		<string>Barrera del idioma</string>
+		<key>numberOfBadAnswers</key>
+		<integer>0</integer>
+		<key>numberOfBadAnswersQuiz</key>
+		<integer>0</integer>
+		<key>numberOfGoodAnswers</key>
+		<integer>0</integer>
+		<key>numberOfGoodAnswersQuiz</key>
+		<integer>0</integer>
+		<key>order</key>
+		<integer>18</integer>
+		<key>question</key>
+		<string>¿Cuál fue la principal razón del Cisma de Oriente y Occidente entre la Iglesia Ortodoxa Oriental y la Iglesia Católica Romana?</string>
+		<key>questionTrueOrFalse</key>
+		<string>El Cisma de Oriente y Occidente fue un evento que rompió la unidad de la Iglesia estatal del Imperio romano basada en la pentarquía</string>
+		<key>theme</key>
+		<string>El Imperio bizantino 674-1118</string>
+		<key>timeLine</key>
+		<string>Cisma de Oriente y Occidente</string>
+		<key>trueOrFalseAnswer</key>
+		<string>Verdadero</string>
+		<key>wikiSearchWord</key>
+		<string>Cisma de Oriente</string>
+	</dict>
+	<dict>
+		<key>correctTAnswer</key>
+		<string>Alp Arslan</string>
+		<key>date</key>
+		<string>1071</string>
+		<key>id</key>
+		<string>e1cfe76c-eb97-11ed-a05b-0242ac120003</string>
+		<key>incorrectAnswer1</key>
+		<string>Selyúcida</string>
+		<key>incorrectAnswer2</key>
+		<string>Osman I</string>
+		<key>incorrectAnswer3</key>
+		<string>Ertugrul</string>
+		<key>numberOfBadAnswers</key>
+		<integer>0</integer>
+		<key>numberOfBadAnswersQuiz</key>
+		<integer>0</integer>
+		<key>numberOfGoodAnswers</key>
+		<integer>0</integer>
+		<key>numberOfGoodAnswersQuiz</key>
+		<integer>0</integer>
+		<key>order</key>
+		<integer>19</integer>
+		<key>question</key>
+		<string>¿Qué líder turco derrotó a los bizantinos en la batalla de Manzikert?</string>
+		<key>questionTrueOrFalse</key>
+		<string>La Batalla de Manzikert tuvo lugar entre los turcos selyúcidas y las tropas bizantinas</string>
+		<key>theme</key>
+		<string>El Imperio bizantino 674-1118</string>
+		<key>timeLine</key>
+		<string>Batalla de Manzikert</string>
+		<key>trueOrFalseAnswer</key>
+		<string>Verdadero</string>
+		<key>wikiSearchWord</key>
+		<string>Batalla de Manzikert</string>
+	</dict>
+	<dict>
+		<key>correctTAnswer</key>
+		<string>Caballeros de Europa occidental</string>
+		<key>date</key>
+		<string>1081-1118</string>
+		<key>id</key>
+		<string>e1cfea28-eb97-11ed-a05b-0242ac120003</string>
+		<key>incorrectAnswer1</key>
+		<string>Los turcos selyúcidas</string>
+		<key>incorrectAnswer2</key>
+		<string>El Califato Fatimí</string>
+		<key>incorrectAnswer3</key>
+		<string>La Rus de Kiev</string>
+		<key>numberOfBadAnswers</key>
+		<integer>0</integer>
+		<key>numberOfBadAnswersQuiz</key>
+		<integer>0</integer>
+		<key>numberOfGoodAnswers</key>
+		<integer>0</integer>
+		<key>numberOfGoodAnswersQuiz</key>
+		<integer>0</integer>
+		<key>order</key>
+		<integer>20</integer>
+		<key>question</key>
+		<string>¿De qué gran fuerza militar solicitó ayuda Alejo I Comneno para defender el Imperio bizantino?</string>
+		<key>questionTrueOrFalse</key>
+		<string>Alejo I Comneno fue emperador bizantino entre 1081 y 1118</string>
+		<key>theme</key>
+		<string>El Imperio bizantino 674-1118</string>
+		<key>timeLine</key>
+		<string>Reinado de Alejo I Comneno</string>
+		<key>trueOrFalseAnswer</key>
+		<string>Verdadero</string>
+		<key>wikiSearchWord</key>
+		<string>Alejo I Comneno</string>
+	</dict>
+</array>
+</plist>

@@ -1,0 +1,366 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<!DOCTYPE plist PUBLIC "-//Apple//DTD PLIST 1.0//EN" "http://www.apple.com/DTDs/PropertyList-1.0.dtd">
+<plist version="1.0">
+<array>
+	<dict>
+		<key>correctTAnswer</key>
+		<string>Estancamiento</string>
+		<key>date</key>
+		<string>1593-1606</string>
+		<key>id</key>
+		<string>c18d5f72-f1a3-11ed-a05b-0242ac120003</string>
+		<key>incorrectAnswer1</key>
+		<string>Victoria otomana</string>
+		<key>incorrectAnswer2</key>
+		<string>Victoria de los Habsburgo</string>
+		<key>incorrectAnswer3</key>
+		<string>Tratado de paz con ganancias territoriales para ambos lados</string>
+		<key>numberOfBadAnswers</key>
+		<integer>0</integer>
+		<key>numberOfBadAnswersQuiz</key>
+		<integer>0</integer>
+		<key>numberOfGoodAnswers</key>
+		<integer>0</integer>
+		<key>numberOfGoodAnswersQuiz</key>
+		<integer>0</integer>
+		<key>order</key>
+		<integer>21</integer>
+		<key>question</key>
+		<string>¿Cuál fue el resultado de la Guerra Larga entre los otomanos y los Habsburgo?</string>
+		<key>questionTrueOrFalse</key>
+		<string>Las guerras habsburgo-otomanas se prolongaron hasta el siglo XX.</string>
+		<key>theme</key>
+		<string>El Imperio Otomano 1593-1923</string>
+		<key>timeLine</key>
+		<string>Guerras entre los otomanos y los Habsburgo</string>
+		<key>trueOrFalseAnswer</key>
+		<string>Falso</string>
+		<key>wikiSearchWord</key>
+		<string>Guerras habsburgo-otomanas</string>
+	</dict>
+	<dict>
+		<key>correctTAnswer</key>
+		<string>Viena</string>
+		<key>date</key>
+		<string>1683</string>
+		<key>id</key>
+		<string>c18d60f8-f1a3-11ed-a05b-0242ac120003</string>
+		<key>incorrectAnswer1</key>
+		<string>Belgrado</string>
+		<key>incorrectAnswer2</key>
+		<string>Budapest</string>
+		<key>incorrectAnswer3</key>
+		<string>Praga</string>
+		<key>numberOfBadAnswers</key>
+		<integer>0</integer>
+		<key>numberOfBadAnswersQuiz</key>
+		<integer>0</integer>
+		<key>numberOfGoodAnswers</key>
+		<integer>0</integer>
+		<key>numberOfGoodAnswersQuiz</key>
+		<integer>0</integer>
+		<key>order</key>
+		<integer>22</integer>
+		<key>question</key>
+		<string>¿Qué ciudad asediaron sin éxito los otomanos por segunda vez en 1683?</string>
+		<key>questionTrueOrFalse</key>
+		<string>El asedio a Viena duró dos meses. </string>
+		<key>theme</key>
+		<string>El Imperio Otomano 1593-1923</string>
+		<key>timeLine</key>
+		<string>Fracasa nuevamente el asedio a Viena</string>
+		<key>trueOrFalseAnswer</key>
+		<string>Verdadero</string>
+		<key>wikiSearchWord</key>
+		<string>Batalla de Kahlenberg</string>
+	</dict>
+	<dict>
+		<key>correctTAnswer</key>
+		<string>Tratado de Karlowitz</string>
+		<key>date</key>
+		<string>1699</string>
+		<key>id</key>
+		<string>c18d626a-f1a3-11ed-a05b-0242ac120003</string>
+		<key>incorrectAnswer1</key>
+		<string>Tratado de Westfalia</string>
+		<key>incorrectAnswer2</key>
+		<string>Tratado de Tordesillas</string>
+		<key>incorrectAnswer3</key>
+		<string>Tratado de Utrecht</string>
+		<key>numberOfBadAnswers</key>
+		<integer>0</integer>
+		<key>numberOfBadAnswersQuiz</key>
+		<integer>0</integer>
+		<key>numberOfGoodAnswers</key>
+		<integer>0</integer>
+		<key>numberOfGoodAnswersQuiz</key>
+		<integer>0</integer>
+		<key>order</key>
+		<integer>23</integer>
+		<key>question</key>
+		<string>¿En qué tratado cedió el Imperio Otomano territorios significativos en Europa?</string>
+		<key>questionTrueOrFalse</key>
+		<string>La Paz de Karlowitz puso fin únicamente a las guerras austro-turcas.</string>
+		<key>theme</key>
+		<string>El Imperio Otomano 1593-1923</string>
+		<key>timeLine</key>
+		<string>Karlowitz: Pérdidas territoriales</string>
+		<key>trueOrFalseAnswer</key>
+		<string>Falso</string>
+		<key>wikiSearchWord</key>
+		<string>Paz de Karlowitz</string>
+	</dict>
+	<dict>
+		<key>correctTAnswer</key>
+		<string>Era del Tulipán</string>
+		<key>date</key>
+		<string>1703-1730</string>
+		<key>id</key>
+		<string>c18d63fa-f1a3-11ed-a05b-0242ac120003</string>
+		<key>incorrectAnswer1</key>
+		<string>Era Tanzimat</string>
+		<key>incorrectAnswer2</key>
+		<string>Edad de Oro</string>
+		<key>incorrectAnswer3</key>
+		<string>Era de la Ilustración</string>
+		<key>numberOfBadAnswers</key>
+		<integer>0</integer>
+		<key>numberOfBadAnswersQuiz</key>
+		<integer>0</integer>
+		<key>numberOfGoodAnswers</key>
+		<integer>0</integer>
+		<key>numberOfGoodAnswersQuiz</key>
+		<integer>0</integer>
+		<key>order</key>
+		<integer>24</integer>
+		<key>question</key>
+		<string>¿Cómo se llama el período de relativa paz, crecimiento económico y florecimiento cultural de 1703 a 1730?</string>
+		<key>questionTrueOrFalse</key>
+		<string>Durante la era de los tulipanes, el Imperio Otomano se orientó hacia Europa.</string>
+		<key>theme</key>
+		<string>El Imperio Otomano 1593-1923</string>
+		<key>timeLine</key>
+		<string>Era del Tulipán: Crecimiento</string>
+		<key>trueOrFalseAnswer</key>
+		<string>Verdadero</string>
+		<key>wikiSearchWord</key>
+		<string>Era de los tulipanes</string>
+	</dict>
+	<dict>
+		<key>correctTAnswer</key>
+		<string>Selim III</string>
+		<key>date</key>
+		<string>1792-1808</string>
+		<key>id</key>
+		<string>c18d65c6-f1a3-11ed-a05b-0242ac120003</string>
+		<key>incorrectAnswer1</key>
+		<string>Mahmud II</string>
+		<key>incorrectAnswer2</key>
+		<string>Abdulmejid I</string>
+		<key>incorrectAnswer3</key>
+		<string>Abdulhamid II</string>
+		<key>numberOfBadAnswers</key>
+		<integer>0</integer>
+		<key>numberOfBadAnswersQuiz</key>
+		<integer>0</integer>
+		<key>numberOfGoodAnswers</key>
+		<integer>0</integer>
+		<key>numberOfGoodAnswersQuiz</key>
+		<integer>0</integer>
+		<key>order</key>
+		<integer>25</integer>
+		<key>question</key>
+		<string>¿Qué sultán implementó las reformas de Nizam-i Cedid (Nuevo Orden  de 1792 a 1808?</string>
+		<key>questionTrueOrFalse</key>
+		<string>Las reformas del Nizam-ı Cedid se llevaron a cabo en el siglo XIX. </string>
+		<key>theme</key>
+		<string>El Imperio Otomano 1593-1923</string>
+		<key>timeLine</key>
+		<string>Nizam-I Cedid</string>
+		<key>trueOrFalseAnswer</key>
+		<string>Falso</string>
+		<key>wikiSearchWord</key>
+		<string>Nizam-ı Cedid</string>
+	</dict>
+	<dict>
+		<key>correctTAnswer</key>
+		<string>La Filiki Eteria</string>
+		<key>date</key>
+		<string>1821-1832</string>
+		<key>id</key>
+		<string>c18d6792-f1a3-11ed-a05b-0242ac120003</string>
+		<key>incorrectAnswer1</key>
+		<string>Los Caballeros Templarios</string>
+		<key>incorrectAnswer2</key>
+		<string>Los Iluminati</string>
+		<key>incorrectAnswer3</key>
+		<string>Los Masones</string>
+		<key>numberOfBadAnswers</key>
+		<integer>0</integer>
+		<key>numberOfBadAnswersQuiz</key>
+		<integer>0</integer>
+		<key>numberOfGoodAnswers</key>
+		<integer>0</integer>
+		<key>numberOfGoodAnswersQuiz</key>
+		<integer>0</integer>
+		<key>order</key>
+		<integer>26</integer>
+		<key>question</key>
+		<string>¿Qué sociedad secreta, fundada en 1814, jugó un papel significativo en la organización y coordinación de la Guerra de Independencia griega?</string>
+		<key>questionTrueOrFalse</key>
+		<string>La Batalla de Navarino resultó en la destrucción de la flota otomana-egipcia y cambió el rumbo de la guerra a favor de los revolucionarios griegos. </string>
+		<key>theme</key>
+		<string>El Imperio Otomano 1593-1923</string>
+		<key>timeLine</key>
+		<string>Grecia obtiene independencia</string>
+		<key>trueOrFalseAnswer</key>
+		<string>Verdadero</string>
+		<key>wikiSearchWord</key>
+		<string>Guerra de independencia de Grecia</string>
+	</dict>
+	<dict>
+		<key>correctTAnswer</key>
+		<string>Era Tanzimat</string>
+		<key>date</key>
+		<string>1839-1876</string>
+		<key>id</key>
+		<string>c18d68c8-f1a3-11ed-a05b-0242ac120003</string>
+		<key>incorrectAnswer1</key>
+		<string>Era del Tulipán</string>
+		<key>incorrectAnswer2</key>
+		<string>Primera Era Constitucional</string>
+		<key>incorrectAnswer3</key>
+		<string>Revolución de los Jóvenes Turcos</string>
+		<key>numberOfBadAnswers</key>
+		<integer>0</integer>
+		<key>numberOfBadAnswersQuiz</key>
+		<integer>0</integer>
+		<key>numberOfGoodAnswers</key>
+		<integer>0</integer>
+		<key>numberOfGoodAnswersQuiz</key>
+		<integer>0</integer>
+		<key>order</key>
+		<integer>27</integer>
+		<key>question</key>
+		<string>¿Qué período de reformas de gran alcance intentó modernizar el Imperio Otomano de 1839 a 1876?</string>
+		<key>questionTrueOrFalse</key>
+		<string>Tanzimat fue un período de estancamiento y falta de avances en el Imperio otomano. </string>
+		<key>theme</key>
+		<string>El Imperio Otomano 1593-1923</string>
+		<key>timeLine</key>
+		<string>Tanzimat: Modernización</string>
+		<key>trueOrFalseAnswer</key>
+		<string>Falso</string>
+		<key>wikiSearchWord</key>
+		<string>Tanzimat</string>
+	</dict>
+	<dict>
+		<key>correctTAnswer</key>
+		<string>La Revolución de los Jóvenes Turcos</string>
+		<key>date</key>
+		<string>1908</string>
+		<key>id</key>
+		<string>c18d6a12-f1a3-11ed-a05b-0242ac120003</string>
+		<key>incorrectAnswer1</key>
+		<string>Asesinato de Abdulhamid II</string>
+		<key>incorrectAnswer2</key>
+		<string>El Congreso de Berlín</string>
+		<key>incorrectAnswer3</key>
+		<string>Las Guerras Balcánicas</string>
+		<key>numberOfBadAnswers</key>
+		<integer>0</integer>
+		<key>numberOfBadAnswersQuiz</key>
+		<integer>0</integer>
+		<key>numberOfGoodAnswers</key>
+		<integer>0</integer>
+		<key>numberOfGoodAnswersQuiz</key>
+		<integer>0</integer>
+		<key>order</key>
+		<integer>28</integer>
+		<key>question</key>
+		<string>¿Qué evento en 1908 condujo a la restauración de la Constitución Otomana y la Segunda Era Constitucional?</string>
+		<key>questionTrueOrFalse</key>
+		<string>El proceso de suplantar las instituciones monárquicas por instituciones constitucionales fue sencillo y rápido. </string>
+		<key>theme</key>
+		<string>El Imperio Otomano 1593-1923</string>
+		<key>timeLine</key>
+		<string>Revolución de los Jóvenes Turcos</string>
+		<key>trueOrFalseAnswer</key>
+		<string>Falso</string>
+		<key>wikiSearchWord</key>
+		<string>Revolución de los Jóvenes Turcos</string>
+	</dict>
+	<dict>
+		<key>correctTAnswer</key>
+		<string>Potencias Centrales</string>
+		<key>date</key>
+		<string>1914-1918</string>
+		<key>id</key>
+		<string>c18d6b66-f1a3-11ed-a05b-0242ac120003</string>
+		<key>incorrectAnswer1</key>
+		<string>Potencias Aliadas</string>
+		<key>incorrectAnswer2</key>
+		<string>Neutral</string>
+		<key>incorrectAnswer3</key>
+		<string>Cambiaron de bando durante la guerra</string>
+		<key>numberOfBadAnswers</key>
+		<integer>0</integer>
+		<key>numberOfBadAnswersQuiz</key>
+		<integer>0</integer>
+		<key>numberOfGoodAnswers</key>
+		<integer>0</integer>
+		<key>numberOfGoodAnswersQuiz</key>
+		<integer>0</integer>
+		<key>order</key>
+		<integer>29</integer>
+		<key>question</key>
+		<string>¿De qué lado se unió el Imperio Otomano durante la Primera Guerra Mundial?</string>
+		<key>questionTrueOrFalse</key>
+		<string>El Imperio otomano capituló al final de la Primera Guerra Mundial. </string>
+		<key>theme</key>
+		<string>El Imperio Otomano 1593-1923</string>
+		<key>timeLine</key>
+		<string>Primera Guerra Mundial: Aliado de las Potencias Centrales</string>
+		<key>trueOrFalseAnswer</key>
+		<string>Verdadero</string>
+		<key>wikiSearchWord</key>
+		<string>Imperio otomano durante la Primera Guerra Mundial</string>
+	</dict>
+	<dict>
+		<key>correctTAnswer</key>
+		<string>Mustafa Kemal Atatürk</string>
+		<key>date</key>
+		<string>1922-1923</string>
+		<key>id</key>
+		<string>c18d6cd8-f1a3-11ed-a05b-0242ac120003</string>
+		<key>incorrectAnswer1</key>
+		<string>İsmet İnönü</string>
+		<key>incorrectAnswer2</key>
+		<string>Fethi Okyar</string>
+		<key>incorrectAnswer3</key>
+		<string>Recep Tayyip Erdoğan</string>
+		<key>numberOfBadAnswers</key>
+		<integer>0</integer>
+		<key>numberOfBadAnswersQuiz</key>
+		<integer>0</integer>
+		<key>numberOfGoodAnswers</key>
+		<integer>0</integer>
+		<key>numberOfGoodAnswersQuiz</key>
+		<integer>0</integer>
+		<key>order</key>
+		<integer>30</integer>
+		<key>question</key>
+		<string>¿Qué líder formó la República de Turquía después de la disolución del Imperio Otomano?</string>
+		<key>questionTrueOrFalse</key>
+		<string>La disolución del Imperio otomano se produjo de manera pacífica y consensuada entre todas las partes involucradas. </string>
+		<key>theme</key>
+		<string>El Imperio Otomano 1593-1923</string>
+		<key>timeLine</key>
+		<string>El imperio se disuelve, se forma Turquía</string>
+		<key>trueOrFalseAnswer</key>
+		<string>Falso</string>
+		<key>wikiSearchWord</key>
+		<string>Disolución del Imperio otomano</string>
+	</dict>
+</array>
+</plist>

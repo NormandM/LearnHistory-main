@@ -1,0 +1,366 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<!DOCTYPE plist PUBLIC "-//Apple//DTD PLIST 1.0//EN" "http://www.apple.com/DTDs/PropertyList-1.0.dtd">
+<plist version="1.0">
+<array>
+	<dict>
+		<key>correctTAnswer</key>
+		<string>Disputa por la sucesión al trono de España</string>
+		<key>date</key>
+		<string>1701</string>
+		<key>id</key>
+		<string>08f4c280-8311-11ed-a1eb-0242ac120002</string>
+		<key>incorrectAnswer1</key>
+		<string>Disputa fronteriza entre Francia y España</string>
+		<key>incorrectAnswer2</key>
+		<string>Una disputa por las rutas comerciales en el Caribe</string>
+		<key>incorrectAnswer3</key>
+		<string>Una disputa por el control del Sacro Imperio Romano Germánico</string>
+		<key>numberOfBadAnswers</key>
+		<integer>0</integer>
+		<key>numberOfBadAnswersQuiz</key>
+		<integer>0</integer>
+		<key>numberOfGoodAnswers</key>
+		<integer>0</integer>
+		<key>numberOfGoodAnswersQuiz</key>
+		<integer>0</integer>
+		<key>order</key>
+		<integer>21</integer>
+		<key>question</key>
+		<string>¿Cuál fue la causa principal de la Guerra de Sucesión Española de 1701?</string>
+		<key>questionTrueOrFalse</key>
+		<string>La causa principal de la guerra de sucesión española fue la muerte de Carlos II de España sin descendencia.</string>
+		<key>theme</key>
+		<string>España 1701-1975</string>
+		<key>timeLine</key>
+		<string> Comienza la Guerra de Sucesión española. </string>
+		<key>trueOrFalseAnswer</key>
+		<string>Verdadero</string>
+		<key>wikiSearchWord</key>
+		<string>Guerra de sucesión española</string>
+	</dict>
+	<dict>
+		<key>correctTAnswer</key>
+		<string>Francia y las colonias americanas</string>
+		<key>date</key>
+		<string>1761</string>
+		<key>id</key>
+		<string>08f4c398-8311-11ed-a1eb-0242ac120002</string>
+		<key>incorrectAnswer1</key>
+		<string>El Imperio Otomano y Prusia</string>
+		<key>incorrectAnswer2</key>
+		<string>La República Holandesa y Portugal</string>
+		<key>incorrectAnswer3</key>
+		<string>Austria y Rusia</string>
+		<key>numberOfBadAnswers</key>
+		<integer>0</integer>
+		<key>numberOfBadAnswersQuiz</key>
+		<integer>0</integer>
+		<key>numberOfGoodAnswers</key>
+		<integer>0</integer>
+		<key>numberOfGoodAnswersQuiz</key>
+		<integer>0</integer>
+		<key>order</key>
+		<integer>22</integer>
+		<key>question</key>
+		<string>¿Quiénes fueron los aliados de España en la Guerra de los Siete Años?</string>
+		<key>questionTrueOrFalse</key>
+		<string>La guerra de los Siete Años fue librada únicamente en América del Norte.</string>
+		<key>theme</key>
+		<string>España 1701-1975</string>
+		<key>timeLine</key>
+		<string> España se une a la Guerra de los Siete Años contra Gran Bretaña.</string>
+		<key>trueOrFalseAnswer</key>
+		<string>Falso</string>
+		<key>wikiSearchWord</key>
+		<string>Guerra de los Siete Años</string>
+	</dict>
+	<dict>
+		<key>correctTAnswer</key>
+		<string>Napoleón Bonaparte</string>
+		<key>date</key>
+		<string>1808</string>
+		<key>id</key>
+		<string>08f4c884-8311-11ed-a1eb-0242ac120002</string>
+		<key>incorrectAnswer1</key>
+		<string>Duque de Wellington</string>
+		<key>incorrectAnswer2</key>
+		<string>El rey Luis XVI</string>
+		<key>incorrectAnswer3</key>
+		<string>El rey Fernando VII</string>
+		<key>numberOfBadAnswers</key>
+		<integer>0</integer>
+		<key>numberOfBadAnswersQuiz</key>
+		<integer>0</integer>
+		<key>numberOfGoodAnswers</key>
+		<integer>0</integer>
+		<key>numberOfGoodAnswersQuiz</key>
+		<integer>0</integer>
+		<key>order</key>
+		<integer>23</integer>
+		<key>question</key>
+		<string>¿Quién fue el líder del ejército francés durante la Guerra Peninsular?</string>
+		<key>questionTrueOrFalse</key>
+		<string>La guerra de la Independencia Española fue un conflicto interno en España sin implicaciones internacionales. </string>
+		<key>theme</key>
+		<string>España 1701-1975</string>
+		<key>timeLine</key>
+		<string> Se libra la Guerra Peninsular contra Napoléon.</string>
+		<key>trueOrFalseAnswer</key>
+		<string>Falso</string>
+		<key>wikiSearchWord</key>
+		<string>Guerra de la Independencia Española</string>
+	</dict>
+	<dict>
+		<key>correctTAnswer</key>
+		<string>Venezuela</string>
+		<key>date</key>
+		<string>1808</string>
+		<key>id</key>
+		<string>08f4c9c4-8311-11ed-a1eb-0242ac120002</string>
+		<key>incorrectAnswer1</key>
+		<string>Perú</string>
+		<key>incorrectAnswer2</key>
+		<string>Chile</string>
+		<key>incorrectAnswer3</key>
+		<string>Argentina</string>
+		<key>numberOfBadAnswers</key>
+		<integer>0</integer>
+		<key>numberOfBadAnswersQuiz</key>
+		<integer>0</integer>
+		<key>numberOfGoodAnswers</key>
+		<integer>0</integer>
+		<key>numberOfGoodAnswersQuiz</key>
+		<integer>0</integer>
+		<key>order</key>
+		<integer>24</integer>
+		<key>question</key>
+		<string>¿Qué país condujo Simón Bolívar a la independencia de España?</string>
+		<key>questionTrueOrFalse</key>
+		<string>Las revoluciones hispanoamericanas no tuvieron relación con la independencia de las colonias británicas de América del Norte ni con la Revolución francesa.</string>
+		<key>theme</key>
+		<string>España 1701-1975</string>
+		<key>timeLine</key>
+		<string>Guerras de independencia hispanoamericanas</string>
+		<key>trueOrFalseAnswer</key>
+		<string>Falso</string>
+		<key>wikiSearchWord</key>
+		<string>Guerras de independencia hispanoamericanas</string>
+	</dict>
+	<dict>
+		<key>correctTAnswer</key>
+		<string>Cuba, Puerto Rico y Guam</string>
+		<key>date</key>
+		<string>1898</string>
+		<key>id</key>
+		<string>08f4cae6-8311-11ed-a1eb-0242ac120002</string>
+		<key>incorrectAnswer1</key>
+		<string>Cuba</string>
+		<key>incorrectAnswer2</key>
+		<string>Puerto Rico</string>
+		<key>incorrectAnswer3</key>
+		<string>Guam</string>
+		<key>numberOfBadAnswers</key>
+		<integer>0</integer>
+		<key>numberOfBadAnswersQuiz</key>
+		<integer>0</integer>
+		<key>numberOfGoodAnswers</key>
+		<integer>0</integer>
+		<key>numberOfGoodAnswersQuiz</key>
+		<integer>0</integer>
+		<key>order</key>
+		<integer>25</integer>
+		<key>question</key>
+		<string>¿Cuál de los siguientes territorios adquirió Estados Unidos como resultado de la Guerra Hispanoamericana?</string>
+		<key>questionTrueOrFalse</key>
+		<string>El siglo XIX representó para el Imperio español un claro declive, mientras que los Estados Unidos se expandieron militarmente y económicamente.</string>
+		<key>theme</key>
+		<string>España 1701-1975</string>
+		<key>timeLine</key>
+		<string> Se libra la Guerra Hispanoamericana.</string>
+		<key>trueOrFalseAnswer</key>
+		<string>Verdadero</string>
+		<key>wikiSearchWord</key>
+		<string>Guerra hispano-estadounidense</string>
+	</dict>
+	<dict>
+		<key>correctTAnswer</key>
+		<string>Republicanos y nacionalistas</string>
+		<key>date</key>
+		<string>1936</string>
+		<key>id</key>
+		<string>08f4cbf4-8311-11ed-a1eb-0242ac120002</string>
+		<key>incorrectAnswer1</key>
+		<string>Comunistas y fascistas</string>
+		<key>incorrectAnswer2</key>
+		<string>Demócratas y republicanos</string>
+		<key>incorrectAnswer3</key>
+		<string>Monárquicos y republicanos</string>
+		<key>numberOfBadAnswers</key>
+		<integer>0</integer>
+		<key>numberOfBadAnswersQuiz</key>
+		<integer>0</integer>
+		<key>numberOfGoodAnswers</key>
+		<integer>0</integer>
+		<key>numberOfGoodAnswersQuiz</key>
+		<integer>0</integer>
+		<key>order</key>
+		<integer>26</integer>
+		<key>question</key>
+		<string>¿Quiénes fueron las principales facciones implicadas en la Guerra Civil española?</string>
+		<key>questionTrueOrFalse</key>
+		<string>La guerra civil española se inició con el golpe de estado perpetrado por parte de las fuerzas armadas. </string>
+		<key>theme</key>
+		<string>España 1701-1975</string>
+		<key>timeLine</key>
+		<string> Comienza la Guerra Civil española </string>
+		<key>trueOrFalseAnswer</key>
+		<string>Verdadero</string>
+		<key>wikiSearchWord</key>
+		<string>Guerra civil española</string>
+	</dict>
+	<dict>
+		<key>correctTAnswer</key>
+		<string>Las potencias fascistas alemana e italiana</string>
+		<key>date</key>
+		<string>1937</string>
+		<key>id</key>
+		<string>08f4cd0c-8311-11ed-a1eb-0242ac120002</string>
+		<key>incorrectAnswer1</key>
+		<string>Las fuerzas nacionalistas españolas</string>
+		<key>incorrectAnswer2</key>
+		<string>La Unión Soviética</string>
+		<key>incorrectAnswer3</key>
+		<string>Estados Unidos</string>
+		<key>numberOfBadAnswers</key>
+		<integer>0</integer>
+		<key>numberOfBadAnswersQuiz</key>
+		<integer>0</integer>
+		<key>numberOfGoodAnswers</key>
+		<integer>0</integer>
+		<key>numberOfGoodAnswersQuiz</key>
+		<integer>0</integer>
+		<key>order</key>
+		<integer>27</integer>
+		<key>question</key>
+		<string>¿Quién fue el responsable del bombardeo de Guernica?</string>
+		<key>questionTrueOrFalse</key>
+		<string>Pablo Picasso creó un famoso cuadro llamado &quot;Guernica&quot; para mostrar el sufrimiento de la población bombardeada.</string>
+		<key>theme</key>
+		<string>España 1701-1975</string>
+		<key>timeLine</key>
+		<string>Bombardeo de Guernica</string>
+		<key>trueOrFalseAnswer</key>
+		<string>Verdadero</string>
+		<key>wikiSearchWord</key>
+		<string>Bombardeo de Guernica</string>
+	</dict>
+	<dict>
+		<key>correctTAnswer</key>
+		<string>Tomó el poder en un golpe militar</string>
+		<key>date</key>
+		<string>1939</string>
+		<key>id</key>
+		<string>08f4ce10-8311-11ed-a1eb-0242ac120002</string>
+		<key>incorrectAnswer1</key>
+		<string>Fue elegido en unas elecciones libres y justas</string>
+		<key>incorrectAnswer2</key>
+		<string>Heredó el trono</string>
+		<key>incorrectAnswer3</key>
+		<string>Fue nombrado por las Naciones Unidas</string>
+		<key>numberOfBadAnswers</key>
+		<integer>0</integer>
+		<key>numberOfBadAnswersQuiz</key>
+		<integer>0</integer>
+		<key>numberOfGoodAnswers</key>
+		<integer>0</integer>
+		<key>numberOfGoodAnswersQuiz</key>
+		<integer>0</integer>
+		<key>order</key>
+		<integer>28</integer>
+		<key>question</key>
+		<string>¿Cómo llegó Francisco Franco al poder en España?</string>
+		<key>questionTrueOrFalse</key>
+		<string>El régimen de Franco se caracterizó por la ausencia de ideología más allá del anticomunismo y el nacionalcatolicismo.</string>
+		<key>theme</key>
+		<string>España 1701-1975</string>
+		<key>timeLine</key>
+		<string>Francisco Franco se convierte en dictador de España.</string>
+		<key>trueOrFalseAnswer</key>
+		<string>Verdadero</string>
+		<key>wikiSearchWord</key>
+		<string>Francisco Franco</string>
+	</dict>
+	<dict>
+		<key>correctTAnswer</key>
+		<string>Neutro</string>
+		<key>date</key>
+		<string>1939</string>
+		<key>id</key>
+		<string>08f4cf32-8311-11ed-a1eb-0242ac120002</string>
+		<key>incorrectAnswer1</key>
+		<string>Aliados con las potencias del Eje</string>
+		<key>incorrectAnswer2</key>
+		<string>Se alió con las potencias aliadas</string>
+		<key>incorrectAnswer3</key>
+		<string>Involucrado en su propia guerra civil</string>
+		<key>numberOfBadAnswers</key>
+		<integer>0</integer>
+		<key>numberOfBadAnswersQuiz</key>
+		<integer>0</integer>
+		<key>numberOfGoodAnswers</key>
+		<integer>0</integer>
+		<key>numberOfGoodAnswersQuiz</key>
+		<integer>0</integer>
+		<key>order</key>
+		<integer>29</integer>
+		<key>question</key>
+		<string>¿Cuál de las siguientes opciones describe mejor la postura de España durante la Segunda Guerra Mundial?</string>
+		<key>questionTrueOrFalse</key>
+		<string>España oficialmente participó activamente en la Segunda Guerra Mundial. </string>
+		<key>theme</key>
+		<string>España 1701-1975</string>
+		<key>timeLine</key>
+		<string>España durante la Segunda Guerra Mundial</string>
+		<key>trueOrFalseAnswer</key>
+		<string>Falso</string>
+		<key>wikiSearchWord</key>
+		<string>España en la Segunda Guerra Mundial</string>
+	</dict>
+	<dict>
+		<key>correctTAnswer</key>
+		<string>La muerte del dictador Francisco Franco</string>
+		<key>date</key>
+		<string>1975</string>
+		<key>id</key>
+		<string>08f4d040-8311-11ed-a1eb-0242ac120002</string>
+		<key>incorrectAnswer1</key>
+		<string>La caída de la Unión Soviética</string>
+		<key>incorrectAnswer2</key>
+		<string>La firma del Tratado de Maastricht</string>
+		<key>incorrectAnswer3</key>
+		<string>Publicación del manifiesto &quot;Programa Posible</string>
+		<key>numberOfBadAnswers</key>
+		<integer>0</integer>
+		<key>numberOfBadAnswersQuiz</key>
+		<integer>0</integer>
+		<key>numberOfGoodAnswers</key>
+		<integer>0</integer>
+		<key>numberOfGoodAnswersQuiz</key>
+		<integer>0</integer>
+		<key>order</key>
+		<integer>30</integer>
+		<key>question</key>
+		<string>¿Qué acontecimiento marcó el inicio de la transición de España a la democracia?</string>
+		<key>questionTrueOrFalse</key>
+		<string>Juan Carlos I fue designado como sucesor del general Franco &quot;a título de rey&quot; solo unos días antes de la muerte de Franco.</string>
+		<key>theme</key>
+		<string>España 1701-1975</string>
+		<key>timeLine</key>
+		<string>Transición española a la democracia</string>
+		<key>trueOrFalseAnswer</key>
+		<string>Falso</string>
+		<key>wikiSearchWord</key>
+		<string>Transición española</string>
+	</dict>
+</array>
+</plist>

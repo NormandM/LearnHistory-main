@@ -1,0 +1,366 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<!DOCTYPE plist PUBLIC "-//Apple//DTD PLIST 1.0//EN" "http://www.apple.com/DTDs/PropertyList-1.0.dtd">
+<plist version="1.0">
+<array>
+	<dict>
+		<key>correctTAnswer</key>
+		<string>Hiéroglyphes</string>
+		<key>date</key>
+		<string>3200 BC</string>
+		<key>id</key>
+		<string>932aa0ac-b9c0-11ec-8422-0242ac120002</string>
+		<key>incorrectAnswer1</key>
+		<string>Cunéiforme</string>
+		<key>incorrectAnswer2</key>
+		<string>Alphabet antique</string>
+		<key>incorrectAnswer3</key>
+		<string>Images</string>
+		<key>numberOfBadAnswers</key>
+		<integer>0</integer>
+		<key>numberOfBadAnswersQuiz</key>
+		<integer>0</integer>
+		<key>numberOfGoodAnswers</key>
+		<integer>0</integer>
+		<key>numberOfGoodAnswersQuiz</key>
+		<integer>0</integer>
+		<key>order</key>
+		<integer>1</integer>
+		<key>question</key>
+		<string>Quel était le système d&apos;écriture formel utilisé en Egypte ancienne ?</string>
+		<key>questionTrueOrFalse</key>
+		<string>La connaissance de la lecture des hiéroglyphes n&apos;a jamais été perdue.</string>
+		<key>theme</key>
+		<string>Égypte antique 3200 AV-2400 AV</string>
+		<key>timeLine</key>
+		<string>L&apos;écriture hiéroglyphique est utilisée pour la première fois.</string>
+		<key>trueOrFalseAnswer</key>
+		<string>Faux</string>
+		<key>wikiSearchWord</key>
+		<string>Hiéroglyphes égyptiens</string>
+	</dict>
+	<dict>
+		<key>correctTAnswer</key>
+		<string>Narmer</string>
+		<key>date</key>
+		<string>3100 BC</string>
+		<key>id</key>
+		<string>932aa318-b9c0-11ec-8422-0242ac120002</string>
+		<key>incorrectAnswer1</key>
+		<string>Khufu</string>
+		<key>incorrectAnswer2</key>
+		<string>Thoutmosis</string>
+		<key>incorrectAnswer3</key>
+		<string>Amenhotep</string>
+		<key>numberOfBadAnswers</key>
+		<integer>0</integer>
+		<key>numberOfBadAnswersQuiz</key>
+		<integer>0</integer>
+		<key>numberOfGoodAnswers</key>
+		<integer>0</integer>
+		<key>numberOfGoodAnswersQuiz</key>
+		<integer>0</integer>
+		<key>order</key>
+		<integer>2</integer>
+		<key>question</key>
+		<string>Qui est le premier roi à avoir unifié l&apos;Egypte ?</string>
+		<key>questionTrueOrFalse</key>
+		<string>Narmer est le fondateur de la première dynastie.</string>
+		<key>theme</key>
+		<string>Égypte antique 3200 AV-2400 AV</string>
+		<key>timeLine</key>
+		<string>Première unification de la Haute et de la Basse-Égypte.</string>
+		<key>trueOrFalseAnswer</key>
+		<string>Vrai</string>
+		<key>wikiSearchWord</key>
+		<string>Narmer</string>
+	</dict>
+	<dict>
+		<key>correctTAnswer</key>
+		<string>L&apos;Ancien empire</string>
+		<key>date</key>
+		<string>3100 Av</string>
+		<key>id</key>
+		<string>932aa44e-b9c0-11ec-8422-0242ac120002</string>
+		<key>incorrectAnswer1</key>
+		<string>Le Moyen Empire </string>
+		<key>incorrectAnswer2</key>
+		<string>Le Nouvel Empire </string>
+		<key>incorrectAnswer3</key>
+		<string>La période intermédiaire </string>
+		<key>numberOfBadAnswers</key>
+		<integer>0</integer>
+		<key>numberOfBadAnswersQuiz</key>
+		<integer>0</integer>
+		<key>numberOfGoodAnswers</key>
+		<integer>0</integer>
+		<key>numberOfGoodAnswersQuiz</key>
+		<integer>0</integer>
+		<key>order</key>
+		<integer>3</integer>
+		<key>question</key>
+		<string>Pendant quelle période de l&apos;Egypte ancienne les pyramides ont-elles été construites ?</string>
+		<key>questionTrueOrFalse</key>
+		<string>L&apos;Ancien Empire est également connu sous le nom de &quot; l&apos;âge des pyramides &quot;.</string>
+		<key>theme</key>
+		<string>Égypte antique 3200 AV-2400 AV</string>
+		<key>timeLine</key>
+		<string>Début de l&apos;Ancien Empire.</string>
+		<key>trueOrFalseAnswer</key>
+		<string>Vrai</string>
+		<key>wikiSearchWord</key>
+		<string>Ancien Empire</string>
+	</dict>
+	<dict>
+		<key>correctTAnswer</key>
+		<string>Le mastaba </string>
+		<key>date</key>
+		<string>2780 Av</string>
+		<key>id</key>
+		<string>932aa57a-b9c0-11ec-8422-0242ac120002</string>
+		<key>incorrectAnswer1</key>
+		<string>Grottes</string>
+		<key>incorrectAnswer2</key>
+		<string>Sablières</string>
+		<key>incorrectAnswer3</key>
+		<string>Le sarcophage</string>
+		<key>numberOfBadAnswers</key>
+		<integer>0</integer>
+		<key>numberOfBadAnswersQuiz</key>
+		<integer>0</integer>
+		<key>numberOfGoodAnswers</key>
+		<integer>0</integer>
+		<key>numberOfGoodAnswersQuiz</key>
+		<integer>0</integer>
+		<key>order</key>
+		<integer>4</integer>
+		<key>question</key>
+		<string>Qu&apos;utilisait-on pour enterrer les morts, avant la pyramide à degrés ?</string>
+		<key>questionTrueOrFalse</key>
+		<string>Les rois n&apos;ont jamais été enterrés dans des mastabas.</string>
+		<key>theme</key>
+		<string>Égypte antique 3200 AV-2400 AV</string>
+		<key>timeLine</key>
+		<string>Premiers mastabas</string>
+		<key>trueOrFalseAnswer</key>
+		<string>Faux</string>
+		<key>wikiSearchWord</key>
+		<string>Mastaba</string>
+	</dict>
+	<dict>
+		<key>correctTAnswer</key>
+		<string>Djoser</string>
+		<key>date</key>
+		<string>2670–2650 Av</string>
+		<key>id</key>
+		<string>932aa692-b9c0-11ec-8422-0242ac120002</string>
+		<key>incorrectAnswer1</key>
+		<string>Narmer</string>
+		<key>incorrectAnswer2</key>
+		<string>Snéfrou </string>
+		<key>incorrectAnswer3</key>
+		<string>Khufu</string>
+		<key>numberOfBadAnswers</key>
+		<integer>0</integer>
+		<key>numberOfBadAnswersQuiz</key>
+		<integer>0</integer>
+		<key>numberOfGoodAnswers</key>
+		<integer>0</integer>
+		<key>numberOfGoodAnswersQuiz</key>
+		<integer>0</integer>
+		<key>order</key>
+		<integer>5</integer>
+		<key>question</key>
+		<string>Qui fut le premier pharaon à construire une pyramide à degrés ?</string>
+		<key>questionTrueOrFalse</key>
+		<string>L&apos;architecte de la Pyramide de Djoser était Imhotep.</string>
+		<key>theme</key>
+		<string>Égypte antique 3200 AV-2400 AV</string>
+		<key>timeLine</key>
+		<string>Pyramide de Djoser</string>
+		<key>trueOrFalseAnswer</key>
+		<string>Vrai</string>
+		<key>wikiSearchWord</key>
+		<string>Complexe funéraire de Djéser</string>
+	</dict>
+	<dict>
+		<key>correctTAnswer</key>
+		<string>Snéfrou </string>
+		<key>date</key>
+		<string>2600 Av</string>
+		<key>id</key>
+		<string>932aa7b4-b9c0-11ec-8422-0242ac120002</string>
+		<key>incorrectAnswer1</key>
+		<string>Djoser</string>
+		<key>incorrectAnswer2</key>
+		<string>Narmer</string>
+		<key>incorrectAnswer3</key>
+		<string>Neferefre</string>
+		<key>numberOfBadAnswers</key>
+		<integer>0</integer>
+		<key>numberOfBadAnswersQuiz</key>
+		<integer>0</integer>
+		<key>numberOfGoodAnswers</key>
+		<integer>0</integer>
+		<key>numberOfGoodAnswersQuiz</key>
+		<integer>0</integer>
+		<key>order</key>
+		<integer>6</integer>
+		<key>question</key>
+		<string>Quel pharaon de l&apos;Ancien Empire a construit trois pyramides pendant son règne?</string>
+		<key>questionTrueOrFalse</key>
+		<string>Les trois pyramides, construites par Snéfrou, sont maintenant disparues.</string>
+		<key>theme</key>
+		<string>Égypte antique 3200 AV-2400 AV</string>
+		<key>timeLine</key>
+		<string>La pyramide courbe de Dahchour.</string>
+		<key>trueOrFalseAnswer</key>
+		<string>Faux</string>
+		<key>wikiSearchWord</key>
+		<string>Snéfrou</string>
+	</dict>
+	<dict>
+		<key>correctTAnswer</key>
+		<string>Les organes internes</string>
+		<key>date</key>
+		<string>2600 Av</string>
+		<key>id</key>
+		<string>932aab38-b9c0-11ec-8422-0242ac120002</string>
+		<key>incorrectAnswer1</key>
+		<string>Nourriture</string>
+		<key>incorrectAnswer2</key>
+		<string>Eau</string>
+		<key>incorrectAnswer3</key>
+		<string>Bijoux</string>
+		<key>numberOfBadAnswers</key>
+		<integer>0</integer>
+		<key>numberOfBadAnswersQuiz</key>
+		<integer>0</integer>
+		<key>numberOfGoodAnswers</key>
+		<integer>0</integer>
+		<key>numberOfGoodAnswersQuiz</key>
+		<integer>0</integer>
+		<key>order</key>
+		<integer>7</integer>
+		<key>question</key>
+		<string>Des vases canopes ont été trouvés à côté de tombes. Que contenaient-ils?</string>
+		<key>questionTrueOrFalse</key>
+		<string>Les viscères étaient tous conservés dans un seul vase canope.</string>
+		<key>theme</key>
+		<string>Égypte antique 3200 AV-2400 AV</string>
+		<key>timeLine</key>
+		<string>Les premiers vases canopes sont mis au point.</string>
+		<key>trueOrFalseAnswer</key>
+		<string>Faux</string>
+		<key>wikiSearchWord</key>
+		<string>Vase canope</string>
+	</dict>
+	<dict>
+		<key>correctTAnswer</key>
+		<string>Grande Pyramide de Gizeh</string>
+		<key>date</key>
+		<string>2566 Av</string>
+		<key>id</key>
+		<string>932aac64-b9c0-11ec-8422-0242ac120002</string>
+		<key>incorrectAnswer1</key>
+		<string>Le Sphinx</string>
+		<key>incorrectAnswer2</key>
+		<string>Phare d&apos;Alexandrie</string>
+		<key>incorrectAnswer3</key>
+		<string>Vallée des Rois</string>
+		<key>numberOfBadAnswers</key>
+		<integer>0</integer>
+		<key>numberOfBadAnswersQuiz</key>
+		<integer>0</integer>
+		<key>numberOfGoodAnswers</key>
+		<integer>0</integer>
+		<key>numberOfGoodAnswersQuiz</key>
+		<integer>0</integer>
+		<key>order</key>
+		<integer>8</integer>
+		<key>question</key>
+		<string>Quelle est la plus ancienne des sept merveilles du monde antique ?</string>
+		<key>questionTrueOrFalse</key>
+		<string>L’architecte de la pyramide de Khéops est Imhotep.</string>
+		<key>theme</key>
+		<string>Égypte antique 3200 AV-2400 AV</string>
+		<key>timeLine</key>
+		<string>Grande Pyramide de Gizeh</string>
+		<key>trueOrFalseAnswer</key>
+		<string>Faux</string>
+		<key>wikiSearchWord</key>
+		<string>Pyramide de Khéops</string>
+	</dict>
+	<dict>
+		<key>correctTAnswer</key>
+		<string>Ancien Empire</string>
+		<key>date</key>
+		<string> 2558–2532 Av</string>
+		<key>id</key>
+		<string>932aad72-b9c0-11ec-8422-0242ac120002</string>
+		<key>incorrectAnswer1</key>
+		<string>Nouveau Royaume</string>
+		<key>incorrectAnswer2</key>
+		<string>Moyen Empire</string>
+		<key>incorrectAnswer3</key>
+		<string>Première période intermédiaire</string>
+		<key>numberOfBadAnswers</key>
+		<integer>0</integer>
+		<key>numberOfBadAnswersQuiz</key>
+		<integer>0</integer>
+		<key>numberOfGoodAnswers</key>
+		<integer>0</integer>
+		<key>numberOfGoodAnswersQuiz</key>
+		<integer>0</integer>
+		<key>order</key>
+		<integer>9</integer>
+		<key>question</key>
+		<string>A quelle période de l&apos;histoire égyptienne le Grand Sphinx a-t-il été construit ?</string>
+		<key>questionTrueOrFalse</key>
+		<string>Le Sphinx est la sculpture monolithique la plus grande du monde.</string>
+		<key>theme</key>
+		<string>Égypte antique 3200 AV-2400 AV</string>
+		<key>timeLine</key>
+		<string>Le Sphinx est construit.</string>
+		<key>trueOrFalseAnswer</key>
+		<string>Vrai</string>
+		<key>wikiSearchWord</key>
+		<string>Grand Sphinx de Gizeh</string>
+	</dict>
+	<dict>
+		<key>correctTAnswer</key>
+		<string>Les Nubiens</string>
+		<key>date</key>
+		<string>2300 Av</string>
+		<key>id</key>
+		<string>932aafa2-b9c0-11ec-8422-0242ac120002</string>
+		<key>incorrectAnswer1</key>
+		<string>Les Hittites</string>
+		<key>incorrectAnswer2</key>
+		<string>Les Grecs</string>
+		<key>incorrectAnswer3</key>
+		<string>Les Romains</string>
+		<key>numberOfBadAnswers</key>
+		<integer>0</integer>
+		<key>numberOfBadAnswersQuiz</key>
+		<integer>0</integer>
+		<key>numberOfGoodAnswers</key>
+		<integer>0</integer>
+		<key>numberOfGoodAnswersQuiz</key>
+		<integer>0</integer>
+		<key>order</key>
+		<integer>10</integer>
+		<key>question</key>
+		<string>Qui a conquis les Egyptiens et a été conquis par les Egyptiens ?</string>
+		<key>questionTrueOrFalse</key>
+		<string>La Nubie a été conquise par le Nouvel Empire d&apos;Égypte sous le règne du pharaon Thoutmosis Ier.</string>
+		<key>theme</key>
+		<string>Égypte antique 3200 AV-2400 AV</string>
+		<key>timeLine</key>
+		<string>Les Nubiens sont mentionnés pour la première fois.</string>
+		<key>trueOrFalseAnswer</key>
+		<string>Vrai</string>
+		<key>wikiSearchWord</key>
+		<string>Nubie</string>
+	</dict>
+</array>
+</plist>

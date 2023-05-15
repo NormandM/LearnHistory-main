@@ -1,0 +1,366 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<!DOCTYPE plist PUBLIC "-//Apple//DTD PLIST 1.0//EN" "http://www.apple.com/DTDs/PropertyList-1.0.dtd">
+<plist version="1.0">
+<array>
+	<dict>
+		<key>correctTAnswer</key>
+		<string>La première période intermédiaire</string>
+		<key>date</key>
+		<string>2181–2055 Av</string>
+		<key>id</key>
+		<string>932ab0b0-b9c0-11ec-8422-0242ac120002</string>
+		<key>incorrectAnswer1</key>
+		<string>L&apos;âge des ténèbres</string>
+		<key>incorrectAnswer2</key>
+		<string>Le moyen empire</string>
+		<key>incorrectAnswer3</key>
+		<string> Le Nouvel Empire </string>
+		<key>numberOfBadAnswers</key>
+		<integer>0</integer>
+		<key>numberOfBadAnswersQuiz</key>
+		<integer>0</integer>
+		<key>numberOfGoodAnswers</key>
+		<integer>0</integer>
+		<key>numberOfGoodAnswersQuiz</key>
+		<integer>0</integer>
+		<key>order</key>
+		<integer>12</integer>
+		<key>question</key>
+		<string>Quel est le nom de la période qui suit le déclin de l&apos;Ancien Empire ?</string>
+		<key>questionTrueOrFalse</key>
+		<string>Le territoire égyptien reste unifié durant la Première Période intermédiaire.</string>
+		<key>theme</key>
+		<string>Égypte antique 2300 AV-1323 AV</string>
+		<key>timeLine</key>
+		<string>Première période intermédiaire</string>
+		<key>trueOrFalseAnswer</key>
+		<string>Faux</string>
+		<key>wikiSearchWord</key>
+		<string>Première période intermédiaire d&apos;Égypte</string>
+	</dict>
+	<dict>
+		<key>correctTAnswer</key>
+		<string>Une période de réunification</string>
+		<key>date</key>
+		<string>2040 to 1782 Av</string>
+		<key>id</key>
+		<string>932ab1c8-b9c0-11ec-8422-0242ac120002</string>
+		<key>incorrectAnswer1</key>
+		<string>Une période de guerres et de conflits.</string>
+		<key>incorrectAnswer2</key>
+		<string>L&apos;âge des bâtisseurs de pyramides.</string>
+		<key>incorrectAnswer3</key>
+		<string>La décadence de l&apos;Egypte</string>
+		<key>numberOfBadAnswers</key>
+		<integer>0</integer>
+		<key>numberOfBadAnswersQuiz</key>
+		<integer>0</integer>
+		<key>numberOfGoodAnswers</key>
+		<integer>0</integer>
+		<key>numberOfGoodAnswersQuiz</key>
+		<integer>0</integer>
+		<key>order</key>
+		<integer>14</integer>
+		<key>question</key>
+		<string>Qu&apos;est-ce qui décrit le mieux le Moyen Empire ?</string>
+		<key>questionTrueOrFalse</key>
+		<string>Le Moyen Empire est une période de prospérité.</string>
+		<key>theme</key>
+		<string>Égypte antique 2300 AV-1323 AV</string>
+		<key>timeLine</key>
+		<string>Moyen Empire d&apos;Égypte</string>
+		<key>trueOrFalseAnswer</key>
+		<string>Vrai</string>
+		<key>wikiSearchWord</key>
+		<string>Moyen Empire d&apos;Égypte</string>
+	</dict>
+	<dict>
+		<key>correctTAnswer</key>
+		<string>Les Hyksos</string>
+		<key>date</key>
+		<string>1650 – 1550 Av</string>
+		<key>id</key>
+		<string>932ab2ea-b9c0-11ec-8422-0242ac120002</string>
+		<key>incorrectAnswer1</key>
+		<string>Les Hittites </string>
+		<key>incorrectAnswer2</key>
+		<string>Les Phéniciens</string>
+		<key>incorrectAnswer3</key>
+		<string>Les Grecs</string>
+		<key>numberOfBadAnswers</key>
+		<integer>0</integer>
+		<key>numberOfBadAnswersQuiz</key>
+		<integer>0</integer>
+		<key>numberOfGoodAnswers</key>
+		<integer>0</integer>
+		<key>numberOfGoodAnswersQuiz</key>
+		<integer>0</integer>
+		<key>order</key>
+		<integer>15</integer>
+		<key>question</key>
+		<string>Qui sont les étrangers qui ont régné sur l&apos;Egypte pendant la 2e période intermédiaire?</string>
+		<key>questionTrueOrFalse</key>
+		<string>Contrairement à la première période intermédiaire, la deuxième période intermédiaire est une période de croissance.</string>
+		<key>theme</key>
+		<string>Égypte antique 2300 AV-1323 AV</string>
+		<key>timeLine</key>
+		<string>Deuxième période intermédiaire</string>
+		<key>trueOrFalseAnswer</key>
+		<string>Faux</string>
+		<key>wikiSearchWord</key>
+		<string>Deuxième période intermédiaire de l&apos;Égypte</string>
+	</dict>
+	<dict>
+		<key>correctTAnswer</key>
+		<string>Traité de chirurgie</string>
+		<key>date</key>
+		<string>1600 Av</string>
+		<key>id</key>
+		<string>932ab5ba-b9c0-11ec-8422-0242ac120002</string>
+		<key>incorrectAnswer1</key>
+		<string>Astronomie</string>
+		<key>incorrectAnswer2</key>
+		<string>Physique</string>
+		<key>incorrectAnswer3</key>
+		<string>Architecture</string>
+		<key>numberOfBadAnswers</key>
+		<integer>0</integer>
+		<key>numberOfBadAnswersQuiz</key>
+		<integer>0</integer>
+		<key>numberOfGoodAnswers</key>
+		<integer>0</integer>
+		<key>numberOfGoodAnswersQuiz</key>
+		<integer>0</integer>
+		<key>order</key>
+		<integer>16</integer>
+		<key>question</key>
+		<string>De quelle activité, le papyrus d’Edwin Smith, est-il le plus ancien document connu?</string>
+		<key>questionTrueOrFalse</key>
+		<string>Le papyrus Edwin Smith présente une approche rationnelle et scientifique de la médecine.</string>
+		<key>theme</key>
+		<string>Égypte antique 2300 AV-1323 AV</string>
+		<key>timeLine</key>
+		<string>Papyrus d&apos;Edwin Smith</string>
+		<key>trueOrFalseAnswer</key>
+		<string>Vrai</string>
+		<key>wikiSearchWord</key>
+		<string>Papyrus Edwin Smith</string>
+	</dict>
+	<dict>
+		<key>correctTAnswer</key>
+		<string>Livre des morts</string>
+		<key>date</key>
+		<string>1550 Av</string>
+		<key>id</key>
+		<string>932aae94-b9c0-11ec-8422-0242ac120002</string>
+		<key>incorrectAnswer1</key>
+		<string>Livre de hiéroglyphes</string>
+		<key>incorrectAnswer2</key>
+		<string>Livre de l&apos;au-delà</string>
+		<key>incorrectAnswer3</key>
+		<string>Livre des vivants</string>
+		<key>numberOfBadAnswers</key>
+		<integer>0</integer>
+		<key>numberOfBadAnswersQuiz</key>
+		<integer>0</integer>
+		<key>numberOfGoodAnswers</key>
+		<integer>0</integer>
+		<key>numberOfGoodAnswersQuiz</key>
+		<integer>0</integer>
+		<key>order</key>
+		<integer>17</integer>
+		<key>question</key>
+		<string>Quel document était placé dans le cercueil du défunt ?</string>
+		<key>questionTrueOrFalse</key>
+		<string>Le but du Livre des morts est d&apos;aider une personne décédée à traverser le monde souterrain.</string>
+		<key>theme</key>
+		<string>Égypte antique 2300 AV-1323 AV</string>
+		<key>timeLine</key>
+		<string>Le Livre des Morts est utilisé pour la première fois.</string>
+		<key>trueOrFalseAnswer</key>
+		<string>Vrai</string>
+		<key>wikiSearchWord</key>
+		<string>Le livre des morts</string>
+	</dict>
+	<dict>
+		<key>correctTAnswer</key>
+		<string>Hatchepsout</string>
+		<key>date</key>
+		<string>1507–1458 Av</string>
+		<key>id</key>
+		<string>932ab92a-b9c0-11ec-8422-0242ac120002</string>
+		<key>incorrectAnswer1</key>
+		<string>Néfertiti</string>
+		<key>incorrectAnswer2</key>
+		<string>Twosret</string>
+		<key>incorrectAnswer3</key>
+		<string>Neithikret</string>
+		<key>numberOfBadAnswers</key>
+		<integer>0</integer>
+		<key>numberOfBadAnswersQuiz</key>
+		<integer>0</integer>
+		<key>numberOfGoodAnswers</key>
+		<integer>0</integer>
+		<key>numberOfGoodAnswersQuiz</key>
+		<integer>0</integer>
+		<key>order</key>
+		<integer>18</integer>
+		<key>question</key>
+		<string>Quel est le nom d&apos;une femme pharaon de la 18e dynastie du Nouvel Empire ?</string>
+		<key>questionTrueOrFalse</key>
+		<string>Hatchepsout est connue pour être la « première grande femme dont l&apos;histoire ait gardé le nom</string>
+		<key>theme</key>
+		<string>Égypte antique 2300 AV-1323 AV</string>
+		<key>timeLine</key>
+		<string>Hatchepsout</string>
+		<key>trueOrFalseAnswer</key>
+		<string>Vrai</string>
+		<key>wikiSearchWord</key>
+		<string>Hatchepsout</string>
+	</dict>
+	<dict>
+		<key>correctTAnswer</key>
+		<string>Thoutmosis III</string>
+		<key>date</key>
+		<string>1481-1425 Av</string>
+		<key>id</key>
+		<string>932aba6a-b9c0-11ec-8422-0242ac120002</string>
+		<key>incorrectAnswer1</key>
+		<string>Ramsès II</string>
+		<key>incorrectAnswer2</key>
+		<string>Toutankhamon</string>
+		<key>incorrectAnswer3</key>
+		<string>Djoser</string>
+		<key>numberOfBadAnswers</key>
+		<integer>0</integer>
+		<key>numberOfBadAnswersQuiz</key>
+		<integer>0</integer>
+		<key>numberOfGoodAnswers</key>
+		<integer>0</integer>
+		<key>numberOfGoodAnswersQuiz</key>
+		<integer>0</integer>
+		<key>order</key>
+		<integer>19</integer>
+		<key>question</key>
+		<string>Quel pharaon a créé le plus grand empire que l&apos;Egypte ait jamais connu?</string>
+		<key>questionTrueOrFalse</key>
+		<string>Thoutmosis III a régné 53 ans.</string>
+		<key>theme</key>
+		<string>Égypte antique 2300 AV-1323 AV</string>
+		<key>timeLine</key>
+		<string>Thoutmosis III</string>
+		<key>trueOrFalseAnswer</key>
+		<string>Vrai</string>
+		<key>wikiSearchWord</key>
+		<string>Thoutmosis III</string>
+	</dict>
+	<dict>
+		<key>correctTAnswer</key>
+		<string>Néfertiti</string>
+		<key>date</key>
+		<string>1370 – 1330 Av</string>
+		<key>id</key>
+		<string>932abb8c-b9c0-11ec-8422-0242ac120002</string>
+		<key>incorrectAnswer1</key>
+		<string>Cléopâtre</string>
+		<key>incorrectAnswer2</key>
+		<string>Hatchepsout</string>
+		<key>incorrectAnswer3</key>
+		<string>Twosret</string>
+		<key>numberOfBadAnswers</key>
+		<integer>0</integer>
+		<key>numberOfBadAnswersQuiz</key>
+		<integer>0</integer>
+		<key>numberOfGoodAnswers</key>
+		<integer>0</integer>
+		<key>numberOfGoodAnswersQuiz</key>
+		<integer>0</integer>
+		<key>order</key>
+		<integer>20</integer>
+		<key>question</key>
+		<string>Son buste est l&apos;une des œuvres les plus copiées de l&apos;Égypte ancienne. Qui est-elle ?</string>
+		<key>questionTrueOrFalse</key>
+		<string>Néfertiti était la grande épouse royale du pharaon Akhénaton.</string>
+		<key>theme</key>
+		<string>Égypte antique 2300 AV-1323 AV</string>
+		<key>timeLine</key>
+		<string>Néfertiti</string>
+		<key>trueOrFalseAnswer</key>
+		<string>Vrai</string>
+		<key>wikiSearchWord</key>
+		<string>Néfertiti</string>
+	</dict>
+	<dict>
+		<key>correctTAnswer</key>
+		<string>Akhénaton</string>
+		<key>date</key>
+		<string>1351–1334 Av</string>
+		<key>id</key>
+		<string>932abca4-b9c0-11ec-8422-0242ac120002</string>
+		<key>incorrectAnswer1</key>
+		<string>Djoser</string>
+		<key>incorrectAnswer2</key>
+		<string>Ramsès II</string>
+		<key>incorrectAnswer3</key>
+		<string>Toutankhamon</string>
+		<key>numberOfBadAnswers</key>
+		<integer>0</integer>
+		<key>numberOfBadAnswersQuiz</key>
+		<integer>0</integer>
+		<key>numberOfGoodAnswers</key>
+		<integer>0</integer>
+		<key>numberOfGoodAnswersQuiz</key>
+		<integer>0</integer>
+		<key>order</key>
+		<integer>21</integer>
+		<key>question</key>
+		<string>Quel pharaon a institué le monothéisme pour la première fois de l&apos;histoire?</string>
+		<key>questionTrueOrFalse</key>
+		<string>Le monothéisme instauré par Akhénaton transforme à jamais la religion égyptienne.</string>
+		<key>theme</key>
+		<string>Égypte antique 2300 AV-1323 AV</string>
+		<key>timeLine</key>
+		<string>Akhénaton</string>
+		<key>trueOrFalseAnswer</key>
+		<string>Faux</string>
+		<key>wikiSearchWord</key>
+		<string>Le règne d&apos;Akhenaton</string>
+	</dict>
+	<dict>
+		<key>correctTAnswer</key>
+		<string>Toutankhamon</string>
+		<key>date</key>
+		<string>1341 -  1323 Av</string>
+		<key>id</key>
+		<string>932abdbc-b9c0-11ec-8422-0242ac120002</string>
+		<key>incorrectAnswer1</key>
+		<string>Ramsès II</string>
+		<key>incorrectAnswer2</key>
+		<string>Akhénaton</string>
+		<key>incorrectAnswer3</key>
+		<string>Djoser</string>
+		<key>numberOfBadAnswers</key>
+		<integer>0</integer>
+		<key>numberOfBadAnswersQuiz</key>
+		<integer>0</integer>
+		<key>numberOfGoodAnswers</key>
+		<integer>0</integer>
+		<key>numberOfGoodAnswersQuiz</key>
+		<integer>0</integer>
+		<key>order</key>
+		<integer>22</integer>
+		<key>question</key>
+		<string>Howard Carter a découvert sa tombe presque intacte en 1922. Qui est-il ?</string>
+		<key>questionTrueOrFalse</key>
+		<string>Toutankhamon est mort de vieillesse.</string>
+		<key>theme</key>
+		<string>Égypte antique 2300 AV-1323 AV</string>
+		<key>timeLine</key>
+		<string>Toutankhamon</string>
+		<key>trueOrFalseAnswer</key>
+		<string>Faux</string>
+		<key>wikiSearchWord</key>
+		<string>Toutankhamon</string>
+	</dict>
+</array>
+</plist>

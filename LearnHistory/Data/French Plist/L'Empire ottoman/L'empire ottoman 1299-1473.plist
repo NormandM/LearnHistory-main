@@ -1,0 +1,366 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<!DOCTYPE plist PUBLIC "-//Apple//DTD PLIST 1.0//EN" "http://www.apple.com/DTDs/PropertyList-1.0.dtd">
+<plist version="1.0">
+<array>
+	<dict>
+		<key>correctTAnswer</key>
+		<string>Osman I</string>
+		<key>date</key>
+		<string>1299</string>
+		<key>id</key>
+		<string>c92a1636-ef72-11ed-a05b-0242ac120003</string>
+		<key>incorrectAnswer1</key>
+		<string>Orhan</string>
+		<key>incorrectAnswer2</key>
+		<string>Murad I</string>
+		<key>incorrectAnswer3</key>
+		<string>Mehmed II</string>
+		<key>numberOfBadAnswers</key>
+		<integer>0</integer>
+		<key>numberOfBadAnswersQuiz</key>
+		<integer>0</integer>
+		<key>numberOfGoodAnswers</key>
+		<integer>0</integer>
+		<key>numberOfGoodAnswersQuiz</key>
+		<integer>0</integer>
+		<key>order</key>
+		<integer>1</integer>
+		<key>question</key>
+		<string>Qui a fondé l&apos;Empire ottoman ?</string>
+		<key>questionTrueOrFalse</key>
+		<string>Osman Ier a profité de la faiblesse des empires seldjoukide et byzantin pour établir et renforcer son émirat.</string>
+		<key>theme</key>
+		<string>L&apos;empire ottoman 1299-1473</string>
+		<key>timeLine</key>
+		<string>Osman I fonde l&apos;Empire Ottoman</string>
+		<key>trueOrFalseAnswer</key>
+		<string>Vrai</string>
+		<key>wikiSearchWord</key>
+		<string>Osman Ier</string>
+	</dict>
+	<dict>
+		<key>correctTAnswer</key>
+		<string>Bursa</string>
+		<key>date</key>
+		<string>1326</string>
+		<key>id</key>
+		<string>c92a18e8-ef72-11ed-a05b-0242ac120003</string>
+		<key>incorrectAnswer1</key>
+		<string>Istanbul</string>
+		<key>incorrectAnswer2</key>
+		<string>Edirne</string>
+		<key>incorrectAnswer3</key>
+		<string>Ankara</string>
+		<key>numberOfBadAnswers</key>
+		<integer>0</integer>
+		<key>numberOfBadAnswersQuiz</key>
+		<integer>0</integer>
+		<key>numberOfGoodAnswers</key>
+		<integer>0</integer>
+		<key>numberOfGoodAnswersQuiz</key>
+		<integer>0</integer>
+		<key>order</key>
+		<integer>2</integer>
+		<key>question</key>
+		<string>Quelle était la première capitale de l&apos;Empire ottoman ?</string>
+		<key>questionTrueOrFalse</key>
+		<string>Le siège de Bursa s&apos;est terminé par la victoire de l&apos;Empire Ottoman.</string>
+		<key>theme</key>
+		<string>L&apos;empire ottoman 1299-1473</string>
+		<key>timeLine</key>
+		<string> Bursa: 1ère capitale ottomane</string>
+		<key>trueOrFalseAnswer</key>
+		<string>Faux</string>
+		<key>wikiSearchWord</key>
+		<string>Siège de Bursa</string>
+	</dict>
+	<dict>
+		<key>correctTAnswer</key>
+		<string>Péninsule de Gallipoli</string>
+		<key>date</key>
+		<string>1354</string>
+		<key>id</key>
+		<string>c92a1a00-ef72-11ed-a05b-0242ac120003</string>
+		<key>incorrectAnswer1</key>
+		<string>Péninsule ibérique</string>
+		<key>incorrectAnswer2</key>
+		<string>Péninsule balkanique</string>
+		<key>incorrectAnswer3</key>
+		<string>Péninsule scandinave</string>
+		<key>numberOfBadAnswers</key>
+		<integer>0</integer>
+		<key>numberOfBadAnswersQuiz</key>
+		<integer>0</integer>
+		<key>numberOfGoodAnswers</key>
+		<integer>0</integer>
+		<key>numberOfGoodAnswersQuiz</key>
+		<integer>0</integer>
+		<key>order</key>
+		<integer>3</integer>
+		<key>question</key>
+		<string>Quelle péninsule européenne les Ottomans ont-ils d&apos;abord capturée ?</string>
+		<key>questionTrueOrFalse</key>
+		<string>La chute de Gallipoli a ouvert la voie à la conquête ottomane du Péloponnèse, de la Serbie et de la Hongrie.</string>
+		<key>theme</key>
+		<string>L&apos;empire ottoman 1299-1473</string>
+		<key>timeLine</key>
+		<string> Gallipoli: Les Ottomans en Europe</string>
+		<key>trueOrFalseAnswer</key>
+		<string>Vrai</string>
+		<key>wikiSearchWord</key>
+		<string>Chute de Gallipoli</string>
+	</dict>
+	<dict>
+		<key>correctTAnswer</key>
+		<string>Bataille du Kosovo</string>
+		<key>date</key>
+		<string>1389</string>
+		<key>id</key>
+		<string>c92a1b0e-ef72-11ed-a05b-0242ac120003</string>
+		<key>incorrectAnswer1</key>
+		<string>Bataille de Maritsa</string>
+		<key>incorrectAnswer2</key>
+		<string>Bataille de Nicopolis</string>
+		<key>incorrectAnswer3</key>
+		<string>Bataille d&apos;Ankara</string>
+		<key>numberOfBadAnswers</key>
+		<integer>0</integer>
+		<key>numberOfBadAnswersQuiz</key>
+		<integer>0</integer>
+		<key>numberOfGoodAnswers</key>
+		<integer>0</integer>
+		<key>numberOfGoodAnswersQuiz</key>
+		<integer>0</integer>
+		<key>order</key>
+		<integer>4</integer>
+		<key>question</key>
+		<string>Quelle bataille a entraîné une victoire ottomane sur l&apos;armée serbe ?</string>
+		<key>questionTrueOrFalse</key>
+		<string>La coalition de chrétiens des Balkans était composée uniquement de Serbes.</string>
+		<key>theme</key>
+		<string>L&apos;empire ottoman 1299-1473</string>
+		<key>timeLine</key>
+		<string> Kosovo: Les Ottomans battent les Serbes</string>
+		<key>trueOrFalseAnswer</key>
+		<string>Faux</string>
+		<key>wikiSearchWord</key>
+		<string>Bataille de Kosovo Polje</string>
+	</dict>
+	<dict>
+		<key>correctTAnswer</key>
+		<string>Bataille de Nicopolis</string>
+		<key>date</key>
+		<string>1396</string>
+		<key>id</key>
+		<string>c92a1c58-ef72-11ed-a05b-0242ac120003</string>
+		<key>incorrectAnswer1</key>
+		<string>Bataille du Kosovo</string>
+		<key>incorrectAnswer2</key>
+		<string>Bataille de Maritsa</string>
+		<key>incorrectAnswer3</key>
+		<string>Bataille d&apos;Ankara</string>
+		<key>numberOfBadAnswers</key>
+		<integer>0</integer>
+		<key>numberOfBadAnswersQuiz</key>
+		<integer>0</integer>
+		<key>numberOfGoodAnswers</key>
+		<integer>0</integer>
+		<key>numberOfGoodAnswersQuiz</key>
+		<integer>0</integer>
+		<key>order</key>
+		<integer>5</integer>
+		<key>question</key>
+		<string>Dans quelle bataille l&apos;Empire ottoman a-t-il vaincu une armée de croisés en provenance d&apos;Europe occidentale ?</string>
+		<key>questionTrueOrFalse</key>
+		<string>La bataille de Nicopolis a eu lieu en Bulgarie.</string>
+		<key>theme</key>
+		<string>L&apos;empire ottoman 1299-1473</string>
+		<key>timeLine</key>
+		<string> Nicopolis: Défaite des Croisés</string>
+		<key>trueOrFalseAnswer</key>
+		<string>Vrai</string>
+		<key>wikiSearchWord</key>
+		<string>Bataille de Nicopolis</string>
+	</dict>
+	<dict>
+		<key>correctTAnswer</key>
+		<string>Tamerlan</string>
+		<key>date</key>
+		<string>1402</string>
+		<key>id</key>
+		<string>c92a1e10-ef72-11ed-a05b-0242ac120003</string>
+		<key>incorrectAnswer1</key>
+		<string>Genghis Khan</string>
+		<key>incorrectAnswer2</key>
+		<string>Alexandre le Grand</string>
+		<key>incorrectAnswer3</key>
+		<string>Napoléon Bonaparte</string>
+		<key>numberOfBadAnswers</key>
+		<integer>0</integer>
+		<key>numberOfBadAnswersQuiz</key>
+		<integer>0</integer>
+		<key>numberOfGoodAnswers</key>
+		<integer>0</integer>
+		<key>numberOfGoodAnswersQuiz</key>
+		<integer>0</integer>
+		<key>order</key>
+		<integer>6</integer>
+		<key>question</key>
+		<string>Qui a vaincu les Ottomans lors de la bataille d&apos;Ankara, provoquant une désintégration temporaire de l&apos;empire ?</string>
+		<key>questionTrueOrFalse</key>
+		<string>La bataille d&apos;Ankara s&apos;est terminée par une victoire écrasante des forces du sultan ottoman Bayezid Ier.</string>
+		<key>theme</key>
+		<string>L&apos;empire ottoman 1299-1473</string>
+		<key>timeLine</key>
+		<string> Ankara: Timur arrête les Ottomans</string>
+		<key>trueOrFalseAnswer</key>
+		<string>Faux</string>
+		<key>wikiSearchWord</key>
+		<string>Bataille d&apos;Ankara</string>
+	</dict>
+	<dict>
+		<key>correctTAnswer</key>
+		<string>Mehmed I</string>
+		<key>date</key>
+		<string>1413</string>
+		<key>id</key>
+		<string>c92a1fdc-ef72-11ed-a05b-0242ac120003</string>
+		<key>incorrectAnswer1</key>
+		<string>Orhan</string>
+		<key>incorrectAnswer2</key>
+		<string>Murad I</string>
+		<key>incorrectAnswer3</key>
+		<string>Bayezid II</string>
+		<key>numberOfBadAnswers</key>
+		<integer>0</integer>
+		<key>numberOfBadAnswersQuiz</key>
+		<integer>0</integer>
+		<key>numberOfGoodAnswers</key>
+		<integer>0</integer>
+		<key>numberOfGoodAnswersQuiz</key>
+		<integer>0</integer>
+		<key>order</key>
+		<integer>7</integer>
+		<key>question</key>
+		<string>Qui a restauré l&apos;Empire ottoman après l&apos;interrègne ?</string>
+		<key>questionTrueOrFalse</key>
+		<string>Pour éviter de renouveler la période de troubles ayant précédé son règne, la mort de Mehmed Ier a été cachée au peuple et à l&apos;armée.</string>
+		<key>theme</key>
+		<string>L&apos;empire ottoman 1299-1473</string>
+		<key>timeLine</key>
+		<string> Mehmed I restaure l&apos;empire</string>
+		<key>trueOrFalseAnswer</key>
+		<string>Vrai</string>
+		<key>wikiSearchWord</key>
+		<string>Mehmed Ier</string>
+	</dict>
+	<dict>
+		<key>correctTAnswer</key>
+		<string>Constantinople</string>
+		<key>date</key>
+		<string>1453</string>
+		<key>id</key>
+		<string>c92a2220-ef72-11ed-a05b-0242ac120003</string>
+		<key>incorrectAnswer1</key>
+		<string>Rome</string>
+		<key>incorrectAnswer2</key>
+		<string>Athènes</string>
+		<key>incorrectAnswer3</key>
+		<string>Jérusalem</string>
+		<key>numberOfBadAnswers</key>
+		<integer>0</integer>
+		<key>numberOfBadAnswersQuiz</key>
+		<integer>0</integer>
+		<key>numberOfGoodAnswers</key>
+		<integer>0</integer>
+		<key>numberOfGoodAnswersQuiz</key>
+		<integer>0</integer>
+		<key>order</key>
+		<integer>8</integer>
+		<key>question</key>
+		<string>Quelle ville a marqué la fin de l&apos;Empire byzantin avec sa chute ?</string>
+		<key>questionTrueOrFalse</key>
+		<string>Les Byzantins étaient largement surpassés en nombre par les soldats ottomans lors de la chute de Constantinople.</string>
+		<key>theme</key>
+		<string>L&apos;empire ottoman 1299-1473</string>
+		<key>timeLine</key>
+		<string>Chute de Constantinople</string>
+		<key>trueOrFalseAnswer</key>
+		<string>Vrai</string>
+		<key>wikiSearchWord</key>
+		<string>Chute de Constantinople</string>
+	</dict>
+	<dict>
+		<key>correctTAnswer</key>
+		<string>Empire de Trébizonde</string>
+		<key>date</key>
+		<string>1461</string>
+		<key>id</key>
+		<string>c92a268a-ef72-11ed-a05b-0242ac120003</string>
+		<key>incorrectAnswer1</key>
+		<string>Empire bulgare</string>
+		<key>incorrectAnswer2</key>
+		<string>Empire serbe</string>
+		<key>incorrectAnswer3</key>
+		<string>Empire latin</string>
+		<key>numberOfBadAnswers</key>
+		<integer>0</integer>
+		<key>numberOfBadAnswersQuiz</key>
+		<integer>0</integer>
+		<key>numberOfGoodAnswers</key>
+		<integer>0</integer>
+		<key>numberOfGoodAnswersQuiz</key>
+		<integer>0</integer>
+		<key>order</key>
+		<integer>9</integer>
+		<key>question</key>
+		<string>Quel empire les Ottomans ont-ils conquis, éliminant ainsi le dernier vestige de l&apos;Empire byzantin ?</string>
+		<key>questionTrueOrFalse</key>
+		<string>L&apos;Empire de Trébizonde a été fondé après la chute de Constantinople en 1453. </string>
+		<key>theme</key>
+		<string>L&apos;empire ottoman 1299-1473</string>
+		<key>timeLine</key>
+		<string>Trebizond conquis</string>
+		<key>trueOrFalseAnswer</key>
+		<string>Faux</string>
+		<key>wikiSearchWord</key>
+		<string>Empire de Trébizonde</string>
+	</dict>
+	<dict>
+		<key>correctTAnswer</key>
+		<string>Il a joué un rôle crucial dans la résistance albanaise contre les Ottomans.</string>
+		<key>date</key>
+		<string>1473</string>
+		<key>id</key>
+		<string>c92a281a-ef72-11ed-a05b-0242ac120003</string>
+		<key>incorrectAnswer1</key>
+		<string>Il a combattu aux côtés des Ottomans contre la résistance albanaise.</string>
+		<key>incorrectAnswer2</key>
+		<string>Il s&apos;est rendu aux Ottomans sans aucune résistance.</string>
+		<key>incorrectAnswer3</key>
+		<string>Il a été exilé d&apos;Albanie avant que la conquête ottomane n&apos;ait lieu.</string>
+		<key>numberOfBadAnswers</key>
+		<integer>0</integer>
+		<key>numberOfBadAnswersQuiz</key>
+		<integer>0</integer>
+		<key>numberOfGoodAnswers</key>
+		<integer>0</integer>
+		<key>numberOfGoodAnswersQuiz</key>
+		<integer>0</integer>
+		<key>order</key>
+		<integer>10</integer>
+		<key>question</key>
+		<string>Quel était le rôle du noble et commandant militaire albanais Skanderbeg lors de la conquête ottomane de l&apos;Albanie en 1479 ?</string>
+		<key>questionTrueOrFalse</key>
+		<string>La révolte a été motivée par le remplacement de la noblesse locale par des propriétaires fonciers ottomans.</string>
+		<key>theme</key>
+		<string>L&apos;empire ottoman 1299-1473</string>
+		<key>timeLine</key>
+		<string>La conquête de l&apos;Albanie par les Ottomans</string>
+		<key>trueOrFalseAnswer</key>
+		<string>Vrai</string>
+		<key>wikiSearchWord</key>
+		<string>Révolte albanaise de 1432-1436</string>
+	</dict>
+</array>
+</plist>

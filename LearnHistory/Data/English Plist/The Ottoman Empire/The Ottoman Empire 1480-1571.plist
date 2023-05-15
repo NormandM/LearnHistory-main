@@ -1,0 +1,366 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<!DOCTYPE plist PUBLIC "-//Apple//DTD PLIST 1.0//EN" "http://www.apple.com/DTDs/PropertyList-1.0.dtd">
+<plist version="1.0">
+<array>
+	<dict>
+		<key>correctTAnswer</key>
+		<string> Knights Hospitaller</string>
+		<key>date</key>
+		<string>1480</string>
+		<key>id</key>
+		<string>8a69d462-ecfd-11ed-a05b-0242ac120003</string>
+		<key>incorrectAnswer1</key>
+		<string> Knights Templar</string>
+		<key>incorrectAnswer2</key>
+		<string> Teutonic Knights</string>
+		<key>incorrectAnswer3</key>
+		<string> Knights of Malta</string>
+		<key>numberOfBadAnswers</key>
+		<integer>0</integer>
+		<key>numberOfBadAnswersQuiz</key>
+		<integer>0</integer>
+		<key>numberOfGoodAnswers</key>
+		<integer>0</integer>
+		<key>numberOfGoodAnswersQuiz</key>
+		<integer>0</integer>
+		<key>order</key>
+		<integer>11</integer>
+		<key>question</key>
+		<string> Which order of knights successfully defended the island of Rhodes from an Ottoman siege in 1480?</string>
+		<key>questionTrueOrFalse</key>
+		<string> The Siege of Rhodes (1522) was a successful Ottoman conquest</string>
+		<key>theme</key>
+		<string>The Ottoman Empire 1480-1571</string>
+		<key>timeLine</key>
+		<string> Rhodes siege fails</string>
+		<key>trueOrFalseAnswer</key>
+		<string>True</string>
+		<key>wikiSearchWord</key>
+		<string> Siege of Rhodes (1522) </string>
+	</dict>
+	<dict>
+		<key>correctTAnswer</key>
+		<string> Safavid Empire</string>
+		<key>date</key>
+		<string>1514</string>
+		<key>id</key>
+		<string>8a69d5ca-ecfd-11ed-a05b-0242ac120003</string>
+		<key>incorrectAnswer1</key>
+		<string> Byzantine Empire</string>
+		<key>incorrectAnswer2</key>
+		<string> Mamluk Empire</string>
+		<key>incorrectAnswer3</key>
+		<string> Ayyubid Empire</string>
+		<key>numberOfBadAnswers</key>
+		<integer>0</integer>
+		<key>numberOfBadAnswersQuiz</key>
+		<integer>0</integer>
+		<key>numberOfGoodAnswers</key>
+		<integer>0</integer>
+		<key>numberOfGoodAnswersQuiz</key>
+		<integer>0</integer>
+		<key>order</key>
+		<integer>12</integer>
+		<key>question</key>
+		<string> Which empire did the Ottomans defeat in the Battle of Chaldiran?</string>
+		<key>questionTrueOrFalse</key>
+		<string> The Battle of Chaldiran resulted in a decisive Ottoman victory over the Safavids</string>
+		<key>theme</key>
+		<string>The Ottoman Empire 1480-1571</string>
+		<key>timeLine</key>
+		<string> Chaldiran: Safavids beaten</string>
+		<key>trueOrFalseAnswer</key>
+		<string>True</string>
+		<key>wikiSearchWord</key>
+		<string> Battle of Chaldiran </string>
+	</dict>
+	<dict>
+		<key>correctTAnswer</key>
+		<string> Caliph</string>
+		<key>date</key>
+		<string>1517</string>
+		<key>id</key>
+		<string>8a69d75a-ecfd-11ed-a05b-0242ac120003</string>
+		<key>incorrectAnswer1</key>
+		<string> King</string>
+		<key>incorrectAnswer2</key>
+		<string> Emperor</string>
+		<key>incorrectAnswer3</key>
+		<string> Shah</string>
+		<key>numberOfBadAnswers</key>
+		<integer>0</integer>
+		<key>numberOfBadAnswersQuiz</key>
+		<integer>0</integer>
+		<key>numberOfGoodAnswers</key>
+		<integer>0</integer>
+		<key>numberOfGoodAnswersQuiz</key>
+		<integer>0</integer>
+		<key>order</key>
+		<integer>13</integer>
+		<key>question</key>
+		<string> After conquering Mamluk Egypt, which title was added to the Ottoman sultan&apos;s portfolio?</string>
+		<key>questionTrueOrFalse</key>
+		<string> The Ottoman conquest of Egypt led to the addition of the title &quot;King&quot; to the Ottoman sultan&apos;s portfolio</string>
+		<key>theme</key>
+		<string>The Ottoman Empire 1480-1571</string>
+		<key>timeLine</key>
+		<string> Mamluk Egypt conquered</string>
+		<key>trueOrFalseAnswer</key>
+		<string>False</string>
+		<key>wikiSearchWord</key>
+		<string> Ottoman conquest of Egypt </string>
+	</dict>
+	<dict>
+		<key>correctTAnswer</key>
+		<string> Suleiman the Magnificent</string>
+		<key>date</key>
+		<string>1520-1566</string>
+		<key>id</key>
+		<string>8a69d908-ecfd-11ed-a05b-0242ac120003</string>
+		<key>incorrectAnswer1</key>
+		<string> Selim I</string>
+		<key>incorrectAnswer2</key>
+		<string> Mehmed II</string>
+		<key>incorrectAnswer3</key>
+		<string> Bayezid II</string>
+		<key>numberOfBadAnswers</key>
+		<integer>0</integer>
+		<key>numberOfBadAnswersQuiz</key>
+		<integer>0</integer>
+		<key>numberOfGoodAnswers</key>
+		<integer>0</integer>
+		<key>numberOfGoodAnswersQuiz</key>
+		<integer>0</integer>
+		<key>order</key>
+		<integer>14</integer>
+		<key>question</key>
+		<string> Who was the sultan during the peak of the Ottoman Empire in terms of territorial expansion and cultural achievements?</string>
+		<key>questionTrueOrFalse</key>
+		<string> Suleiman the Magnificent&apos;s reign marked the peak of the Ottoman Empire&apos;s decline</string>
+		<key>theme</key>
+		<string>The Ottoman Empire 1480-1571</string>
+		<key>timeLine</key>
+		<string> Suleiman&apos;s reign: Empire peaks</string>
+		<key>trueOrFalseAnswer</key>
+		<string>False</string>
+		<key>wikiSearchWord</key>
+		<string> Suleiman the Magnificent </string>
+	</dict>
+	<dict>
+		<key>correctTAnswer</key>
+		<string> Belgrade</string>
+		<key>date</key>
+		<string>1521</string>
+		<key>id</key>
+		<string>8a69dd9a-ecfd-11ed-a05b-0242ac120003</string>
+		<key>incorrectAnswer1</key>
+		<string> Vienna</string>
+		<key>incorrectAnswer2</key>
+		<string> Sofia</string>
+		<key>incorrectAnswer3</key>
+		<string> Budapest</string>
+		<key>numberOfBadAnswers</key>
+		<integer>0</integer>
+		<key>numberOfBadAnswersQuiz</key>
+		<integer>0</integer>
+		<key>numberOfGoodAnswers</key>
+		<integer>0</integer>
+		<key>numberOfGoodAnswersQuiz</key>
+		<integer>0</integer>
+		<key>order</key>
+		<integer>15</integer>
+		<key>question</key>
+		<string> Which city did the Ottomans conquer in 1521, consolidating their control in the Balkans?</string>
+		<key>questionTrueOrFalse</key>
+		<string> The Siege of Belgrade (1521) led to the city&apos;s capture by the Ottomans</string>
+		<key>theme</key>
+		<string>The Ottoman Empire 1480-1571</string>
+		<key>timeLine</key>
+		<string> Belgrade captured</string>
+		<key>trueOrFalseAnswer</key>
+		<string>True</string>
+		<key>wikiSearchWord</key>
+		<string> Siege of Belgrade (1521) </string>
+	</dict>
+	<dict>
+		<key>correctTAnswer</key>
+		<string> Knights Hospitaller</string>
+		<key>date</key>
+		<string>1522</string>
+		<key>id</key>
+		<string>8a69dfde-ecfd-11ed-a05b-0242ac120003</string>
+		<key>incorrectAnswer1</key>
+		<string> Knights Templar</string>
+		<key>incorrectAnswer2</key>
+		<string> Teutonic Knights</string>
+		<key>incorrectAnswer3</key>
+		<string> Knights of Malta</string>
+		<key>numberOfBadAnswers</key>
+		<integer>0</integer>
+		<key>numberOfBadAnswersQuiz</key>
+		<integer>0</integer>
+		<key>numberOfGoodAnswers</key>
+		<integer>0</integer>
+		<key>numberOfGoodAnswersQuiz</key>
+		<integer>0</integer>
+		<key>order</key>
+		<integer>16</integer>
+		<key>question</key>
+		<string> Which order of knights lost the island of Rhodes to the Ottomans in 1522?</string>
+		<key>questionTrueOrFalse</key>
+		<string> The Siege of Rhodes (1522) was an unsuccessful Ottoman attempt</string>
+		<key>theme</key>
+		<string>The Ottoman Empire 1480-1571</string>
+		<key>timeLine</key>
+		<string> Rhodes falls to Ottomans</string>
+		<key>trueOrFalseAnswer</key>
+		<string>False</string>
+		<key>wikiSearchWord</key>
+		<string> Siege of Rhodes (1522) </string>
+	</dict>
+	<dict>
+		<key>correctTAnswer</key>
+		<string> Vienna</string>
+		<key>date</key>
+		<string>1529</string>
+		<key>id</key>
+		<string>8a69e18c-ecfd-11ed-a05b-0242ac120003</string>
+		<key>incorrectAnswer1</key>
+		<string> Belgrade</string>
+		<key>incorrectAnswer2</key>
+		<string> Budapest</string>
+		<key>incorrectAnswer3</key>
+		<string> Prague</string>
+		<key>numberOfBadAnswers</key>
+		<integer>0</integer>
+		<key>numberOfBadAnswersQuiz</key>
+		<integer>0</integer>
+		<key>numberOfGoodAnswers</key>
+		<integer>0</integer>
+		<key>numberOfGoodAnswersQuiz</key>
+		<integer>0</integer>
+		<key>order</key>
+		<integer>17</integer>
+		<key>question</key>
+		<string> Which city did the Ottomans unsuccessfully besiege for the first time in 1529?</string>
+		<key>questionTrueOrFalse</key>
+		<string> The Siege of Vienna (1529) resulted in the city&apos;s capture by the Ottomans</string>
+		<key>theme</key>
+		<string>The Ottoman Empire 1480-1571</string>
+		<key>timeLine</key>
+		<string> Vienna siege fails</string>
+		<key>trueOrFalseAnswer</key>
+		<string>False</string>
+		<key>wikiSearchWord</key>
+		<string> Siege of Vienna (1529) </string>
+	</dict>
+	<dict>
+		<key>correctTAnswer</key>
+		<string> Battle of Preveza</string>
+		<key>date</key>
+		<string>1538</string>
+		<key>id</key>
+		<string>8a69e312-ecfd-11ed-a05b-0242ac120003</string>
+		<key>incorrectAnswer1</key>
+		<string> Battle of Lepanto</string>
+		<key>incorrectAnswer2</key>
+		<string> Battle of Navarino</string>
+		<key>incorrectAnswer3</key>
+		<string> Battle of Djerba</string>
+		<key>numberOfBadAnswers</key>
+		<integer>0</integer>
+		<key>numberOfBadAnswersQuiz</key>
+		<integer>0</integer>
+		<key>numberOfGoodAnswers</key>
+		<integer>0</integer>
+		<key>numberOfGoodAnswersQuiz</key>
+		<integer>0</integer>
+		<key>order</key>
+		<integer>18</integer>
+		<key>question</key>
+		<string> In which battle did the Ottomans achieve a decisive naval victory against a Christian alliance?</string>
+		<key>questionTrueOrFalse</key>
+		<string> The Battle of Preveza was a decisive Ottoman victory against a Christian alliance</string>
+		<key>theme</key>
+		<string>The Ottoman Empire 1480-1571</string>
+		<key>timeLine</key>
+		<string> Preveza: Naval victory</string>
+		<key>trueOrFalseAnswer</key>
+		<string>True</string>
+		<key>wikiSearchWord</key>
+		<string> Battle of Preveza </string>
+	</dict>
+	<dict>
+		<key>correctTAnswer</key>
+		<string> Malta</string>
+		<key>date</key>
+		<string>1565</string>
+		<key>id</key>
+		<string>8a69e4b6-ecfd-11ed-a05b-0242ac120003</string>
+		<key>incorrectAnswer1</key>
+		<string> Cyprus</string>
+		<key>incorrectAnswer2</key>
+		<string> Crete</string>
+		<key>incorrectAnswer3</key>
+		<string> Sicily</string>
+		<key>numberOfBadAnswers</key>
+		<integer>0</integer>
+		<key>numberOfBadAnswersQuiz</key>
+		<integer>0</integer>
+		<key>numberOfGoodAnswers</key>
+		<integer>0</integer>
+		<key>numberOfGoodAnswersQuiz</key>
+		<integer>0</integer>
+		<key>order</key>
+		<integer>19</integer>
+		<key>question</key>
+		<string> Which island did the Ottomans fail to capture from the Knights Hospitaller in 1565?</string>
+		<key>questionTrueOrFalse</key>
+		<string> The Great Siege of Malta ended with an Ottoman victory</string>
+		<key>theme</key>
+		<string>The Ottoman Empire 1480-1571</string>
+		<key>timeLine</key>
+		<string> Malta siege fails</string>
+		<key>trueOrFalseAnswer</key>
+		<string>False</string>
+		<key>wikiSearchWord</key>
+		<string> Great Siege of Malta </string>
+	</dict>
+	<dict>
+		<key>correctTAnswer</key>
+		<string> Battle of Lepanto</string>
+		<key>date</key>
+		<string>1571</string>
+		<key>id</key>
+		<string>8a69e632-ecfd-11ed-a05b-0242ac120003</string>
+		<key>incorrectAnswer1</key>
+		<string> Battle of Preveza</string>
+		<key>incorrectAnswer2</key>
+		<string> Battle of Navarino</string>
+		<key>incorrectAnswer3</key>
+		<string> Battle of Djerba</string>
+		<key>numberOfBadAnswers</key>
+		<integer>0</integer>
+		<key>numberOfBadAnswersQuiz</key>
+		<integer>0</integer>
+		<key>numberOfGoodAnswers</key>
+		<integer>0</integer>
+		<key>numberOfGoodAnswersQuiz</key>
+		<integer>0</integer>
+		<key>order</key>
+		<integer>20</integer>
+		<key>question</key>
+		<string> In which battle did the Ottoman Empire suffer a major naval defeat against a Christian coalition?</string>
+		<key>questionTrueOrFalse</key>
+		<string> The Battle of Lepanto was a major naval victory for the Ottomans</string>
+		<key>theme</key>
+		<string>The Ottoman Empire 1480-1571</string>
+		<key>timeLine</key>
+		<string> Lepanto: Naval loss</string>
+		<key>trueOrFalseAnswer</key>
+		<string>False</string>
+		<key>wikiSearchWord</key>
+		<string> Battle of Lepanto </string>
+	</dict>
+</array>
+</plist>

@@ -1,0 +1,1014 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<!DOCTYPE plist PUBLIC "-//Apple//DTD PLIST 1.0//EN" "http://www.apple.com/DTDs/PropertyList-1.0.dtd">
+<plist version="1.0">
+<array>
+	<dict>
+		<key>id</key>
+		<string>fd9d9adc-8884-11ed-a1eb-0242ac120002</string>
+		<key>date</key>
+		<string>610</string>
+		<key>question</key>
+		<string>¿Cómo llegó la primera revelación del Corán al profeta Mahoma?</string>
+		<key>correctTAnswer</key>
+		<string>Se lo dijo el ángel Gabriel en una cueva llamada Hira</string>
+		<key>incorrectAnswer1</key>
+		<string>Estaba escrito en un libro que le fue revelado en una visión</string>
+		<key>incorrectAnswer2</key>
+		<string>Le fue transmitido a través de un sueño</string>
+		<key>incorrectAnswer3</key>
+		<string>Le fue dado por un grupo de sabios</string>
+		<key>wikiSearchWord</key>
+		<string>Mabaas</string>
+		<key>questionTrueOrFalse</key>
+		<string>Mabaas es una fecha del calendario islámico lunar conocida por su significado de resurgimiento de los valores humanos. </string>
+		<key>trueOrFalseAnswer</key>
+		<string>Verdadero</string>
+		<key>timeLine</key>
+		<string>El Profeta Muhammad recibe la primera revelación del Corán.</string>
+		<key>theme</key>
+		<string>El Imperio Islámico</string>
+		<key>numberOfGoodAnswers</key>
+		<integer>0</integer>
+		<key>numberOfBadAnswers</key>
+		<integer>0</integer>
+		<key>numberOfGoodAnswersQuiz</key>
+		<integer>0</integer>
+		<key>numberOfBadAnswersQuiz</key>
+		<integer>0</integer>
+		<key>order</key>
+		<integer>1</integer>
+	</dict>
+	<dict>
+		<key>id</key>
+		<string>fd9d9e42-8884-11ed-a1eb-0242ac120002</string>
+		<key>date</key>
+		<string>622</string>
+		<key>question</key>
+		<string>¿Por qué emprendió Mahoma la Hijra (la migración o viaje de La Meca a Medina)?</string>
+		<key>correctTAnswer</key>
+		<string>Para escapar de la persecución</string>
+		<key>incorrectAnswer1</key>
+		<string>Para difundir el Islam</string>
+		<key>incorrectAnswer2</key>
+		<string>Visita la Kaaba</string>
+		<key>incorrectAnswer3</key>
+		<string>Para realizar la peregrinación</string>
+		<key>wikiSearchWord</key>
+		<string>Hégira</string>
+		<key>questionTrueOrFalse</key>
+		<string>La palabra hiyra significa literalmente &quot;huida&quot;.</string>
+		<key>trueOrFalseAnswer</key>
+		<string>Falso</string>
+		<key>timeLine</key>
+		<string>Mahoma emprende la Hijra. </string>
+		<key>theme</key>
+		<string>El Imperio Islámico</string>
+		<key>numberOfGoodAnswers</key>
+		<integer>0</integer>
+		<key>numberOfBadAnswers</key>
+		<integer>0</integer>
+		<key>numberOfGoodAnswersQuiz</key>
+		<integer>0</integer>
+		<key>numberOfBadAnswersQuiz</key>
+		<integer>0</integer>
+		<key>order</key>
+		<integer>2</integer>
+	</dict>
+	<dict>
+		<key>id</key>
+		<string>fd9da018-8884-11ed-a1eb-0242ac120002</string>
+		<key>date</key>
+		<string>632</string>
+		<key>question</key>
+		<string>Tras la muerte de Mahoma, ¿quién se convirtió en el primer califa?</string>
+		<key>correctTAnswer</key>
+		<string>Abu Bakr</string>
+		<key>incorrectAnswer1</key>
+		<string>Umar</string>
+		<key>incorrectAnswer2</key>
+		<string>Uthman</string>
+		<key>incorrectAnswer3</key>
+		<string>Ali</string>
+		<key>wikiSearchWord</key>
+		<string>Mahoma</string>
+		<key>questionTrueOrFalse</key>
+		<string>Mahoma es considerado el &quot;último de los profetas&quot; en la religión musulmana.</string>
+		<key>trueOrFalseAnswer</key>
+		<string>Verdadero</string>
+		<key>timeLine</key>
+		<string>Muhammad muere</string>
+		<key>theme</key>
+		<string>El Imperio Islámico</string>
+		<key>numberOfGoodAnswers</key>
+		<integer>0</integer>
+		<key>numberOfBadAnswers</key>
+		<integer>0</integer>
+		<key>numberOfGoodAnswersQuiz</key>
+		<integer>0</integer>
+		<key>numberOfBadAnswersQuiz</key>
+		<integer>0</integer>
+		<key>order</key>
+		<integer>3</integer>
+	</dict>
+	<dict>
+		<key>id</key>
+		<string>fd9da180-8884-11ed-a1eb-0242ac120002</string>
+		<key>date</key>
+		<string>632-640</string>
+		<key>question</key>
+		<string>¿Quién gobernaba Egipto antes de la conquista árabe-islámica?</string>
+		<key>correctTAnswer</key>
+		<string>Bizantinos</string>
+		<key>incorrectAnswer1</key>
+		<string>Persas sasánidas</string>
+		<key>incorrectAnswer2</key>
+		<string>Romanos</string>
+		<key>incorrectAnswer3</key>
+		<string>Egipcios</string>
+		<key>wikiSearchWord</key>
+		<string>Conquista musulmana de Egipto</string>
+		<key>questionTrueOrFalse</key>
+		<string>Los musulmanes conquistaron Egipto antes de tomar el control de las provincias bizantinas del Levante.</string>
+		<key>trueOrFalseAnswer</key>
+		<string>Falso</string>
+		<key>timeLine</key>
+		<string>Conquista de Arabia, Palestina y Egipto por los ejércitos árabe-musulmanes.</string>
+		<key>theme</key>
+		<string>El Imperio Islámico</string>
+		<key>numberOfGoodAnswers</key>
+		<integer>0</integer>
+		<key>numberOfBadAnswers</key>
+		<integer>0</integer>
+		<key>numberOfGoodAnswersQuiz</key>
+		<integer>0</integer>
+		<key>numberOfBadAnswersQuiz</key>
+		<integer>0</integer>
+		<key>order</key>
+		<integer>4</integer>
+	</dict>
+	<dict>
+		<key>id</key>
+		<string>fd9da338-8884-11ed-a1eb-0242ac120002</string>
+		<key>date</key>
+		<string>632-661</string>
+		<key>question</key>
+		<string>¿Qué califa Rashidun es considerado el primer califa e Imam legítimo por los musulmanes chiíes?</string>
+		<key>correctTAnswer</key>
+		<string>Ali</string>
+		<key>incorrectAnswer1</key>
+		<string>Abu Bakr</string>
+		<key>incorrectAnswer2</key>
+		<string>Umar</string>
+		<key>incorrectAnswer3</key>
+		<string>Uthman</string>
+		<key>wikiSearchWord</key>
+		<string>Califato ortodoxo</string>
+		<key>questionTrueOrFalse</key>
+		<string>Según los chiíes, el primer califa fue Alí ibn Abi Tálib.</string>
+		<key>trueOrFalseAnswer</key>
+		<string>Verdadero</string>
+		<key>timeLine</key>
+		<string>Califato Rashidun</string>
+		<key>theme</key>
+		<string>El Imperio Islámico</string>
+		<key>numberOfGoodAnswers</key>
+		<integer>0</integer>
+		<key>numberOfBadAnswers</key>
+		<integer>0</integer>
+		<key>numberOfGoodAnswersQuiz</key>
+		<integer>0</integer>
+		<key>numberOfBadAnswersQuiz</key>
+		<integer>0</integer>
+		<key>order</key>
+		<integer>5</integer>
+	</dict>
+	<dict>
+		<key>id</key>
+		<string>fd9da8a6-8884-11ed-a1eb-0242ac120002</string>
+		<key>date</key>
+		<string>647-709</string>
+		<key>question</key>
+		<string>¿Cuál de los siguientes fue un factor clave en la conquista musulmana del norte de África?</string>
+		<key>correctTAnswer</key>
+		<string>El apoyo de la población local</string>
+		<key>incorrectAnswer1</key>
+		<string>La fuerza del ejército bizantino</string>
+		<key>incorrectAnswer2</key>
+		<string>El uso de tecnología militar avanzada</string>
+		<key>incorrectAnswer3</key>
+		<string>La importancia estratégica de la región</string>
+		<key>wikiSearchWord</key>
+		<string>Conquista musulmana del Magreb</string>
+		<key>questionTrueOrFalse</key>
+		<string>La conquista musulmana del Magreb comenzó después de la muerte de Mahoma en el año 632.</string>
+		<key>trueOrFalseAnswer</key>
+		<string>Verdadero</string>
+		<key>timeLine</key>
+		<string>Conquista del norte de África</string>
+		<key>theme</key>
+		<string>El Imperio Islámico</string>
+		<key>numberOfGoodAnswers</key>
+		<integer>0</integer>
+		<key>numberOfBadAnswers</key>
+		<integer>0</integer>
+		<key>numberOfGoodAnswersQuiz</key>
+		<integer>0</integer>
+		<key>numberOfBadAnswersQuiz</key>
+		<integer>0</integer>
+		<key>order</key>
+		<integer>6</integer>
+	</dict>
+	<dict>
+		<key>id</key>
+		<string>fd9daaa4-8884-11ed-a1eb-0242ac120002</string>
+		<key>date</key>
+		<string>651</string>
+		<key>question</key>
+		<string>¿Qué impacto tuvo en la región la conquista árabe-musulmana del Imperio sasánida (Irán)?</string>
+		<key>correctTAnswer</key>
+		<string>Tuvo como resultado la propagación del Islam y del dominio musulmán</string>
+		<key>incorrectAnswer1</key>
+		<string>Dio lugar a un período de paz y prosperidad</string>
+		<key>incorrectAnswer2</key>
+		<string>Condujo a la difusión del cristianismo en la región</string>
+		<key>incorrectAnswer3</key>
+		<string>Llevó al colapso del comercio y la economía</string>
+		<key>wikiSearchWord</key>
+		<string>Conquista musulmana de Persia</string>
+		<key>questionTrueOrFalse</key>
+		<string>La mayoría de los pueblos iranios adoptaron la rama sunita del islam durante la conquista musulmana. </string>
+		<key>trueOrFalseAnswer</key>
+		<string>Falso</string>
+		<key>timeLine</key>
+		<string>Conquista árabe-musulmana del Imperio sasánida </string>
+		<key>theme</key>
+		<string>El Imperio Islámico</string>
+		<key>numberOfGoodAnswers</key>
+		<integer>0</integer>
+		<key>numberOfBadAnswers</key>
+		<integer>0</integer>
+		<key>numberOfGoodAnswersQuiz</key>
+		<integer>0</integer>
+		<key>numberOfBadAnswersQuiz</key>
+		<integer>0</integer>
+		<key>order</key>
+		<integer>7</integer>
+	</dict>
+	<dict>
+		<key>id</key>
+		<string>fd9da734-8884-11ed-a1eb-0242ac120002</string>
+		<key>date</key>
+		<string>661</string>
+		<key>question</key>
+		<string>¿Cuál era la capital del Califato Omeya?</string>
+		<key>correctTAnswer</key>
+		<string>Damasco</string>
+		<key>incorrectAnswer1</key>
+		<string>Bagdad</string>
+		<key>incorrectAnswer2</key>
+		<string>El Cairo</string>
+		<key>incorrectAnswer3</key>
+		<string>La Meca</string>
+		<key>wikiSearchWord</key>
+		<string>Ciudad vieja de Damasco</string>
+		<key>questionTrueOrFalse</key>
+		<string>La ciudad vieja de Damasco está rodeada por murallas construidas durante el período islámico.</string>
+		<key>trueOrFalseAnswer</key>
+		<string>Falso</string>
+		<key>timeLine</key>
+		<string>Damasco se convierte en la capital del Califato Omeya</string>
+		<key>theme</key>
+		<string>El Imperio Islámico</string>
+		<key>numberOfGoodAnswers</key>
+		<integer>0</integer>
+		<key>numberOfBadAnswers</key>
+		<integer>0</integer>
+		<key>numberOfGoodAnswersQuiz</key>
+		<integer>0</integer>
+		<key>numberOfBadAnswersQuiz</key>
+		<integer>0</integer>
+		<key>order</key>
+		<integer>8</integer>
+	</dict>
+	<dict>
+		<key>id</key>
+		<string>fd9dae3c-8884-11ed-a1eb-0242ac120002</string>
+		<key>date</key>
+		<string>711-756</string>
+		<key>question</key>
+		<string>¿Cuál de los siguientes grupos desempeñó un papel importante en la conquista árabe-musulmana de España?</string>
+		<key>correctTAnswer</key>
+		<string>Bereberes</string>
+		<key>incorrectAnswer1</key>
+		<string>Persas</string>
+		<key>incorrectAnswer2</key>
+		<string>Vikingos</string>
+		<key>incorrectAnswer3</key>
+		<string>Hunos</string>
+		<key>wikiSearchWord</key>
+		<string>Conquista omeya de Hispania</string>
+		<key>questionTrueOrFalse</key>
+		<string>La conquista omeya de Hispania fue un proceso político y militar que duró 15 años, desde el 711 al 726.</string>
+		<key>trueOrFalseAnswer</key>
+		<string>Verdadero</string>
+		<key>timeLine</key>
+		<string>Conquista árabe-musulmana de España</string>
+		<key>theme</key>
+		<string>El Imperio Islámico</string>
+		<key>numberOfGoodAnswers</key>
+		<integer>0</integer>
+		<key>numberOfBadAnswers</key>
+		<integer>0</integer>
+		<key>numberOfGoodAnswersQuiz</key>
+		<integer>0</integer>
+		<key>numberOfBadAnswersQuiz</key>
+		<integer>0</integer>
+		<key>order</key>
+		<integer>9</integer>
+	</dict>
+	<dict>
+		<key>id</key>
+		<string>fd9daf86-8884-11ed-a1eb-0242ac120002</string>
+		<key>date</key>
+		<string>712</string>
+		<key>question</key>
+		<string>¿Cuál fue el principal motivo de la conquista árabe-musulmana de Sindh (sureste de Pakistán)?</string>
+		<key>correctTAnswer</key>
+		<string>Para difundir el Islam</string>
+		<key>incorrectAnswer1</key>
+		<string>Para hacerse con el control de las rutas comerciales</string>
+		<key>incorrectAnswer2</key>
+		<string>En busca de venganza por conflictos pasados</string>
+		<key>incorrectAnswer3</key>
+		<string>Para establecer una nueva capital</string>
+		<key>wikiSearchWord</key>
+		<string>Conquistas musulmanas en el subcontinente indio</string>
+		<key>questionTrueOrFalse</key>
+		<string>Las conquistas musulmanas en el subcontinente indio comenzaron en el siglo XI con las invasiones de túrquicos y afganos.</string>
+		<key>trueOrFalseAnswer</key>
+		<string>Falso</string>
+		<key>timeLine</key>
+		<string>Conquista árabe-musulmana de Sindh</string>
+		<key>theme</key>
+		<string>El Imperio Islámico</string>
+		<key>numberOfGoodAnswers</key>
+		<integer>0</integer>
+		<key>numberOfBadAnswers</key>
+		<integer>0</integer>
+		<key>numberOfGoodAnswersQuiz</key>
+		<integer>0</integer>
+		<key>numberOfBadAnswersQuiz</key>
+		<integer>0</integer>
+		<key>order</key>
+		<integer>10</integer>
+	</dict>
+	<dict>
+		<key>id</key>
+		<string>fd9db31e-8884-11ed-a1eb-0242ac120002</string>
+		<key>date</key>
+		<string>732</string>
+		<key>question</key>
+		<string>¿Cuál fue la consecuencia a largo plazo de la batalla de Tours para los moros?</string>
+		<key>correctTAnswer</key>
+		<string>Sufrieron muchas bajas y perdieron la moral, lo que provocó conflictos internos</string>
+		<key>incorrectAnswer1</key>
+		<string>Obtuvieron el control de nuevos territorios y extendieron el Islam por Europa</string>
+		<key>incorrectAnswer2</key>
+		<string>Se vieron obligados a pagar tributo a los francos y adoptar el cristianismo</string>
+		<key>incorrectAnswer3</key>
+		<string>Ganaron mayor prestigio y poder en Europa</string>
+		<key>wikiSearchWord</key>
+		<string>Batalla de Poitiers (732)</string>
+		<key>questionTrueOrFalse</key>
+		<string>La batalla de Poitiers fue una victoria para los musulmanes.</string>
+		<key>trueOrFalseAnswer</key>
+		<string>Falso</string>
+		<key>timeLine</key>
+		<string>Batalla de Tours</string>
+		<key>theme</key>
+		<string>El Imperio Islámico</string>
+		<key>numberOfGoodAnswers</key>
+		<integer>0</integer>
+		<key>numberOfBadAnswers</key>
+		<integer>0</integer>
+		<key>numberOfGoodAnswersQuiz</key>
+		<integer>0</integer>
+		<key>numberOfBadAnswersQuiz</key>
+		<integer>0</integer>
+		<key>order</key>
+		<integer>11</integer>
+	</dict>
+	<dict>
+		<key>id</key>
+		<string>fd9db4f4-8884-11ed-a1eb-0242ac120002</string>
+		<key>date</key>
+		<string>750</string>
+		<key>question</key>
+		<string>¿Qué importantes logros culturales e intelectuales se asocian con el Califato Abbasí?</string>
+		<key>correctTAnswer</key>
+		<string>La traducción de obras filosóficas y científicas griegas al árabe</string>
+		<key>incorrectAnswer1</key>
+		<string>La construcción del Taj Mahal</string>
+		<key>incorrectAnswer2</key>
+		<string>El desarrollo de la imprenta</string>
+		<key>incorrectAnswer3</key>
+		<string>La construcción de la Gran Muralla China</string>
+		<key>wikiSearchWord</key>
+		<string>Califato abasí</string>
+		<key>questionTrueOrFalse</key>
+		<string>El último califa abasí fue asesinado por los mongoles en 1258 y el imperio fue conquistado por Hulagu, nieto de Genghis Khan.</string>
+		<key>trueOrFalseAnswer</key>
+		<string>Verdadero</string>
+		<key>timeLine</key>
+		<string>Comienza el califato abasí. </string>
+		<key>theme</key>
+		<string>El Imperio Islámico</string>
+		<key>numberOfGoodAnswers</key>
+		<integer>0</integer>
+		<key>numberOfBadAnswers</key>
+		<integer>0</integer>
+		<key>numberOfGoodAnswersQuiz</key>
+		<integer>0</integer>
+		<key>numberOfBadAnswersQuiz</key>
+		<integer>0</integer>
+		<key>order</key>
+		<integer>12</integer>
+	</dict>
+	<dict>
+		<key>id</key>
+		<string>fd9db65c-8884-11ed-a1eb-0242ac120002</string>
+		<key>date</key>
+		<string>751</string>
+		<key>question</key>
+		<string>¿Dónde encontró la civilización árabe el papel por primera vez?</string>
+		<key>correctTAnswer</key>
+		<string>En China</string>
+		<key>incorrectAnswer1</key>
+		<string>En la India</string>
+		<key>incorrectAnswer2</key>
+		<string>En Egipto</string>
+		<key>incorrectAnswer3</key>
+		<string>En Mesopotamia</string>
+		<key>wikiSearchWord</key>
+		<string>Islam en Asia Central</string>
+		<key>questionTrueOrFalse</key>
+		<string>El Islam suní es la religión más practicada en Asia Central.</string>
+		<key>trueOrFalseAnswer</key>
+		<string>Verdadero</string>
+		<key>timeLine</key>
+		<string>Los musulmanes utilizan el papel por primera vez.</string>
+		<key>theme</key>
+		<string>El Imperio Islámico</string>
+		<key>numberOfGoodAnswers</key>
+		<integer>0</integer>
+		<key>numberOfBadAnswers</key>
+		<integer>0</integer>
+		<key>numberOfGoodAnswersQuiz</key>
+		<integer>0</integer>
+		<key>numberOfBadAnswersQuiz</key>
+		<integer>0</integer>
+		<key>order</key>
+		<integer>13</integer>
+	</dict>
+	<dict>
+		<key>id</key>
+		<string>fd9db788-8884-11ed-a1eb-0242ac120002</string>
+		<key>date</key>
+		<string>756</string>
+		<key>question</key>
+		<string>¿Durante qué siglo alcanzó el emirato de Córdoba su máximo poder y prosperidad?</string>
+		<key>correctTAnswer</key>
+		<string>Siglo X</string>
+		<key>incorrectAnswer1</key>
+		<string>Siglo IX</string>
+		<key>incorrectAnswer2</key>
+		<string>Siglo XII</string>
+		<key>incorrectAnswer3</key>
+		<string>Siglo XI</string>
+		<key>wikiSearchWord</key>
+		<string>Emirato de Córdoba</string>
+		<key>questionTrueOrFalse</key>
+		<string>El poder omeya era el más débil de los poderes independientes que surgieron en el Occidente musulmán.</string>
+		<key>trueOrFalseAnswer</key>
+		<string>Falso</string>
+		<key>timeLine</key>
+		<string>Fundación del emirato de Córdoba</string>
+		<key>theme</key>
+		<string>El Imperio Islámico</string>
+		<key>numberOfGoodAnswers</key>
+		<integer>0</integer>
+		<key>numberOfBadAnswers</key>
+		<integer>0</integer>
+		<key>numberOfGoodAnswersQuiz</key>
+		<integer>0</integer>
+		<key>numberOfBadAnswersQuiz</key>
+		<integer>0</integer>
+		<key>order</key>
+		<integer>14</integer>
+	</dict>
+	<dict>
+		<key>id</key>
+		<string>fd9dbd0a-8884-11ed-a1eb-0242ac120002</string>
+		<key>date</key>
+		<string>762</string>
+		<key>question</key>
+		<string>¿Cuál fue el principal objetivo de la fundación de Bagdad?</string>
+		<key>correctTAnswer</key>
+		<string>Para servir de capital al califato abbasí</string>
+		<key>incorrectAnswer1</key>
+		<string>Como fortaleza militar</string>
+		<key>incorrectAnswer2</key>
+		<string>Para servir de centro de las artes y la cultura</string>
+		<key>incorrectAnswer3</key>
+		<string>Para servir de centro de intercambio y comercio</string>
+		<key>wikiSearchWord</key>
+		<string>Bagdad</string>
+		<key>questionTrueOrFalse</key>
+		<string>Bagdad fue fundada en el siglo VIII y se convirtió en la capital del Califato abasí.</string>
+		<key>trueOrFalseAnswer</key>
+		<string>Verdadero</string>
+		<key>timeLine</key>
+		<string>Fundación de Bagdad</string>
+		<key>theme</key>
+		<string>El Imperio Islámico</string>
+		<key>numberOfGoodAnswers</key>
+		<integer>0</integer>
+		<key>numberOfBadAnswers</key>
+		<integer>0</integer>
+		<key>numberOfGoodAnswersQuiz</key>
+		<integer>0</integer>
+		<key>numberOfBadAnswersQuiz</key>
+		<integer>0</integer>
+		<key>order</key>
+		<integer>15</integer>
+	</dict>
+	<dict>
+		<key>id</key>
+		<string>fd9dbe90-8884-11ed-a1eb-0242ac120002</string>
+		<key>date</key>
+		<string>780</string>
+		<key>question</key>
+		<string>¿A quién se atribuye la invención del álgebra?</string>
+		<key>correctTAnswer</key>
+		<string>Muhammad ibn Musa al-Jwarizmi</string>
+		<key>incorrectAnswer1</key>
+		<string>Euclides</string>
+		<key>incorrectAnswer2</key>
+		<string>Pitágoras</string>
+		<key>incorrectAnswer3</key>
+		<string>René Descartes</string>
+		<key>wikiSearchWord</key>
+		<string>Al-Juarismi</string>
+		<key>questionTrueOrFalse</key>
+		<string>Al-Juarismi fue el primero en tratar el álgebra como una disciplina independiente .</string>
+		<key>trueOrFalseAnswer</key>
+		<string>Verdadero</string>
+		<key>timeLine</key>
+		<string>Nace Muhammad ibn Musa al-Jwarizmi</string>
+		<key>theme</key>
+		<string>El Imperio Islámico</string>
+		<key>numberOfGoodAnswers</key>
+		<integer>0</integer>
+		<key>numberOfBadAnswers</key>
+		<integer>0</integer>
+		<key>numberOfGoodAnswersQuiz</key>
+		<integer>0</integer>
+		<key>numberOfBadAnswersQuiz</key>
+		<integer>0</integer>
+		<key>order</key>
+		<integer>16</integer>
+	</dict>
+	<dict>
+		<key>id</key>
+		<string>fd9dcf02-8884-11ed-a1eb-0242ac120002</string>
+		<key>date</key>
+		<string>784</string>
+		<key>question</key>
+		<string>¿En qué país se construyó la Mezquita Mayor de Córdoba?</string>
+		<key>correctTAnswer</key>
+		<string>España</string>
+		<key>incorrectAnswer1</key>
+		<string>Marruecos</string>
+		<key>incorrectAnswer2</key>
+		<string>Egipto</string>
+		<key>incorrectAnswer3</key>
+		<string>Iraq</string>
+		<key>wikiSearchWord</key>
+		<string>Mezquita-catedral de Córdoba</string>
+		<key>questionTrueOrFalse</key>
+		<string>la Mezquita-Catedral de Córdoba se construyó como mezquita en el año 784.</string>
+		<key>trueOrFalseAnswer</key>
+		<string>Verdadero</string>
+		<key>timeLine</key>
+		<string>Se construye la Gran Mezquita de Córdoba</string>
+		<key>theme</key>
+		<string>El Imperio Islámico</string>
+		<key>numberOfGoodAnswers</key>
+		<integer>0</integer>
+		<key>numberOfBadAnswers</key>
+		<integer>0</integer>
+		<key>numberOfGoodAnswersQuiz</key>
+		<integer>0</integer>
+		<key>numberOfBadAnswersQuiz</key>
+		<integer>0</integer>
+		<key>order</key>
+		<integer>17</integer>
+	</dict>
+	<dict>
+		<key>id</key>
+		<string>fd9dbfb2-8884-11ed-a1eb-0242ac120002</string>
+		<key>date</key>
+		<string>786</string>
+		<key>question</key>
+		<string>¿A quién se atribuye el establecimiento de la &quot;Edad de Oro islámica&quot;?</string>
+		<key>correctTAnswer</key>
+		<string>El califa Harun al-Rashid</string>
+		<key>incorrectAnswer1</key>
+		<string>El califa Umar</string>
+		<key>incorrectAnswer2</key>
+		<string>l califa Abu Bakr</string>
+		<key>incorrectAnswer3</key>
+		<string>El Califa Alí</string>
+		<key>wikiSearchWord</key>
+		<string>Edad de Oro del islam</string>
+		<key>questionTrueOrFalse</key>
+		<string>La Edad de Oro del islam se extendió hasta el siglo xv. </string>
+		<key>trueOrFalseAnswer</key>
+		<string>Falso</string>
+		<key>timeLine</key>
+		<string>Comienza la Edad de Oro islámica</string>
+		<key>theme</key>
+		<string>El Imperio Islámico</string>
+		<key>numberOfGoodAnswers</key>
+		<integer>0</integer>
+		<key>numberOfBadAnswers</key>
+		<integer>0</integer>
+		<key>numberOfGoodAnswersQuiz</key>
+		<integer>0</integer>
+		<key>numberOfBadAnswersQuiz</key>
+		<integer>0</integer>
+		<key>order</key>
+		<integer>18</integer>
+	</dict>
+	<dict>
+		<key>id</key>
+		<string>fd9dc19c-8884-11ed-a1eb-0242ac120002</string>
+		<key>date</key>
+		<string>786</string>
+		<key>question</key>
+		<string>¿Cuál es la lengua original de Las mil y una noches?</string>
+		<key>correctTAnswer</key>
+		<string>Árabe</string>
+		<key>incorrectAnswer1</key>
+		<string>Persa</string>
+		<key>incorrectAnswer2</key>
+		<string>francés</string>
+		<key>incorrectAnswer3</key>
+		<string>Inglés</string>
+		<key>wikiSearchWord</key>
+		<string>Las mil y una noches</string>
+		<key>questionTrueOrFalse</key>
+		<string>Las Mil y una noches fue escrita por un solo autor durante un corto período de tiempo. </string>
+		<key>trueOrFalseAnswer</key>
+		<string>Falso</string>
+		<key>timeLine</key>
+		<string> Se escriben Las mil y una noches</string>
+		<key>theme</key>
+		<string>El Imperio Islámico</string>
+		<key>numberOfGoodAnswers</key>
+		<integer>0</integer>
+		<key>numberOfBadAnswers</key>
+		<integer>0</integer>
+		<key>numberOfGoodAnswersQuiz</key>
+		<integer>0</integer>
+		<key>numberOfBadAnswersQuiz</key>
+		<integer>0</integer>
+		<key>order</key>
+		<integer>18</integer>
+	</dict>
+	<dict>
+		<key>id</key>
+		<string>fd9dc67e-8884-11ed-a1eb-0242ac120002</string>
+		<key>date</key>
+		<string>846</string>
+		<key>question</key>
+		<string>¿Qué ciudad fue capturada y saqueada por las fuerzas musulmanas en 846?</string>
+		<key>correctTAnswer</key>
+		<string>Roma</string>
+		<key>incorrectAnswer1</key>
+		<string>Constantinopla</string>
+		<key>incorrectAnswer2</key>
+		<string>Jerusalén</string>
+		<key>incorrectAnswer3</key>
+		<string>Alejandría</string>
+		<key>wikiSearchWord</key>
+		<string>Saqueo de Roma (846)</string>
+		<key>questionTrueOrFalse</key>
+		<string>Durante el saqueo de Roma en 846, los piratas sarracenos lograron entrar y saquear la ciudad.</string>
+		<key>trueOrFalseAnswer</key>
+		<string>Falso</string>
+		<key>timeLine</key>
+		<string>Roma es saqueada por las fuerzas musulmanas</string>
+		<key>theme</key>
+		<string>El Imperio Islámico</string>
+		<key>numberOfGoodAnswers</key>
+		<integer>0</integer>
+		<key>numberOfBadAnswers</key>
+		<integer>0</integer>
+		<key>numberOfGoodAnswersQuiz</key>
+		<integer>0</integer>
+		<key>numberOfBadAnswersQuiz</key>
+		<integer>0</integer>
+		<key>order</key>
+		<integer>19</integer>
+	</dict>
+	<dict>
+		<key>id</key>
+		<string>fd9dc796-8884-11ed-a1eb-0242ac120002</string>
+		<key>date</key>
+		<string>853</string>
+		<key>question</key>
+		<string>¿Qué imperio recuperó la ciudad de Roma del control musulmán en 853?</string>
+		<key>correctTAnswer</key>
+		<string>El Imperio Bizantino</string>
+		<key>incorrectAnswer1</key>
+		<string>El Imperio Otomano</string>
+		<key>incorrectAnswer2</key>
+		<string>El Califato Abbasí</string>
+		<key>incorrectAnswer3</key>
+		<string>El Califato Omeya</string>
+		<key>wikiSearchWord</key>
+		<string>Imperio bizantino</string>
+		<key>questionTrueOrFalse</key>
+		<string>Es cierto que el Imperio Bizantino fue un bastión del islam durante la Edad Media.</string>
+		<key>trueOrFalseAnswer</key>
+		<string>Falso</string>
+		<key>timeLine</key>
+		<string>El imperio bizantino reconquista Roma a los musulmanes</string>
+		<key>theme</key>
+		<string>El Imperio Islámico</string>
+		<key>numberOfGoodAnswers</key>
+		<integer>0</integer>
+		<key>numberOfBadAnswers</key>
+		<integer>0</integer>
+		<key>numberOfGoodAnswersQuiz</key>
+		<integer>0</integer>
+		<key>numberOfBadAnswersQuiz</key>
+		<integer>0</integer>
+		<key>order</key>
+		<integer>20</integer>
+	</dict>
+	<dict>
+		<key>id</key>
+		<string>fd9dc8f4-8884-11ed-a1eb-0242ac120002</string>
+		<key>date</key>
+		<string>929</string>
+		<key>question</key>
+		<string>¿En qué región se estableció el califato fatimí?</string>
+		<key>correctTAnswer</key>
+		<string>Norte de África</string>
+		<key>incorrectAnswer1</key>
+		<string>Suroeste de Asia</string>
+		<key>incorrectAnswer2</key>
+		<string>Sudeste Asiático</string>
+		<key>incorrectAnswer3</key>
+		<string>África Oriental</string>
+		<key>wikiSearchWord</key>
+		<string>Califato fatimí</string>
+		<key>questionTrueOrFalse</key>
+		<string>El Califato fatimí incluyó parte de Asia en su apogeo. </string>
+		<key>trueOrFalseAnswer</key>
+		<string>Falso</string>
+		<key>timeLine</key>
+		<string>Se establece el califato fatimí</string>
+		<key>theme</key>
+		<string>El Imperio Islámico</string>
+		<key>numberOfGoodAnswers</key>
+		<integer>0</integer>
+		<key>numberOfBadAnswers</key>
+		<integer>0</integer>
+		<key>numberOfGoodAnswersQuiz</key>
+		<integer>0</integer>
+		<key>numberOfBadAnswersQuiz</key>
+		<integer>0</integer>
+		<key>order</key>
+		<integer>21</integer>
+	</dict>
+	<dict>
+		<key>id</key>
+		<string>fd9dca0c-8884-11ed-a1eb-0242ac120002</string>
+		<key>date</key>
+		<string>969</string>
+		<key>question</key>
+		<string>¿Qué califato conquistó Egipto y estableció su capital en El Cairo?</string>
+		<key>correctTAnswer</key>
+		<string>El Califato Fatimí</string>
+		<key>incorrectAnswer1</key>
+		<string>El Califato Omeya</string>
+		<key>incorrectAnswer2</key>
+		<string>El Califato Abbasí</string>
+		<key>incorrectAnswer3</key>
+		<string>El Imperio Selyúcida</string>
+		<key>wikiSearchWord</key>
+		<string>Conquista fatimí de Egipto</string>
+		<key>questionTrueOrFalse</key>
+		<string>La conquista fatimí de Egipto se llevó a cabo en el 969.</string>
+		<key>trueOrFalseAnswer</key>
+		<string>Verdadero</string>
+		<key>timeLine</key>
+		<string>Conquista de Egipto por los fatimíes</string>
+		<key>theme</key>
+		<string>El Imperio Islámico</string>
+		<key>numberOfGoodAnswers</key>
+		<integer>0</integer>
+		<key>numberOfBadAnswers</key>
+		<integer>0</integer>
+		<key>numberOfGoodAnswersQuiz</key>
+		<integer>0</integer>
+		<key>numberOfBadAnswersQuiz</key>
+		<integer>0</integer>
+		<key>order</key>
+		<integer>22</integer>
+	</dict>
+	<dict>
+		<key>id</key>
+		<string>fd9dcb24-8884-11ed-a1eb-0242ac120002</string>
+		<key>date</key>
+		<string>980</string>
+		<key>question</key>
+		<string>¿Qué famoso médico vivió y trabajó durante la edad de oro árabe-musulmana?</string>
+		<key>correctTAnswer</key>
+		<string>Avicena</string>
+		<key>incorrectAnswer1</key>
+		<string>Hipócrates</string>
+		<key>incorrectAnswer2</key>
+		<string>Galeno</string>
+		<key>incorrectAnswer3</key>
+		<string>Maimónides</string>
+		<key>wikiSearchWord</key>
+		<string>Avicena</string>
+		<key>questionTrueOrFalse</key>
+		<string>Ibn Sina escribió cerca de trescientos libros sobre diferentes temas, principalmente de filosofía y medicina.</string>
+		<key>trueOrFalseAnswer</key>
+		<string>Verdadero</string>
+		<key>timeLine</key>
+		<string>Nace Avicena</string>
+		<key>theme</key>
+		<string>El Imperio Islámico</string>
+		<key>numberOfGoodAnswers</key>
+		<integer>0</integer>
+		<key>numberOfBadAnswers</key>
+		<integer>0</integer>
+		<key>numberOfGoodAnswersQuiz</key>
+		<integer>0</integer>
+		<key>numberOfBadAnswersQuiz</key>
+		<integer>0</integer>
+		<key>order</key>
+		<integer>23</integer>
+	</dict>
+	<dict>
+		<key>id</key>
+		<string>fd9dd0b0-8884-11ed-a1eb-0242ac120002</string>
+		<key>date</key>
+		<string>1095</string>
+		<key>question</key>
+		<string>¿Cuál era el objetivo de la Primera Cruzada, iniciada en 1095?</string>
+		<key>correctTAnswer</key>
+		<string>Reconquistar Tierra Santa del control musulmán</string>
+		<key>incorrectAnswer1</key>
+		<string>Convertir el mundo musulmán al cristianismo</string>
+		<key>incorrectAnswer2</key>
+		<string>Conquistar el Imperio Bizantino</string>
+		<key>incorrectAnswer3</key>
+		<string>Establecer un Estado cristiano unificado en Europa</string>
+		<key>wikiSearchWord</key>
+		<string>Primera cruzada</string>
+		<key>questionTrueOrFalse</key>
+		<string>La Primera Cruzada permitió aumentar el prestigio del papado y revitalizar la economía y cultura del mundo medieval.</string>
+		<key>trueOrFalseAnswer</key>
+		<string>Verdadero</string>
+		<key>timeLine</key>
+		<string>Inicio de la Primera Cruzada</string>
+		<key>theme</key>
+		<string>El Imperio Islámico</string>
+		<key>numberOfGoodAnswers</key>
+		<integer>0</integer>
+		<key>numberOfBadAnswers</key>
+		<integer>0</integer>
+		<key>numberOfGoodAnswersQuiz</key>
+		<integer>0</integer>
+		<key>numberOfBadAnswersQuiz</key>
+		<integer>0</integer>
+		<key>order</key>
+		<integer>24</integer>
+	</dict>
+	<dict>
+		<key>id</key>
+		<string>fd9dd1dc-8884-11ed-a1eb-0242ac120002</string>
+		<key>date</key>
+		<string>1187</string>
+		<key>question</key>
+		<string>¿Quién reconquistó Tierra Santa y restableció el control musulmán sobre Jerusalén en 1187?</string>
+		<key>correctTAnswer</key>
+		<string>Saladino</string>
+		<key>incorrectAnswer1</key>
+		<string>Al-Ghazi</string>
+		<key>incorrectAnswer2</key>
+		<string>Tariq ibn Ziyad</string>
+		<key>incorrectAnswer3</key>
+		<string>Muawiyah I</string>
+		<key>wikiSearchWord</key>
+		<string>Sitio de Jerusalén (1187)</string>
+		<key>questionTrueOrFalse</key>
+		<string>La toma de Jerusalén por los musulmanes fue el motivo para el inicio de la Tercera cruzada </string>
+		<key>trueOrFalseAnswer</key>
+		<string>Verdadero</string>
+		<key>timeLine</key>
+		<string>Asedio de Jerusalén por Saladino</string>
+		<key>theme</key>
+		<string>El Imperio Islámico</string>
+		<key>numberOfGoodAnswers</key>
+		<integer>0</integer>
+		<key>numberOfBadAnswers</key>
+		<integer>0</integer>
+		<key>numberOfGoodAnswersQuiz</key>
+		<integer>0</integer>
+		<key>numberOfBadAnswersQuiz</key>
+		<integer>0</integer>
+		<key>order</key>
+		<integer>28</integer>
+	</dict>
+	<dict>
+		<key>id</key>
+		<string>fd9dd3bc-8884-11ed-a1eb-0242ac120002</string>
+		<key>date</key>
+		<string>1200</string>
+		<key>question</key>
+		<string>¿Cuál de los siguientes factores facilitó la expansión del Islam a través del Imperio Mongol?</string>
+		<key>correctTAnswer</key>
+		<string>La tolerancia religiosa del imperio</string>
+		<key>incorrectAnswer1</key>
+		<string>El vasto territorio del imperio</string>
+		<key>incorrectAnswer2</key>
+		<string>El imperio se centra en imponer su religión a sus súbditos</string>
+		<key>incorrectAnswer3</key>
+		<string>Ninguna de las anteriores</string>
+		<key>wikiSearchWord</key>
+		<string>Imperio mongol</string>
+		<key>questionTrueOrFalse</key>
+		<string>El Imperio Mongol fue fundado por Gengis Kan en el año 1206.</string>
+		<key>trueOrFalseAnswer</key>
+		<string>Verdadero</string>
+		<key>timeLine</key>
+		<string>Las conquistas del Imperio Mongol, de gran parte del mundo musulmán.</string>
+		<key>theme</key>
+		<string>El Imperio Islámico</string>
+		<key>numberOfGoodAnswers</key>
+		<integer>0</integer>
+		<key>numberOfBadAnswers</key>
+		<integer>0</integer>
+		<key>numberOfGoodAnswersQuiz</key>
+		<integer>0</integer>
+		<key>numberOfBadAnswersQuiz</key>
+		<integer>0</integer>
+		<key>order</key>
+		<integer>29</integer>
+	</dict>
+	<dict>
+		<key>id</key>
+		<string>fd9dd54c-8884-11ed-a1eb-0242ac120002</string>
+		<key>date</key>
+		<string>1258</string>
+		<key>question</key>
+		<string>¿Qué imperio conquistó Bagdad y destruyó el califato abasí en 1258?</string>
+		<key>correctTAnswer</key>
+		<string>El imperio mongol</string>
+		<key>incorrectAnswer1</key>
+		<string>El Imperio Otomano</string>
+		<key>incorrectAnswer2</key>
+		<string>El Imperio selyúcida</string>
+		<key>incorrectAnswer3</key>
+		<string>El Califato Fatimí</string>
+		<key>wikiSearchWord</key>
+		<string>Batalla de Bagdad (1258)</string>
+		<key>questionTrueOrFalse</key>
+		<string>La toma de Bagdad durante la batalla de 1258 fue un evento pacífico sin daños a la ciudad.</string>
+		<key>trueOrFalseAnswer</key>
+		<string>Falso</string>
+		<key>timeLine</key>
+		<string>Asedio de Bagdad por los mongoles</string>
+		<key>theme</key>
+		<string>El Imperio Islámico</string>
+		<key>numberOfGoodAnswers</key>
+		<integer>0</integer>
+		<key>numberOfBadAnswers</key>
+		<integer>0</integer>
+		<key>numberOfGoodAnswersQuiz</key>
+		<integer>0</integer>
+		<key>numberOfBadAnswersQuiz</key>
+		<integer>0</integer>
+		<key>order</key>
+		<integer>30</integer>
+	</dict>
+</array>
+</plist>

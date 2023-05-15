@@ -1,0 +1,1086 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<!DOCTYPE plist PUBLIC "-//Apple//DTD PLIST 1.0//EN" "http://www.apple.com/DTDs/PropertyList-1.0.dtd">
+<plist version="1.0">
+<array>
+	<dict>
+		<key>id</key>
+		<string>08f49d78-8311-11ed-a1eb-0242ac120002</string>
+		<key>date</key>
+		<string>hace 35000-15000 años</string>
+		<key>question</key>
+		<string>¿Se cree que los íberos prehistóricos emigraron a Iberia desde cuál de las siguientes regiones?</string>
+		<key>correctTAnswer</key>
+		<string>África</string>
+		<key>incorrectAnswer1</key>
+		<string>Asia</string>
+		<key>incorrectAnswer2</key>
+		<string>Europa</string>
+		<key>incorrectAnswer3</key>
+		<string>Australia</string>
+		<key>wikiSearchWord</key>
+		<string>Prehistoria en la península ibérica</string>
+		<key>questionTrueOrFalse</key>
+		<string>La Península Ibérica es conocida por su excepcional arte rupestre.</string>
+		<key>trueOrFalseAnswer</key>
+		<string>Verdadero</string>
+		<key>timeLine</key>
+		<string>El Homo sapiens llega a la Península Ibérica</string>
+		<key>theme</key>
+		<string>España</string>
+		<key>numberOfGoodAnswers</key>
+		<integer>0</integer>
+		<key>numberOfBadAnswers</key>
+		<integer>0</integer>
+		<key>numberOfGoodAnswersQuiz</key>
+		<integer>0</integer>
+		<key>numberOfBadAnswersQuiz</key>
+		<integer>0</integer>
+		<key>order</key>
+		<integer>1</integer>
+	</dict>
+	<dict>
+		<key>id</key>
+		<string>08f4a020-8311-11ed-a1eb-0242ac120002</string>
+		<key>date</key>
+		<string>2200 a.C. y 1550 a.C.</string>
+		<key>question</key>
+		<string>¿Cuál era la actividad principal de la antigua cultura argárica?</string>
+		<key>correctTAnswer</key>
+		<string>Agricultura y ganadería</string>
+		<key>incorrectAnswer1</key>
+		<string>Comercio</string>
+		<key>incorrectAnswer2</key>
+		<string>Caza y recolección</string>
+		<key>incorrectAnswer3</key>
+		<string>Guerra y conquista</string>
+		<key>wikiSearchWord</key>
+		<string>Cultura argárica</string>
+		<key>questionTrueOrFalse</key>
+		<string>Los restos arqueológicos de la cultura argárica están poco conservados.</string>
+		<key>trueOrFalseAnswer</key>
+		<string>Falso</string>
+		<key>timeLine</key>
+		<string>La civilización de El Argar </string>
+		<key>theme</key>
+		<string>España</string>
+		<key>numberOfGoodAnswers</key>
+		<integer>0</integer>
+		<key>numberOfBadAnswers</key>
+		<integer>0</integer>
+		<key>numberOfGoodAnswersQuiz</key>
+		<integer>0</integer>
+		<key>numberOfBadAnswersQuiz</key>
+		<integer>0</integer>
+		<key>order</key>
+		<integer>2</integer>
+	</dict>
+	<dict>
+		<key>id</key>
+		<string>08f4a16a-8311-11ed-a1eb-0242ac120002</string>
+		<key>date</key>
+		<string>1000 A.C. - 500 A.C.</string>
+		<key>question</key>
+		<string>¿Cómo interactuaron los celtas, que emigraron a la Península Ibérica, con la población ibérica autóctona?</string>
+		<key>correctTAnswer</key>
+		<string>Ambas culturas se influyeron mutuamente </string>
+		<key>incorrectAnswer1</key>
+		<string>Lucharon contra los íberos y los conquistaron</string>
+		<key>incorrectAnswer2</key>
+		<string>Vivían completamente separados y aislados de los íberos</string>
+		<key>incorrectAnswer3</key>
+		<string>Vivieron en épocas distintas</string>
+		<key>wikiSearchWord</key>
+		<string>Celtíberos</string>
+		<key>questionTrueOrFalse</key>
+		<string>Los romanos consideraban a los celtíberos una mezcla de celtas e íberos.</string>
+		<key>trueOrFalseAnswer</key>
+		<string>Verdadero</string>
+		<key>timeLine</key>
+		<string> Los celtas emigran a la Península Ibérica</string>
+		<key>theme</key>
+		<string>España</string>
+		<key>numberOfGoodAnswers</key>
+		<integer>0</integer>
+		<key>numberOfBadAnswers</key>
+		<integer>0</integer>
+		<key>numberOfGoodAnswersQuiz</key>
+		<integer>0</integer>
+		<key>numberOfBadAnswersQuiz</key>
+		<integer>0</integer>
+		<key>order</key>
+		<integer>3</integer>
+	</dict>
+	<dict>
+		<key>id</key>
+		<string>08f4a2a0-8311-11ed-a1eb-0242ac120002</string>
+		<key>date</key>
+		<string>200 A.C.</string>
+		<key>question</key>
+		<string>¿Cuánto duró la conquista romana de la Península Ibérica?</string>
+		<key>correctTAnswer</key>
+		<string>Más de tres siglos</string>
+		<key>incorrectAnswer1</key>
+		<string>En menos de una década</string>
+		<key>incorrectAnswer2</key>
+		<string>Un siglo</string>
+		<key>incorrectAnswer3</key>
+		<string>Cincuenta años</string>
+		<key>wikiSearchWord</key>
+		<string>Conquista de Hispania</string>
+		<key>questionTrueOrFalse</key>
+		<string>La conquista romana de Hispania comenzó en 218 a. C. y terminó en 19 a. C. </string>
+		<key>trueOrFalseAnswer</key>
+		<string>Verdadero</string>
+		<key>timeLine</key>
+		<string>Conquista romana de la Península Ibérica</string>
+		<key>theme</key>
+		<string>España</string>
+		<key>numberOfGoodAnswers</key>
+		<integer>0</integer>
+		<key>numberOfBadAnswers</key>
+		<integer>0</integer>
+		<key>numberOfGoodAnswersQuiz</key>
+		<integer>0</integer>
+		<key>numberOfBadAnswersQuiz</key>
+		<integer>0</integer>
+		<key>order</key>
+		<integer>4</integer>
+	</dict>
+	<dict>
+		<key>id</key>
+		<string>08f4a412-8311-11ed-a1eb-0242ac120002</string>
+		<key>date</key>
+		<string>500</string>
+		<key>question</key>
+		<string>¿Cómo se apoderaron los visigodos de gran parte de España?</string>
+		<key>correctTAnswer</key>
+		<string>A través de la conquista militar</string>
+		<key>incorrectAnswer1</key>
+		<string>Mediante la diplomacia y la creación de alianzas</string>
+		<key>incorrectAnswer2</key>
+		<string>A través de la dominación económica</string>
+		<key>incorrectAnswer3</key>
+		<string>Mediante la asimilación cultural</string>
+		<key>wikiSearchWord</key>
+		<string>Reino visigodo</string>
+		<key>questionTrueOrFalse</key>
+		<string>El Reino visigodo de Toledo fue establecido después de la conquista musulmana de la península ibérica.</string>
+		<key>trueOrFalseAnswer</key>
+		<string>Falso</string>
+		<key>timeLine</key>
+		<string> Los visigodos se apoderan de gran parte de España.</string>
+		<key>theme</key>
+		<string>España</string>
+		<key>numberOfGoodAnswers</key>
+		<integer>0</integer>
+		<key>numberOfBadAnswers</key>
+		<integer>0</integer>
+		<key>numberOfGoodAnswersQuiz</key>
+		<integer>0</integer>
+		<key>numberOfBadAnswersQuiz</key>
+		<integer>0</integer>
+		<key>order</key>
+		<integer>5</integer>
+	</dict>
+	<dict>
+		<key>id</key>
+		<string>08f4a566-8311-11ed-a1eb-0242ac120002</string>
+		<key>date</key>
+		<string>711</string>
+		<key>question</key>
+		<string>¿Cuál fue la motivación principal de la invasión de España por los moros?</string>
+		<key>correctTAnswer</key>
+		<string>Para difundir el Islam</string>
+		<key>incorrectAnswer1</key>
+		<string>Para acceder a los recursos naturales</string>
+		<key>incorrectAnswer2</key>
+		<string>Para establecer una nueva ruta comercial</string>
+		<key>incorrectAnswer3</key>
+		<string>Para vengarse de un conflicto anterior</string>
+		<key>wikiSearchWord</key>
+		<string>Moro</string>
+		<key>questionTrueOrFalse</key>
+		<string>El término &quot;moro&quot; se utilizó solo en la literatura culta para referirse a musulmanes ibéricos durante la Reconquista. </string>
+		<key>trueOrFalseAnswer</key>
+		<string>Falso</string>
+		<key>timeLine</key>
+		<string>Los árabes invaden España</string>
+		<key>theme</key>
+		<string>España</string>
+		<key>numberOfGoodAnswers</key>
+		<integer>0</integer>
+		<key>numberOfBadAnswers</key>
+		<integer>0</integer>
+		<key>numberOfGoodAnswersQuiz</key>
+		<integer>0</integer>
+		<key>numberOfBadAnswersQuiz</key>
+		<integer>0</integer>
+		<key>order</key>
+		<integer>6</integer>
+	</dict>
+	<dict>
+		<key>id</key>
+		<string>08f4a688-8311-11ed-a1eb-0242ac120002</string>
+		<key>date</key>
+		<string>718</string>
+		<key>question</key>
+		<string>¿Cuál fue el resultado de la reconquista de España?</string>
+		<key>correctTAnswer</key>
+		<string>Los cristianos expulsaron a los musulmanes</string>
+		<key>incorrectAnswer1</key>
+		<string>Los musulmanes conservaron el control de España</string>
+		<key>incorrectAnswer2</key>
+		<string>Las fuerzas cristianas fueron derrotadas y expulsadas de España</string>
+		<key>incorrectAnswer3</key>
+		<string>Los musulmanes conservaron el control de algunas zonas de España</string>
+		<key>wikiSearchWord</key>
+		<string>Reconquista</string>
+		<key>questionTrueOrFalse</key>
+		<string>La Reconquista fue un período de aproximadamente 780 años.</string>
+		<key>trueOrFalseAnswer</key>
+		<string>Verdadero</string>
+		<key>timeLine</key>
+		<string>Comienza la Reconquista por parte de los cristianos para retomar España.</string>
+		<key>theme</key>
+		<string>España</string>
+		<key>numberOfGoodAnswers</key>
+		<integer>0</integer>
+		<key>numberOfBadAnswers</key>
+		<integer>0</integer>
+		<key>numberOfGoodAnswersQuiz</key>
+		<integer>0</integer>
+		<key>numberOfBadAnswersQuiz</key>
+		<integer>0</integer>
+		<key>order</key>
+		<integer>7</integer>
+	</dict>
+	<dict>
+		<key>id</key>
+		<string>08f4ae4e-8311-11ed-a1eb-0242ac120002</string>
+		<key>date</key>
+		<string>756</string>
+		<key>question</key>
+		<string>¿Qué religión seguía principalmente el Califato de Córdoba?</string>
+		<key>correctTAnswer</key>
+		<string>Islam</string>
+		<key>incorrectAnswer1</key>
+		<string>La religión católica</string>
+		<key>incorrectAnswer2</key>
+		<string>Judaísmo</string>
+		<key>incorrectAnswer3</key>
+		<string>El protestantismo</string>
+		<key>wikiSearchWord</key>
+		<string>Califato de Córdoba</string>
+		<key>questionTrueOrFalse</key>
+		<string>El Califato Omeya de Córdoba era conocido oficialmente como el Primer Califato Omeya.</string>
+		<key>trueOrFalseAnswer</key>
+		<string>Falso</string>
+		<key>timeLine</key>
+		<string>Califato de Córdoba</string>
+		<key>theme</key>
+		<string>España</string>
+		<key>numberOfGoodAnswers</key>
+		<integer>0</integer>
+		<key>numberOfBadAnswers</key>
+		<integer>0</integer>
+		<key>numberOfGoodAnswersQuiz</key>
+		<integer>0</integer>
+		<key>numberOfBadAnswersQuiz</key>
+		<integer>0</integer>
+		<key>order</key>
+		<integer>8</integer>
+	</dict>
+	<dict>
+		<key>id</key>
+		<string>08f4b092-8311-11ed-a1eb-0242ac120002</string>
+		<key>date</key>
+		<string>1139</string>
+		<key>question</key>
+		<string>¿Con qué otro país estuvo aliado el Reino de Portugal durante sus primeros años de historia?</string>
+		<key>correctTAnswer</key>
+		<string>Castilla (España)</string>
+		<key>incorrectAnswer1</key>
+		<string>Francia</string>
+		<key>incorrectAnswer2</key>
+		<string>Inglaterra</string>
+		<key>incorrectAnswer3</key>
+		<string>Los Países Bajos</string>
+		<key>wikiSearchWord</key>
+		<string>Historia de Portugal</string>
+		<key>questionTrueOrFalse</key>
+		<string>Portugal se originó en la Edad Media y se convirtió en una potencia mundial durante la Edad Moderna</string>
+		<key>trueOrFalseAnswer</key>
+		<string>Verdadero</string>
+		<key>timeLine</key>
+		<string>Se establece el Reino de Portugal</string>
+		<key>theme</key>
+		<string>España</string>
+		<key>numberOfGoodAnswers</key>
+		<integer>0</integer>
+		<key>numberOfBadAnswers</key>
+		<integer>0</integer>
+		<key>numberOfGoodAnswersQuiz</key>
+		<integer>0</integer>
+		<key>numberOfBadAnswersQuiz</key>
+		<integer>0</integer>
+		<key>order</key>
+		<integer>9</integer>
+	</dict>
+	<dict>
+		<key>id</key>
+		<string>08f4b1c8-8311-11ed-a1eb-0242ac120002</string>
+		<key>date</key>
+		<string>1469</string>
+		<key>question</key>
+		<string>¿Por qué era conocida Isabel I de Castilla?</string>
+		<key>correctTAnswer</key>
+		<string>Fue una figura clave en la unificación de España.</string>
+		<key>incorrectAnswer1</key>
+		<string>Fue una exitosa líder militar</string>
+		<key>incorrectAnswer2</key>
+		<string>Era una hábil diplomática</string>
+		<key>incorrectAnswer3</key>
+		<string>Fue mecenas de las artes</string>
+		<key>wikiSearchWord</key>
+		<string>Isabel I de Castilla</string>
+		<key>questionTrueOrFalse</key>
+		<string>Isabel I de Castilla y Fernando de Aragón expulsaron a los judíos de sus reinos después de ganar la guerra de Granada.</string>
+		<key>trueOrFalseAnswer</key>
+		<string>Verdadero</string>
+		<key>timeLine</key>
+		<string> Se casan Isabel I de Castilla y Fernando II de Aragón.</string>
+		<key>theme</key>
+		<string>España</string>
+		<key>numberOfGoodAnswers</key>
+		<integer>0</integer>
+		<key>numberOfBadAnswers</key>
+		<integer>0</integer>
+		<key>numberOfGoodAnswersQuiz</key>
+		<integer>0</integer>
+		<key>numberOfBadAnswersQuiz</key>
+		<integer>0</integer>
+		<key>order</key>
+		<integer>10</integer>
+	</dict>
+	<dict>
+		<key>id</key>
+		<string>08f4b326-8311-11ed-a1eb-0242ac120002</string>
+		<key>date</key>
+		<string>1478</string>
+		<key>question</key>
+		<string>¿Cuál era el objetivo último de la Inquisición española?</string>
+		<key>correctTAnswer</key>
+		<string>Eliminar la influencia de judíos y musulmanes en España</string>
+		<key>incorrectAnswer1</key>
+		<string>Extender la fe católica por toda Europa</string>
+		<key>incorrectAnswer2</key>
+		<string>Suprimir el protestantismo</string>
+		<key>incorrectAnswer3</key>
+		<string>Perseguir a brujas y herejes</string>
+		<key>wikiSearchWord</key>
+		<string>Inquisición española</string>
+		<key>questionTrueOrFalse</key>
+		<string>La Inquisición española fue fundada en el siglo XII. </string>
+		<key>trueOrFalseAnswer</key>
+		<string>Falso</string>
+		<key>timeLine</key>
+		<string>Comienza la Inquisición española.</string>
+		<key>theme</key>
+		<string>España</string>
+		<key>numberOfGoodAnswers</key>
+		<integer>0</integer>
+		<key>numberOfBadAnswers</key>
+		<integer>0</integer>
+		<key>numberOfGoodAnswersQuiz</key>
+		<integer>0</integer>
+		<key>numberOfBadAnswersQuiz</key>
+		<integer>0</integer>
+		<key>order</key>
+		<integer>11</integer>
+	</dict>
+	<dict>
+		<key>id</key>
+		<string>08f4b4a2-8311-11ed-a1eb-0242ac120002</string>
+		<key>date</key>
+		<string>1492</string>
+		<key>question</key>
+		<string>¿Qué acontecimiento marcó el final de la Reconquista en España?</string>
+		<key>correctTAnswer</key>
+		<string>La conquista de Granada</string>
+		<key>incorrectAnswer1</key>
+		<string>La firma del Tratado de Tordesillas</string>
+		<key>incorrectAnswer2</key>
+		<string>La batalla del paso de Roncesvalles</string>
+		<key>incorrectAnswer3</key>
+		<string>La coronación de los reyes Fernando e Isabel</string>
+		<key>wikiSearchWord</key>
+		<string>Guerra de Granada</string>
+		<key>questionTrueOrFalse</key>
+		<string>La guerra de Granada duró 10 años y solía tener un ritmo estacional, con campañas iniciadas en primavera y detenidas en invierno.</string>
+		<key>trueOrFalseAnswer</key>
+		<string>Verdadero</string>
+		<key>timeLine</key>
+		<string> Finaliza la Reconquista con la conquista de Granada.</string>
+		<key>theme</key>
+		<string>España</string>
+		<key>numberOfGoodAnswers</key>
+		<integer>0</integer>
+		<key>numberOfBadAnswers</key>
+		<integer>0</integer>
+		<key>numberOfGoodAnswersQuiz</key>
+		<integer>0</integer>
+		<key>numberOfBadAnswersQuiz</key>
+		<integer>0</integer>
+		<key>order</key>
+		<integer>12</integer>
+	</dict>
+	<dict>
+		<key>id</key>
+		<string>08f4b5f6-8311-11ed-a1eb-0242ac120002</string>
+		<key>date</key>
+		<string>1492</string>
+		<key>question</key>
+		<string>¿Quién patrocinó la expedición del explorador Cristóbal Colón?</string>
+		<key>correctTAnswer</key>
+		<string>Reina Isabel</string>
+		<key>incorrectAnswer1</key>
+		<string>El rey Fernando</string>
+		<key>incorrectAnswer2</key>
+		<string>Reina Isabel</string>
+		<key>incorrectAnswer3</key>
+		<string>El rey Enrique VIII</string>
+		<key>wikiSearchWord</key>
+		<string>Cristóbal Colón</string>
+		<key>questionTrueOrFalse</key>
+		<string>Cristóbal Colón fue acusado de brutalidad y destituido como gobernador colonial debido a su trato con los taínos en La Española.</string>
+		<key>trueOrFalseAnswer</key>
+		<string>Verdadero</string>
+		<key>timeLine</key>
+		<string>La reina Isabel patrocina la expedición del explorador Cristóbal Colón.</string>
+		<key>theme</key>
+		<string>España</string>
+		<key>numberOfGoodAnswers</key>
+		<integer>0</integer>
+		<key>numberOfBadAnswers</key>
+		<integer>0</integer>
+		<key>numberOfGoodAnswersQuiz</key>
+		<integer>0</integer>
+		<key>numberOfBadAnswersQuiz</key>
+		<integer>0</integer>
+		<key>order</key>
+		<integer>13</integer>
+	</dict>
+	<dict>
+		<key>id</key>
+		<string>08f4b74a-8311-11ed-a1eb-0242ac120002</string>
+		<key>date</key>
+		<string>1492</string>
+		<key>question</key>
+		<string>¿Cuál fue el principal objetivo del Decreto de la Alhambra?</string>
+		<key>correctTAnswer</key>
+		<string>Para expulsar a los judíos de España</string>
+		<key>incorrectAnswer1</key>
+		<string>Para establecer el español como lengua oficial de España</string>
+		<key>incorrectAnswer2</key>
+		<string>Para establecer un nuevo sistema fiscal en España</string>
+		<key>incorrectAnswer3</key>
+		<string>Declarar la guerra a un país vecino</string>
+		<key>wikiSearchWord</key>
+		<string>Edicto de Granada</string>
+		<key>questionTrueOrFalse</key>
+		<string>La Constitución española de 1869 derogó el Decreto de la Alhambra. </string>
+		<key>trueOrFalseAnswer</key>
+		<string>Falso</string>
+		<key>timeLine</key>
+		<string>Se promulga el Decreto de la Alhambra, que ordena la expulsión de los judíos de España.</string>
+		<key>theme</key>
+		<string>España</string>
+		<key>numberOfGoodAnswers</key>
+		<integer>0</integer>
+		<key>numberOfBadAnswers</key>
+		<integer>0</integer>
+		<key>numberOfGoodAnswersQuiz</key>
+		<integer>0</integer>
+		<key>numberOfBadAnswersQuiz</key>
+		<integer>0</integer>
+		<key>order</key>
+		<integer>14</integer>
+	</dict>
+	<dict>
+		<key>id</key>
+		<string>08f4bbb4-8311-11ed-a1eb-0242ac120002</string>
+		<key>date</key>
+		<string>1516</string>
+		<key>question</key>
+		<string>¿Qué importancia tuvo la coronación de Carlos I como Emperador del Sacro Imperio Romano Germánico?</string>
+		<key>correctTAnswer</key>
+		<string>Estableció a España como una gran potencia europea</string>
+		<key>incorrectAnswer1</key>
+		<string>Marcó el comienzo del declive del Sacro Imperio Romano</string>
+		<key>incorrectAnswer2</key>
+		<string>Condujo a la propagación de la fe católica por toda Europa</string>
+		<key>incorrectAnswer3</key>
+		<string>Provocó el fin de la Reforma protestante</string>
+		<key>wikiSearchWord</key>
+		<string>Carlos I de España</string>
+		<key>questionTrueOrFalse</key>
+		<string>Carlos I de España y V del Sacro Imperio Romano Germánico fue conocido como &quot;el César&quot;. </string>
+		<key>trueOrFalseAnswer</key>
+		<string>Verdadero</string>
+		<key>timeLine</key>
+		<string>Carlos I es coronado emperador del Sacro Imperio Romano Germánico.</string>
+		<key>theme</key>
+		<string>España</string>
+		<key>numberOfGoodAnswers</key>
+		<integer>0</integer>
+		<key>numberOfBadAnswers</key>
+		<integer>0</integer>
+		<key>numberOfGoodAnswersQuiz</key>
+		<integer>0</integer>
+		<key>numberOfBadAnswersQuiz</key>
+		<integer>0</integer>
+		<key>order</key>
+		<integer>15</integer>
+	</dict>
+	<dict>
+		<key>id</key>
+		<string>08f4bcfe-8311-11ed-a1eb-0242ac120002</string>
+		<key>date</key>
+		<string>1516 -1700</string>
+		<key>question</key>
+		<string>¿Qué acontecimiento suele considerarse el final del Siglo de Oro español?</string>
+		<key>correctTAnswer</key>
+		<string>La muerte del último rey Habsburgo, Carlos II</string>
+		<key>incorrectAnswer1</key>
+		<string>La muerte del rey Felipe II</string>
+		<key>incorrectAnswer2</key>
+		<string>La derrota de la Armada española</string>
+		<key>incorrectAnswer3</key>
+		<string>La firma del Tratado de Westfalia</string>
+		<key>wikiSearchWord</key>
+		<string>Siglo de Oro</string>
+		<key>questionTrueOrFalse</key>
+		<string>El Siglo de Oro español fue un período de declive cultural y artístico en España.</string>
+		<key>trueOrFalseAnswer</key>
+		<string>Falso</string>
+		<key>timeLine</key>
+		<string>Siglo de Oro español</string>
+		<key>theme</key>
+		<string>España</string>
+		<key>numberOfGoodAnswers</key>
+		<integer>0</integer>
+		<key>numberOfBadAnswers</key>
+		<integer>0</integer>
+		<key>numberOfGoodAnswersQuiz</key>
+		<integer>0</integer>
+		<key>numberOfBadAnswersQuiz</key>
+		<integer>0</integer>
+		<key>order</key>
+		<integer>16</integer>
+	</dict>
+	<dict>
+		<key>id</key>
+		<string>08f4be0c-8311-11ed-a1eb-0242ac120002</string>
+		<key>date</key>
+		<string>1520</string>
+		<key>question</key>
+		<string>¿Quién conquistó para España el Imperio Azteca en México?</string>
+		<key>correctTAnswer</key>
+		<string>Hernán Cortés</string>
+		<key>incorrectAnswer1</key>
+		<string>Francisco Pizarro</string>
+		<key>incorrectAnswer2</key>
+		<string>Juan Ponce de León</string>
+		<key>incorrectAnswer3</key>
+		<string>Cristóbal Colón</string>
+		<key>wikiSearchWord</key>
+		<string>Hernán Cortés</string>
+		<key>questionTrueOrFalse</key>
+		<string>Cortés lideró la conquista del imperio azteca y creó la Nueva España</string>
+		<key>trueOrFalseAnswer</key>
+		<string>Verdadero</string>
+		<key>timeLine</key>
+		<string>Hernán Cortés conquista el Imperio Azteca en México.</string>
+		<key>theme</key>
+		<string>España</string>
+		<key>numberOfGoodAnswers</key>
+		<integer>0</integer>
+		<key>numberOfBadAnswers</key>
+		<integer>0</integer>
+		<key>numberOfGoodAnswersQuiz</key>
+		<integer>0</integer>
+		<key>numberOfBadAnswersQuiz</key>
+		<integer>0</integer>
+		<key>order</key>
+		<integer>17</integer>
+	</dict>
+	<dict>
+		<key>id</key>
+		<string>08f4bf2e-8311-11ed-a1eb-0242ac120002</string>
+		<key>date</key>
+		<string>1588</string>
+		<key>question</key>
+		<string>¿Por qué se lanzó la Armada española a invadir Inglaterra en 1588?</string>
+		<key>correctTAnswer</key>
+		<string>Para castigar a Inglaterra por apoyar la rebelión holandesa</string>
+		<key>incorrectAnswer1</key>
+		<string>Convertir a los ingleses al catolicismo</string>
+		<key>incorrectAnswer2</key>
+		<string>Para hacerse con el control del trono inglés</string>
+		<key>incorrectAnswer3</key>
+		<string>Para establecer una colonia española en Inglaterra</string>
+		<key>wikiSearchWord</key>
+		<string>Armada Invencible</string>
+		<key>questionTrueOrFalse</key>
+		<string>La Gran Armada tuvo éxito en su objetivo de derrotar a las fuerzas inglesas y favorecer el ataque desde Flandes.</string>
+		<key>trueOrFalseAnswer</key>
+		<string>Falso</string>
+		<key>timeLine</key>
+		<string>La Armada española es derrotada por la armada inglesa</string>
+		<key>theme</key>
+		<string>España</string>
+		<key>numberOfGoodAnswers</key>
+		<integer>0</integer>
+		<key>numberOfBadAnswers</key>
+		<integer>0</integer>
+		<key>numberOfGoodAnswersQuiz</key>
+		<integer>0</integer>
+		<key>numberOfBadAnswersQuiz</key>
+		<integer>0</integer>
+		<key>order</key>
+		<integer>18</integer>
+	</dict>
+	<dict>
+		<key>id</key>
+		<string>08f4c032-8311-11ed-a1eb-0242ac120002</string>
+		<key>date</key>
+		<string>1605</string>
+		<key>question</key>
+		<string>¿Por qué es conocido el protagonista de &quot;El Quijote&quot;?</string>
+		<key>correctTAnswer</key>
+		<string>Su caballerosidad y valentía</string>
+		<key>incorrectAnswer1</key>
+		<string>Su riqueza y poder</string>
+		<key>incorrectAnswer2</key>
+		<string>Su inteligencia e ingenio</string>
+		<key>incorrectAnswer3</key>
+		<string>Su encanto y carisma</string>
+		<key>wikiSearchWord</key>
+		<string>Don Quijote de la Mancha</string>
+		<key>questionTrueOrFalse</key>
+		<string>Don Quijote de la Mancha es una novela polifónica y representa la primera novela moderna. </string>
+		<key>trueOrFalseAnswer</key>
+		<string>Verdadero</string>
+		<key>timeLine</key>
+		<string> Miguel de Cervantes publica la novela épica Don Quijote.</string>
+		<key>theme</key>
+		<string>España</string>
+		<key>numberOfGoodAnswers</key>
+		<integer>0</integer>
+		<key>numberOfBadAnswers</key>
+		<integer>0</integer>
+		<key>numberOfGoodAnswersQuiz</key>
+		<integer>0</integer>
+		<key>numberOfBadAnswersQuiz</key>
+		<integer>0</integer>
+		<key>order</key>
+		<integer>19</integer>
+	</dict>
+	<dict>
+		<key>id</key>
+		<string>08f4c154-8311-11ed-a1eb-0242ac120002</string>
+		<key>date</key>
+		<string>1618</string>
+		<key>question</key>
+		<string>¿Cuál fue la causa principal de la Guerra de los Treinta Años?</string>
+		<key>correctTAnswer</key>
+		<string>Conflicto religioso entre católicos y protestantes</string>
+		<key>incorrectAnswer1</key>
+		<string>Disputas territoriales entre Francia y España</string>
+		<key>incorrectAnswer2</key>
+		<string>Una lucha por el poder entre los imperios Habsburgo y Otomano</string>
+		<key>incorrectAnswer3</key>
+		<string>Una revuelta contra el gobierno de la monarquía inglesa</string>
+		<key>wikiSearchWord</key>
+		<string>Guerra de los Treinta Años</string>
+		<key>questionTrueOrFalse</key>
+		<string>Los motivos por los que las distintas potencias europeas intervinieron en la guerra de los Treinta Años siempre tenían que ver con la religión. </string>
+		<key>trueOrFalseAnswer</key>
+		<string>Falso</string>
+		<key>timeLine</key>
+		<string>Comienza la Guerra de los Treinta Años.</string>
+		<key>theme</key>
+		<string>España</string>
+		<key>numberOfGoodAnswers</key>
+		<integer>0</integer>
+		<key>numberOfBadAnswers</key>
+		<integer>0</integer>
+		<key>numberOfGoodAnswersQuiz</key>
+		<integer>0</integer>
+		<key>numberOfBadAnswersQuiz</key>
+		<integer>0</integer>
+		<key>order</key>
+		<integer>20</integer>
+	</dict>
+	<dict>
+		<key>id</key>
+		<string>08f4c280-8311-11ed-a1eb-0242ac120002</string>
+		<key>date</key>
+		<string>1701</string>
+		<key>question</key>
+		<string>¿Cuál fue la causa principal de la Guerra de Sucesión Española de 1701?</string>
+		<key>correctTAnswer</key>
+		<string>Disputa por la sucesión al trono de España</string>
+		<key>incorrectAnswer1</key>
+		<string>Disputa fronteriza entre Francia y España</string>
+		<key>incorrectAnswer2</key>
+		<string>Una disputa por las rutas comerciales en el Caribe</string>
+		<key>incorrectAnswer3</key>
+		<string>Una disputa por el control del Sacro Imperio Romano Germánico</string>
+		<key>wikiSearchWord</key>
+		<string>Guerra de sucesión española</string>
+		<key>questionTrueOrFalse</key>
+		<string>La causa principal de la guerra de sucesión española fue la muerte de Carlos II de España sin descendencia.</string>
+		<key>trueOrFalseAnswer</key>
+		<string>Verdadero</string>
+		<key>timeLine</key>
+		<string> Comienza la Guerra de Sucesión española. </string>
+		<key>theme</key>
+		<string>España</string>
+		<key>numberOfGoodAnswers</key>
+		<integer>0</integer>
+		<key>numberOfBadAnswers</key>
+		<integer>0</integer>
+		<key>numberOfGoodAnswersQuiz</key>
+		<integer>0</integer>
+		<key>numberOfBadAnswersQuiz</key>
+		<integer>0</integer>
+		<key>order</key>
+		<integer>21</integer>
+	</dict>
+	<dict>
+		<key>id</key>
+		<string>08f4c398-8311-11ed-a1eb-0242ac120002</string>
+		<key>date</key>
+		<string>1761</string>
+		<key>question</key>
+		<string>¿Quiénes fueron los aliados de España en la Guerra de los Siete Años?</string>
+		<key>correctTAnswer</key>
+		<string>Francia y las colonias americanas</string>
+		<key>incorrectAnswer1</key>
+		<string>El Imperio Otomano y Prusia</string>
+		<key>incorrectAnswer2</key>
+		<string>La República Holandesa y Portugal</string>
+		<key>incorrectAnswer3</key>
+		<string>Austria y Rusia</string>
+		<key>wikiSearchWord</key>
+		<string>Guerra de los Siete Años</string>
+		<key>questionTrueOrFalse</key>
+		<string>La guerra de los Siete Años fue librada únicamente en América del Norte.</string>
+		<key>trueOrFalseAnswer</key>
+		<string>Falso</string>
+		<key>timeLine</key>
+		<string> España se une a la Guerra de los Siete Años contra Gran Bretaña.</string>
+		<key>theme</key>
+		<string>España</string>
+		<key>numberOfGoodAnswers</key>
+		<integer>0</integer>
+		<key>numberOfBadAnswers</key>
+		<integer>0</integer>
+		<key>numberOfGoodAnswersQuiz</key>
+		<integer>0</integer>
+		<key>numberOfBadAnswersQuiz</key>
+		<integer>0</integer>
+		<key>order</key>
+		<integer>22</integer>
+	</dict>
+	<dict>
+		<key>id</key>
+		<string>08f4c884-8311-11ed-a1eb-0242ac120002</string>
+		<key>date</key>
+		<string>1808</string>
+		<key>question</key>
+		<string>¿Quién fue el líder del ejército francés durante la Guerra Peninsular?</string>
+		<key>correctTAnswer</key>
+		<string>Napoleón Bonaparte</string>
+		<key>incorrectAnswer1</key>
+		<string>Duque de Wellington</string>
+		<key>incorrectAnswer2</key>
+		<string>El rey Luis XVI</string>
+		<key>incorrectAnswer3</key>
+		<string>El rey Fernando VII</string>
+		<key>wikiSearchWord</key>
+		<string>Guerra de la Independencia Española</string>
+		<key>questionTrueOrFalse</key>
+		<string>La guerra de la Independencia Española fue un conflicto interno en España sin implicaciones internacionales. </string>
+		<key>trueOrFalseAnswer</key>
+		<string>Falso</string>
+		<key>timeLine</key>
+		<string> Se libra la Guerra Peninsular contra Napoléon.</string>
+		<key>theme</key>
+		<string>España</string>
+		<key>numberOfGoodAnswers</key>
+		<integer>0</integer>
+		<key>numberOfBadAnswers</key>
+		<integer>0</integer>
+		<key>numberOfGoodAnswersQuiz</key>
+		<integer>0</integer>
+		<key>numberOfBadAnswersQuiz</key>
+		<integer>0</integer>
+		<key>order</key>
+		<integer>23</integer>
+	</dict>
+	<dict>
+		<key>id</key>
+		<string>08f4c9c4-8311-11ed-a1eb-0242ac120002</string>
+		<key>date</key>
+		<string>1808</string>
+		<key>question</key>
+		<string>¿Qué país condujo Simón Bolívar a la independencia de España?</string>
+		<key>correctTAnswer</key>
+		<string>Venezuela</string>
+		<key>incorrectAnswer1</key>
+		<string>Perú</string>
+		<key>incorrectAnswer2</key>
+		<string>Chile</string>
+		<key>incorrectAnswer3</key>
+		<string>Argentina</string>
+		<key>wikiSearchWord</key>
+		<string>Guerras de independencia hispanoamericanas</string>
+		<key>questionTrueOrFalse</key>
+		<string>Las revoluciones hispanoamericanas no tuvieron relación con la independencia de las colonias británicas de América del Norte ni con la Revolución francesa.</string>
+		<key>trueOrFalseAnswer</key>
+		<string>Falso</string>
+		<key>timeLine</key>
+		<string>Guerras de independencia hispanoamericanas</string>
+		<key>theme</key>
+		<string>España</string>
+		<key>numberOfGoodAnswers</key>
+		<integer>0</integer>
+		<key>numberOfBadAnswers</key>
+		<integer>0</integer>
+		<key>numberOfGoodAnswersQuiz</key>
+		<integer>0</integer>
+		<key>numberOfBadAnswersQuiz</key>
+		<integer>0</integer>
+		<key>order</key>
+		<integer>24</integer>
+	</dict>
+	<dict>
+		<key>id</key>
+		<string>08f4cae6-8311-11ed-a1eb-0242ac120002</string>
+		<key>date</key>
+		<string>1898</string>
+		<key>question</key>
+		<string>¿Cuál de los siguientes territorios adquirió Estados Unidos como resultado de la Guerra Hispanoamericana?</string>
+		<key>correctTAnswer</key>
+		<string>Cuba, Puerto Rico y Guam</string>
+		<key>incorrectAnswer1</key>
+		<string>Cuba</string>
+		<key>incorrectAnswer2</key>
+		<string>Puerto Rico</string>
+		<key>incorrectAnswer3</key>
+		<string>Guam</string>
+		<key>wikiSearchWord</key>
+		<string>Guerra hispano-estadounidense</string>
+		<key>questionTrueOrFalse</key>
+		<string>El siglo XIX representó para el Imperio español un claro declive, mientras que los Estados Unidos se expandieron militarmente y económicamente.</string>
+		<key>trueOrFalseAnswer</key>
+		<string>Verdadero</string>
+		<key>timeLine</key>
+		<string> Se libra la Guerra Hispanoamericana.</string>
+		<key>theme</key>
+		<string>España</string>
+		<key>numberOfGoodAnswers</key>
+		<integer>0</integer>
+		<key>numberOfBadAnswers</key>
+		<integer>0</integer>
+		<key>numberOfGoodAnswersQuiz</key>
+		<integer>0</integer>
+		<key>numberOfBadAnswersQuiz</key>
+		<integer>0</integer>
+		<key>order</key>
+		<integer>25</integer>
+	</dict>
+	<dict>
+		<key>id</key>
+		<string>08f4cbf4-8311-11ed-a1eb-0242ac120002</string>
+		<key>date</key>
+		<string>1936</string>
+		<key>question</key>
+		<string>¿Quiénes fueron las principales facciones implicadas en la Guerra Civil española?</string>
+		<key>correctTAnswer</key>
+		<string>Republicanos y nacionalistas</string>
+		<key>incorrectAnswer1</key>
+		<string>Comunistas y fascistas</string>
+		<key>incorrectAnswer2</key>
+		<string>Demócratas y republicanos</string>
+		<key>incorrectAnswer3</key>
+		<string>Monárquicos y republicanos</string>
+		<key>wikiSearchWord</key>
+		<string>Guerra civil española</string>
+		<key>questionTrueOrFalse</key>
+		<string>La guerra civil española se inició con el golpe de estado perpetrado por parte de las fuerzas armadas. </string>
+		<key>trueOrFalseAnswer</key>
+		<string>Verdadero</string>
+		<key>timeLine</key>
+		<string> Comienza la Guerra Civil española </string>
+		<key>theme</key>
+		<string>España</string>
+		<key>numberOfGoodAnswers</key>
+		<integer>0</integer>
+		<key>numberOfBadAnswers</key>
+		<integer>0</integer>
+		<key>numberOfGoodAnswersQuiz</key>
+		<integer>0</integer>
+		<key>numberOfBadAnswersQuiz</key>
+		<integer>0</integer>
+		<key>order</key>
+		<integer>26</integer>
+	</dict>
+	<dict>
+		<key>id</key>
+		<string>08f4cd0c-8311-11ed-a1eb-0242ac120002</string>
+		<key>date</key>
+		<string>1937</string>
+		<key>question</key>
+		<string>¿Quién fue el responsable del bombardeo de Guernica?</string>
+		<key>correctTAnswer</key>
+		<string>Las potencias fascistas alemana e italiana</string>
+		<key>incorrectAnswer1</key>
+		<string>Las fuerzas nacionalistas españolas</string>
+		<key>incorrectAnswer2</key>
+		<string>La Unión Soviética</string>
+		<key>incorrectAnswer3</key>
+		<string>Estados Unidos</string>
+		<key>wikiSearchWord</key>
+		<string>Bombardeo de Guernica</string>
+		<key>questionTrueOrFalse</key>
+		<string>Pablo Picasso creó un famoso cuadro llamado &quot;Guernica&quot; para mostrar el sufrimiento de la población bombardeada.</string>
+		<key>trueOrFalseAnswer</key>
+		<string>Verdadero</string>
+		<key>timeLine</key>
+		<string>Bombardeo de Guernica</string>
+		<key>theme</key>
+		<string>España</string>
+		<key>numberOfGoodAnswers</key>
+		<integer>0</integer>
+		<key>numberOfBadAnswers</key>
+		<integer>0</integer>
+		<key>numberOfGoodAnswersQuiz</key>
+		<integer>0</integer>
+		<key>numberOfBadAnswersQuiz</key>
+		<integer>0</integer>
+		<key>order</key>
+		<integer>27</integer>
+	</dict>
+	<dict>
+		<key>id</key>
+		<string>08f4ce10-8311-11ed-a1eb-0242ac120002</string>
+		<key>date</key>
+		<string>1939</string>
+		<key>question</key>
+		<string>¿Cómo llegó Francisco Franco al poder en España?</string>
+		<key>correctTAnswer</key>
+		<string>Tomó el poder en un golpe militar</string>
+		<key>incorrectAnswer1</key>
+		<string>Fue elegido en unas elecciones libres y justas</string>
+		<key>incorrectAnswer2</key>
+		<string>Heredó el trono</string>
+		<key>incorrectAnswer3</key>
+		<string>Fue nombrado por las Naciones Unidas</string>
+		<key>wikiSearchWord</key>
+		<string>Francisco Franco</string>
+		<key>questionTrueOrFalse</key>
+		<string>El régimen de Franco se caracterizó por la ausencia de ideología más allá del anticomunismo y el nacionalcatolicismo.</string>
+		<key>trueOrFalseAnswer</key>
+		<string>Verdadero</string>
+		<key>timeLine</key>
+		<string>Francisco Franco se convierte en dictador de España.</string>
+		<key>theme</key>
+		<string>España</string>
+		<key>numberOfGoodAnswers</key>
+		<integer>0</integer>
+		<key>numberOfBadAnswers</key>
+		<integer>0</integer>
+		<key>numberOfGoodAnswersQuiz</key>
+		<integer>0</integer>
+		<key>numberOfBadAnswersQuiz</key>
+		<integer>0</integer>
+		<key>order</key>
+		<integer>28</integer>
+	</dict>
+	<dict>
+		<key>id</key>
+		<string>08f4cf32-8311-11ed-a1eb-0242ac120002</string>
+		<key>date</key>
+		<string>1939</string>
+		<key>question</key>
+		<string>¿Cuál de las siguientes opciones describe mejor la postura de España durante la Segunda Guerra Mundial?</string>
+		<key>correctTAnswer</key>
+		<string>Neutro</string>
+		<key>incorrectAnswer1</key>
+		<string>Aliados con las potencias del Eje</string>
+		<key>incorrectAnswer2</key>
+		<string>Se alió con las potencias aliadas</string>
+		<key>incorrectAnswer3</key>
+		<string>Involucrado en su propia guerra civil</string>
+		<key>wikiSearchWord</key>
+		<string>España en la Segunda Guerra Mundial</string>
+		<key>questionTrueOrFalse</key>
+		<string>España oficialmente participó activamente en la Segunda Guerra Mundial. </string>
+		<key>trueOrFalseAnswer</key>
+		<string>Falso</string>
+		<key>timeLine</key>
+		<string>España durante la Segunda Guerra Mundial</string>
+		<key>theme</key>
+		<string>España</string>
+		<key>numberOfGoodAnswers</key>
+		<integer>0</integer>
+		<key>numberOfBadAnswers</key>
+		<integer>0</integer>
+		<key>numberOfGoodAnswersQuiz</key>
+		<integer>0</integer>
+		<key>numberOfBadAnswersQuiz</key>
+		<integer>0</integer>
+		<key>order</key>
+		<integer>29</integer>
+	</dict>
+	<dict>
+		<key>id</key>
+		<string>08f4d040-8311-11ed-a1eb-0242ac120002</string>
+		<key>date</key>
+		<string>1975</string>
+		<key>question</key>
+		<string>¿Qué acontecimiento marcó el inicio de la transición de España a la democracia?</string>
+		<key>correctTAnswer</key>
+		<string>La muerte del dictador Francisco Franco</string>
+		<key>incorrectAnswer1</key>
+		<string>La caída de la Unión Soviética</string>
+		<key>incorrectAnswer2</key>
+		<string>La firma del Tratado de Maastricht</string>
+		<key>incorrectAnswer3</key>
+		<string>Publicación del manifiesto &quot;Programa Posible</string>
+		<key>wikiSearchWord</key>
+		<string>Transición española</string>
+		<key>questionTrueOrFalse</key>
+		<string>Juan Carlos I fue designado como sucesor del general Franco &quot;a título de rey&quot; solo unos días antes de la muerte de Franco.</string>
+		<key>trueOrFalseAnswer</key>
+		<string>Falso</string>
+		<key>timeLine</key>
+		<string>Transición española a la democracia</string>
+		<key>theme</key>
+		<string>España</string>
+		<key>numberOfGoodAnswers</key>
+		<integer>0</integer>
+		<key>numberOfBadAnswers</key>
+		<integer>0</integer>
+		<key>numberOfGoodAnswersQuiz</key>
+		<integer>0</integer>
+		<key>numberOfBadAnswersQuiz</key>
+		<integer>0</integer>
+		<key>order</key>
+		<integer>30</integer>
+	</dict>
+</array>
+</plist>

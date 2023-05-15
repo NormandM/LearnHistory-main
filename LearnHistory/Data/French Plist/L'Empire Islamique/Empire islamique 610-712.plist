@@ -1,0 +1,366 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<!DOCTYPE plist PUBLIC "-//Apple//DTD PLIST 1.0//EN" "http://www.apple.com/DTDs/PropertyList-1.0.dtd">
+<plist version="1.0">
+<array>
+	<dict>
+		<key>correctTAnswer</key>
+		<string>Elle lui a été adressée par l&apos;ange Gabriel dans une grotte appelée Hira.</string>
+		<key>date</key>
+		<string>610</string>
+		<key>id</key>
+		<string>adaad238-8884-11ed-a1eb-0242ac120002</string>
+		<key>incorrectAnswer1</key>
+		<string>C&apos;est écrit dans un livre qui lui a été révélé dans une vision.</string>
+		<key>incorrectAnswer2</key>
+		<string>Elle lui a été transmise par un rêve</string>
+		<key>incorrectAnswer3</key>
+		<string>Elle lui a été donnée par un groupe d&apos;hommes sages.</string>
+		<key>numberOfBadAnswers</key>
+		<integer>0</integer>
+		<key>numberOfBadAnswersQuiz</key>
+		<integer>0</integer>
+		<key>numberOfGoodAnswers</key>
+		<integer>0</integer>
+		<key>numberOfGoodAnswersQuiz</key>
+		<integer>0</integer>
+		<key>order</key>
+		<integer>1</integer>
+		<key>question</key>
+		<string>Comment la première révélation du Coran est-elle parvenue au prophète Mahomet ?</string>
+		<key>questionTrueOrFalse</key>
+		<string>Selon la tradition islamique, Mahomet est né à Médine</string>
+		<key>theme</key>
+		<string>Empire islamique 610-712</string>
+		<key>timeLine</key>
+		<string>Le prophète Muhammad reçoit la première révélation du Coran.</string>
+		<key>trueOrFalseAnswer</key>
+		<string>Faux</string>
+		<key>wikiSearchWord</key>
+		<string>Mahomet</string>
+	</dict>
+	<dict>
+		<key>correctTAnswer</key>
+		<string>Pour échapper à la persécution</string>
+		<key>date</key>
+		<string>622</string>
+		<key>id</key>
+		<string>adaad5ee-8884-11ed-a1eb-0242ac120002</string>
+		<key>incorrectAnswer1</key>
+		<string>Pour répandre l&apos;Islam</string>
+		<key>incorrectAnswer2</key>
+		<string>Visite de la Kaaba</string>
+		<key>incorrectAnswer3</key>
+		<string>Pour accomplir le pèlerinage</string>
+		<key>numberOfBadAnswers</key>
+		<integer>0</integer>
+		<key>numberOfBadAnswersQuiz</key>
+		<integer>0</integer>
+		<key>numberOfGoodAnswers</key>
+		<integer>0</integer>
+		<key>numberOfGoodAnswersQuiz</key>
+		<integer>0</integer>
+		<key>order</key>
+		<integer>2</integer>
+		<key>question</key>
+		<string>Pourquoi Muhammad a-t-il entrepris l&apos;Hijra (la migration ou le voyage de La Mecque à Médine) ?</string>
+		<key>questionTrueOrFalse</key>
+		<string>L&apos;hégire désigne l&apos;exode de Mahomet et de ses compagnons de La Mecque vers l&apos;oasis de Yathrib </string>
+		<key>theme</key>
+		<string>Empire islamique 610-712</string>
+		<key>timeLine</key>
+		<string>Muhammad entreprend la Hijra. </string>
+		<key>trueOrFalseAnswer</key>
+		<string>Vrai</string>
+		<key>wikiSearchWord</key>
+		<string>Hégire</string>
+	</dict>
+	<dict>
+		<key>correctTAnswer</key>
+		<string>Abu Bakr</string>
+		<key>date</key>
+		<string>632</string>
+		<key>id</key>
+		<string>adaadaf8-8884-11ed-a1eb-0242ac120002</string>
+		<key>incorrectAnswer1</key>
+		<string>Umar</string>
+		<key>incorrectAnswer2</key>
+		<string>Uthman</string>
+		<key>incorrectAnswer3</key>
+		<string>Ali</string>
+		<key>numberOfBadAnswers</key>
+		<integer>0</integer>
+		<key>numberOfBadAnswersQuiz</key>
+		<integer>0</integer>
+		<key>numberOfGoodAnswers</key>
+		<integer>0</integer>
+		<key>numberOfGoodAnswersQuiz</key>
+		<integer>0</integer>
+		<key>order</key>
+		<integer>3</integer>
+		<key>question</key>
+		<string>Après la mort de Mahomet, qui est devenu le premier calife ?</string>
+		<key>questionTrueOrFalse</key>
+		<string>Le Coran a été compilé par Mahomet </string>
+		<key>theme</key>
+		<string>Empire islamique 610-712</string>
+		<key>timeLine</key>
+		<string>Muhammad meurt</string>
+		<key>trueOrFalseAnswer</key>
+		<string>Faux</string>
+		<key>wikiSearchWord</key>
+		<string>Mahomet</string>
+	</dict>
+	<dict>
+		<key>correctTAnswer</key>
+		<string>Byzantins</string>
+		<key>date</key>
+		<string>632-640</string>
+		<key>id</key>
+		<string>adaadc56-8884-11ed-a1eb-0242ac120002</string>
+		<key>incorrectAnswer1</key>
+		<string>Perses sassanides</string>
+		<key>incorrectAnswer2</key>
+		<string>Les Romains</string>
+		<key>incorrectAnswer3</key>
+		<string>Égyptiens</string>
+		<key>numberOfBadAnswers</key>
+		<integer>0</integer>
+		<key>numberOfBadAnswersQuiz</key>
+		<integer>0</integer>
+		<key>numberOfGoodAnswers</key>
+		<integer>0</integer>
+		<key>numberOfGoodAnswersQuiz</key>
+		<integer>0</integer>
+		<key>order</key>
+		<integer>4</integer>
+		<key>question</key>
+		<string>Qui était le souverain de l&apos;Egypte avant la conquête arabo-islamique ?</string>
+		<key>questionTrueOrFalse</key>
+		<string>L&apos;armée arabe envoyée par le calife Omar ibn al-Khattâb pour répandre l&apos;Islam en Égypte était composée de 4 000 soldats.</string>
+		<key>theme</key>
+		<string>Empire islamique 610-712</string>
+		<key>timeLine</key>
+		<string>Conquête de l&apos;Arabie, de la Palestine et de l&apos;Égypte par les armées arabo-musulmanes.</string>
+		<key>trueOrFalseAnswer</key>
+		<string>Vrai</string>
+		<key>wikiSearchWord</key>
+		<string>Conquête musulmane de l&apos;Égypte</string>
+	</dict>
+	<dict>
+		<key>correctTAnswer</key>
+		<string>Ali</string>
+		<key>date</key>
+		<string>632-661</string>
+		<key>id</key>
+		<string>adaadddc-8884-11ed-a1eb-0242ac120002</string>
+		<key>incorrectAnswer1</key>
+		<string>Abu Bakr</string>
+		<key>incorrectAnswer2</key>
+		<string>Umar</string>
+		<key>incorrectAnswer3</key>
+		<string>Uthman</string>
+		<key>numberOfBadAnswers</key>
+		<integer>0</integer>
+		<key>numberOfBadAnswersQuiz</key>
+		<integer>0</integer>
+		<key>numberOfGoodAnswers</key>
+		<integer>0</integer>
+		<key>numberOfGoodAnswersQuiz</key>
+		<integer>0</integer>
+		<key>order</key>
+		<integer>5</integer>
+		<key>question</key>
+		<string>Quel calife rashidun est considéré comme le premier calife et imam légitime par les musulmans chiites ?</string>
+		<key>questionTrueOrFalse</key>
+		<string>Les Califes bien guidés régnèrent pendant 100 ans.</string>
+		<key>theme</key>
+		<string>Empire islamique 610-712</string>
+		<key>timeLine</key>
+		<string>Califat rashidun</string>
+		<key>trueOrFalseAnswer</key>
+		<string>Faux</string>
+		<key>wikiSearchWord</key>
+		<string>Califes bien guidés</string>
+	</dict>
+	<dict>
+		<key>correctTAnswer</key>
+		<string>Le soutien de la population locale</string>
+		<key>date</key>
+		<string>647-709</string>
+		<key>id</key>
+		<string>adaae16a-8884-11ed-a1eb-0242ac120002</string>
+		<key>incorrectAnswer1</key>
+		<string>La force de l&apos;armée byzantine</string>
+		<key>incorrectAnswer2</key>
+		<string>L&apos;utilisation d&apos;une technologie militaire avancée</string>
+		<key>incorrectAnswer3</key>
+		<string>L&apos;importance stratégique de la région</string>
+		<key>numberOfBadAnswers</key>
+		<integer>0</integer>
+		<key>numberOfBadAnswersQuiz</key>
+		<integer>0</integer>
+		<key>numberOfGoodAnswers</key>
+		<integer>0</integer>
+		<key>numberOfGoodAnswersQuiz</key>
+		<integer>0</integer>
+		<key>order</key>
+		<integer>6</integer>
+		<key>question</key>
+		<string>Lequel des éléments suivants a été un facteur clé dans la conquête musulmane de l&apos;Afrique du Nord ?</string>
+		<key>questionTrueOrFalse</key>
+		<string>L&apos;Empire byzantin a perdu toutes ses forteresses restantes au profit du califat omeyyade lors de la conquête musulmane du Maghreb.</string>
+		<key>theme</key>
+		<string>Empire islamique 610-712</string>
+		<key>timeLine</key>
+		<string>La conquête de l&apos;Afrique du Nord</string>
+		<key>trueOrFalseAnswer</key>
+		<string>Vrai</string>
+		<key>wikiSearchWord</key>
+		<string>Conquête musulmane du Maghreb</string>
+	</dict>
+	<dict>
+		<key>correctTAnswer</key>
+		<string>Il a permis la diffusion de l&apos;islam et l&apos;établissement d&apos;un régime musulman.</string>
+		<key>date</key>
+		<string>651</string>
+		<key>id</key>
+		<string>adaae2f0-8884-11ed-a1eb-0242ac120002</string>
+		<key>incorrectAnswer1</key>
+		<string>Elle a entraîné une période de paix et de prospérité.</string>
+		<key>incorrectAnswer2</key>
+		<string>Elle a conduit à la propagation du christianisme dans la région.</string>
+		<key>incorrectAnswer3</key>
+		<string>Elle a entraîné l&apos;effondrement du commerce et de l&apos;économie</string>
+		<key>numberOfBadAnswers</key>
+		<integer>0</integer>
+		<key>numberOfBadAnswersQuiz</key>
+		<integer>0</integer>
+		<key>numberOfGoodAnswers</key>
+		<integer>0</integer>
+		<key>numberOfGoodAnswersQuiz</key>
+		<integer>0</integer>
+		<key>order</key>
+		<integer>7</integer>
+		<key>question</key>
+		<string>Quel a été l&apos;impact de la conquête arabo-musulmane de l&apos;empire sassanide (Iran) sur la région ?</string>
+		<key>questionTrueOrFalse</key>
+		<string>La religion zoroastrienne a prospéré en Perse après la conquête arabo-islamique. </string>
+		<key>theme</key>
+		<string>Empire islamique 610-712</string>
+		<key>timeLine</key>
+		<string>La conquête arabo-musulmane de l&apos;empire sassanide </string>
+		<key>trueOrFalseAnswer</key>
+		<string>Faux</string>
+		<key>wikiSearchWord</key>
+		<string>Conquête musulmane de la Perse</string>
+	</dict>
+	<dict>
+		<key>correctTAnswer</key>
+		<string>Damas</string>
+		<key>date</key>
+		<string>661</string>
+		<key>id</key>
+		<string>adaae03e-8884-11ed-a1eb-0242ac120002</string>
+		<key>incorrectAnswer1</key>
+		<string>Bagdad</string>
+		<key>incorrectAnswer2</key>
+		<string>Le Caire</string>
+		<key>incorrectAnswer3</key>
+		<string>La Mecque</string>
+		<key>numberOfBadAnswers</key>
+		<integer>0</integer>
+		<key>numberOfBadAnswersQuiz</key>
+		<integer>0</integer>
+		<key>numberOfGoodAnswers</key>
+		<integer>0</integer>
+		<key>numberOfGoodAnswersQuiz</key>
+		<integer>0</integer>
+		<key>order</key>
+		<integer>8</integer>
+		<key>question</key>
+		<string>Quelle était la capitale du califat omeyyade ?</string>
+		<key>questionTrueOrFalse</key>
+		<string>Damas est l&apos;une des villes les plus anciennes du monde</string>
+		<key>theme</key>
+		<string>Empire islamique 610-712</string>
+		<key>timeLine</key>
+		<string>Damas devient la capitale du califat omeyyade</string>
+		<key>trueOrFalseAnswer</key>
+		<string>Vrai</string>
+		<key>wikiSearchWord</key>
+		<string>Damas</string>
+	</dict>
+	<dict>
+		<key>correctTAnswer</key>
+		<string>Berbères</string>
+		<key>date</key>
+		<string>711-756</string>
+		<key>id</key>
+		<string>adaae43a-8884-11ed-a1eb-0242ac120002</string>
+		<key>incorrectAnswer1</key>
+		<string>Les Perses</string>
+		<key>incorrectAnswer2</key>
+		<string>Vikings</string>
+		<key>incorrectAnswer3</key>
+		<string>Les Huns</string>
+		<key>numberOfBadAnswers</key>
+		<integer>0</integer>
+		<key>numberOfBadAnswersQuiz</key>
+		<integer>0</integer>
+		<key>numberOfGoodAnswers</key>
+		<integer>0</integer>
+		<key>numberOfGoodAnswersQuiz</key>
+		<integer>0</integer>
+		<key>order</key>
+		<integer>9</integer>
+		<key>question</key>
+		<string>Quel groupe a joué un rôle important dans la conquête arabo-musulmane de l&apos;Espagne ?</string>
+		<key>questionTrueOrFalse</key>
+		<string>La conquête musulmane de l&apos;Hispanie a été menée par l&apos;armée omeyyade composée principalement de Berbères. </string>
+		<key>theme</key>
+		<string>Empire islamique 610-712</string>
+		<key>timeLine</key>
+		<string>La conquête arabo-musulmane de l&apos;Espagne</string>
+		<key>trueOrFalseAnswer</key>
+		<string>Vrai</string>
+		<key>wikiSearchWord</key>
+		<string>Conquête musulmane de l&apos;Hispanie</string>
+	</dict>
+	<dict>
+		<key>correctTAnswer</key>
+		<string>Pour répandre l&apos;islam</string>
+		<key>date</key>
+		<string>712</string>
+		<key>id</key>
+		<string>adaae55c-8884-11ed-a1eb-0242ac120002</string>
+		<key>incorrectAnswer1</key>
+		<string>Pour prendre le contrôle des routes commerciales</string>
+		<key>incorrectAnswer2</key>
+		<string>Pour se venger des conflits passés</string>
+		<key>incorrectAnswer3</key>
+		<string>Pour établir une nouvelle capitale</string>
+		<key>numberOfBadAnswers</key>
+		<integer>0</integer>
+		<key>numberOfBadAnswersQuiz</key>
+		<integer>0</integer>
+		<key>numberOfGoodAnswers</key>
+		<integer>0</integer>
+		<key>numberOfGoodAnswersQuiz</key>
+		<integer>0</integer>
+		<key>order</key>
+		<integer>10</integer>
+		<key>question</key>
+		<string>Quelle est la principale raison de la conquête arabo-musulmane du Sindh (sud-est du Pakistan) ?</string>
+		<key>questionTrueOrFalse</key>
+		<string>Les conquêtes musulmanes des Indes ont été marquées par des massacres de la population indienne indigène et la destruction de leurs édifices religieux.</string>
+		<key>theme</key>
+		<string>Empire islamique 610-712</string>
+		<key>timeLine</key>
+		<string>La conquête arabo-musulmane du Sindh</string>
+		<key>trueOrFalseAnswer</key>
+		<string>Vrai</string>
+		<key>wikiSearchWord</key>
+		<string>Conquêtes musulmanes des Indes</string>
+	</dict>
+</array>
+</plist>

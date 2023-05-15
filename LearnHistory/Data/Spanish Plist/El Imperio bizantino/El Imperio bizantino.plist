@@ -1,0 +1,1086 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<!DOCTYPE plist PUBLIC "-//Apple//DTD PLIST 1.0//EN" "http://www.apple.com/DTDs/PropertyList-1.0.dtd">
+<plist version="1.0">
+<array>
+	<dict>
+		<key>id</key>
+		<string>e1cfc930-eb97-11ed-a05b-0242ac120003</string>
+		<key>date</key>
+		<string>330</string>
+		<key>question</key>
+		<string>¿Quién fundó la ciudad de Constantinopla?</string>
+		<key>correctTAnswer</key>
+		<string>Constantino el Grande</string>
+		<key>incorrectAnswer1</key>
+		<string>Julio César</string>
+		<key>incorrectAnswer2</key>
+		<string>Alejandro Magno</string>
+		<key>incorrectAnswer3</key>
+		<string>Augusto</string>
+		<key>wikiSearchWord</key>
+		<string>Constantinopla</string>
+		<key>questionTrueOrFalse</key>
+		<string>Constantinopla fue capital del Imperio Romano de Oriente.</string>
+		<key>trueOrFalseAnswer</key>
+		<string>Verdadero</string>
+		<key>timeLine</key>
+		<string>Fundación de Constantinopla</string>
+		<key>theme</key>
+		<string>El Imperio bizantino</string>
+		<key>numberOfGoodAnswers</key>
+		<integer>0</integer>
+		<key>numberOfBadAnswers</key>
+		<integer>0</integer>
+		<key>numberOfGoodAnswersQuiz</key>
+		<integer>0</integer>
+		<key>numberOfBadAnswersQuiz</key>
+		<integer>0</integer>
+		<key>order</key>
+		<integer>1</integer>
+	</dict>
+	<dict>
+		<key>id</key>
+		<string>e1cfcb74-eb97-11ed-a05b-0242ac120003</string>
+		<key>date</key>
+		<string>395</string>
+		<key>question</key>
+		<string>¿Qué emperador romano dividió el imperio en los imperios romano oriental y occidental?</string>
+		<key>correctTAnswer</key>
+		<string>Teodosio I</string>
+		<key>incorrectAnswer1</key>
+		<string>Diocleciano</string>
+		<key>incorrectAnswer2</key>
+		<string>Constantino el Grande</string>
+		<key>incorrectAnswer3</key>
+		<string>Augusto</string>
+		<key>wikiSearchWord</key>
+		<string>Imperio Romano de Occidente</string>
+		<key>questionTrueOrFalse</key>
+		<string>El Imperio romano de Occidente existió entre los años 286 y 476</string>
+		<key>trueOrFalseAnswer</key>
+		<string>Verdadero</string>
+		<key>timeLine</key>
+		<string>División del Imperio Romano</string>
+		<key>theme</key>
+		<string>El Imperio bizantino</string>
+		<key>numberOfGoodAnswers</key>
+		<integer>0</integer>
+		<key>numberOfBadAnswers</key>
+		<integer>0</integer>
+		<key>numberOfGoodAnswersQuiz</key>
+		<integer>0</integer>
+		<key>numberOfBadAnswersQuiz</key>
+		<integer>0</integer>
+		<key>order</key>
+		<integer>2</integer>
+	</dict>
+	<dict>
+		<key>id</key>
+		<string>e1cfccb4-eb97-11ed-a05b-0242ac120003</string>
+		<key>date</key>
+		<string>476</string>
+		<key>question</key>
+		<string>¿Quién fue el último emperador del Imperio Romano de Occidente?</string>
+		<key>correctTAnswer</key>
+		<string>Rómulo Augusto</string>
+		<key>incorrectAnswer1</key>
+		<string>Julio Nepote</string>
+		<key>incorrectAnswer2</key>
+		<string>Flavio Estilicón</string>
+		<key>incorrectAnswer3</key>
+		<string>Odoacro</string>
+		<key>wikiSearchWord</key>
+		<string>Caída del Imperio Romano de Occidente</string>
+		<key>questionTrueOrFalse</key>
+		<string>La caída del Imperio romano de Occidente se vincula tradicionalmente con el año 476 d.C</string>
+		<key>trueOrFalseAnswer</key>
+		<string>Verdadero</string>
+		<key>timeLine</key>
+		<string>Caída del Imperio Romano de Occidente</string>
+		<key>theme</key>
+		<string>El Imperio bizantino</string>
+		<key>numberOfGoodAnswers</key>
+		<integer>0</integer>
+		<key>numberOfBadAnswers</key>
+		<integer>0</integer>
+		<key>numberOfGoodAnswersQuiz</key>
+		<integer>0</integer>
+		<key>numberOfBadAnswersQuiz</key>
+		<integer>0</integer>
+		<key>order</key>
+		<integer>3</integer>
+	</dict>
+	<dict>
+		<key>id</key>
+		<string>e1cfcdd6-eb97-11ed-a05b-0242ac120003</string>
+		<key>date</key>
+		<string>527-565</string>
+		<key>question</key>
+		<string>¿Qué famoso conjunto de leyes se compiló durante el reinado de Justiniano I?</string>
+		<key>correctTAnswer</key>
+		<string>Corpus Juris Civilis</string>
+		<key>incorrectAnswer1</key>
+		<string>Código Teodosiano</string>
+		<key>incorrectAnswer2</key>
+		<string>Doce Tablas</string>
+		<key>incorrectAnswer3</key>
+		<string>Código de Hammurabi</string>
+		<key>wikiSearchWord</key>
+		<string>Justiniano I</string>
+		<key>questionTrueOrFalse</key>
+		<string>Justiniano I fue el último emperador en usar el griego como lengua materna</string>
+		<key>trueOrFalseAnswer</key>
+		<string>Falso</string>
+		<key>timeLine</key>
+		<string>Reinado de Justiniano I</string>
+		<key>theme</key>
+		<string>El Imperio bizantino</string>
+		<key>numberOfGoodAnswers</key>
+		<integer>0</integer>
+		<key>numberOfBadAnswers</key>
+		<integer>0</integer>
+		<key>numberOfGoodAnswersQuiz</key>
+		<integer>0</integer>
+		<key>numberOfBadAnswersQuiz</key>
+		<integer>0</integer>
+		<key>order</key>
+		<integer>4</integer>
+	</dict>
+	<dict>
+		<key>id</key>
+		<string>e1cfd1e6-eb97-11ed-a05b-0242ac120003</string>
+		<key>date</key>
+		<string>532</string>
+		<key>question</key>
+		<string>¿Qué edificio fue destruido durante las revueltas de Nika y luego reconstruido por Justiniano I?</string>
+		<key>correctTAnswer</key>
+		<string>Hagia Sophia</string>
+		<key>incorrectAnswer1</key>
+		<string>Iglesia de los Santos Apóstoles</string>
+		<key>incorrectAnswer2</key>
+		<string>Hipódromo</string>
+		<key>incorrectAnswer3</key>
+		<string>Gran Palacio</string>
+		<key>wikiSearchWord</key>
+		<string>Disturbios de Niká</string>
+		<key>questionTrueOrFalse</key>
+		<string>La revuelta de Nika comenzó en la iglesia de Santa Sofía</string>
+		<key>trueOrFalseAnswer</key>
+		<string>Falso</string>
+		<key>timeLine</key>
+		<string>Revueltas de Nika</string>
+		<key>theme</key>
+		<string>El Imperio bizantino</string>
+		<key>numberOfGoodAnswers</key>
+		<integer>0</integer>
+		<key>numberOfBadAnswers</key>
+		<integer>0</integer>
+		<key>numberOfGoodAnswersQuiz</key>
+		<integer>0</integer>
+		<key>numberOfBadAnswersQuiz</key>
+		<integer>0</integer>
+		<key>order</key>
+		<integer>5</integer>
+	</dict>
+	<dict>
+		<key>id</key>
+		<string>e1cfd312-eb97-11ed-a05b-0242ac120003</string>
+		<key>date</key>
+		<string>537</string>
+		<key>question</key>
+		<string>¿Quiénes fueron los dos arquitectos responsables del diseño de Hagia Sophia?</string>
+		<key>correctTAnswer</key>
+		<string>Anthemius de Tralles e Isidoro de Mileto</string>
+		<key>incorrectAnswer1</key>
+		<string>Sinan y Miguel Ángel</string>
+		<key>incorrectAnswer2</key>
+		<string>Apolodoro de Damasco y Vitruvio</string>
+		<key>incorrectAnswer3</key>
+		<string>Filippo Brunelleschi y Leon Battista Alberti</string>
+		<key>wikiSearchWord</key>
+		<string>Santa Sofía</string>
+		<key>questionTrueOrFalse</key>
+		<string>La Hagia Sophia fue originalmente construida como una mezquita.</string>
+		<key>trueOrFalseAnswer</key>
+		<string>Falso</string>
+		<key>timeLine</key>
+		<string>Finalización de la Hagia Sophia</string>
+		<key>theme</key>
+		<string>El Imperio bizantino</string>
+		<key>numberOfGoodAnswers</key>
+		<integer>0</integer>
+		<key>numberOfBadAnswers</key>
+		<integer>0</integer>
+		<key>numberOfGoodAnswersQuiz</key>
+		<integer>0</integer>
+		<key>numberOfBadAnswersQuiz</key>
+		<integer>0</integer>
+		<key>order</key>
+		<integer>6</integer>
+	</dict>
+	<dict>
+		<key>id</key>
+		<string>e1cfd434-eb97-11ed-a05b-0242ac120003</string>
+		<key>date</key>
+		<string>568</string>
+		<key>question</key>
+		<string>¿Quién fue el rey lombardo que lideró la invasión de Italia?</string>
+		<key>correctTAnswer</key>
+		<string>Alboin</string>
+		<key>incorrectAnswer1</key>
+		<string>Cleph</string>
+		<key>incorrectAnswer2</key>
+		<string>Authari</string>
+		<key>incorrectAnswer3</key>
+		<string>Agilulfo</string>
+		<key>wikiSearchWord</key>
+		<string>Lombardos</string>
+		<key>questionTrueOrFalse</key>
+		<string>Los lombardos eran originarios de Asia</string>
+		<key>trueOrFalseAnswer</key>
+		<string>Falso</string>
+		<key>timeLine</key>
+		<string>Invasión lombarda de Italia</string>
+		<key>theme</key>
+		<string>El Imperio bizantino</string>
+		<key>numberOfGoodAnswers</key>
+		<integer>0</integer>
+		<key>numberOfBadAnswers</key>
+		<integer>0</integer>
+		<key>numberOfGoodAnswersQuiz</key>
+		<integer>0</integer>
+		<key>numberOfBadAnswersQuiz</key>
+		<integer>0</integer>
+		<key>order</key>
+		<integer>7</integer>
+	</dict>
+	<dict>
+		<key>id</key>
+		<string>e1cfd556-eb97-11ed-a05b-0242ac120003</string>
+		<key>date</key>
+		<string>610-641</string>
+		<key>question</key>
+		<string>¿Qué idioma hizo el emperador Heraclio el idioma oficial del Imperio bizantino, reemplazando al latín?</string>
+		<key>correctTAnswer</key>
+		<string>Griego</string>
+		<key>incorrectAnswer1</key>
+		<string>Siríaco</string>
+		<key>incorrectAnswer2</key>
+		<string>Arameo</string>
+		<key>incorrectAnswer3</key>
+		<string>Copto</string>
+		<key>wikiSearchWord</key>
+		<string>Heraclio</string>
+		<key>questionTrueOrFalse</key>
+		<string>Heraclio introdujo el latín como lengua oficial del Imperio romano de Oriente</string>
+		<key>trueOrFalseAnswer</key>
+		<string>Falso</string>
+		<key>timeLine</key>
+		<string>Reinado de Heraclio</string>
+		<key>theme</key>
+		<string>El Imperio bizantino</string>
+		<key>numberOfGoodAnswers</key>
+		<integer>0</integer>
+		<key>numberOfBadAnswers</key>
+		<integer>0</integer>
+		<key>numberOfGoodAnswersQuiz</key>
+		<integer>0</integer>
+		<key>numberOfBadAnswersQuiz</key>
+		<integer>0</integer>
+		<key>order</key>
+		<integer>8</integer>
+	</dict>
+	<dict>
+		<key>id</key>
+		<string>e1cfd664-eb97-11ed-a05b-0242ac120003</string>
+		<key>date</key>
+		<string>626</string>
+		<key>question</key>
+		<string>¿Qué dos fuerzas sitiaron Constantinopla en 626?</string>
+		<key>correctTAnswer</key>
+		<string>Ávaros y persas</string>
+		<key>incorrectAnswer1</key>
+		<string>Árabes y persas</string>
+		<key>incorrectAnswer2</key>
+		<string>Ávaros y eslavos</string>
+		<key>incorrectAnswer3</key>
+		<string>Persas y eslavos</string>
+		<key>wikiSearchWord</key>
+		<string>Sitio de Constantinopla (626)</string>
+		<key>questionTrueOrFalse</key>
+		<string>El fracaso del asedio de Constantinopla en 626 por parte de los ávaros, eslavos y persas sasánidas permitió a Bizancio recuperar territorios perdidos y firmar un tratado de paz favorable con las fronteras de 590.</string>
+		<key>trueOrFalseAnswer</key>
+		<string>Verdadero</string>
+		<key>timeLine</key>
+		<string>Asedio de Constantinopla</string>
+		<key>theme</key>
+		<string>El Imperio bizantino</string>
+		<key>numberOfGoodAnswers</key>
+		<integer>0</integer>
+		<key>numberOfBadAnswers</key>
+		<integer>0</integer>
+		<key>numberOfGoodAnswersQuiz</key>
+		<integer>0</integer>
+		<key>numberOfBadAnswersQuiz</key>
+		<integer>0</integer>
+		<key>order</key>
+		<integer>9</integer>
+	</dict>
+	<dict>
+		<key>id</key>
+		<string>e1cfd77c-eb97-11ed-a05b-0242ac120003</string>
+		<key>date</key>
+		<string>636</string>
+		<key>question</key>
+		<string>¿Qué comandante musulmán lideró las fuerzas contra el Imperio bizantino en la batalla de Yarmouk?</string>
+		<key>correctTAnswer</key>
+		<string>Jalid ibn al-Walid</string>
+		<key>incorrectAnswer1</key>
+		<string>Abu Bakr</string>
+		<key>incorrectAnswer2</key>
+		<string>Umar ibn al-Khattab</string>
+		<key>incorrectAnswer3</key>
+		<string>Uthman ibn Affan</string>
+		<key>wikiSearchWord</key>
+		<string>Batalla de Yarmouk</string>
+		<key>questionTrueOrFalse</key>
+		<string>La batalla de Yarmuk ocurrió en agosto de 636 entre el Imperio bizantino y el Califato ortodoxo.</string>
+		<key>trueOrFalseAnswer</key>
+		<string>Verdadero</string>
+		<key>timeLine</key>
+		<string>Batalla de Yarmouk</string>
+		<key>theme</key>
+		<string>El Imperio bizantino</string>
+		<key>numberOfGoodAnswers</key>
+		<integer>0</integer>
+		<key>numberOfBadAnswers</key>
+		<integer>0</integer>
+		<key>numberOfGoodAnswersQuiz</key>
+		<integer>0</integer>
+		<key>numberOfBadAnswersQuiz</key>
+		<integer>0</integer>
+		<key>order</key>
+		<integer>10</integer>
+	</dict>
+	<dict>
+		<key>id</key>
+		<string>e1cfd880-eb97-11ed-a05b-0242ac120003</string>
+		<key>date</key>
+		<string>674-678</string>
+		<key>question</key>
+		<string>¿Qué arma utilizaron los bizantinos para defender con éxito Constantinopla durante el primer asedio árabe?</string>
+		<key>correctTAnswer</key>
+		<string>Fuego griego</string>
+		<key>incorrectAnswer1</key>
+		<string>Catapulta</string>
+		<key>incorrectAnswer2</key>
+		<string>Ballesta</string>
+		<key>incorrectAnswer3</key>
+		<string>Trebuchet</string>
+		<key>wikiSearchWord</key>
+		<string>Sitio de Constantinopla (674-678)</string>
+		<key>questionTrueOrFalse</key>
+		<string>El &quot;fuego griego&quot; fue utilizado por primera vez por los bizantinos durante el sitio de Constantinopla entre 674 y 678, contribuyendo a su victoria sobre los omeyas.</string>
+		<key>trueOrFalseAnswer</key>
+		<string>Verdadero</string>
+		<key>timeLine</key>
+		<string>Primer asedio árabe de Constantinopla</string>
+		<key>theme</key>
+		<string>El Imperio bizantino</string>
+		<key>numberOfGoodAnswers</key>
+		<integer>0</integer>
+		<key>numberOfBadAnswers</key>
+		<integer>0</integer>
+		<key>numberOfGoodAnswersQuiz</key>
+		<integer>0</integer>
+		<key>numberOfBadAnswersQuiz</key>
+		<integer>0</integer>
+		<key>order</key>
+		<integer>11</integer>
+	</dict>
+	<dict>
+		<key>id</key>
+		<string>e1cfd9ca-eb97-11ed-a05b-0242ac120003</string>
+		<key>date</key>
+		<string>717-718</string>
+		<key>question</key>
+		<string>¿Quién fue el emperador bizantino durante el segundo asedio árabe de Constantinopla?</string>
+		<key>correctTAnswer</key>
+		<string>León III el Isáurico</string>
+		<key>incorrectAnswer1</key>
+		<string>Tiberio III</string>
+		<key>incorrectAnswer2</key>
+		<string>Constantino IV</string>
+		<key>incorrectAnswer3</key>
+		<string>Justiniano II</string>
+		<key>wikiSearchWord</key>
+		<string>Sitio de Constantinopla (717-718)</string>
+		<key>questionTrueOrFalse</key>
+		<string>El sitio de Constantinopla entre 717 y 718 fue crucial para evitar la expansión del Califato Omeya en Europa.</string>
+		<key>trueOrFalseAnswer</key>
+		<string>Verdadero</string>
+		<key>timeLine</key>
+		<string>Segundo asedio árabe de Constantinopla</string>
+		<key>theme</key>
+		<string>El Imperio bizantino</string>
+		<key>numberOfGoodAnswers</key>
+		<integer>0</integer>
+		<key>numberOfBadAnswers</key>
+		<integer>0</integer>
+		<key>numberOfGoodAnswersQuiz</key>
+		<integer>0</integer>
+		<key>numberOfBadAnswersQuiz</key>
+		<integer>0</integer>
+		<key>order</key>
+		<integer>12</integer>
+	</dict>
+	<dict>
+		<key>id</key>
+		<string>e1cfdee8-eb97-11ed-a05b-0242ac120003</string>
+		<key>date</key>
+		<string>732</string>
+		<key>question</key>
+		<string>¿Quién inició el primer período de iconoclasia en el Imperio bizantino?</string>
+		<key>correctTAnswer</key>
+		<string>León III el Isáurico</string>
+		<key>incorrectAnswer1</key>
+		<string>Constantino V</string>
+		<key>incorrectAnswer2</key>
+		<string>Miguel III</string>
+		<key>incorrectAnswer3</key>
+		<string>Emperador Teófilo</string>
+		<key>wikiSearchWord</key>
+		<string>Iconoclasia bizantina</string>
+		<key>questionTrueOrFalse</key>
+		<string>La iconoclasia es la creación y promoción de imágenes religiosas y monumentos en una cultura.</string>
+		<key>trueOrFalseAnswer</key>
+		<string>Falso</string>
+		<key>timeLine</key>
+		<string>Iconoclasia</string>
+		<key>theme</key>
+		<string>El Imperio bizantino</string>
+		<key>numberOfGoodAnswers</key>
+		<integer>0</integer>
+		<key>numberOfBadAnswers</key>
+		<integer>0</integer>
+		<key>numberOfGoodAnswersQuiz</key>
+		<integer>0</integer>
+		<key>numberOfBadAnswersQuiz</key>
+		<integer>0</integer>
+		<key>order</key>
+		<integer>13</integer>
+	</dict>
+	<dict>
+		<key>id</key>
+		<string>e1cfe118-eb97-11ed-a05b-0242ac120003</string>
+		<key>date</key>
+		<string>787</string>
+		<key>question</key>
+		<string>¿Cuál fue el propósito principal del Segundo Concilio de Nicea?</string>
+		<key>correctTAnswer</key>
+		<string>Condenar la práctica del iconoclasmo</string>
+		<key>incorrectAnswer1</key>
+		<string>Abordar la controversia arriana</string>
+		<key>incorrectAnswer2</key>
+		<string>Establecer el Credo de Nicea</string>
+		<key>incorrectAnswer3</key>
+		<string>Abordar la controversia monofisita</string>
+		<key>wikiSearchWord</key>
+		<string>Segundo Concilio de Nicea</string>
+		<key>questionTrueOrFalse</key>
+		<string>El Segundo Concilio de Nicea se celebró en el año 787 y fue convocado por Irene, madre del emperador Constantino VI.</string>
+		<key>trueOrFalseAnswer</key>
+		<string>Verdadero</string>
+		<key>timeLine</key>
+		<string>Segundo Concilio de Nicea</string>
+		<key>theme</key>
+		<string>El Imperio bizantino</string>
+		<key>numberOfGoodAnswers</key>
+		<integer>0</integer>
+		<key>numberOfBadAnswers</key>
+		<integer>0</integer>
+		<key>numberOfGoodAnswersQuiz</key>
+		<integer>0</integer>
+		<key>numberOfBadAnswersQuiz</key>
+		<integer>0</integer>
+		<key>order</key>
+		<integer>14</integer>
+	</dict>
+	<dict>
+		<key>id</key>
+		<string>e1cfe280-eb97-11ed-a05b-0242ac120003</string>
+		<key>date</key>
+		<string>867-886</string>
+		<key>question</key>
+		<string>¿Qué dinastía fundó Basilio I?</string>
+		<key>correctTAnswer</key>
+		<string>Dinastía macedónica</string>
+		<key>incorrectAnswer1</key>
+		<string>Dinastía Justiniana</string>
+		<key>incorrectAnswer2</key>
+		<string>Dinastía Isáurica</string>
+		<key>incorrectAnswer3</key>
+		<string>Dinastía Comneno</string>
+		<key>wikiSearchWord</key>
+		<string>Basilio I</string>
+		<key>questionTrueOrFalse</key>
+		<string>Basilio I nació en una familia asentada en Constantinopla y era de origen griego.</string>
+		<key>trueOrFalseAnswer</key>
+		<string>Falso</string>
+		<key>timeLine</key>
+		<string>Reinado de Basilio I</string>
+		<key>theme</key>
+		<string>El Imperio bizantino</string>
+		<key>numberOfGoodAnswers</key>
+		<integer>0</integer>
+		<key>numberOfBadAnswers</key>
+		<integer>0</integer>
+		<key>numberOfGoodAnswersQuiz</key>
+		<integer>0</integer>
+		<key>numberOfBadAnswersQuiz</key>
+		<integer>0</integer>
+		<key>order</key>
+		<integer>15</integer>
+	</dict>
+	<dict>
+		<key>id</key>
+		<string>e1cfe3ac-eb97-11ed-a05b-0242ac120003</string>
+		<key>date</key>
+		<string>941</string>
+		<key>question</key>
+		<string>¿Quién fue el gobernante de la Rus de Kiev durante el ataque a Constantinopla en 941?</string>
+		<key>correctTAnswer</key>
+		<string>Igor de Kiev</string>
+		<key>incorrectAnswer1</key>
+		<string>Vladimir el Grande</string>
+		<key>incorrectAnswer2</key>
+		<string>Oleg de Nóvgorod</string>
+		<key>incorrectAnswer3</key>
+		<string>Sviatoslav I</string>
+		<key>wikiSearchWord</key>
+		<string>Guerra ruso-bizantina (941)</string>
+		<key>questionTrueOrFalse</key>
+		<string>La guerra ruso-bizantina de 941 fue iniciada por los bizantinos después de las persecuciones de los judíos emprendidas por el emperador Romano I Lecapeno</string>
+		<key>trueOrFalseAnswer</key>
+		<string>Falso</string>
+		<key>timeLine</key>
+		<string>Ataque ruso en Constantinopla</string>
+		<key>theme</key>
+		<string>El Imperio bizantino</string>
+		<key>numberOfGoodAnswers</key>
+		<integer>0</integer>
+		<key>numberOfBadAnswers</key>
+		<integer>0</integer>
+		<key>numberOfGoodAnswersQuiz</key>
+		<integer>0</integer>
+		<key>numberOfBadAnswersQuiz</key>
+		<integer>0</integer>
+		<key>order</key>
+		<integer>16</integer>
+	</dict>
+	<dict>
+		<key>id</key>
+		<string>e1cfe4ba-eb97-11ed-a05b-0242ac120003</string>
+		<key>date</key>
+		<string>976-1025</string>
+		<key>question</key>
+		<string>¿Qué apodo se le dio a Basilio II por sus éxitos militares?</string>
+		<key>correctTAnswer</key>
+		<string>Basilio el Matador de Búlgaros</string>
+		<key>incorrectAnswer1</key>
+		<string>Basilio el Conquistador</string>
+		<key>incorrectAnswer2</key>
+		<string>Basilio el Grande</string>
+		<key>incorrectAnswer3</key>
+		<string>Basilio el Victorioso</string>
+		<key>wikiSearchWord</key>
+		<string>Basilio II</string>
+		<key>questionTrueOrFalse</key>
+		<string>Basilio II fue un emperador bizantino que perdió una larga lucha contra el Primer Imperio búlgaro.</string>
+		<key>trueOrFalseAnswer</key>
+		<string>Falso</string>
+		<key>timeLine</key>
+		<string>Reinado de Basilio II</string>
+		<key>theme</key>
+		<string>El Imperio bizantino</string>
+		<key>numberOfGoodAnswers</key>
+		<integer>0</integer>
+		<key>numberOfBadAnswers</key>
+		<integer>0</integer>
+		<key>numberOfGoodAnswersQuiz</key>
+		<integer>0</integer>
+		<key>numberOfBadAnswersQuiz</key>
+		<integer>0</integer>
+		<key>order</key>
+		<integer>17</integer>
+	</dict>
+	<dict>
+		<key>id</key>
+		<string>e1cfe640-eb97-11ed-a05b-0242ac120003</string>
+		<key>date</key>
+		<string>1054</string>
+		<key>question</key>
+		<string>¿Cuál fue la principal razón del Cisma de Oriente y Occidente entre la Iglesia Ortodoxa Oriental y la Iglesia Católica Romana?</string>
+		<key>correctTAnswer</key>
+		<string>Todos los anteriores</string>
+		<key>incorrectAnswer1</key>
+		<string>Diferencias teológicas</string>
+		<key>incorrectAnswer2</key>
+		<string>Rivalidad política</string>
+		<key>incorrectAnswer3</key>
+		<string>Barrera del idioma</string>
+		<key>wikiSearchWord</key>
+		<string>Cisma de Oriente</string>
+		<key>questionTrueOrFalse</key>
+		<string>El Cisma de Oriente y Occidente fue un evento que rompió la unidad de la Iglesia estatal del Imperio romano basada en la pentarquía</string>
+		<key>trueOrFalseAnswer</key>
+		<string>Verdadero</string>
+		<key>timeLine</key>
+		<string>Cisma de Oriente y Occidente</string>
+		<key>theme</key>
+		<string>El Imperio bizantino</string>
+		<key>numberOfGoodAnswers</key>
+		<integer>0</integer>
+		<key>numberOfBadAnswers</key>
+		<integer>0</integer>
+		<key>numberOfGoodAnswersQuiz</key>
+		<integer>0</integer>
+		<key>numberOfBadAnswersQuiz</key>
+		<integer>0</integer>
+		<key>order</key>
+		<integer>18</integer>
+	</dict>
+	<dict>
+		<key>id</key>
+		<string>e1cfe76c-eb97-11ed-a05b-0242ac120003</string>
+		<key>date</key>
+		<string>1071</string>
+		<key>question</key>
+		<string>¿Qué líder turco derrotó a los bizantinos en la batalla de Manzikert?</string>
+		<key>correctTAnswer</key>
+		<string>Alp Arslan</string>
+		<key>incorrectAnswer1</key>
+		<string>Selyúcida</string>
+		<key>incorrectAnswer2</key>
+		<string>Osman I</string>
+		<key>incorrectAnswer3</key>
+		<string>Ertugrul</string>
+		<key>wikiSearchWord</key>
+		<string>Batalla de Manzikert</string>
+		<key>questionTrueOrFalse</key>
+		<string>La Batalla de Manzikert tuvo lugar entre los turcos selyúcidas y las tropas bizantinas</string>
+		<key>trueOrFalseAnswer</key>
+		<string>Verdadero</string>
+		<key>timeLine</key>
+		<string>Batalla de Manzikert</string>
+		<key>theme</key>
+		<string>El Imperio bizantino</string>
+		<key>numberOfGoodAnswers</key>
+		<integer>0</integer>
+		<key>numberOfBadAnswers</key>
+		<integer>0</integer>
+		<key>numberOfGoodAnswersQuiz</key>
+		<integer>0</integer>
+		<key>numberOfBadAnswersQuiz</key>
+		<integer>0</integer>
+		<key>order</key>
+		<integer>19</integer>
+	</dict>
+	<dict>
+		<key>id</key>
+		<string>e1cfea28-eb97-11ed-a05b-0242ac120003</string>
+		<key>date</key>
+		<string>1081-1118</string>
+		<key>question</key>
+		<string>¿De qué gran fuerza militar solicitó ayuda Alejo I Comneno para defender el Imperio bizantino?</string>
+		<key>correctTAnswer</key>
+		<string>Caballeros de Europa occidental</string>
+		<key>incorrectAnswer1</key>
+		<string>Los turcos selyúcidas</string>
+		<key>incorrectAnswer2</key>
+		<string>El Califato Fatimí</string>
+		<key>incorrectAnswer3</key>
+		<string>La Rus de Kiev</string>
+		<key>wikiSearchWord</key>
+		<string>Alejo I Comneno</string>
+		<key>questionTrueOrFalse</key>
+		<string>Alejo I Comneno fue emperador bizantino entre 1081 y 1118</string>
+		<key>trueOrFalseAnswer</key>
+		<string>Verdadero</string>
+		<key>timeLine</key>
+		<string>Reinado de Alejo I Comneno</string>
+		<key>theme</key>
+		<string>El Imperio bizantino</string>
+		<key>numberOfGoodAnswers</key>
+		<integer>0</integer>
+		<key>numberOfBadAnswers</key>
+		<integer>0</integer>
+		<key>numberOfGoodAnswersQuiz</key>
+		<integer>0</integer>
+		<key>numberOfBadAnswersQuiz</key>
+		<integer>0</integer>
+		<key>order</key>
+		<integer>20</integer>
+	</dict>
+	<dict>
+		<key>id</key>
+		<string>e1cfeb5e-eb97-11ed-a05b-0242ac120003</string>
+		<key>date</key>
+		<string>1204</string>
+		<key>question</key>
+		<string>¿Qué ciudad fue el objetivo principal de la Cuarta Cruzada antes de que fuera desviada hacia Constantinopla?</string>
+		<key>correctTAnswer</key>
+		<string>Jerusalén</string>
+		<key>incorrectAnswer1</key>
+		<string>El Cairo</string>
+		<key>incorrectAnswer2</key>
+		<string>Antioquía</string>
+		<key>incorrectAnswer3</key>
+		<string>Alejandría</string>
+		<key>wikiSearchWord</key>
+		<string>Cuarta Cruzada</string>
+		<key>questionTrueOrFalse</key>
+		<string>La cuarta cruzada fue una expedición militar para reconquistar Tierra Santa</string>
+		<key>trueOrFalseAnswer</key>
+		<string>Verdadero</string>
+		<key>timeLine</key>
+		<string>Cuarta Cruzada y saqueo de Constantinopla</string>
+		<key>theme</key>
+		<string>El Imperio bizantino</string>
+		<key>numberOfGoodAnswers</key>
+		<integer>0</integer>
+		<key>numberOfBadAnswers</key>
+		<integer>0</integer>
+		<key>numberOfGoodAnswersQuiz</key>
+		<integer>0</integer>
+		<key>numberOfBadAnswersQuiz</key>
+		<integer>0</integer>
+		<key>order</key>
+		<integer>21</integer>
+	</dict>
+	<dict>
+		<key>id</key>
+		<string>e1cfec6c-eb97-11ed-a05b-0242ac120003</string>
+		<key>date</key>
+		<string>1261</string>
+		<key>question</key>
+		<string>¿Quién fue el emperador bizantino responsable de recuperar Constantinopla del Imperio latino?</string>
+		<key>correctTAnswer</key>
+		<string>Miguel VIII Paleólogo</string>
+		<key>incorrectAnswer1</key>
+		<string>Andrónico II Paleólogo</string>
+		<key>incorrectAnswer2</key>
+		<string>Juan III Ducas Vatatzes</string>
+		<key>incorrectAnswer3</key>
+		<string>Teodoro II Láscaris</string>
+		<key>wikiSearchWord</key>
+		<string>Recuperación de Constantinopla</string>
+		<key>questionTrueOrFalse</key>
+		<string>Es cierto que la Reconquista de Constantinopla permitió la restauración del Imperio bizantino y terminó con el efímero Imperio latino</string>
+		<key>trueOrFalseAnswer</key>
+		<string>Verdadero</string>
+		<key>timeLine</key>
+		<string>Recuperación de Constantinopla</string>
+		<key>theme</key>
+		<string>El Imperio bizantino</string>
+		<key>numberOfGoodAnswers</key>
+		<integer>0</integer>
+		<key>numberOfBadAnswers</key>
+		<integer>0</integer>
+		<key>numberOfGoodAnswersQuiz</key>
+		<integer>0</integer>
+		<key>numberOfBadAnswersQuiz</key>
+		<integer>0</integer>
+		<key>order</key>
+		<integer>22</integer>
+	</dict>
+	<dict>
+		<key>id</key>
+		<string>e1cfed8e-eb97-11ed-a05b-0242ac120003</string>
+		<key>date</key>
+		<string>1302</string>
+		<key>question</key>
+		<string>¿Qué líder otomano logró una victoria decisiva contra los bizantinos en la batalla de Bapheus?</string>
+		<key>correctTAnswer</key>
+		<string>Osman I</string>
+		<key>incorrectAnswer1</key>
+		<string>Bayezid I</string>
+		<key>incorrectAnswer2</key>
+		<string>Orhan</string>
+		<key>incorrectAnswer3</key>
+		<string>Murad I</string>
+		<key>wikiSearchWord</key>
+		<string>Batalla de Bapheus</string>
+		<key>questionTrueOrFalse</key>
+		<string>La Batalla de Bapheus se libró entre el Imperio Otomano y el Imperio Romano de Occidente</string>
+		<key>trueOrFalseAnswer</key>
+		<string>Falso</string>
+		<key>timeLine</key>
+		<string>Batalla de Bapheus</string>
+		<key>theme</key>
+		<string>El Imperio bizantino</string>
+		<key>numberOfGoodAnswers</key>
+		<integer>0</integer>
+		<key>numberOfBadAnswers</key>
+		<integer>0</integer>
+		<key>numberOfGoodAnswersQuiz</key>
+		<integer>0</integer>
+		<key>numberOfBadAnswersQuiz</key>
+		<integer>0</integer>
+		<key>order</key>
+		<integer>23</integer>
+	</dict>
+	<dict>
+		<key>id</key>
+		<string>e1cfef0a-eb97-11ed-a05b-0242ac120003</string>
+		<key>date</key>
+		<string>1347-1354</string>
+		<key>question</key>
+		<string>¿Quién resultó vencedor en la guerra civil bizantina de 1341-1347?</string>
+		<key>correctTAnswer</key>
+		<string>Juan VI Cantacuceno</string>
+		<key>incorrectAnswer1</key>
+		<string>Juan V Paleólogo</string>
+		<key>incorrectAnswer2</key>
+		<string>Andrónico III Paleólogo</string>
+		<key>incorrectAnswer3</key>
+		<string>Ana de Saboya</string>
+		<key>wikiSearchWord</key>
+		<string>Guerra civil bizantina de 1341-1347</string>
+		<key>questionTrueOrFalse</key>
+		<string>La guerra civil bizantina de 1341-1347 se debió a una disputa por la tutela del hijo de Andrónico III Paleólogo</string>
+		<key>trueOrFalseAnswer</key>
+		<string>Verdadero</string>
+		<key>timeLine</key>
+		<string>Guerra civil</string>
+		<key>theme</key>
+		<string>El Imperio bizantino</string>
+		<key>numberOfGoodAnswers</key>
+		<integer>0</integer>
+		<key>numberOfBadAnswers</key>
+		<integer>0</integer>
+		<key>numberOfGoodAnswersQuiz</key>
+		<integer>0</integer>
+		<key>numberOfBadAnswersQuiz</key>
+		<integer>0</integer>
+		<key>order</key>
+		<integer>24</integer>
+	</dict>
+	<dict>
+		<key>id</key>
+		<string>e1cff040-eb97-11ed-a05b-0242ac120003</string>
+		<key>date</key>
+		<string>1373</string>
+		<key>question</key>
+		<string>¿Qué emperador bizantino se vio obligado a convertir el imperio en un estado vasallo otomano después de una revuelta fallida?</string>
+		<key>correctTAnswer</key>
+		<string>Juan V Paleólogo</string>
+		<key>incorrectAnswer1</key>
+		<string>Juan VII Paleólogo</string>
+		<key>incorrectAnswer2</key>
+		<string>Andrónico IV Paleólogo</string>
+		<key>incorrectAnswer3</key>
+		<string>Manuel II Paleólogo</string>
+		<key>wikiSearchWord</key>
+		<string>Guerras bizantino-otomanas</string>
+		<key>questionTrueOrFalse</key>
+		<string>Las guerras turco-bizantinas tuvieron lugar a lo largo de cuatro siglos, desde mediados del siglo XI hasta la Caída de Constantinopla en 1453.</string>
+		<key>trueOrFalseAnswer</key>
+		<string>Verdadero</string>
+		<key>timeLine</key>
+		<string>Estado vasallo otomano</string>
+		<key>theme</key>
+		<string>El Imperio bizantino</string>
+		<key>numberOfGoodAnswers</key>
+		<integer>0</integer>
+		<key>numberOfBadAnswers</key>
+		<integer>0</integer>
+		<key>numberOfGoodAnswersQuiz</key>
+		<integer>0</integer>
+		<key>numberOfBadAnswersQuiz</key>
+		<integer>0</integer>
+		<key>order</key>
+		<integer>25</integer>
+	</dict>
+	<dict>
+		<key>id</key>
+		<string>e1cff14e-eb97-11ed-a05b-0242ac120003</string>
+		<key>date</key>
+		<string>1390</string>
+		<key>question</key>
+		<string>¿Cuál fue la última ciudad bizantina en caer en manos de los otomanos antes de la caída de Constantinopla?</string>
+		<key>correctTAnswer</key>
+		<string>Filadelfia</string>
+		<key>incorrectAnswer1</key>
+		<string>Nicea</string>
+		<key>incorrectAnswer2</key>
+		<string>Nicomedia</string>
+		<key>incorrectAnswer3</key>
+		<string>Adrianópolis</string>
+		<key>wikiSearchWord</key>
+		<string>Caída de Filadelfia</string>
+		<key>questionTrueOrFalse</key>
+		<string>La ciudad de Filadelfia era totalmente dependiente del Imperio Bizantino</string>
+		<key>trueOrFalseAnswer</key>
+		<string>Falso</string>
+		<key>timeLine</key>
+		<string>Asedio de Filadelfia</string>
+		<key>theme</key>
+		<string>El Imperio bizantino</string>
+		<key>numberOfGoodAnswers</key>
+		<integer>0</integer>
+		<key>numberOfBadAnswers</key>
+		<integer>0</integer>
+		<key>numberOfGoodAnswersQuiz</key>
+		<integer>0</integer>
+		<key>numberOfBadAnswersQuiz</key>
+		<integer>0</integer>
+		<key>order</key>
+		<integer>26</integer>
+	</dict>
+	<dict>
+		<key>id</key>
+		<string>e1cff46e-eb97-11ed-a05b-0242ac120003</string>
+		<key>date</key>
+		<string>1422</string>
+		<key>question</key>
+		<string>¿Qué sultán otomano lideró el segundo asedio de Constantinopla en 1422?</string>
+		<key>correctTAnswer</key>
+		<string>Murad II</string>
+		<key>incorrectAnswer1</key>
+		<string>Bayezid I</string>
+		<key>incorrectAnswer2</key>
+		<string>Mehmed I</string>
+		<key>incorrectAnswer3</key>
+		<string>Mehmed II</string>
+		<key>wikiSearchWord</key>
+		<string>Guerras turco-bizantinas</string>
+		<key>questionTrueOrFalse</key>
+		<string>La victoria bizantina en la batalla de Manzikert impidió la expansión de los selyúcidas a costa de los bizantinos. </string>
+		<key>trueOrFalseAnswer</key>
+		<string>Falso</string>
+		<key>timeLine</key>
+		<string>Segundo asedio otomano de Constantinopla</string>
+		<key>theme</key>
+		<string>El Imperio bizantino</string>
+		<key>numberOfGoodAnswers</key>
+		<integer>0</integer>
+		<key>numberOfBadAnswers</key>
+		<integer>0</integer>
+		<key>numberOfGoodAnswersQuiz</key>
+		<integer>0</integer>
+		<key>numberOfBadAnswersQuiz</key>
+		<integer>0</integer>
+		<key>order</key>
+		<integer>27</integer>
+	</dict>
+	<dict>
+		<key>id</key>
+		<string>e1cff590-eb97-11ed-a05b-0242ac120003</string>
+		<key>date</key>
+		<string>1439</string>
+		<key>question</key>
+		<string>¿Cuál fue el objetivo principal del Concilio de Florencia?</string>
+		<key>correctTAnswer</key>
+		<string>Lograr la unión eclesiástica entre las Iglesias Ortodoxa Oriental y Católica Romana</string>
+		<key>incorrectAnswer1</key>
+		<string>Abordar el surgimiento del protestantismo</string>
+		<key>incorrectAnswer2</key>
+		<string>Organizar una nueva cruzada contra el Imperio otomano</string>
+		<key>incorrectAnswer3</key>
+		<string>Reformar la Iglesia Católica Romana</string>
+		<key>wikiSearchWord</key>
+		<string>Concilio de Florencia</string>
+		<key>questionTrueOrFalse</key>
+		<string>El Concilio de Florencia se llevó a cabo en el siglo XV</string>
+		<key>trueOrFalseAnswer</key>
+		<string>Verdadero</string>
+		<key>timeLine</key>
+		<string>Concilio de Florencia</string>
+		<key>theme</key>
+		<string>El Imperio bizantino</string>
+		<key>numberOfGoodAnswers</key>
+		<integer>0</integer>
+		<key>numberOfBadAnswers</key>
+		<integer>0</integer>
+		<key>numberOfGoodAnswersQuiz</key>
+		<integer>0</integer>
+		<key>numberOfBadAnswersQuiz</key>
+		<integer>0</integer>
+		<key>order</key>
+		<integer>28</integer>
+	</dict>
+	<dict>
+		<key>id</key>
+		<string>e1cff6b2-eb97-11ed-a05b-0242ac120003</string>
+		<key>date</key>
+		<string>1453</string>
+		<key>question</key>
+		<string>¿Quién fue el último emperador bizantino durante la caída de Constantinopla?</string>
+		<key>correctTAnswer</key>
+		<string>Constantino XI Paleólogo</string>
+		<key>incorrectAnswer1</key>
+		<string>Juan VIII Paleólogo</string>
+		<key>incorrectAnswer2</key>
+		<string>Tomás Paleólogo</string>
+		<key>incorrectAnswer3</key>
+		<string>Demetrios Paleólogo</string>
+		<key>wikiSearchWord</key>
+		<string>Caída de Constantinopla</string>
+		<key>questionTrueOrFalse</key>
+		<string>La caída de Constantinopla en manos de los turcos otomanos marcó el fin del último vestigio del Imperio romano de Oriente</string>
+		<key>trueOrFalseAnswer</key>
+		<string>Verdadero</string>
+		<key>timeLine</key>
+		<string>Caída de Constantinopla</string>
+		<key>theme</key>
+		<string>El Imperio bizantino</string>
+		<key>numberOfGoodAnswers</key>
+		<integer>0</integer>
+		<key>numberOfBadAnswers</key>
+		<integer>0</integer>
+		<key>numberOfGoodAnswersQuiz</key>
+		<integer>0</integer>
+		<key>numberOfBadAnswersQuiz</key>
+		<integer>0</integer>
+		<key>order</key>
+		<integer>29</integer>
+	</dict>
+	<dict>
+		<key>id</key>
+		<string>e1cff7ca-eb97-11ed-a05b-0242ac120003</string>
+		<key>date</key>
+		<string>1461</string>
+		<key>question</key>
+		<string>¿Quién fue el gobernante del Imperio de Trebisonda en el momento de su caída ante el Imperio otomano?</string>
+		<key>correctTAnswer</key>
+		<string>David Megas Comneno</string>
+		<key>incorrectAnswer1</key>
+		<string>Alejo IV Megas Comneno</string>
+		<key>incorrectAnswer2</key>
+		<string>Juan IV Megas Comneno</string>
+		<key>incorrectAnswer3</key>
+		<string>Manuel III Megas Comneno</string>
+		<key>wikiSearchWord</key>
+		<string>Imperio de Trebisonda</string>
+		<key>questionTrueOrFalse</key>
+		<string>El Imperio de Trebisonda fue un Estado cristiano medieval que se mantuvo como Estado independiente hasta 1461</string>
+		<key>trueOrFalseAnswer</key>
+		<string>Verdadero</string>
+		<key>timeLine</key>
+		<string>Caída del Imperio de Trebisonda</string>
+		<key>theme</key>
+		<string>El Imperio bizantino</string>
+		<key>numberOfGoodAnswers</key>
+		<integer>0</integer>
+		<key>numberOfBadAnswers</key>
+		<integer>0</integer>
+		<key>numberOfGoodAnswersQuiz</key>
+		<integer>0</integer>
+		<key>numberOfBadAnswersQuiz</key>
+		<integer>0</integer>
+		<key>order</key>
+		<integer>30</integer>
+	</dict>
+</array>
+</plist>

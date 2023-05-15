@@ -1,0 +1,366 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<!DOCTYPE plist PUBLIC "-//Apple//DTD PLIST 1.0//EN" "http://www.apple.com/DTDs/PropertyList-1.0.dtd">
+<plist version="1.0">
+<array>
+	<dict>
+		<key>correctTAnswer</key>
+		<string>Rome</string>
+		<key>date</key>
+		<string>846</string>
+		<key>id</key>
+		<string>be7c862e-8884-11ed-a1eb-0242ac120002</string>
+		<key>incorrectAnswer1</key>
+		<string>Constantinople</string>
+		<key>incorrectAnswer2</key>
+		<string>Jerusalem</string>
+		<key>incorrectAnswer3</key>
+		<string>Alexandria</string>
+		<key>numberOfBadAnswers</key>
+		<integer>0</integer>
+		<key>numberOfBadAnswersQuiz</key>
+		<integer>0</integer>
+		<key>numberOfGoodAnswers</key>
+		<integer>0</integer>
+		<key>numberOfGoodAnswersQuiz</key>
+		<integer>0</integer>
+		<key>order</key>
+		<integer>21</integer>
+		<key>question</key>
+		<string>Which city was captured and sacked by Muslim forces in 846?</string>
+		<key>questionTrueOrFalse</key>
+		<string>The Aurelian Walls prevented the Arab raiders from entering the city of Rome itself.</string>
+		<key>theme</key>
+		<string>Islamic Empire 853-1258</string>
+		<key>timeLine</key>
+		<string>Rome is sacked by Muslim forces</string>
+		<key>trueOrFalseAnswer</key>
+		<string>True</string>
+		<key>wikiSearchWord</key>
+		<string>Arab raid against Rome</string>
+	</dict>
+	<dict>
+		<key>correctTAnswer</key>
+		<string>The Byzantine Empire</string>
+		<key>date</key>
+		<string>853</string>
+		<key>id</key>
+		<string>be7c8796-8884-11ed-a1eb-0242ac120002</string>
+		<key>incorrectAnswer1</key>
+		<string>The Ottoman Empire</string>
+		<key>incorrectAnswer2</key>
+		<string>The Abbasid Caliphate</string>
+		<key>incorrectAnswer3</key>
+		<string>The Umayyad Caliphate</string>
+		<key>numberOfBadAnswers</key>
+		<integer>0</integer>
+		<key>numberOfBadAnswersQuiz</key>
+		<integer>0</integer>
+		<key>numberOfGoodAnswers</key>
+		<integer>0</integer>
+		<key>numberOfGoodAnswersQuiz</key>
+		<integer>0</integer>
+		<key>order</key>
+		<integer>21</integer>
+		<key>question</key>
+		<string>Which empire retook the city of Rome from Muslim control in 853?</string>
+		<key>questionTrueOrFalse</key>
+		<string>The Byzantine Empire lost its richest provinces, Egypt and Syria, to the Rashidun Caliphate during the early Muslim conquests. </string>
+		<key>theme</key>
+		<string>Islamic Empire 853-1258</string>
+		<key>timeLine</key>
+		<string>Byzantine empire retake Rome from Muslims</string>
+		<key>trueOrFalseAnswer</key>
+		<string>True</string>
+		<key>wikiSearchWord</key>
+		<string>Byzantine Empire</string>
+	</dict>
+	<dict>
+		<key>correctTAnswer</key>
+		<string>North Africa</string>
+		<key>date</key>
+		<string>929</string>
+		<key>id</key>
+		<string>be7c891c-8884-11ed-a1eb-0242ac120002</string>
+		<key>incorrectAnswer1</key>
+		<string>Southwest Asia</string>
+		<key>incorrectAnswer2</key>
+		<string>Southeast Asia</string>
+		<key>incorrectAnswer3</key>
+		<string>East Africa</string>
+		<key>numberOfBadAnswers</key>
+		<integer>0</integer>
+		<key>numberOfBadAnswersQuiz</key>
+		<integer>0</integer>
+		<key>numberOfGoodAnswers</key>
+		<integer>0</integer>
+		<key>numberOfGoodAnswersQuiz</key>
+		<integer>0</integer>
+		<key>order</key>
+		<integer>22</integer>
+		<key>question</key>
+		<string>In which region was the Fatimid Caliphate established?</string>
+		<key>questionTrueOrFalse</key>
+		<string>The Fatimid Caliphate was a Sunni Muslim caliphate.</string>
+		<key>theme</key>
+		<string>Islamic Empire 853-1258</string>
+		<key>timeLine</key>
+		<string>The Fatimid Caliphate is established</string>
+		<key>trueOrFalseAnswer</key>
+		<string>False</string>
+		<key>wikiSearchWord</key>
+		<string>Fatimid Caliphate</string>
+	</dict>
+	<dict>
+		<key>correctTAnswer</key>
+		<string>The Fatimid Caliphate</string>
+		<key>date</key>
+		<string>969</string>
+		<key>id</key>
+		<string>be7c8a5c-8884-11ed-a1eb-0242ac120002</string>
+		<key>incorrectAnswer1</key>
+		<string>The Umayyad Caliphate</string>
+		<key>incorrectAnswer2</key>
+		<string>The Abbasid Caliphate</string>
+		<key>incorrectAnswer3</key>
+		<string>The Seljuk Empire</string>
+		<key>numberOfBadAnswers</key>
+		<integer>0</integer>
+		<key>numberOfBadAnswersQuiz</key>
+		<integer>0</integer>
+		<key>numberOfGoodAnswers</key>
+		<integer>0</integer>
+		<key>numberOfGoodAnswersQuiz</key>
+		<integer>0</integer>
+		<key>order</key>
+		<integer>23</integer>
+		<key>question</key>
+		<string>Which caliphate conquered Egypt and established its capital at Cairo?</string>
+		<key>questionTrueOrFalse</key>
+		<string>The Fatimid Caliphate launched repeated invasions of Egypt soon after coming to power, and were successful in defeating the Abbasid Caliphate.</string>
+		<key>theme</key>
+		<string>Islamic Empire 853-1258</string>
+		<key>timeLine</key>
+		<string>Fatimid conquest of Egypt</string>
+		<key>trueOrFalseAnswer</key>
+		<string>False</string>
+		<key>wikiSearchWord</key>
+		<string>Fatimid conquest of Egypt</string>
+	</dict>
+	<dict>
+		<key>correctTAnswer</key>
+		<string>Avicenna</string>
+		<key>date</key>
+		<string>980</string>
+		<key>id</key>
+		<string>be7c8b7e-8884-11ed-a1eb-0242ac120002</string>
+		<key>incorrectAnswer1</key>
+		<string>Hippocrates</string>
+		<key>incorrectAnswer2</key>
+		<string>Galen</string>
+		<key>incorrectAnswer3</key>
+		<string>Maimonides</string>
+		<key>numberOfBadAnswers</key>
+		<integer>0</integer>
+		<key>numberOfBadAnswersQuiz</key>
+		<integer>0</integer>
+		<key>numberOfGoodAnswers</key>
+		<integer>0</integer>
+		<key>numberOfGoodAnswersQuiz</key>
+		<integer>0</integer>
+		<key>order</key>
+		<integer>24</integer>
+		<key>question</key>
+		<string>Which famous physician lived and worked during the Arab-Muslim golden age?</string>
+		<key>questionTrueOrFalse</key>
+		<string>Avicenna&apos;s corpus includes writings on a wide range of subjects, including philosophy, medicine, astronomy, alchemy, geography, psychology, theology, logic, mathematics, and physics.</string>
+		<key>theme</key>
+		<string>Islamic Empire 853-1258</string>
+		<key>timeLine</key>
+		<string>Avicenna is born</string>
+		<key>trueOrFalseAnswer</key>
+		<string>True</string>
+		<key>wikiSearchWord</key>
+		<string>Avicenna</string>
+	</dict>
+	<dict>
+		<key>correctTAnswer</key>
+		<string>The Republic</string>
+		<key>date</key>
+		<string>980</string>
+		<key>id</key>
+		<string>be7c8c96-8884-11ed-a1eb-0242ac120002</string>
+		<key>incorrectAnswer1</key>
+		<string>The Canon of Medicine</string>
+		<key>incorrectAnswer2</key>
+		<string>The Book of Healing</string>
+		<key>incorrectAnswer3</key>
+		<string>The Floating Man</string>
+		<key>numberOfBadAnswers</key>
+		<integer>0</integer>
+		<key>numberOfBadAnswersQuiz</key>
+		<integer>0</integer>
+		<key>numberOfGoodAnswers</key>
+		<integer>0</integer>
+		<key>numberOfGoodAnswersQuiz</key>
+		<integer>0</integer>
+		<key>order</key>
+		<integer>25</integer>
+		<key>question</key>
+		<string>Which of the following works is NOT attributed to Avicenna?</string>
+		<key>questionTrueOrFalse</key>
+		<string>Avicenna was a Greek polymath who is regarded as one of the most significant philosophers and writers of the modern era.</string>
+		<key>theme</key>
+		<string>Islamic Empire 853-1258</string>
+		<key>timeLine</key>
+		<string>Avicenna is born</string>
+		<key>trueOrFalseAnswer</key>
+		<string>False</string>
+		<key>wikiSearchWord</key>
+		<string>Avicenna</string>
+	</dict>
+	<dict>
+		<key>correctTAnswer</key>
+		<string>To recapture the Holy Land from Muslim control</string>
+		<key>date</key>
+		<string>1095</string>
+		<key>id</key>
+		<string>be7c91c8-8884-11ed-a1eb-0242ac120002</string>
+		<key>incorrectAnswer1</key>
+		<string>To convert the Muslim world to Christianity</string>
+		<key>incorrectAnswer2</key>
+		<string>To conquer the Byzantine Empire</string>
+		<key>incorrectAnswer3</key>
+		<string>To establish a unified Christian state in Europe</string>
+		<key>numberOfBadAnswers</key>
+		<integer>0</integer>
+		<key>numberOfBadAnswersQuiz</key>
+		<integer>0</integer>
+		<key>numberOfGoodAnswers</key>
+		<integer>0</integer>
+		<key>numberOfGoodAnswersQuiz</key>
+		<integer>0</integer>
+		<key>order</key>
+		<integer>27</integer>
+		<key>question</key>
+		<string>What was the goal of the First Crusade, which was launched in 1095?</string>
+		<key>questionTrueOrFalse</key>
+		<string>The People&apos;s Crusade, led by Peter the Hermit, was a large, well-organized military expedition. </string>
+		<key>theme</key>
+		<string>Islamic Empire 853-1258</string>
+		<key>timeLine</key>
+		<string>The  the First Crusade is launched</string>
+		<key>trueOrFalseAnswer</key>
+		<string>False</string>
+		<key>wikiSearchWord</key>
+		<string>First Crusade</string>
+	</dict>
+	<dict>
+		<key>correctTAnswer</key>
+		<string>Saladin</string>
+		<key>date</key>
+		<string>1187</string>
+		<key>id</key>
+		<string>be7c92d6-8884-11ed-a1eb-0242ac120002</string>
+		<key>incorrectAnswer1</key>
+		<string>Al-Ghazi</string>
+		<key>incorrectAnswer2</key>
+		<string>Tariq ibn Ziyad</string>
+		<key>incorrectAnswer3</key>
+		<string>Muawiyah I</string>
+		<key>numberOfBadAnswers</key>
+		<integer>0</integer>
+		<key>numberOfBadAnswersQuiz</key>
+		<integer>0</integer>
+		<key>numberOfGoodAnswers</key>
+		<integer>0</integer>
+		<key>numberOfGoodAnswersQuiz</key>
+		<integer>0</integer>
+		<key>order</key>
+		<integer>28</integer>
+		<key>question</key>
+		<string>Who reconquered the Holy Land and re-established Muslim control over Jerusalem in 1187?</string>
+		<key>questionTrueOrFalse</key>
+		<string>Saladin had previously conquered several cities before the Siege of Jerusalem.</string>
+		<key>theme</key>
+		<string>Islamic Empire 853-1258</string>
+		<key>timeLine</key>
+		<string>Siege of Jerusalem by Saladin</string>
+		<key>trueOrFalseAnswer</key>
+		<string>True</string>
+		<key>wikiSearchWord</key>
+		<string>Siege of Jerusalem (1187)</string>
+	</dict>
+	<dict>
+		<key>correctTAnswer</key>
+		<string>The empire&apos;s religious tolerance</string>
+		<key>date</key>
+		<string>1206-1227</string>
+		<key>id</key>
+		<string>be7c93ee-8884-11ed-a1eb-0242ac120002</string>
+		<key>incorrectAnswer1</key>
+		<string>The empire&apos;s vast territory</string>
+		<key>incorrectAnswer2</key>
+		<string>The empire&apos;s focus on imposing its religion on its subjects</string>
+		<key>incorrectAnswer3</key>
+		<string>None of the above</string>
+		<key>numberOfBadAnswers</key>
+		<integer>0</integer>
+		<key>numberOfBadAnswersQuiz</key>
+		<integer>0</integer>
+		<key>numberOfGoodAnswers</key>
+		<integer>0</integer>
+		<key>numberOfGoodAnswersQuiz</key>
+		<integer>0</integer>
+		<key>order</key>
+		<integer>29</integer>
+		<key>question</key>
+		<string>Which of the following factors facilitated the spread of Islam through the Mongol Empire?</string>
+		<key>questionTrueOrFalse</key>
+		<string>The Mongols were not highly tolerant of all religions during the early Mongol Empire.</string>
+		<key>theme</key>
+		<string>Islamic Empire 853-1258</string>
+		<key>timeLine</key>
+		<string>The conquests of the Mongol Empire, of much of the Muslim world.</string>
+		<key>trueOrFalseAnswer</key>
+		<string>False</string>
+		<key>wikiSearchWord</key>
+		<string>Religion in the Mongol Empire</string>
+	</dict>
+	<dict>
+		<key>correctTAnswer</key>
+		<string>The Mongol Empire</string>
+		<key>date</key>
+		<string>1258</string>
+		<key>id</key>
+		<string>be7c9506-8884-11ed-a1eb-0242ac120002</string>
+		<key>incorrectAnswer1</key>
+		<string>The Ottoman Empire</string>
+		<key>incorrectAnswer2</key>
+		<string>The Seljuk Empire</string>
+		<key>incorrectAnswer3</key>
+		<string>The Fatimid Caliphate</string>
+		<key>numberOfBadAnswers</key>
+		<integer>0</integer>
+		<key>numberOfBadAnswersQuiz</key>
+		<integer>0</integer>
+		<key>numberOfGoodAnswers</key>
+		<integer>0</integer>
+		<key>numberOfGoodAnswersQuiz</key>
+		<integer>0</integer>
+		<key>order</key>
+		<integer>30</integer>
+		<key>question</key>
+		<string>Which empire conquered Baghdad and destroyed the Abbasid Caliphate in 1258?</string>
+		<key>questionTrueOrFalse</key>
+		<string>The siege of Baghdad is considered to mark the end of the Islamic Golden Age.</string>
+		<key>theme</key>
+		<string>Islamic Empire 853-1258</string>
+		<key>timeLine</key>
+		<string>Siege of Baghdad by the Mongol</string>
+		<key>trueOrFalseAnswer</key>
+		<string>True</string>
+		<key>wikiSearchWord</key>
+		<string>Siege of Baghdad (1258)</string>
+	</dict>
+</array>
+</plist>

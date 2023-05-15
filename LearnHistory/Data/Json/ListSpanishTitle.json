@@ -1,0 +1,97 @@
+[    {
+    "id": "f1133540-6dd8-11ed-a1eb-0242ac120002",
+    "name": "El comienzo",
+    "themes": [
+        {
+            "id": "7108e5a2-3b8d-11ed-a261-0242ac120002",
+            "themeTitle": "Del Big Bang al ser humano"
+        }
+    ]
+},
+    {
+    "id": "a87aa940-b522-11ec-b909-0242ac120002",
+    "name": "Historia antigua",
+    "themes": [
+        {
+            "id": "a87aaa76-b522-11ec-b909-0242ac120002",
+            "themeTitle": "Antigua Grecia"
+        },
+        {
+            "id": "a87aab8e-b522-11ec-b909-0242ac120002",
+            "themeTitle": "Antiguo Egipto"
+        },
+        {
+            "id": "592cc0ce-b524-11ec-b909-0242ac120002",
+            "themeTitle": "Mesopotamia"
+        },
+        {
+            "id": "dccefdd2-c705-11ec-9d64-0242ac120002",
+            "themeTitle": "Antigua Roma"
+        }
+    ]
+},
+    {
+        "id": "a87aa490-b522-11ec-b909-0242ac120002",
+        "name": "Europe",
+        "themes": [
+            {
+                "id": "a87aa6e8-b522-11ec-b909-0242ac120002",
+                "themeTitle": "Francia"
+            },
+            {
+                "id": "eab22a86-b8fb-11ec-8422-0242ac120002",
+                "themeTitle": "Inglaterra"
+            },
+            {
+                "id": "b4535d0a-e6b5-11ed-a05b-0242ac120003",
+                "themeTitle": "España"
+            }
+            
+        ]
+    },
+
+    {
+        "id": "fa25f6cc-d878-11ec-9d64-0242ac120002",
+        "name": "Asia",
+        "themes": [
+            {
+                "id": "02de6128-d879-11ec-9d64-0242ac120002",
+                "themeTitle": "China"
+            },
+            {
+                "id": "a64696c8-deaa-11ec-9d64-0242ac120002",
+                "themeTitle": "India"
+            }
+        ]
+    },
+    {
+        "id": "0c8a5c92-eb9a-11ed-a05b-0242ac120003",
+        "name": "Medio Oriente",
+        "themes": [
+            {
+                "id": "0c8a5f4e-eb9a-11ed-a05b-0242ac120003",
+                "themeTitle": "El Imperio bizantino"
+            },
+            {
+                "id": "9b0d3a3a-ec34-11ed-a05b-0242ac120003",
+                "themeTitle": "El Imperio Islámico"
+            },
+            {
+                "id": "41a4c778-f1b7-11ed-a05b-0242ac120003",
+                "themeTitle": "El Imperio Otomano"
+            }
+        ]
+    },
+    {
+        "id": "6578c586-3b8d-11ed-a261-0242ac120002",
+        "name": "Las Americas",
+        "themes": [
+            {
+                "id": "7108e5a2-3b8d-11ed-a261-0242ac120002",
+                "themeTitle": "Estados Unidos"
+            }
+        ]
+    }
+    
+]
+

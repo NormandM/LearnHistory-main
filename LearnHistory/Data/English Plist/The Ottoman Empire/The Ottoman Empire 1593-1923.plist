@@ -1,0 +1,366 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<!DOCTYPE plist PUBLIC "-//Apple//DTD PLIST 1.0//EN" "http://www.apple.com/DTDs/PropertyList-1.0.dtd">
+<plist version="1.0">
+<array>
+	<dict>
+		<key>correctTAnswer</key>
+		<string> Stalemate</string>
+		<key>date</key>
+		<string>1593-1606</string>
+		<key>id</key>
+		<string>8a69e92a-ecfd-11ed-a05b-0242ac120003</string>
+		<key>incorrectAnswer1</key>
+		<string> Ottoman victory</string>
+		<key>incorrectAnswer2</key>
+		<string> Habsburg victory</string>
+		<key>incorrectAnswer3</key>
+		<string> Peace treaty with territorial gains for both sides</string>
+		<key>numberOfBadAnswers</key>
+		<integer>0</integer>
+		<key>numberOfBadAnswersQuiz</key>
+		<integer>0</integer>
+		<key>numberOfGoodAnswers</key>
+		<integer>0</integer>
+		<key>numberOfGoodAnswersQuiz</key>
+		<integer>0</integer>
+		<key>order</key>
+		<integer>21</integer>
+		<key>question</key>
+		<string> What was the outcome of the Long War between the Ottomans and the Habsburgs?</string>
+		<key>questionTrueOrFalse</key>
+		<string> The Long War (Ottoman wars) ended in a clear victory for the Habsburgs</string>
+		<key>theme</key>
+		<string>The Ottoman Empire 1593-1923</string>
+		<key>timeLine</key>
+		<string> Long War: Stalemate</string>
+		<key>trueOrFalseAnswer</key>
+		<string>False</string>
+		<key>wikiSearchWord</key>
+		<string> Long War (Ottoman wars) </string>
+	</dict>
+	<dict>
+		<key>correctTAnswer</key>
+		<string> Vienna</string>
+		<key>date</key>
+		<string>1683</string>
+		<key>id</key>
+		<string>8a69eb3c-ecfd-11ed-a05b-0242ac120003</string>
+		<key>incorrectAnswer1</key>
+		<string> Belgrade</string>
+		<key>incorrectAnswer2</key>
+		<string> Budapest</string>
+		<key>incorrectAnswer3</key>
+		<string> Prague</string>
+		<key>numberOfBadAnswers</key>
+		<integer>0</integer>
+		<key>numberOfBadAnswersQuiz</key>
+		<integer>0</integer>
+		<key>numberOfGoodAnswers</key>
+		<integer>0</integer>
+		<key>numberOfGoodAnswersQuiz</key>
+		<integer>0</integer>
+		<key>order</key>
+		<integer>22</integer>
+		<key>question</key>
+		<string> Which city did the Ottomans unsuccessfully besiege for the second time in 1683?</string>
+		<key>questionTrueOrFalse</key>
+		<string> The Battle of Vienna marked the beginning of the Ottoman Empire&apos;s golden age</string>
+		<key>theme</key>
+		<string>The Ottoman Empire 1593-1923</string>
+		<key>timeLine</key>
+		<string> Vienna siege fails again</string>
+		<key>trueOrFalseAnswer</key>
+		<string>False</string>
+		<key>wikiSearchWord</key>
+		<string> Battle of Vienna </string>
+	</dict>
+	<dict>
+		<key>correctTAnswer</key>
+		<string> Treaty of Karlowitz</string>
+		<key>date</key>
+		<string>1699</string>
+		<key>id</key>
+		<string>8a69ecea-ecfd-11ed-a05b-0242ac120003</string>
+		<key>incorrectAnswer1</key>
+		<string> Treaty of Westphalia</string>
+		<key>incorrectAnswer2</key>
+		<string> Treaty of Tordesillas</string>
+		<key>incorrectAnswer3</key>
+		<string> Treaty of Utrecht</string>
+		<key>numberOfBadAnswers</key>
+		<integer>0</integer>
+		<key>numberOfBadAnswersQuiz</key>
+		<integer>0</integer>
+		<key>numberOfGoodAnswers</key>
+		<integer>0</integer>
+		<key>numberOfGoodAnswersQuiz</key>
+		<integer>0</integer>
+		<key>order</key>
+		<integer>23</integer>
+		<key>question</key>
+		<string> In which treaty did the Ottoman Empire cede significant territories in Europe?</string>
+		<key>questionTrueOrFalse</key>
+		<string> The Treaty of Karlowitz resulted in territorial gains for the Ottoman Empire in Europe</string>
+		<key>theme</key>
+		<string>The Ottoman Empire 1593-1923</string>
+		<key>timeLine</key>
+		<string> Karlowitz: Territorial losses</string>
+		<key>trueOrFalseAnswer</key>
+		<string>False</string>
+		<key>wikiSearchWord</key>
+		<string> Treaty of Karlowitz </string>
+	</dict>
+	<dict>
+		<key>correctTAnswer</key>
+		<string> Tulip Era</string>
+		<key>date</key>
+		<string>1703-1730</string>
+		<key>id</key>
+		<string>8a69ee8e-ecfd-11ed-a05b-0242ac120003</string>
+		<key>incorrectAnswer1</key>
+		<string> Tanzimat Era</string>
+		<key>incorrectAnswer2</key>
+		<string> Golden Age</string>
+		<key>incorrectAnswer3</key>
+		<string> Era of Enlightenment</string>
+		<key>numberOfBadAnswers</key>
+		<integer>0</integer>
+		<key>numberOfBadAnswersQuiz</key>
+		<integer>0</integer>
+		<key>numberOfGoodAnswers</key>
+		<integer>0</integer>
+		<key>numberOfGoodAnswersQuiz</key>
+		<integer>0</integer>
+		<key>order</key>
+		<integer>24</integer>
+		<key>question</key>
+		<string> What was the period of relative peace, economic growth, and cultural efflorescence from 1703 to 1730 called?</string>
+		<key>questionTrueOrFalse</key>
+		<string> The Tulip period was characterized by a decline in economic growth and cultural achievements</string>
+		<key>theme</key>
+		<string>The Ottoman Empire 1593-1923</string>
+		<key>timeLine</key>
+		<string> Tulip Era: Growth</string>
+		<key>trueOrFalseAnswer</key>
+		<string>False</string>
+		<key>wikiSearchWord</key>
+		<string> Tulip period </string>
+	</dict>
+	<dict>
+		<key>correctTAnswer</key>
+		<string> Selim III</string>
+		<key>date</key>
+		<string>1792-1808</string>
+		<key>id</key>
+		<string>8a69f168-ecfd-11ed-a05b-0242ac120003</string>
+		<key>incorrectAnswer1</key>
+		<string> Mahmud II</string>
+		<key>incorrectAnswer2</key>
+		<string> Abdulmejid I</string>
+		<key>incorrectAnswer3</key>
+		<string> Abdulhamid II</string>
+		<key>numberOfBadAnswers</key>
+		<integer>0</integer>
+		<key>numberOfBadAnswersQuiz</key>
+		<integer>0</integer>
+		<key>numberOfGoodAnswers</key>
+		<integer>0</integer>
+		<key>numberOfGoodAnswersQuiz</key>
+		<integer>0</integer>
+		<key>order</key>
+		<integer>25</integer>
+		<key>question</key>
+		<string> Which sultan implemented the Nizam-i Cedid (New Order) reforms from 1792 to 1808?</string>
+		<key>questionTrueOrFalse</key>
+		<string> Nizam-i Djedid reforms aimed to modernize the Ottoman Empire</string>
+		<key>theme</key>
+		<string>The Ottoman Empire 1593-1923</string>
+		<key>timeLine</key>
+		<string> Selim III&apos;s reforms</string>
+		<key>trueOrFalseAnswer</key>
+		<string>True</string>
+		<key>wikiSearchWord</key>
+		<string> Nizam</string>
+	</dict>
+	<dict>
+		<key>correctTAnswer</key>
+		<string> Greek War of Independence</string>
+		<key>date</key>
+		<string>1821-1832</string>
+		<key>id</key>
+		<string>8a69f2f8-ecfd-11ed-a05b-0242ac120003</string>
+		<key>incorrectAnswer1</key>
+		<string> Russo-Turkish War</string>
+		<key>incorrectAnswer2</key>
+		<string> Crimean War</string>
+		<key>incorrectAnswer3</key>
+		<string> Balkan Wars</string>
+		<key>numberOfBadAnswers</key>
+		<integer>0</integer>
+		<key>numberOfBadAnswersQuiz</key>
+		<integer>0</integer>
+		<key>numberOfGoodAnswers</key>
+		<integer>0</integer>
+		<key>numberOfGoodAnswersQuiz</key>
+		<integer>0</integer>
+		<key>order</key>
+		<integer>26</integer>
+		<key>question</key>
+		<string> During which war did Greece gain independence from the Ottoman Empire?</string>
+		<key>questionTrueOrFalse</key>
+		<string> The Greek War of Independence resulted in Greece remaining under Ottoman control</string>
+		<key>theme</key>
+		<string>The Ottoman Empire 1593-1923</string>
+		<key>timeLine</key>
+		<string> Greece gains independence</string>
+		<key>trueOrFalseAnswer</key>
+		<string>False</string>
+		<key>wikiSearchWord</key>
+		<string> Greek War of Independence </string>
+	</dict>
+	<dict>
+		<key>correctTAnswer</key>
+		<string> Tanzimat Era</string>
+		<key>date</key>
+		<string>1839-1876</string>
+		<key>id</key>
+		<string>8a69f4ba-ecfd-11ed-a05b-0242ac120003</string>
+		<key>incorrectAnswer1</key>
+		<string> Tulip Era</string>
+		<key>incorrectAnswer2</key>
+		<string> First Constitutional Era</string>
+		<key>incorrectAnswer3</key>
+		<string> Young Turk Revolution</string>
+		<key>numberOfBadAnswers</key>
+		<integer>0</integer>
+		<key>numberOfBadAnswersQuiz</key>
+		<integer>0</integer>
+		<key>numberOfGoodAnswers</key>
+		<integer>0</integer>
+		<key>numberOfGoodAnswersQuiz</key>
+		<integer>0</integer>
+		<key>order</key>
+		<integer>27</integer>
+		<key>question</key>
+		<string> Which period of far-reaching reforms aimed to modernize the Ottoman Empire from 1839 to 1876?</string>
+		<key>questionTrueOrFalse</key>
+		<string> The Tanzimat era was a period of limited reforms in the Ottoman Empire</string>
+		<key>theme</key>
+		<string>The Ottoman Empire 1593-1923</string>
+		<key>timeLine</key>
+		<string> Tanzimat: Modernization</string>
+		<key>trueOrFalseAnswer</key>
+		<string>False</string>
+		<key>wikiSearchWord</key>
+		<string> Tanzimat </string>
+	</dict>
+	<dict>
+		<key>correctTAnswer</key>
+		<string> The Young Turk Revolution</string>
+		<key>date</key>
+		<string>1908</string>
+		<key>id</key>
+		<string>8a69f690-ecfd-11ed-a05b-0242ac120003</string>
+		<key>incorrectAnswer1</key>
+		<string> Abdulhamid II&apos;s assassination</string>
+		<key>incorrectAnswer2</key>
+		<string> The Congress of Berlin</string>
+		<key>incorrectAnswer3</key>
+		<string> The Balkan Wars</string>
+		<key>numberOfBadAnswers</key>
+		<integer>0</integer>
+		<key>numberOfBadAnswersQuiz</key>
+		<integer>0</integer>
+		<key>numberOfGoodAnswers</key>
+		<integer>0</integer>
+		<key>numberOfGoodAnswersQuiz</key>
+		<integer>0</integer>
+		<key>order</key>
+		<integer>28</integer>
+		<key>question</key>
+		<string> What event in 1908 led to the restoration of the Ottoman Constitution and the Second Constitutional Era?</string>
+		<key>questionTrueOrFalse</key>
+		<string> The Young Turk Revolution led to the establishment of a monarchy in the Ottoman Empire</string>
+		<key>theme</key>
+		<string>The Ottoman Empire 1593-1923</string>
+		<key>timeLine</key>
+		<string> Young Turk Revolution</string>
+		<key>trueOrFalseAnswer</key>
+		<string>False</string>
+		<key>wikiSearchWord</key>
+		<string> Young Turk Revolution </string>
+	</dict>
+	<dict>
+		<key>correctTAnswer</key>
+		<string> Central Powers</string>
+		<key>date</key>
+		<string>1914-1918</string>
+		<key>id</key>
+		<string>8a69f80c-ecfd-11ed-a05b-0242ac120003</string>
+		<key>incorrectAnswer1</key>
+		<string> Allied Powers</string>
+		<key>incorrectAnswer2</key>
+		<string> Neutral</string>
+		<key>incorrectAnswer3</key>
+		<string> Changed sides during the war</string>
+		<key>numberOfBadAnswers</key>
+		<integer>0</integer>
+		<key>numberOfBadAnswersQuiz</key>
+		<integer>0</integer>
+		<key>numberOfGoodAnswers</key>
+		<integer>0</integer>
+		<key>numberOfGoodAnswersQuiz</key>
+		<integer>0</integer>
+		<key>order</key>
+		<integer>29</integer>
+		<key>question</key>
+		<string> Which side did the Ottoman Empire join during World War I?</string>
+		<key>questionTrueOrFalse</key>
+		<string> The Ottoman Empire remained neutral during World War I</string>
+		<key>theme</key>
+		<string>The Ottoman Empire 1593-1923</string>
+		<key>timeLine</key>
+		<string> WWI: Central Powers ally</string>
+		<key>trueOrFalseAnswer</key>
+		<string>False</string>
+		<key>wikiSearchWord</key>
+		<string> Ottoman Empire in World War I </string>
+	</dict>
+	<dict>
+		<key>correctTAnswer</key>
+		<string> Mustafa Kemal Atatürk</string>
+		<key>date</key>
+		<string>1922-1923</string>
+		<key>id</key>
+		<string>8a69fc80-ecfd-11ed-a05b-0242ac120003</string>
+		<key>incorrectAnswer1</key>
+		<string> İsmet İnönü</string>
+		<key>incorrectAnswer2</key>
+		<string> Fethi Okyar</string>
+		<key>incorrectAnswer3</key>
+		<string> Recep Tayyip Erdoğan</string>
+		<key>numberOfBadAnswers</key>
+		<integer>0</integer>
+		<key>numberOfBadAnswersQuiz</key>
+		<integer>0</integer>
+		<key>numberOfGoodAnswers</key>
+		<integer>0</integer>
+		<key>numberOfGoodAnswersQuiz</key>
+		<integer>0</integer>
+		<key>order</key>
+		<integer>30</integer>
+		<key>question</key>
+		<string> Which leader formed the Republic of Turkey after the dissolution of the Ottoman Empire?</string>
+		<key>questionTrueOrFalse</key>
+		<string> The Dissolution of the Ottoman Empire led to the formation of the Republic of Turkey</string>
+		<key>theme</key>
+		<string>The Ottoman Empire 1593-1923</string>
+		<key>timeLine</key>
+		<string> Empire dissolves, Turkey forms</string>
+		<key>trueOrFalseAnswer</key>
+		<string>True</string>
+		<key>wikiSearchWord</key>
+		<string> Dissolution of the Ottoman Empire </string>
+	</dict>
+</array>
+</plist>

@@ -1,0 +1,366 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<!DOCTYPE plist PUBLIC "-//Apple//DTD PLIST 1.0//EN" "http://www.apple.com/DTDs/PropertyList-1.0.dtd">
+<plist version="1.0">
+<array>
+	<dict>
+		<key>correctTAnswer</key>
+		<string>Impasse</string>
+		<key>date</key>
+		<string>1593-1606</string>
+		<key>id</key>
+		<string>c92a38b4-ef72-11ed-a05b-0242ac120003</string>
+		<key>incorrectAnswer1</key>
+		<string>Victoire ottomane</string>
+		<key>incorrectAnswer2</key>
+		<string>Victoire des Habsbourg</string>
+		<key>incorrectAnswer3</key>
+		<string>Traité de paix avec des gains territoriaux pour les deux côtés</string>
+		<key>numberOfBadAnswers</key>
+		<integer>0</integer>
+		<key>numberOfBadAnswersQuiz</key>
+		<integer>0</integer>
+		<key>numberOfGoodAnswers</key>
+		<integer>0</integer>
+		<key>numberOfGoodAnswersQuiz</key>
+		<integer>0</integer>
+		<key>order</key>
+		<integer>21</integer>
+		<key>question</key>
+		<string>Quel a été le résultat de la Longue Guerre entre les Ottomans et les Habsbourg ?</string>
+		<key>questionTrueOrFalse</key>
+		<string>Les guerres austro-turques font référence à l&apos;ensemble des conflits militaires opposant l&apos;Empire ottoman et le Saint-Empire romain germanique.</string>
+		<key>theme</key>
+		<string>L&apos;empire ottoman 1593-1923</string>
+		<key>timeLine</key>
+		<string>Les guerres entre les Ottomans et les Habsbourg</string>
+		<key>trueOrFalseAnswer</key>
+		<string>Vrai</string>
+		<key>wikiSearchWord</key>
+		<string>Guerres austro-turques</string>
+	</dict>
+	<dict>
+		<key>correctTAnswer</key>
+		<string>Vienne</string>
+		<key>date</key>
+		<string>1683</string>
+		<key>id</key>
+		<string>c92a39d6-ef72-11ed-a05b-0242ac120003</string>
+		<key>incorrectAnswer1</key>
+		<string>Belgrade</string>
+		<key>incorrectAnswer2</key>
+		<string>Budapest</string>
+		<key>incorrectAnswer3</key>
+		<string>Prague</string>
+		<key>numberOfBadAnswers</key>
+		<integer>0</integer>
+		<key>numberOfBadAnswersQuiz</key>
+		<integer>0</integer>
+		<key>numberOfGoodAnswers</key>
+		<integer>0</integer>
+		<key>numberOfGoodAnswersQuiz</key>
+		<integer>0</integer>
+		<key>order</key>
+		<integer>22</integer>
+		<key>question</key>
+		<string>Quelle ville les Ottomans ont-ils assiégée sans succès pour la deuxième fois en 1683 ?</string>
+		<key>questionTrueOrFalse</key>
+		<string>La campagne militaire de 16 ans a conduit à la reprise des territoires de Hongrie-Croatie par les Ottomans. </string>
+		<key>theme</key>
+		<string>L&apos;empire ottoman 1593-1923</string>
+		<key>timeLine</key>
+		<string>Le siège de Vienne échoue de nouveau</string>
+		<key>trueOrFalseAnswer</key>
+		<string>Faux</string>
+		<key>wikiSearchWord</key>
+		<string>Bataille de Vienne</string>
+	</dict>
+	<dict>
+		<key>correctTAnswer</key>
+		<string>Traité de Karlowitz</string>
+		<key>date</key>
+		<string>1699</string>
+		<key>id</key>
+		<string>c92a3b3e-ef72-11ed-a05b-0242ac120003</string>
+		<key>incorrectAnswer1</key>
+		<string>Traité de Westphalie</string>
+		<key>incorrectAnswer2</key>
+		<string>Traité de Tordesillas</string>
+		<key>incorrectAnswer3</key>
+		<string>Traité d&apos;Utrecht</string>
+		<key>numberOfBadAnswers</key>
+		<integer>0</integer>
+		<key>numberOfBadAnswersQuiz</key>
+		<integer>0</integer>
+		<key>numberOfGoodAnswers</key>
+		<integer>0</integer>
+		<key>numberOfGoodAnswersQuiz</key>
+		<integer>0</integer>
+		<key>order</key>
+		<integer>23</integer>
+		<key>question</key>
+		<string>Dans quel traité l&apos;Empire ottoman a-t-il cédé des territoires significatifs en Europe ?</string>
+		<key>questionTrueOrFalse</key>
+		<string>Le Saint-Empire a été défait par l&apos;Empire ottoman à la bataille de Zenta.</string>
+		<key>theme</key>
+		<string>L&apos;empire ottoman 1593-1923</string>
+		<key>timeLine</key>
+		<string>Karlowitz : Pertes territoriales</string>
+		<key>trueOrFalseAnswer</key>
+		<string>Faux</string>
+		<key>wikiSearchWord</key>
+		<string>Traité de Karlowitz</string>
+	</dict>
+	<dict>
+		<key>correctTAnswer</key>
+		<string>Ère des Tulipes</string>
+		<key>date</key>
+		<string>1703-1730</string>
+		<key>id</key>
+		<string>c92a4110-ef72-11ed-a05b-0242ac120003</string>
+		<key>incorrectAnswer1</key>
+		<string>Ère Tanzimat</string>
+		<key>incorrectAnswer2</key>
+		<string>Âge d&apos;or</string>
+		<key>incorrectAnswer3</key>
+		<string>Ère des Lumières</string>
+		<key>numberOfBadAnswers</key>
+		<integer>0</integer>
+		<key>numberOfBadAnswersQuiz</key>
+		<integer>0</integer>
+		<key>numberOfGoodAnswers</key>
+		<integer>0</integer>
+		<key>numberOfGoodAnswersQuiz</key>
+		<integer>0</integer>
+		<key>order</key>
+		<integer>24</integer>
+		<key>question</key>
+		<string>Comment s&apos;appelait la période de paix relative, de croissance économique et d&apos;efflorescence culturelle de 1703 à 1730 ?</string>
+		<key>questionTrueOrFalse</key>
+		<string>La période des Tulipes a vu le début de l&apos;occidentalisation de l&apos;Empire ottoman. Vrai ou Faux? </string>
+		<key>theme</key>
+		<string>L&apos;empire ottoman 1593-1923</string>
+		<key>timeLine</key>
+		<string>Ère des Tulipes : Croissance</string>
+		<key>trueOrFalseAnswer</key>
+		<string>Vrai</string>
+		<key>wikiSearchWord</key>
+		<string>Ère des tulipes</string>
+	</dict>
+	<dict>
+		<key>correctTAnswer</key>
+		<string>Selim III</string>
+		<key>date</key>
+		<string>1792-1808</string>
+		<key>id</key>
+		<string>c92a42aa-ef72-11ed-a05b-0242ac120003</string>
+		<key>incorrectAnswer1</key>
+		<string>Mahmud II</string>
+		<key>incorrectAnswer2</key>
+		<string>Abdulmejid I</string>
+		<key>incorrectAnswer3</key>
+		<string>Abdulhamid II</string>
+		<key>numberOfBadAnswers</key>
+		<integer>0</integer>
+		<key>numberOfBadAnswersQuiz</key>
+		<integer>0</integer>
+		<key>numberOfGoodAnswers</key>
+		<integer>0</integer>
+		<key>numberOfGoodAnswersQuiz</key>
+		<integer>0</integer>
+		<key>order</key>
+		<integer>25</integer>
+		<key>question</key>
+		<string>Quel sultan a mis en œuvre les réformes du Nizam-i Cedid (Nouvel Ordre) de 1792 à 1808 ?</string>
+		<key>questionTrueOrFalse</key>
+		<string>Les Nizami Djédid ont été mises en place pour rattraper le retard militaire et politique de l&apos;Empire ottoman par rapport aux puissances occidentales.</string>
+		<key>theme</key>
+		<string>L&apos;empire ottoman 1593-1923</string>
+		<key>timeLine</key>
+		<string>Nizam-I Cedid</string>
+		<key>trueOrFalseAnswer</key>
+		<string>Vrai</string>
+		<key>wikiSearchWord</key>
+		<string>Nizam-i Djédid</string>
+	</dict>
+	<dict>
+		<key>correctTAnswer</key>
+		<string>La Filiki Eteria</string>
+		<key>date</key>
+		<string>1821-1832</string>
+		<key>id</key>
+		<string>c92a4444-ef72-11ed-a05b-0242ac120003</string>
+		<key>incorrectAnswer1</key>
+		<string>Les Chevaliers du Temple</string>
+		<key>incorrectAnswer2</key>
+		<string>Les Illuminati</string>
+		<key>incorrectAnswer3</key>
+		<string>Les Francs-maçons</string>
+		<key>numberOfBadAnswers</key>
+		<integer>0</integer>
+		<key>numberOfBadAnswersQuiz</key>
+		<integer>0</integer>
+		<key>numberOfGoodAnswers</key>
+		<integer>0</integer>
+		<key>numberOfGoodAnswersQuiz</key>
+		<integer>0</integer>
+		<key>order</key>
+		<integer>26</integer>
+		<key>question</key>
+		<string>Quelle société secrète, fondée en 1814, a joué un rôle important dans l&apos;organisation et la coordination de la guerre d&apos;indépendance grecque ?</string>
+		<key>questionTrueOrFalse</key>
+		<string>L&apos;Autriche et la Prusse ont refusé d&apos;autoriser l&apos;indépendance grecque.</string>
+		<key>theme</key>
+		<string>L&apos;empire ottoman 1593-1923</string>
+		<key>timeLine</key>
+		<string>La Grèce acquiert son indépendance</string>
+		<key>trueOrFalseAnswer</key>
+		<string>Faux</string>
+		<key>wikiSearchWord</key>
+		<string>Guerre d&apos;indépendance grecque</string>
+	</dict>
+	<dict>
+		<key>correctTAnswer</key>
+		<string>Ère Tanzimat</string>
+		<key>date</key>
+		<string>1839-1876</string>
+		<key>id</key>
+		<string>c92a458e-ef72-11ed-a05b-0242ac120003</string>
+		<key>incorrectAnswer1</key>
+		<string>Ère des Tulipes</string>
+		<key>incorrectAnswer2</key>
+		<string>Première ère constitutionnelle</string>
+		<key>incorrectAnswer3</key>
+		<string>Révolution des Jeunes Turcs</string>
+		<key>numberOfBadAnswers</key>
+		<integer>0</integer>
+		<key>numberOfBadAnswersQuiz</key>
+		<integer>0</integer>
+		<key>numberOfGoodAnswers</key>
+		<integer>0</integer>
+		<key>numberOfGoodAnswersQuiz</key>
+		<integer>0</integer>
+		<key>order</key>
+		<integer>27</integer>
+		<key>question</key>
+		<string>Quelle période de réformes d&apos;envergure visait à moderniser l&apos;Empire ottoman de 1839 à 1876?</string>
+		<key>questionTrueOrFalse</key>
+		<string>Les sultans ottomans ont été opposés aux réformes, car ils ne voyaient pas leur empire menacé.</string>
+		<key>theme</key>
+		<string>L&apos;empire ottoman 1593-1923</string>
+		<key>timeLine</key>
+		<string>Tanzimat : Modernisation</string>
+		<key>trueOrFalseAnswer</key>
+		<string>Faux</string>
+		<key>wikiSearchWord</key>
+		<string>Tanzimat</string>
+	</dict>
+	<dict>
+		<key>correctTAnswer</key>
+		<string>Révolution des Jeunes Turcs</string>
+		<key>date</key>
+		<string>1908</string>
+		<key>id</key>
+		<string>c92a46ce-ef72-11ed-a05b-0242ac120003</string>
+		<key>incorrectAnswer1</key>
+		<string>Assassinat d&apos;Abdulhamid II</string>
+		<key>incorrectAnswer2</key>
+		<string>Le Congrès de Berlin</string>
+		<key>incorrectAnswer3</key>
+		<string>Guerres balkaniques</string>
+		<key>numberOfBadAnswers</key>
+		<integer>0</integer>
+		<key>numberOfBadAnswersQuiz</key>
+		<integer>0</integer>
+		<key>numberOfGoodAnswers</key>
+		<integer>0</integer>
+		<key>numberOfGoodAnswersQuiz</key>
+		<integer>0</integer>
+		<key>order</key>
+		<integer>28</integer>
+		<key>question</key>
+		<string>Quel événement en 1908 a conduit à la restauration de la Constitution ottomane et à la Seconde ère constitutionnelle ?</string>
+		<key>questionTrueOrFalse</key>
+		<string>Les Jeunes-Turcs ont planifié le génocide arménien. </string>
+		<key>theme</key>
+		<string>L&apos;empire ottoman 1593-1923</string>
+		<key>timeLine</key>
+		<string>Révolution des Jeunes-Turcs</string>
+		<key>trueOrFalseAnswer</key>
+		<string>Vrai</string>
+		<key>wikiSearchWord</key>
+		<string>Jeunes-Turcs</string>
+	</dict>
+	<dict>
+		<key>correctTAnswer</key>
+		<string>Puissances centrales</string>
+		<key>date</key>
+		<string>1914-1918</string>
+		<key>id</key>
+		<string>c92a47fa-ef72-11ed-a05b-0242ac120003</string>
+		<key>incorrectAnswer1</key>
+		<string>Puissances alliées</string>
+		<key>incorrectAnswer2</key>
+		<string>Neutre</string>
+		<key>incorrectAnswer3</key>
+		<string>Changement de camp pendant la guerre</string>
+		<key>numberOfBadAnswers</key>
+		<integer>0</integer>
+		<key>numberOfBadAnswersQuiz</key>
+		<integer>0</integer>
+		<key>numberOfGoodAnswers</key>
+		<integer>0</integer>
+		<key>numberOfGoodAnswersQuiz</key>
+		<integer>0</integer>
+		<key>order</key>
+		<integer>29</integer>
+		<key>question</key>
+		<string>De quel côté l&apos;Empire ottoman s&apos;est-il joint pendant la Première Guerre mondiale ?</string>
+		<key>questionTrueOrFalse</key>
+		<string>L&apos;Empire ottoman capitule à la fin de la Première Guerre mondiale. </string>
+		<key>theme</key>
+		<string>L&apos;empire ottoman 1593-1923</string>
+		<key>timeLine</key>
+		<string>Première Guerre mondiale : Allié des Puissances centrales</string>
+		<key>trueOrFalseAnswer</key>
+		<string>Vrai</string>
+		<key>wikiSearchWord</key>
+		<string>Empire ottoman dans la Première Guerre mondiale</string>
+	</dict>
+	<dict>
+		<key>correctTAnswer</key>
+		<string>Mustafa Kemal Atatürk</string>
+		<key>date</key>
+		<string>1922-1923</string>
+		<key>id</key>
+		<string>c92a494e-ef72-11ed-a05b-0242ac120003</string>
+		<key>incorrectAnswer1</key>
+		<string>İsmet İnönü</string>
+		<key>incorrectAnswer2</key>
+		<string>Fethi Okyar</string>
+		<key>incorrectAnswer3</key>
+		<string>Recep Tayyip Erdoğan</string>
+		<key>numberOfBadAnswers</key>
+		<integer>0</integer>
+		<key>numberOfBadAnswersQuiz</key>
+		<integer>0</integer>
+		<key>numberOfGoodAnswers</key>
+		<integer>0</integer>
+		<key>numberOfGoodAnswersQuiz</key>
+		<integer>0</integer>
+		<key>order</key>
+		<integer>30</integer>
+		<key>question</key>
+		<string>Quel leader a formé la République de Turquie après la dissolution de l&apos;Empire ottoman ?</string>
+		<key>questionTrueOrFalse</key>
+		<string>Les provinces de l&apos;Empire ottoman dans la péninsule arabique ont formé les émirats du Koweït, du Qatar, du Bahreïn, d&apos;Oman et les Émirats arabes unis. </string>
+		<key>theme</key>
+		<string>L&apos;empire ottoman 1593-1923</string>
+		<key>timeLine</key>
+		<string>Dissolution de l&apos;Empire, formation de la Turquie.</string>
+		<key>trueOrFalseAnswer</key>
+		<string>Vrai</string>
+		<key>wikiSearchWord</key>
+		<string>Partition de l&apos;Empire ottoman</string>
+	</dict>
+</array>
+</plist>

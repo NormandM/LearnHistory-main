@@ -1,0 +1,366 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<!DOCTYPE plist PUBLIC "-//Apple//DTD PLIST 1.0//EN" "http://www.apple.com/DTDs/PropertyList-1.0.dtd">
+<plist version="1.0">
+<array>
+	<dict>
+		<key>correctTAnswer</key>
+		<string> Greek fire</string>
+		<key>date</key>
+		<string> 674-678 AD</string>
+		<key>id</key>
+		<string>4427a3fe-e937-11ed-a05b-0242ac120003</string>
+		<key>incorrectAnswer1</key>
+		<string> Catapult</string>
+		<key>incorrectAnswer2</key>
+		<string> Ballista</string>
+		<key>incorrectAnswer3</key>
+		<string> Trebuchet</string>
+		<key>numberOfBadAnswers</key>
+		<integer>0</integer>
+		<key>numberOfBadAnswersQuiz</key>
+		<integer>0</integer>
+		<key>numberOfGoodAnswers</key>
+		<integer>0</integer>
+		<key>numberOfGoodAnswersQuiz</key>
+		<integer>0</integer>
+		<key>order</key>
+		<integer>11</integer>
+		<key>question</key>
+		<string>Which weapon did the Byzantines use to successfully defend Constantinople during the first Arab siege?</string>
+		<key>questionTrueOrFalse</key>
+		<string> The First Arab Siege of Constantinople lasted for four years.</string>
+		<key>theme</key>
+		<string>The Byzantine Empire 674-1118</string>
+		<key>timeLine</key>
+		<string> First Arab Siege of Constantinople </string>
+		<key>trueOrFalseAnswer</key>
+		<string>True</string>
+		<key>wikiSearchWord</key>
+		<string> Siege of Constantinople (674–78)</string>
+	</dict>
+	<dict>
+		<key>correctTAnswer</key>
+		<string> Leo III the Isaurian</string>
+		<key>date</key>
+		<string> 717-718 AD</string>
+		<key>id</key>
+		<string>4427a516-e937-11ed-a05b-0242ac120003</string>
+		<key>incorrectAnswer1</key>
+		<string> Tiberius III</string>
+		<key>incorrectAnswer2</key>
+		<string> Constantine IV</string>
+		<key>incorrectAnswer3</key>
+		<string> Justinian II</string>
+		<key>numberOfBadAnswers</key>
+		<integer>0</integer>
+		<key>numberOfBadAnswersQuiz</key>
+		<integer>0</integer>
+		<key>numberOfGoodAnswers</key>
+		<integer>0</integer>
+		<key>numberOfGoodAnswersQuiz</key>
+		<integer>0</integer>
+		<key>order</key>
+		<integer>12</integer>
+		<key>question</key>
+		<string>Who was the Byzantine emperor during the Second Arab Siege of Constantinople?</string>
+		<key>questionTrueOrFalse</key>
+		<string> The Second Arab Siege of Constantinople was initiated by the Umayyad Caliphate.</string>
+		<key>theme</key>
+		<string>The Byzantine Empire 674-1118</string>
+		<key>timeLine</key>
+		<string> Second Arab Siege of Constantinople </string>
+		<key>trueOrFalseAnswer</key>
+		<string>True</string>
+		<key>wikiSearchWord</key>
+		<string> Siege of Constantinople (717–18)</string>
+	</dict>
+	<dict>
+		<key>correctTAnswer</key>
+		<string> Leo III the Isaurian</string>
+		<key>date</key>
+		<string> 732 AD</string>
+		<key>id</key>
+		<string>4427a9e4-e937-11ed-a05b-0242ac120003</string>
+		<key>incorrectAnswer1</key>
+		<string> Constantine V</string>
+		<key>incorrectAnswer2</key>
+		<string> Michael III</string>
+		<key>incorrectAnswer3</key>
+		<string> Emperor Theophilos</string>
+		<key>numberOfBadAnswers</key>
+		<integer>0</integer>
+		<key>numberOfBadAnswersQuiz</key>
+		<integer>0</integer>
+		<key>numberOfGoodAnswers</key>
+		<integer>0</integer>
+		<key>numberOfGoodAnswersQuiz</key>
+		<integer>0</integer>
+		<key>order</key>
+		<integer>13</integer>
+		<key>question</key>
+		<string>Who initiated the first period of Iconoclasm in the Byzantine Empire?</string>
+		<key>questionTrueOrFalse</key>
+		<string> Iconoclasm in the Byzantine Empire began in the 7th century AD.</string>
+		<key>theme</key>
+		<string>The Byzantine Empire 674-1118</string>
+		<key>timeLine</key>
+		<string> Iconoclasm </string>
+		<key>trueOrFalseAnswer</key>
+		<string>False</string>
+		<key>wikiSearchWord</key>
+		<string> Byzantine Iconoclasm</string>
+	</dict>
+	<dict>
+		<key>correctTAnswer</key>
+		<string> To condemn the practice of Iconoclasm</string>
+		<key>date</key>
+		<string> 787 AD</string>
+		<key>id</key>
+		<string>4427ab42-e937-11ed-a05b-0242ac120003</string>
+		<key>incorrectAnswer1</key>
+		<string> To address the Arian controversy</string>
+		<key>incorrectAnswer2</key>
+		<string> To establish the Nicene Creed</string>
+		<key>incorrectAnswer3</key>
+		<string> To deal with the Monophysite controversy</string>
+		<key>numberOfBadAnswers</key>
+		<integer>0</integer>
+		<key>numberOfBadAnswersQuiz</key>
+		<integer>0</integer>
+		<key>numberOfGoodAnswers</key>
+		<integer>0</integer>
+		<key>numberOfGoodAnswersQuiz</key>
+		<integer>0</integer>
+		<key>order</key>
+		<integer>14</integer>
+		<key>question</key>
+		<string>What was the primary purpose of the Second Council of Nicaea?</string>
+		<key>questionTrueOrFalse</key>
+		<string> The Second Council of Nicaea affirmed the use of icons in Christian worship.</string>
+		<key>theme</key>
+		<string>The Byzantine Empire 674-1118</string>
+		<key>timeLine</key>
+		<string> Second Council of Nicaea </string>
+		<key>trueOrFalseAnswer</key>
+		<string>True</string>
+		<key>wikiSearchWord</key>
+		<string> Second Council of Nicaea</string>
+	</dict>
+	<dict>
+		<key>correctTAnswer</key>
+		<string> Macedonian Dynasty</string>
+		<key>date</key>
+		<string> 867-886 AD</string>
+		<key>id</key>
+		<string>4427ac64-e937-11ed-a05b-0242ac120003</string>
+		<key>incorrectAnswer1</key>
+		<string> Justinian Dynasty</string>
+		<key>incorrectAnswer2</key>
+		<string> Isaurian Dynasty</string>
+		<key>incorrectAnswer3</key>
+		<string> Komnenos Dynasty</string>
+		<key>numberOfBadAnswers</key>
+		<integer>0</integer>
+		<key>numberOfBadAnswersQuiz</key>
+		<integer>0</integer>
+		<key>numberOfGoodAnswers</key>
+		<integer>0</integer>
+		<key>numberOfGoodAnswersQuiz</key>
+		<integer>0</integer>
+		<key>order</key>
+		<integer>15</integer>
+		<key>question</key>
+		<string>Which dynasty was founded by Basil I?</string>
+		<key>questionTrueOrFalse</key>
+		<string>Basil I was born into a peasant family in the theme of Macedonia.</string>
+		<key>theme</key>
+		<string>The Byzantine Empire 674-1118</string>
+		<key>timeLine</key>
+		<string> Reign of Basil I </string>
+		<key>trueOrFalseAnswer</key>
+		<string>True</string>
+		<key>wikiSearchWord</key>
+		<string> Basil I</string>
+	</dict>
+	<dict>
+		<key>correctTAnswer</key>
+		<string> Igor of Kiev</string>
+		<key>date</key>
+		<string> 941 AD</string>
+		<key>id</key>
+		<string>4427ad72-e937-11ed-a05b-0242ac120003</string>
+		<key>incorrectAnswer1</key>
+		<string> Vladimir the Great</string>
+		<key>incorrectAnswer2</key>
+		<string> Oleg of Novgorod</string>
+		<key>incorrectAnswer3</key>
+		<string> Sviatoslav I</string>
+		<key>numberOfBadAnswers</key>
+		<integer>0</integer>
+		<key>numberOfBadAnswersQuiz</key>
+		<integer>0</integer>
+		<key>numberOfGoodAnswers</key>
+		<integer>0</integer>
+		<key>numberOfGoodAnswersQuiz</key>
+		<integer>0</integer>
+		<key>order</key>
+		<integer>16</integer>
+		<key>question</key>
+		<string>Who was the ruler of the Kievan Rus&apos; during the attack on Constantinople in 941 AD?</string>
+		<key>questionTrueOrFalse</key>
+		<string> The Rus&apos; attack on Constantinople in 941 AD was led by Sviatoslav I.</string>
+		<key>theme</key>
+		<string>The Byzantine Empire 674-1118</string>
+		<key>timeLine</key>
+		<string> Rus&apos; Attack on Constantinople </string>
+		<key>trueOrFalseAnswer</key>
+		<string>False</string>
+		<key>wikiSearchWord</key>
+		<string> Rus&apos; raid on Constantinople (941)</string>
+	</dict>
+	<dict>
+		<key>correctTAnswer</key>
+		<string> Basil the Bulgar-Slayer</string>
+		<key>date</key>
+		<string> 976-1025 AD</string>
+		<key>id</key>
+		<string>4427ae9e-e937-11ed-a05b-0242ac120003</string>
+		<key>incorrectAnswer1</key>
+		<string> Basil the Conqueror</string>
+		<key>incorrectAnswer2</key>
+		<string> Basil the Great</string>
+		<key>incorrectAnswer3</key>
+		<string> Basil the Victorious</string>
+		<key>numberOfBadAnswers</key>
+		<integer>0</integer>
+		<key>numberOfBadAnswersQuiz</key>
+		<integer>0</integer>
+		<key>numberOfGoodAnswers</key>
+		<integer>0</integer>
+		<key>numberOfGoodAnswersQuiz</key>
+		<integer>0</integer>
+		<key>order</key>
+		<integer>17</integer>
+		<key>question</key>
+		<string>What nickname was given to Basil II for his military successes?</string>
+		<key>questionTrueOrFalse</key>
+		<string> Basil II led a campaign against the Fatimid Caliphate, resulting in a truce in 1000.</string>
+		<key>theme</key>
+		<string>The Byzantine Empire 674-1118</string>
+		<key>timeLine</key>
+		<string> Reign of Basil II </string>
+		<key>trueOrFalseAnswer</key>
+		<string>True</string>
+		<key>wikiSearchWord</key>
+		<string> Basil II</string>
+	</dict>
+	<dict>
+		<key>correctTAnswer</key>
+		<string>The role of the Holy Spirit</string>
+		<key>date</key>
+		<string> 1054 AD</string>
+		<key>id</key>
+		<string>4427afb6-e937-11ed-a05b-0242ac120003</string>
+		<key>incorrectAnswer1</key>
+		<string>The use of religious icons</string>
+		<key>incorrectAnswer2</key>
+		<string> The structure of the Church hierarchy</string>
+		<key>incorrectAnswer3</key>
+		<string>The preference for unleavened bread in the Eucharist</string>
+		<key>numberOfBadAnswers</key>
+		<integer>0</integer>
+		<key>numberOfBadAnswersQuiz</key>
+		<integer>0</integer>
+		<key>numberOfGoodAnswers</key>
+		<integer>0</integer>
+		<key>numberOfGoodAnswersQuiz</key>
+		<integer>0</integer>
+		<key>order</key>
+		<integer>18</integer>
+		<key>question</key>
+		<string>Which of the following theological issues were a point of contention between the Eastern Orthodox Church and the Roman Catholic Church during the East-West Schism?</string>
+		<key>questionTrueOrFalse</key>
+		<string> The East-West Schism resulted in the permanent separation of the Eastern Orthodox and Roman Catholic Churches.</string>
+		<key>theme</key>
+		<string>The Byzantine Empire 674-1118</string>
+		<key>timeLine</key>
+		<string> East-West Schism </string>
+		<key>trueOrFalseAnswer</key>
+		<string>True</string>
+		<key>wikiSearchWord</key>
+		<string> East–West Schism</string>
+	</dict>
+	<dict>
+		<key>correctTAnswer</key>
+		<string> Alp Arslan</string>
+		<key>date</key>
+		<string> 1071 AD</string>
+		<key>id</key>
+		<string>4427b0f6-e937-11ed-a05b-0242ac120003</string>
+		<key>incorrectAnswer1</key>
+		<string> Seljuk</string>
+		<key>incorrectAnswer2</key>
+		<string> Osman I</string>
+		<key>incorrectAnswer3</key>
+		<string> Ertugrul</string>
+		<key>numberOfBadAnswers</key>
+		<integer>0</integer>
+		<key>numberOfBadAnswersQuiz</key>
+		<integer>0</integer>
+		<key>numberOfGoodAnswers</key>
+		<integer>0</integer>
+		<key>numberOfGoodAnswersQuiz</key>
+		<integer>0</integer>
+		<key>order</key>
+		<integer>19</integer>
+		<key>question</key>
+		<string>Which Turkish leader defeated the Byzantines at the Battle of Manzikert?</string>
+		<key>questionTrueOrFalse</key>
+		<string> The Battle of Manzikert took place in 1071 AD.</string>
+		<key>theme</key>
+		<string>The Byzantine Empire 674-1118</string>
+		<key>timeLine</key>
+		<string> Battle of Manzikert </string>
+		<key>trueOrFalseAnswer</key>
+		<string>True</string>
+		<key>wikiSearchWord</key>
+		<string> Battle of Manzikert</string>
+	</dict>
+	<dict>
+		<key>correctTAnswer</key>
+		<string> The Western European knights</string>
+		<key>date</key>
+		<string> 1081-1118 AD</string>
+		<key>id</key>
+		<string>4427b218-e937-11ed-a05b-0242ac120003</string>
+		<key>incorrectAnswer1</key>
+		<string> The Seljuk Turks</string>
+		<key>incorrectAnswer2</key>
+		<string> The Fatimid Caliphate</string>
+		<key>incorrectAnswer3</key>
+		<string> The Kievan Rus&apos;</string>
+		<key>numberOfBadAnswers</key>
+		<integer>0</integer>
+		<key>numberOfBadAnswersQuiz</key>
+		<integer>0</integer>
+		<key>numberOfGoodAnswers</key>
+		<integer>0</integer>
+		<key>numberOfGoodAnswersQuiz</key>
+		<integer>0</integer>
+		<key>order</key>
+		<integer>20</integer>
+		<key>question</key>
+		<string>Which major military force did Alexios I Komnenos request assistance from in order to help defend the Byzantine Empire?</string>
+		<key>questionTrueOrFalse</key>
+		<string> Alexios I Komnenos was the founder of the Komnenos dynasty.</string>
+		<key>theme</key>
+		<string>The Byzantine Empire 674-1118</string>
+		<key>timeLine</key>
+		<string> Reign of Alexios I Komnenos </string>
+		<key>trueOrFalseAnswer</key>
+		<string>True</string>
+		<key>wikiSearchWord</key>
+		<string> Alexios I Komnenos</string>
+	</dict>
+</array>
+</plist>

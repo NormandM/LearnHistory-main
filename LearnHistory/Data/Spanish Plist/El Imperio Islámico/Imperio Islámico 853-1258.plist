@@ -1,0 +1,366 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<!DOCTYPE plist PUBLIC "-//Apple//DTD PLIST 1.0//EN" "http://www.apple.com/DTDs/PropertyList-1.0.dtd">
+<plist version="1.0">
+<array>
+	<dict>
+		<key>correctTAnswer</key>
+		<string>Roma</string>
+		<key>date</key>
+		<string>846</string>
+		<key>id</key>
+		<string>fd9dc67e-8884-11ed-a1eb-0242ac120002</string>
+		<key>incorrectAnswer1</key>
+		<string>Constantinopla</string>
+		<key>incorrectAnswer2</key>
+		<string>Jerusalén</string>
+		<key>incorrectAnswer3</key>
+		<string>Alejandría</string>
+		<key>numberOfBadAnswers</key>
+		<integer>0</integer>
+		<key>numberOfBadAnswersQuiz</key>
+		<integer>0</integer>
+		<key>numberOfGoodAnswers</key>
+		<integer>0</integer>
+		<key>numberOfGoodAnswersQuiz</key>
+		<integer>0</integer>
+		<key>order</key>
+		<integer>20</integer>
+		<key>question</key>
+		<string>¿Qué ciudad fue capturada y saqueada por las fuerzas musulmanas en 846?</string>
+		<key>questionTrueOrFalse</key>
+		<string>Durante el saqueo de Roma en 846, los piratas sarracenos lograron entrar y saquear la ciudad.</string>
+		<key>theme</key>
+		<string>Imperio Islámico 853-1258</string>
+		<key>timeLine</key>
+		<string>Roma es saqueada por las fuerzas musulmanas</string>
+		<key>trueOrFalseAnswer</key>
+		<string>Falso</string>
+		<key>wikiSearchWord</key>
+		<string>Saqueo de Roma (846)</string>
+	</dict>
+	<dict>
+		<key>correctTAnswer</key>
+		<string>El Imperio Bizantino</string>
+		<key>date</key>
+		<string>853</string>
+		<key>id</key>
+		<string>fd9dc796-8884-11ed-a1eb-0242ac120002</string>
+		<key>incorrectAnswer1</key>
+		<string>El Imperio Otomano</string>
+		<key>incorrectAnswer2</key>
+		<string>El Califato Abbasí</string>
+		<key>incorrectAnswer3</key>
+		<string>El Califato Omeya</string>
+		<key>numberOfBadAnswers</key>
+		<integer>0</integer>
+		<key>numberOfBadAnswersQuiz</key>
+		<integer>0</integer>
+		<key>numberOfGoodAnswers</key>
+		<integer>0</integer>
+		<key>numberOfGoodAnswersQuiz</key>
+		<integer>0</integer>
+		<key>order</key>
+		<integer>21</integer>
+		<key>question</key>
+		<string>¿Qué imperio recuperó la ciudad de Roma del control musulmán en 853?</string>
+		<key>questionTrueOrFalse</key>
+		<string>Es cierto que el Imperio Bizantino fue un bastión del islam durante la Edad Media.</string>
+		<key>theme</key>
+		<string>Imperio Islámico 853-1258</string>
+		<key>timeLine</key>
+		<string>El imperio bizantino reconquista Roma a los musulmanes</string>
+		<key>trueOrFalseAnswer</key>
+		<string>Falso</string>
+		<key>wikiSearchWord</key>
+		<string>Imperio bizantino</string>
+	</dict>
+	<dict>
+		<key>correctTAnswer</key>
+		<string>Norte de África</string>
+		<key>date</key>
+		<string>929</string>
+		<key>id</key>
+		<string>fd9dc8f4-8884-11ed-a1eb-0242ac120002</string>
+		<key>incorrectAnswer1</key>
+		<string>Suroeste de Asia</string>
+		<key>incorrectAnswer2</key>
+		<string>Sudeste Asiático</string>
+		<key>incorrectAnswer3</key>
+		<string>África Oriental</string>
+		<key>numberOfBadAnswers</key>
+		<integer>0</integer>
+		<key>numberOfBadAnswersQuiz</key>
+		<integer>0</integer>
+		<key>numberOfGoodAnswers</key>
+		<integer>0</integer>
+		<key>numberOfGoodAnswersQuiz</key>
+		<integer>0</integer>
+		<key>order</key>
+		<integer>22</integer>
+		<key>question</key>
+		<string>¿En qué región se estableció el califato fatimí?</string>
+		<key>questionTrueOrFalse</key>
+		<string>El Califato fatimí incluyó parte de Asia en su apogeo. </string>
+		<key>theme</key>
+		<string>Imperio Islámico 853-1258</string>
+		<key>timeLine</key>
+		<string>Se establece el califato fatimí</string>
+		<key>trueOrFalseAnswer</key>
+		<string>Falso</string>
+		<key>wikiSearchWord</key>
+		<string>Califato fatimí</string>
+	</dict>
+	<dict>
+		<key>correctTAnswer</key>
+		<string>El Califato Fatimí</string>
+		<key>date</key>
+		<string>969</string>
+		<key>id</key>
+		<string>fd9dca0c-8884-11ed-a1eb-0242ac120002</string>
+		<key>incorrectAnswer1</key>
+		<string>El Califato Omeya</string>
+		<key>incorrectAnswer2</key>
+		<string>El Califato Abbasí</string>
+		<key>incorrectAnswer3</key>
+		<string>El Imperio Selyúcida</string>
+		<key>numberOfBadAnswers</key>
+		<integer>0</integer>
+		<key>numberOfBadAnswersQuiz</key>
+		<integer>0</integer>
+		<key>numberOfGoodAnswers</key>
+		<integer>0</integer>
+		<key>numberOfGoodAnswersQuiz</key>
+		<integer>0</integer>
+		<key>order</key>
+		<integer>23</integer>
+		<key>question</key>
+		<string>¿Qué califato conquistó Egipto y estableció su capital en El Cairo?</string>
+		<key>questionTrueOrFalse</key>
+		<string>La conquista fatimí de Egipto se llevó a cabo en el 969.</string>
+		<key>theme</key>
+		<string>Imperio Islámico 853-1258</string>
+		<key>timeLine</key>
+		<string>Conquista de Egipto por los fatimíes</string>
+		<key>trueOrFalseAnswer</key>
+		<string>Verdadero</string>
+		<key>wikiSearchWord</key>
+		<string>Conquista fatimí de Egipto</string>
+	</dict>
+	<dict>
+		<key>correctTAnswer</key>
+		<string>Avicena</string>
+		<key>date</key>
+		<string>980</string>
+		<key>id</key>
+		<string>fd9dcb24-8884-11ed-a1eb-0242ac120002</string>
+		<key>incorrectAnswer1</key>
+		<string>Hipócrates</string>
+		<key>incorrectAnswer2</key>
+		<string>Galeno</string>
+		<key>incorrectAnswer3</key>
+		<string>Maimónides</string>
+		<key>numberOfBadAnswers</key>
+		<integer>0</integer>
+		<key>numberOfBadAnswersQuiz</key>
+		<integer>0</integer>
+		<key>numberOfGoodAnswers</key>
+		<integer>0</integer>
+		<key>numberOfGoodAnswersQuiz</key>
+		<integer>0</integer>
+		<key>order</key>
+		<integer>24</integer>
+		<key>question</key>
+		<string>¿Qué famoso médico vivió y trabajó durante la edad de oro árabe-musulmana?</string>
+		<key>questionTrueOrFalse</key>
+		<string>Ibn Sina escribió cerca de trescientos libros sobre diferentes temas, principalmente de filosofía y medicina.</string>
+		<key>theme</key>
+		<string>Imperio Islámico 853-1258</string>
+		<key>timeLine</key>
+		<string>Nace Avicena</string>
+		<key>trueOrFalseAnswer</key>
+		<string>Verdadero</string>
+		<key>wikiSearchWord</key>
+		<string>Avicena</string>
+	</dict>
+	<dict>
+		<key>correctTAnswer</key>
+		<string>La República</string>
+		<key>date</key>
+		<string>980</string>
+		<key>id</key>
+		<string>fd9dcd90-8884-11ed-a1eb-0242ac120002</string>
+		<key>incorrectAnswer1</key>
+		<string>El canon de la medicina</string>
+		<key>incorrectAnswer2</key>
+		<string>El libro de la curación</string>
+		<key>incorrectAnswer3</key>
+		<string>El hombre flotante</string>
+		<key>numberOfBadAnswers</key>
+		<integer>0</integer>
+		<key>numberOfBadAnswersQuiz</key>
+		<integer>0</integer>
+		<key>numberOfGoodAnswers</key>
+		<integer>0</integer>
+		<key>numberOfGoodAnswersQuiz</key>
+		<integer>0</integer>
+		<key>order</key>
+		<integer>25</integer>
+		<key>question</key>
+		<string>¿Cuál de las siguientes obras NO se atribuye a Avicena?</string>
+		<key>questionTrueOrFalse</key>
+		<string>Ibn Sina es conocido principalmente como un astrónomo y científico persa de la Edad de Oro del Islam.</string>
+		<key>theme</key>
+		<string>Imperio Islámico 853-1258</string>
+		<key>timeLine</key>
+		<string>Nace Avicena</string>
+		<key>trueOrFalseAnswer</key>
+		<string>Falso</string>
+		<key>wikiSearchWord</key>
+		<string>Avicena</string>
+	</dict>
+	<dict>
+		<key>correctTAnswer</key>
+		<string>Reconquistar Tierra Santa del control musulmán</string>
+		<key>date</key>
+		<string>1095</string>
+		<key>id</key>
+		<string>fd9dd0b0-8884-11ed-a1eb-0242ac120002</string>
+		<key>incorrectAnswer1</key>
+		<string>Convertir el mundo musulmán al cristianismo</string>
+		<key>incorrectAnswer2</key>
+		<string>Conquistar el Imperio Bizantino</string>
+		<key>incorrectAnswer3</key>
+		<string>Establecer un Estado cristiano unificado en Europa</string>
+		<key>numberOfBadAnswers</key>
+		<integer>0</integer>
+		<key>numberOfBadAnswersQuiz</key>
+		<integer>0</integer>
+		<key>numberOfGoodAnswers</key>
+		<integer>0</integer>
+		<key>numberOfGoodAnswersQuiz</key>
+		<integer>0</integer>
+		<key>order</key>
+		<integer>27</integer>
+		<key>question</key>
+		<string>¿Cuál era el objetivo de la Primera Cruzada, iniciada en 1095?</string>
+		<key>questionTrueOrFalse</key>
+		<string>La Primera Cruzada permitió aumentar el prestigio del papado y revitalizar la economía y cultura del mundo medieval.</string>
+		<key>theme</key>
+		<string>Imperio Islámico 853-1258</string>
+		<key>timeLine</key>
+		<string>Inicio de la Primera Cruzada</string>
+		<key>trueOrFalseAnswer</key>
+		<string>Verdadero</string>
+		<key>wikiSearchWord</key>
+		<string>Primera cruzada</string>
+	</dict>
+	<dict>
+		<key>correctTAnswer</key>
+		<string>Saladino</string>
+		<key>date</key>
+		<string>1187</string>
+		<key>id</key>
+		<string>fd9dd1dc-8884-11ed-a1eb-0242ac120002</string>
+		<key>incorrectAnswer1</key>
+		<string>Al-Ghazi</string>
+		<key>incorrectAnswer2</key>
+		<string>Tariq ibn Ziyad</string>
+		<key>incorrectAnswer3</key>
+		<string>Muawiyah I</string>
+		<key>numberOfBadAnswers</key>
+		<integer>0</integer>
+		<key>numberOfBadAnswersQuiz</key>
+		<integer>0</integer>
+		<key>numberOfGoodAnswers</key>
+		<integer>0</integer>
+		<key>numberOfGoodAnswersQuiz</key>
+		<integer>0</integer>
+		<key>order</key>
+		<integer>28</integer>
+		<key>question</key>
+		<string>¿Quién reconquistó Tierra Santa y restableció el control musulmán sobre Jerusalén en 1187?</string>
+		<key>questionTrueOrFalse</key>
+		<string>La toma de Jerusalén por los musulmanes fue el motivo para el inicio de la Tercera cruzada </string>
+		<key>theme</key>
+		<string>Imperio Islámico 853-1258</string>
+		<key>timeLine</key>
+		<string>Asedio de Jerusalén por Saladino</string>
+		<key>trueOrFalseAnswer</key>
+		<string>Verdadero</string>
+		<key>wikiSearchWord</key>
+		<string>Sitio de Jerusalén (1187)</string>
+	</dict>
+	<dict>
+		<key>correctTAnswer</key>
+		<string>La tolerancia religiosa del imperio</string>
+		<key>date</key>
+		<string>1200</string>
+		<key>id</key>
+		<string>fd9dd3bc-8884-11ed-a1eb-0242ac120002</string>
+		<key>incorrectAnswer1</key>
+		<string>El vasto territorio del imperio</string>
+		<key>incorrectAnswer2</key>
+		<string>El imperio se centra en imponer su religión a sus súbditos</string>
+		<key>incorrectAnswer3</key>
+		<string>Ninguna de las anteriores</string>
+		<key>numberOfBadAnswers</key>
+		<integer>0</integer>
+		<key>numberOfBadAnswersQuiz</key>
+		<integer>0</integer>
+		<key>numberOfGoodAnswers</key>
+		<integer>0</integer>
+		<key>numberOfGoodAnswersQuiz</key>
+		<integer>0</integer>
+		<key>order</key>
+		<integer>29</integer>
+		<key>question</key>
+		<string>¿Cuál de los siguientes factores facilitó la expansión del Islam a través del Imperio Mongol?</string>
+		<key>questionTrueOrFalse</key>
+		<string>El Imperio Mongol fue fundado por Gengis Kan en el año 1206.</string>
+		<key>theme</key>
+		<string>Imperio Islámico 853-1258</string>
+		<key>timeLine</key>
+		<string>Las conquistas del Imperio Mongol, de gran parte del mundo musulmán.</string>
+		<key>trueOrFalseAnswer</key>
+		<string>Verdadero</string>
+		<key>wikiSearchWord</key>
+		<string>Imperio mongol</string>
+	</dict>
+	<dict>
+		<key>correctTAnswer</key>
+		<string>El imperio mongol</string>
+		<key>date</key>
+		<string>1258</string>
+		<key>id</key>
+		<string>fd9dd54c-8884-11ed-a1eb-0242ac120002</string>
+		<key>incorrectAnswer1</key>
+		<string>El Imperio Otomano</string>
+		<key>incorrectAnswer2</key>
+		<string>El Imperio selyúcida</string>
+		<key>incorrectAnswer3</key>
+		<string>El Califato Fatimí</string>
+		<key>numberOfBadAnswers</key>
+		<integer>0</integer>
+		<key>numberOfBadAnswersQuiz</key>
+		<integer>0</integer>
+		<key>numberOfGoodAnswers</key>
+		<integer>0</integer>
+		<key>numberOfGoodAnswersQuiz</key>
+		<integer>0</integer>
+		<key>order</key>
+		<integer>30</integer>
+		<key>question</key>
+		<string>¿Qué imperio conquistó Bagdad y destruyó el califato abasí en 1258?</string>
+		<key>questionTrueOrFalse</key>
+		<string>La toma de Bagdad durante la batalla de 1258 fue un evento pacífico sin daños a la ciudad.</string>
+		<key>theme</key>
+		<string>Imperio Islámico 853-1258</string>
+		<key>timeLine</key>
+		<string>Asedio de Bagdad por los mongoles</string>
+		<key>trueOrFalseAnswer</key>
+		<string>Falso</string>
+		<key>wikiSearchWord</key>
+		<string>Batalla de Bagdad (1258)</string>
+	</dict>
+</array>
+</plist>

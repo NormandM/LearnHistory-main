@@ -1,0 +1,366 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<!DOCTYPE plist PUBLIC "-//Apple//DTD PLIST 1.0//EN" "http://www.apple.com/DTDs/PropertyList-1.0.dtd">
+<plist version="1.0">
+<array>
+	<dict>
+		<key>correctTAnswer</key>
+		<string>Eliminar la influencia de judíos y musulmanes en España</string>
+		<key>date</key>
+		<string>1478</string>
+		<key>id</key>
+		<string>08f4b326-8311-11ed-a1eb-0242ac120002</string>
+		<key>incorrectAnswer1</key>
+		<string>Extender la fe católica por toda Europa</string>
+		<key>incorrectAnswer2</key>
+		<string>Suprimir el protestantismo</string>
+		<key>incorrectAnswer3</key>
+		<string>Perseguir a brujas y herejes</string>
+		<key>numberOfBadAnswers</key>
+		<integer>0</integer>
+		<key>numberOfBadAnswersQuiz</key>
+		<integer>0</integer>
+		<key>numberOfGoodAnswers</key>
+		<integer>0</integer>
+		<key>numberOfGoodAnswersQuiz</key>
+		<integer>0</integer>
+		<key>order</key>
+		<integer>11</integer>
+		<key>question</key>
+		<string>¿Cuál era el objetivo último de la Inquisición española?</string>
+		<key>questionTrueOrFalse</key>
+		<string>La Inquisición española fue fundada en el siglo XII. </string>
+		<key>theme</key>
+		<string>España 1478-1618</string>
+		<key>timeLine</key>
+		<string>Comienza la Inquisición española.</string>
+		<key>trueOrFalseAnswer</key>
+		<string>Falso</string>
+		<key>wikiSearchWord</key>
+		<string>Inquisición española</string>
+	</dict>
+	<dict>
+		<key>correctTAnswer</key>
+		<string>La conquista de Granada</string>
+		<key>date</key>
+		<string>1492</string>
+		<key>id</key>
+		<string>08f4b4a2-8311-11ed-a1eb-0242ac120002</string>
+		<key>incorrectAnswer1</key>
+		<string>La firma del Tratado de Tordesillas</string>
+		<key>incorrectAnswer2</key>
+		<string>La batalla del paso de Roncesvalles</string>
+		<key>incorrectAnswer3</key>
+		<string>La coronación de los reyes Fernando e Isabel</string>
+		<key>numberOfBadAnswers</key>
+		<integer>0</integer>
+		<key>numberOfBadAnswersQuiz</key>
+		<integer>0</integer>
+		<key>numberOfGoodAnswers</key>
+		<integer>0</integer>
+		<key>numberOfGoodAnswersQuiz</key>
+		<integer>0</integer>
+		<key>order</key>
+		<integer>12</integer>
+		<key>question</key>
+		<string>¿Qué acontecimiento marcó el final de la Reconquista en España?</string>
+		<key>questionTrueOrFalse</key>
+		<string>La guerra de Granada duró 10 años y solía tener un ritmo estacional, con campañas iniciadas en primavera y detenidas en invierno.</string>
+		<key>theme</key>
+		<string>España 1478-1618</string>
+		<key>timeLine</key>
+		<string> Finaliza la Reconquista con la conquista de Granada.</string>
+		<key>trueOrFalseAnswer</key>
+		<string>Verdadero</string>
+		<key>wikiSearchWord</key>
+		<string>Guerra de Granada</string>
+	</dict>
+	<dict>
+		<key>correctTAnswer</key>
+		<string>Reina Isabel</string>
+		<key>date</key>
+		<string>1492</string>
+		<key>id</key>
+		<string>08f4b5f6-8311-11ed-a1eb-0242ac120002</string>
+		<key>incorrectAnswer1</key>
+		<string>El rey Fernando</string>
+		<key>incorrectAnswer2</key>
+		<string>Reina Isabel</string>
+		<key>incorrectAnswer3</key>
+		<string>El rey Enrique VIII</string>
+		<key>numberOfBadAnswers</key>
+		<integer>0</integer>
+		<key>numberOfBadAnswersQuiz</key>
+		<integer>0</integer>
+		<key>numberOfGoodAnswers</key>
+		<integer>0</integer>
+		<key>numberOfGoodAnswersQuiz</key>
+		<integer>0</integer>
+		<key>order</key>
+		<integer>13</integer>
+		<key>question</key>
+		<string>¿Quién patrocinó la expedición del explorador Cristóbal Colón?</string>
+		<key>questionTrueOrFalse</key>
+		<string>Cristóbal Colón fue acusado de brutalidad y destituido como gobernador colonial debido a su trato con los taínos en La Española.</string>
+		<key>theme</key>
+		<string>España 1478-1618</string>
+		<key>timeLine</key>
+		<string>La reina Isabel patrocina la expedición del explorador Cristóbal Colón.</string>
+		<key>trueOrFalseAnswer</key>
+		<string>Verdadero</string>
+		<key>wikiSearchWord</key>
+		<string>Cristóbal Colón</string>
+	</dict>
+	<dict>
+		<key>correctTAnswer</key>
+		<string>Para expulsar a los judíos de España</string>
+		<key>date</key>
+		<string>1492</string>
+		<key>id</key>
+		<string>08f4b74a-8311-11ed-a1eb-0242ac120002</string>
+		<key>incorrectAnswer1</key>
+		<string>Para establecer el español como lengua oficial de España</string>
+		<key>incorrectAnswer2</key>
+		<string>Para establecer un nuevo sistema fiscal en España</string>
+		<key>incorrectAnswer3</key>
+		<string>Declarar la guerra a un país vecino</string>
+		<key>numberOfBadAnswers</key>
+		<integer>0</integer>
+		<key>numberOfBadAnswersQuiz</key>
+		<integer>0</integer>
+		<key>numberOfGoodAnswers</key>
+		<integer>0</integer>
+		<key>numberOfGoodAnswersQuiz</key>
+		<integer>0</integer>
+		<key>order</key>
+		<integer>14</integer>
+		<key>question</key>
+		<string>¿Cuál fue el principal objetivo del Decreto de la Alhambra?</string>
+		<key>questionTrueOrFalse</key>
+		<string>La Constitución española de 1869 derogó el Decreto de la Alhambra. </string>
+		<key>theme</key>
+		<string>España 1478-1618</string>
+		<key>timeLine</key>
+		<string>Se promulga el Decreto de la Alhambra, que ordena la expulsión de los judíos de España.</string>
+		<key>trueOrFalseAnswer</key>
+		<string>Falso</string>
+		<key>wikiSearchWord</key>
+		<string>Edicto de Granada</string>
+	</dict>
+	<dict>
+		<key>correctTAnswer</key>
+		<string>Estableció a España como una gran potencia europea</string>
+		<key>date</key>
+		<string>1516</string>
+		<key>id</key>
+		<string>08f4bbb4-8311-11ed-a1eb-0242ac120002</string>
+		<key>incorrectAnswer1</key>
+		<string>Marcó el comienzo del declive del Sacro Imperio Romano Germánico</string>
+		<key>incorrectAnswer2</key>
+		<string>Condujo a la propagación de la fe católica por toda Europa</string>
+		<key>incorrectAnswer3</key>
+		<string>Provocó el fin de la Reforma protestante</string>
+		<key>numberOfBadAnswers</key>
+		<integer>0</integer>
+		<key>numberOfBadAnswersQuiz</key>
+		<integer>0</integer>
+		<key>numberOfGoodAnswers</key>
+		<integer>0</integer>
+		<key>numberOfGoodAnswersQuiz</key>
+		<integer>0</integer>
+		<key>order</key>
+		<integer>15</integer>
+		<key>question</key>
+		<string>¿Qué importancia tuvo la coronación de Carlos I como Emperador del Sacro Imperio Romano Germánico?</string>
+		<key>questionTrueOrFalse</key>
+		<string>Carlos I de España y V del Sacro Imperio Romano Germánico fue conocido como &quot;el César&quot;. </string>
+		<key>theme</key>
+		<string>España 1478-1618</string>
+		<key>timeLine</key>
+		<string>Carlos I es coronado emperador del Sacro Imperio Romano Germánico.</string>
+		<key>trueOrFalseAnswer</key>
+		<string>Verdadero</string>
+		<key>wikiSearchWord</key>
+		<string>Carlos I de España</string>
+	</dict>
+	<dict>
+		<key>correctTAnswer</key>
+		<string>La muerte del último rey Habsburgo, Carlos II</string>
+		<key>date</key>
+		<string>1516 -1700</string>
+		<key>id</key>
+		<string>08f4bcfe-8311-11ed-a1eb-0242ac120002</string>
+		<key>incorrectAnswer1</key>
+		<string>La muerte del rey Felipe II</string>
+		<key>incorrectAnswer2</key>
+		<string>La derrota de la Armada española</string>
+		<key>incorrectAnswer3</key>
+		<string>La firma del Tratado de Westfalia</string>
+		<key>numberOfBadAnswers</key>
+		<integer>0</integer>
+		<key>numberOfBadAnswersQuiz</key>
+		<integer>0</integer>
+		<key>numberOfGoodAnswers</key>
+		<integer>0</integer>
+		<key>numberOfGoodAnswersQuiz</key>
+		<integer>0</integer>
+		<key>order</key>
+		<integer>16</integer>
+		<key>question</key>
+		<string>¿Qué acontecimiento suele considerarse el final del Siglo de Oro español?</string>
+		<key>questionTrueOrFalse</key>
+		<string>El Siglo de Oro español fue un período de declive cultural y artístico en España.</string>
+		<key>theme</key>
+		<string>España 1478-1618</string>
+		<key>timeLine</key>
+		<string>Siglo de Oro español</string>
+		<key>trueOrFalseAnswer</key>
+		<string>Falso</string>
+		<key>wikiSearchWord</key>
+		<string>Siglo de Oro</string>
+	</dict>
+	<dict>
+		<key>correctTAnswer</key>
+		<string>Hernán Cortés</string>
+		<key>date</key>
+		<string>1520</string>
+		<key>id</key>
+		<string>08f4be0c-8311-11ed-a1eb-0242ac120002</string>
+		<key>incorrectAnswer1</key>
+		<string>Francisco Pizarro</string>
+		<key>incorrectAnswer2</key>
+		<string>Juan Ponce de León</string>
+		<key>incorrectAnswer3</key>
+		<string>Cristóbal Colón</string>
+		<key>numberOfBadAnswers</key>
+		<integer>0</integer>
+		<key>numberOfBadAnswersQuiz</key>
+		<integer>0</integer>
+		<key>numberOfGoodAnswers</key>
+		<integer>0</integer>
+		<key>numberOfGoodAnswersQuiz</key>
+		<integer>0</integer>
+		<key>order</key>
+		<integer>17</integer>
+		<key>question</key>
+		<string>¿Quién conquistó para España el Imperio Azteca en México?</string>
+		<key>questionTrueOrFalse</key>
+		<string>Cortés lideró la conquista del imperio azteca y creó la Nueva España</string>
+		<key>theme</key>
+		<string>España 1478-1618</string>
+		<key>timeLine</key>
+		<string>Hernán Cortés conquista el Imperio Azteca en México.</string>
+		<key>trueOrFalseAnswer</key>
+		<string>Verdadero</string>
+		<key>wikiSearchWord</key>
+		<string>Hernán Cortés</string>
+	</dict>
+	<dict>
+		<key>correctTAnswer</key>
+		<string>Para castigar a Inglaterra por apoyar la rebelión holandesa</string>
+		<key>date</key>
+		<string>1588</string>
+		<key>id</key>
+		<string>08f4bf2e-8311-11ed-a1eb-0242ac120002</string>
+		<key>incorrectAnswer1</key>
+		<string>Convertir a los ingleses al catolicismo</string>
+		<key>incorrectAnswer2</key>
+		<string>Para hacerse con el control del trono inglés</string>
+		<key>incorrectAnswer3</key>
+		<string>Para establecer una colonia española en Inglaterra</string>
+		<key>numberOfBadAnswers</key>
+		<integer>0</integer>
+		<key>numberOfBadAnswersQuiz</key>
+		<integer>0</integer>
+		<key>numberOfGoodAnswers</key>
+		<integer>0</integer>
+		<key>numberOfGoodAnswersQuiz</key>
+		<integer>0</integer>
+		<key>order</key>
+		<integer>18</integer>
+		<key>question</key>
+		<string>¿Por qué se lanzó la Armada española a invadir Inglaterra en 1588?</string>
+		<key>questionTrueOrFalse</key>
+		<string>La Gran Armada tuvo éxito en su objetivo de derrotar a las fuerzas inglesas y favorecer el ataque desde Flandes.</string>
+		<key>theme</key>
+		<string>España 1478-1618</string>
+		<key>timeLine</key>
+		<string>La Armada española es derrotada por la armada inglesa</string>
+		<key>trueOrFalseAnswer</key>
+		<string>Falso</string>
+		<key>wikiSearchWord</key>
+		<string>Armada Invencible</string>
+	</dict>
+	<dict>
+		<key>correctTAnswer</key>
+		<string>Su caballerosidad y valentía</string>
+		<key>date</key>
+		<string>1605</string>
+		<key>id</key>
+		<string>08f4c032-8311-11ed-a1eb-0242ac120002</string>
+		<key>incorrectAnswer1</key>
+		<string>Su riqueza y poder</string>
+		<key>incorrectAnswer2</key>
+		<string>Su inteligencia e ingenio</string>
+		<key>incorrectAnswer3</key>
+		<string>Su encanto y carisma</string>
+		<key>numberOfBadAnswers</key>
+		<integer>0</integer>
+		<key>numberOfBadAnswersQuiz</key>
+		<integer>0</integer>
+		<key>numberOfGoodAnswers</key>
+		<integer>0</integer>
+		<key>numberOfGoodAnswersQuiz</key>
+		<integer>0</integer>
+		<key>order</key>
+		<integer>19</integer>
+		<key>question</key>
+		<string>¿Por qué es conocido el protagonista de &quot;El Quijote&quot;?</string>
+		<key>questionTrueOrFalse</key>
+		<string>Don Quijote de la Mancha es una novela polifónica y representa la primera novela moderna. </string>
+		<key>theme</key>
+		<string>España 1478-1618</string>
+		<key>timeLine</key>
+		<string> Miguel de Cervantes publica la novela épica Don Quijote.</string>
+		<key>trueOrFalseAnswer</key>
+		<string>Verdadero</string>
+		<key>wikiSearchWord</key>
+		<string>Don Quijote de la Mancha</string>
+	</dict>
+	<dict>
+		<key>correctTAnswer</key>
+		<string>Conflicto religioso entre católicos y protestantes</string>
+		<key>date</key>
+		<string>1618</string>
+		<key>id</key>
+		<string>08f4c154-8311-11ed-a1eb-0242ac120002</string>
+		<key>incorrectAnswer1</key>
+		<string>Disputas territoriales entre Francia y España</string>
+		<key>incorrectAnswer2</key>
+		<string>Una lucha por el poder entre los imperios Habsburgo y Otomano</string>
+		<key>incorrectAnswer3</key>
+		<string>Una revuelta contra el gobierno de la monarquía inglesa</string>
+		<key>numberOfBadAnswers</key>
+		<integer>0</integer>
+		<key>numberOfBadAnswersQuiz</key>
+		<integer>0</integer>
+		<key>numberOfGoodAnswers</key>
+		<integer>0</integer>
+		<key>numberOfGoodAnswersQuiz</key>
+		<integer>0</integer>
+		<key>order</key>
+		<integer>20</integer>
+		<key>question</key>
+		<string>¿Cuál fue la causa principal de la Guerra de los Treinta Años?</string>
+		<key>questionTrueOrFalse</key>
+		<string>Los motivos por los que las distintas potencias europeas intervinieron en la guerra de los Treinta Años siempre tenían que ver con la religión. </string>
+		<key>theme</key>
+		<string>España 1478-1618</string>
+		<key>timeLine</key>
+		<string>Comienza la Guerra de los Treinta Años.</string>
+		<key>trueOrFalseAnswer</key>
+		<string>Falso</string>
+		<key>wikiSearchWord</key>
+		<string>Guerra de los Treinta Años</string>
+	</dict>
+</array>
+</plist>

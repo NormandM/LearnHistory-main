@@ -1,0 +1,366 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<!DOCTYPE plist PUBLIC "-//Apple//DTD PLIST 1.0//EN" "http://www.apple.com/DTDs/PropertyList-1.0.dtd">
+<plist version="1.0">
+<array>
+	<dict>
+		<key>correctTAnswer</key>
+		<string>Jerusalén</string>
+		<key>date</key>
+		<string>1204</string>
+		<key>id</key>
+		<string>e1cfeb5e-eb97-11ed-a05b-0242ac120003</string>
+		<key>incorrectAnswer1</key>
+		<string>El Cairo</string>
+		<key>incorrectAnswer2</key>
+		<string>Antioquía</string>
+		<key>incorrectAnswer3</key>
+		<string>Alejandría</string>
+		<key>numberOfBadAnswers</key>
+		<integer>0</integer>
+		<key>numberOfBadAnswersQuiz</key>
+		<integer>0</integer>
+		<key>numberOfGoodAnswers</key>
+		<integer>0</integer>
+		<key>numberOfGoodAnswersQuiz</key>
+		<integer>0</integer>
+		<key>order</key>
+		<integer>21</integer>
+		<key>question</key>
+		<string>¿Qué ciudad fue el objetivo principal de la Cuarta Cruzada antes de que fuera desviada hacia Constantinopla?</string>
+		<key>questionTrueOrFalse</key>
+		<string>La cuarta cruzada fue una expedición militar para reconquistar Tierra Santa</string>
+		<key>theme</key>
+		<string>El Imperio bizantino 1204-1461</string>
+		<key>timeLine</key>
+		<string>Cuarta Cruzada y saqueo de Constantinopla</string>
+		<key>trueOrFalseAnswer</key>
+		<string>Verdadero</string>
+		<key>wikiSearchWord</key>
+		<string>Cuarta Cruzada</string>
+	</dict>
+	<dict>
+		<key>correctTAnswer</key>
+		<string>Miguel VIII Paleólogo</string>
+		<key>date</key>
+		<string>1261</string>
+		<key>id</key>
+		<string>e1cfec6c-eb97-11ed-a05b-0242ac120003</string>
+		<key>incorrectAnswer1</key>
+		<string>Andrónico II Paleólogo</string>
+		<key>incorrectAnswer2</key>
+		<string>Juan III Ducas Vatatzes</string>
+		<key>incorrectAnswer3</key>
+		<string>Teodoro II Láscaris</string>
+		<key>numberOfBadAnswers</key>
+		<integer>0</integer>
+		<key>numberOfBadAnswersQuiz</key>
+		<integer>0</integer>
+		<key>numberOfGoodAnswers</key>
+		<integer>0</integer>
+		<key>numberOfGoodAnswersQuiz</key>
+		<integer>0</integer>
+		<key>order</key>
+		<integer>22</integer>
+		<key>question</key>
+		<string>¿Quién fue el emperador bizantino responsable de recuperar Constantinopla del Imperio latino?</string>
+		<key>questionTrueOrFalse</key>
+		<string>Es cierto que la Reconquista de Constantinopla permitió la restauración del Imperio bizantino y terminó con el efímero Imperio latino</string>
+		<key>theme</key>
+		<string>El Imperio bizantino 1204-1461</string>
+		<key>timeLine</key>
+		<string>Recuperación de Constantinopla</string>
+		<key>trueOrFalseAnswer</key>
+		<string>Verdadero</string>
+		<key>wikiSearchWord</key>
+		<string>Recuperación de Constantinopla</string>
+	</dict>
+	<dict>
+		<key>correctTAnswer</key>
+		<string>Osman I</string>
+		<key>date</key>
+		<string>1302</string>
+		<key>id</key>
+		<string>e1cfed8e-eb97-11ed-a05b-0242ac120003</string>
+		<key>incorrectAnswer1</key>
+		<string>Bayezid I</string>
+		<key>incorrectAnswer2</key>
+		<string>Orhan</string>
+		<key>incorrectAnswer3</key>
+		<string>Murad I</string>
+		<key>numberOfBadAnswers</key>
+		<integer>0</integer>
+		<key>numberOfBadAnswersQuiz</key>
+		<integer>0</integer>
+		<key>numberOfGoodAnswers</key>
+		<integer>0</integer>
+		<key>numberOfGoodAnswersQuiz</key>
+		<integer>0</integer>
+		<key>order</key>
+		<integer>23</integer>
+		<key>question</key>
+		<string>¿Qué líder otomano logró una victoria decisiva contra los bizantinos en la batalla de Bapheus?</string>
+		<key>questionTrueOrFalse</key>
+		<string>La Batalla de Bapheus se libró entre el Imperio Otomano y el Imperio Romano de Occidente</string>
+		<key>theme</key>
+		<string>El Imperio bizantino 1204-1461</string>
+		<key>timeLine</key>
+		<string>Batalla de Bapheus</string>
+		<key>trueOrFalseAnswer</key>
+		<string>Falso</string>
+		<key>wikiSearchWord</key>
+		<string>Batalla de Bapheus</string>
+	</dict>
+	<dict>
+		<key>correctTAnswer</key>
+		<string>Juan VI Cantacuceno</string>
+		<key>date</key>
+		<string>1347-1354</string>
+		<key>id</key>
+		<string>e1cfef0a-eb97-11ed-a05b-0242ac120003</string>
+		<key>incorrectAnswer1</key>
+		<string>Juan V Paleólogo</string>
+		<key>incorrectAnswer2</key>
+		<string>Andrónico III Paleólogo</string>
+		<key>incorrectAnswer3</key>
+		<string>Ana de Saboya</string>
+		<key>numberOfBadAnswers</key>
+		<integer>0</integer>
+		<key>numberOfBadAnswersQuiz</key>
+		<integer>0</integer>
+		<key>numberOfGoodAnswers</key>
+		<integer>0</integer>
+		<key>numberOfGoodAnswersQuiz</key>
+		<integer>0</integer>
+		<key>order</key>
+		<integer>24</integer>
+		<key>question</key>
+		<string>¿Quién resultó vencedor en la guerra civil bizantina de 1341-1347?</string>
+		<key>questionTrueOrFalse</key>
+		<string>La guerra civil bizantina de 1341-1347 se debió a una disputa por la tutela del hijo de Andrónico III Paleólogo</string>
+		<key>theme</key>
+		<string>El Imperio bizantino 1204-1461</string>
+		<key>timeLine</key>
+		<string>Guerra civil</string>
+		<key>trueOrFalseAnswer</key>
+		<string>Verdadero</string>
+		<key>wikiSearchWord</key>
+		<string>Guerra civil bizantina de 1341-1347</string>
+	</dict>
+	<dict>
+		<key>correctTAnswer</key>
+		<string>Juan V Paleólogo</string>
+		<key>date</key>
+		<string>1373</string>
+		<key>id</key>
+		<string>e1cff040-eb97-11ed-a05b-0242ac120003</string>
+		<key>incorrectAnswer1</key>
+		<string>Juan VII Paleólogo</string>
+		<key>incorrectAnswer2</key>
+		<string>Andrónico IV Paleólogo</string>
+		<key>incorrectAnswer3</key>
+		<string>Manuel II Paleólogo</string>
+		<key>numberOfBadAnswers</key>
+		<integer>0</integer>
+		<key>numberOfBadAnswersQuiz</key>
+		<integer>0</integer>
+		<key>numberOfGoodAnswers</key>
+		<integer>0</integer>
+		<key>numberOfGoodAnswersQuiz</key>
+		<integer>0</integer>
+		<key>order</key>
+		<integer>25</integer>
+		<key>question</key>
+		<string>¿Qué emperador bizantino se vio obligado a convertir el imperio en un estado vasallo otomano después de una revuelta fallida?</string>
+		<key>questionTrueOrFalse</key>
+		<string>Las guerras turco-bizantinas tuvieron lugar a lo largo de cuatro siglos, desde mediados del siglo XI hasta la Caída de Constantinopla en 1453.</string>
+		<key>theme</key>
+		<string>El Imperio bizantino 1204-1461</string>
+		<key>timeLine</key>
+		<string>Estado vasallo otomano</string>
+		<key>trueOrFalseAnswer</key>
+		<string>Verdadero</string>
+		<key>wikiSearchWord</key>
+		<string>Guerras bizantino-otomanas</string>
+	</dict>
+	<dict>
+		<key>correctTAnswer</key>
+		<string>Filadelfia</string>
+		<key>date</key>
+		<string>1390</string>
+		<key>id</key>
+		<string>e1cff14e-eb97-11ed-a05b-0242ac120003</string>
+		<key>incorrectAnswer1</key>
+		<string>Nicea</string>
+		<key>incorrectAnswer2</key>
+		<string>Nicomedia</string>
+		<key>incorrectAnswer3</key>
+		<string>Adrianópolis</string>
+		<key>numberOfBadAnswers</key>
+		<integer>0</integer>
+		<key>numberOfBadAnswersQuiz</key>
+		<integer>0</integer>
+		<key>numberOfGoodAnswers</key>
+		<integer>0</integer>
+		<key>numberOfGoodAnswersQuiz</key>
+		<integer>0</integer>
+		<key>order</key>
+		<integer>26</integer>
+		<key>question</key>
+		<string>¿Cuál fue la última ciudad bizantina en caer en manos de los otomanos antes de la caída de Constantinopla?</string>
+		<key>questionTrueOrFalse</key>
+		<string>La ciudad de Filadelfia era totalmente dependiente del Imperio Bizantino</string>
+		<key>theme</key>
+		<string>El Imperio bizantino 1204-1461</string>
+		<key>timeLine</key>
+		<string>Asedio de Filadelfia</string>
+		<key>trueOrFalseAnswer</key>
+		<string>Falso</string>
+		<key>wikiSearchWord</key>
+		<string>Caída de Filadelfia</string>
+	</dict>
+	<dict>
+		<key>correctTAnswer</key>
+		<string>Murad II</string>
+		<key>date</key>
+		<string>1422</string>
+		<key>id</key>
+		<string>e1cff46e-eb97-11ed-a05b-0242ac120003</string>
+		<key>incorrectAnswer1</key>
+		<string>Bayezid I</string>
+		<key>incorrectAnswer2</key>
+		<string>Mehmed I</string>
+		<key>incorrectAnswer3</key>
+		<string>Mehmed II</string>
+		<key>numberOfBadAnswers</key>
+		<integer>0</integer>
+		<key>numberOfBadAnswersQuiz</key>
+		<integer>0</integer>
+		<key>numberOfGoodAnswers</key>
+		<integer>0</integer>
+		<key>numberOfGoodAnswersQuiz</key>
+		<integer>0</integer>
+		<key>order</key>
+		<integer>27</integer>
+		<key>question</key>
+		<string>¿Qué sultán otomano lideró el segundo asedio de Constantinopla en 1422?</string>
+		<key>questionTrueOrFalse</key>
+		<string>La victoria bizantina en la batalla de Manzikert impidió la expansión de los selyúcidas a costa de los bizantinos. </string>
+		<key>theme</key>
+		<string>El Imperio bizantino 1204-1461</string>
+		<key>timeLine</key>
+		<string>Segundo asedio otomano de Constantinopla</string>
+		<key>trueOrFalseAnswer</key>
+		<string>Falso</string>
+		<key>wikiSearchWord</key>
+		<string>Guerras turco-bizantinas</string>
+	</dict>
+	<dict>
+		<key>correctTAnswer</key>
+		<string>Lograr la unión eclesiástica entre las Iglesias Ortodoxa Oriental y Católica Romana</string>
+		<key>date</key>
+		<string>1439</string>
+		<key>id</key>
+		<string>e1cff590-eb97-11ed-a05b-0242ac120003</string>
+		<key>incorrectAnswer1</key>
+		<string>Abordar el surgimiento del protestantismo</string>
+		<key>incorrectAnswer2</key>
+		<string>Organizar una nueva cruzada contra el Imperio otomano</string>
+		<key>incorrectAnswer3</key>
+		<string>Reformar la Iglesia Católica Romana</string>
+		<key>numberOfBadAnswers</key>
+		<integer>0</integer>
+		<key>numberOfBadAnswersQuiz</key>
+		<integer>0</integer>
+		<key>numberOfGoodAnswers</key>
+		<integer>0</integer>
+		<key>numberOfGoodAnswersQuiz</key>
+		<integer>0</integer>
+		<key>order</key>
+		<integer>28</integer>
+		<key>question</key>
+		<string>¿Cuál fue el objetivo principal del Concilio de Florencia?</string>
+		<key>questionTrueOrFalse</key>
+		<string>El Concilio de Florencia se llevó a cabo en el siglo XV</string>
+		<key>theme</key>
+		<string>El Imperio bizantino 1204-1461</string>
+		<key>timeLine</key>
+		<string>Concilio de Florencia</string>
+		<key>trueOrFalseAnswer</key>
+		<string>Verdadero</string>
+		<key>wikiSearchWord</key>
+		<string>Concilio de Florencia</string>
+	</dict>
+	<dict>
+		<key>correctTAnswer</key>
+		<string>Constantino XI Paleólogo</string>
+		<key>date</key>
+		<string>1453</string>
+		<key>id</key>
+		<string>e1cff6b2-eb97-11ed-a05b-0242ac120003</string>
+		<key>incorrectAnswer1</key>
+		<string>Juan VIII Paleólogo</string>
+		<key>incorrectAnswer2</key>
+		<string>Tomás Paleólogo</string>
+		<key>incorrectAnswer3</key>
+		<string>Demetrios Paleólogo</string>
+		<key>numberOfBadAnswers</key>
+		<integer>0</integer>
+		<key>numberOfBadAnswersQuiz</key>
+		<integer>0</integer>
+		<key>numberOfGoodAnswers</key>
+		<integer>0</integer>
+		<key>numberOfGoodAnswersQuiz</key>
+		<integer>0</integer>
+		<key>order</key>
+		<integer>29</integer>
+		<key>question</key>
+		<string>¿Quién fue el último emperador bizantino durante la caída de Constantinopla?</string>
+		<key>questionTrueOrFalse</key>
+		<string>La caída de Constantinopla en manos de los turcos otomanos marcó el fin del último vestigio del Imperio romano de Oriente</string>
+		<key>theme</key>
+		<string>El Imperio bizantino 1204-1461</string>
+		<key>timeLine</key>
+		<string>Caída de Constantinopla</string>
+		<key>trueOrFalseAnswer</key>
+		<string>Verdadero</string>
+		<key>wikiSearchWord</key>
+		<string>Caída de Constantinopla</string>
+	</dict>
+	<dict>
+		<key>correctTAnswer</key>
+		<string>David Megas Comneno</string>
+		<key>date</key>
+		<string>1461</string>
+		<key>id</key>
+		<string>e1cff7ca-eb97-11ed-a05b-0242ac120003</string>
+		<key>incorrectAnswer1</key>
+		<string>Alejo IV Megas Comneno</string>
+		<key>incorrectAnswer2</key>
+		<string>Juan IV Megas Comneno</string>
+		<key>incorrectAnswer3</key>
+		<string>Manuel III Megas Comneno</string>
+		<key>numberOfBadAnswers</key>
+		<integer>0</integer>
+		<key>numberOfBadAnswersQuiz</key>
+		<integer>0</integer>
+		<key>numberOfGoodAnswers</key>
+		<integer>0</integer>
+		<key>numberOfGoodAnswersQuiz</key>
+		<integer>0</integer>
+		<key>order</key>
+		<integer>30</integer>
+		<key>question</key>
+		<string>¿Quién fue el gobernante del Imperio de Trebisonda en el momento de su caída ante el Imperio otomano?</string>
+		<key>questionTrueOrFalse</key>
+		<string>El Imperio de Trebisonda fue un Estado cristiano medieval que se mantuvo como Estado independiente hasta 1461</string>
+		<key>theme</key>
+		<string>El Imperio bizantino 1204-1461</string>
+		<key>timeLine</key>
+		<string>Caída del Imperio de Trebisonda</string>
+		<key>trueOrFalseAnswer</key>
+		<string>Verdadero</string>
+		<key>wikiSearchWord</key>
+		<string>Imperio de Trebisonda</string>
+	</dict>
+</array>
+</plist>

@@ -1,0 +1,23 @@
+{
+  "pins" : [
+    {
+      "identity" : "activityindicatorview",
+      "kind" : "remoteSourceControl",
+      "location" : "https://github.com/exyte/ActivityIndicatorView.git",
+      "state" : {
+        "revision" : "9970fd0bb7a05dad0b6566ae1f56937716686b24",
+        "version" : "1.1.1"
+      }
+    },
+    {
+      "identity" : "wikipediakit",
+      "kind" : "remoteSourceControl",
+      "location" : "https://github.com/Raureif/WikipediaKit",
+      "state" : {
+        "branch" : "main",
+        "revision" : "8a68910bae7253bf1aaefe4eb1251ccd2e494976"
+      }
+    }
+  ],
+  "version" : 2
+}

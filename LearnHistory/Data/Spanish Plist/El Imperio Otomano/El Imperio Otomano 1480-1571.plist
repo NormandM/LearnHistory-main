@@ -1,0 +1,366 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<!DOCTYPE plist PUBLIC "-//Apple//DTD PLIST 1.0//EN" "http://www.apple.com/DTDs/PropertyList-1.0.dtd">
+<plist version="1.0">
+<array>
+	<dict>
+		<key>correctTAnswer</key>
+		<string>Caballeros Hospitalarios</string>
+		<key>date</key>
+		<string>1480</string>
+		<key>id</key>
+		<string>c18d4f96-f1a3-11ed-a05b-0242ac120003</string>
+		<key>incorrectAnswer1</key>
+		<string>Caballeros Templarios</string>
+		<key>incorrectAnswer2</key>
+		<string>Caballeros Teutónicos</string>
+		<key>incorrectAnswer3</key>
+		<string>Caballeros de Malta</string>
+		<key>numberOfBadAnswers</key>
+		<integer>0</integer>
+		<key>numberOfBadAnswersQuiz</key>
+		<integer>0</integer>
+		<key>numberOfGoodAnswers</key>
+		<integer>0</integer>
+		<key>numberOfGoodAnswersQuiz</key>
+		<integer>0</integer>
+		<key>order</key>
+		<integer>11</integer>
+		<key>question</key>
+		<string>¿Qué orden de caballeros defendió con éxito la isla de Rodas de un asedio otomano en 1480?</string>
+		<key>questionTrueOrFalse</key>
+		<string>El sitio de Rodas de 1480 fue un evento pacífico sin enfrentamientos militares. </string>
+		<key>theme</key>
+		<string>El Imperio Otomano 1480-1571</string>
+		<key>timeLine</key>
+		<string>Fracasa el asedio a Rodas</string>
+		<key>trueOrFalseAnswer</key>
+		<string>Falso</string>
+		<key>wikiSearchWord</key>
+		<string>Sitio de Rodas (1480)</string>
+	</dict>
+	<dict>
+		<key>correctTAnswer</key>
+		<string>Imperio Safávida</string>
+		<key>date</key>
+		<string>1514</string>
+		<key>id</key>
+		<string>c18d516c-f1a3-11ed-a05b-0242ac120003</string>
+		<key>incorrectAnswer1</key>
+		<string>Imperio Bizantino</string>
+		<key>incorrectAnswer2</key>
+		<string>Imperio Mameluco</string>
+		<key>incorrectAnswer3</key>
+		<string>Imperio Ayyubí</string>
+		<key>numberOfBadAnswers</key>
+		<integer>0</integer>
+		<key>numberOfBadAnswersQuiz</key>
+		<integer>0</integer>
+		<key>numberOfGoodAnswers</key>
+		<integer>0</integer>
+		<key>numberOfGoodAnswersQuiz</key>
+		<integer>0</integer>
+		<key>order</key>
+		<integer>12</integer>
+		<key>question</key>
+		<string>¿A qué imperio derrotaron los otomanos en la Batalla de Chaldiran?</string>
+		<key>questionTrueOrFalse</key>
+		<string>La batalla de Chaldiran marcó el comienzo de una guerra de cuarenta y un años entre los imperios otomano y safávida.</string>
+		<key>theme</key>
+		<string>El Imperio Otomano 1480-1571</string>
+		<key>timeLine</key>
+		<string>Chaldiran: Safávidas vencidos</string>
+		<key>trueOrFalseAnswer</key>
+		<string>Verdadero</string>
+		<key>wikiSearchWord</key>
+		<string>Batalla de Chaldiran</string>
+	</dict>
+	<dict>
+		<key>correctTAnswer</key>
+		<string>Califa</string>
+		<key>date</key>
+		<string>1517</string>
+		<key>id</key>
+		<string>c18d537e-f1a3-11ed-a05b-0242ac120003</string>
+		<key>incorrectAnswer1</key>
+		<string>Rey</string>
+		<key>incorrectAnswer2</key>
+		<string>Emperador</string>
+		<key>incorrectAnswer3</key>
+		<string>Shah</string>
+		<key>numberOfBadAnswers</key>
+		<integer>0</integer>
+		<key>numberOfBadAnswersQuiz</key>
+		<integer>0</integer>
+		<key>numberOfGoodAnswers</key>
+		<integer>0</integer>
+		<key>numberOfGoodAnswersQuiz</key>
+		<integer>0</integer>
+		<key>order</key>
+		<integer>13</integer>
+		<key>question</key>
+		<string>Después de conquistar Egipto mameluco, ¿qué título se agregó a la cartera del sultán otomano?</string>
+		<key>questionTrueOrFalse</key>
+		<string>La sede del poder político del Imperio otomano se trasladó a La Meca después de la guerra.</string>
+		<key>theme</key>
+		<string>El Imperio Otomano 1480-1571</string>
+		<key>timeLine</key>
+		<string>Egipto mameluco conquistado</string>
+		<key>trueOrFalseAnswer</key>
+		<string>Falso</string>
+		<key>wikiSearchWord</key>
+		<string>Guerra otomano-mameluca (1516-1517)</string>
+	</dict>
+	<dict>
+		<key>correctTAnswer</key>
+		<string>Suleimán el Magnífico</string>
+		<key>date</key>
+		<string>1520-1566</string>
+		<key>id</key>
+		<string>c18d550e-f1a3-11ed-a05b-0242ac120003</string>
+		<key>incorrectAnswer1</key>
+		<string>Selim I</string>
+		<key>incorrectAnswer2</key>
+		<string>Mehmed II</string>
+		<key>incorrectAnswer3</key>
+		<string>Bayezid II</string>
+		<key>numberOfBadAnswers</key>
+		<integer>0</integer>
+		<key>numberOfBadAnswersQuiz</key>
+		<integer>0</integer>
+		<key>numberOfGoodAnswers</key>
+		<integer>0</integer>
+		<key>numberOfGoodAnswersQuiz</key>
+		<integer>0</integer>
+		<key>order</key>
+		<integer>14</integer>
+		<key>question</key>
+		<string>¿Quién fue el sultán durante el apogeo del Imperio Otomano en términos de expansión territorial y logros culturales?</string>
+		<key>questionTrueOrFalse</key>
+		<string>Solimán I emprendió una campaña militar contra las potencias cristianas en Europa Central y el Mediterráneo. </string>
+		<key>theme</key>
+		<string>El Imperio Otomano 1480-1571</string>
+		<key>timeLine</key>
+		<string>Reinado de Suleimán: El imperio alcanza su apogeo</string>
+		<key>trueOrFalseAnswer</key>
+		<string>Verdadero</string>
+		<key>wikiSearchWord</key>
+		<string>Solimán el Magnífico</string>
+	</dict>
+	<dict>
+		<key>correctTAnswer</key>
+		<string>Belgrado</string>
+		<key>date</key>
+		<string>1521</string>
+		<key>id</key>
+		<string>c18d5676-f1a3-11ed-a05b-0242ac120003</string>
+		<key>incorrectAnswer1</key>
+		<string>Viena</string>
+		<key>incorrectAnswer2</key>
+		<string>Sofía</string>
+		<key>incorrectAnswer3</key>
+		<string>Budapest</string>
+		<key>numberOfBadAnswers</key>
+		<integer>0</integer>
+		<key>numberOfBadAnswersQuiz</key>
+		<integer>0</integer>
+		<key>numberOfGoodAnswers</key>
+		<integer>0</integer>
+		<key>numberOfGoodAnswersQuiz</key>
+		<integer>0</integer>
+		<key>order</key>
+		<integer>15</integer>
+		<key>question</key>
+		<string>¿Qué ciudad conquistaron los otomanos en 1521, consolidando su control en los Balcanes?</string>
+		<key>questionTrueOrFalse</key>
+		<string>La historia de la ciudad de Belgrado se remonta al V milenio a.C. </string>
+		<key>theme</key>
+		<string>El Imperio Otomano 1480-1571</string>
+		<key>timeLine</key>
+		<string>Belgrado capturado</string>
+		<key>trueOrFalseAnswer</key>
+		<string>Verdadero</string>
+		<key>wikiSearchWord</key>
+		<string>Historia de Belgrado</string>
+	</dict>
+	<dict>
+		<key>correctTAnswer</key>
+		<string>Caballeros Hospitalarios</string>
+		<key>date</key>
+		<string>1522</string>
+		<key>id</key>
+		<string>c18d57ac-f1a3-11ed-a05b-0242ac120003</string>
+		<key>incorrectAnswer1</key>
+		<string>Caballeros Templarios</string>
+		<key>incorrectAnswer2</key>
+		<string>Caballeros Teutónicos</string>
+		<key>incorrectAnswer3</key>
+		<string>Caballeros de Malta</string>
+		<key>numberOfBadAnswers</key>
+		<integer>0</integer>
+		<key>numberOfBadAnswersQuiz</key>
+		<integer>0</integer>
+		<key>numberOfGoodAnswers</key>
+		<integer>0</integer>
+		<key>numberOfGoodAnswersQuiz</key>
+		<integer>0</integer>
+		<key>order</key>
+		<integer>16</integer>
+		<key>question</key>
+		<string>¿Qué orden de caballeros perdió la isla de Rodas a los otomanos en 1522?</string>
+		<key>questionTrueOrFalse</key>
+		<string>El sitio de Rodas en 1522 fue el primer intento del Imperio otomano para expulsar a los Caballeros de Rodas de la isla. </string>
+		<key>theme</key>
+		<string>El Imperio Otomano 1480-1571</string>
+		<key>timeLine</key>
+		<string>Rodas cae ante los otomanos</string>
+		<key>trueOrFalseAnswer</key>
+		<string>Falso</string>
+		<key>wikiSearchWord</key>
+		<string>Sitio de Rodas (1522)</string>
+	</dict>
+	<dict>
+		<key>correctTAnswer</key>
+		<string>Viena</string>
+		<key>date</key>
+		<string>1529</string>
+		<key>id</key>
+		<string>c18d5928-f1a3-11ed-a05b-0242ac120003</string>
+		<key>incorrectAnswer1</key>
+		<string>Belgrado</string>
+		<key>incorrectAnswer2</key>
+		<string>Budapest</string>
+		<key>incorrectAnswer3</key>
+		<string>Praga</string>
+		<key>numberOfBadAnswers</key>
+		<integer>0</integer>
+		<key>numberOfBadAnswersQuiz</key>
+		<integer>0</integer>
+		<key>numberOfGoodAnswers</key>
+		<integer>0</integer>
+		<key>numberOfGoodAnswersQuiz</key>
+		<integer>0</integer>
+		<key>order</key>
+		<integer>17</integer>
+		<key>question</key>
+		<string>¿Qué ciudad asediaron sin éxito los otomanos por primera vez en 1529?</string>
+		<key>questionTrueOrFalse</key>
+		<string>El Primer Sitio de Viena marcó el apogeo de la invasión otomana de Europa central. </string>
+		<key>theme</key>
+		<string>El Imperio Otomano 1480-1571</string>
+		<key>timeLine</key>
+		<string>Fracasa el asedio a Viena</string>
+		<key>trueOrFalseAnswer</key>
+		<string>Verdadero</string>
+		<key>wikiSearchWord</key>
+		<string>Sitio de Viena</string>
+	</dict>
+	<dict>
+		<key>correctTAnswer</key>
+		<string>Batalla de Preveza</string>
+		<key>date</key>
+		<string>1538</string>
+		<key>id</key>
+		<string>c18d5aa4-f1a3-11ed-a05b-0242ac120003</string>
+		<key>incorrectAnswer1</key>
+		<string>Batalla de Lepanto</string>
+		<key>incorrectAnswer2</key>
+		<string>Batalla de Navarino</string>
+		<key>incorrectAnswer3</key>
+		<string>Batalla de Djerba</string>
+		<key>numberOfBadAnswers</key>
+		<integer>0</integer>
+		<key>numberOfBadAnswersQuiz</key>
+		<integer>0</integer>
+		<key>numberOfGoodAnswers</key>
+		<integer>0</integer>
+		<key>numberOfGoodAnswersQuiz</key>
+		<integer>0</integer>
+		<key>order</key>
+		<integer>18</integer>
+		<key>question</key>
+		<string>¿En qué batalla lograron los otomanos una victoria naval decisiva contra una alianza cristiana?</string>
+		<key>questionTrueOrFalse</key>
+		<string>La batalla de Préveza fue una victoria decisiva para la flota cristiana.</string>
+		<key>theme</key>
+		<string>El Imperio Otomano 1480-1571</string>
+		<key>timeLine</key>
+		<string>Preveza: Victoria naval</string>
+		<key>trueOrFalseAnswer</key>
+		<string>Falso</string>
+		<key>wikiSearchWord</key>
+		<string>Batalla de Préveza</string>
+	</dict>
+	<dict>
+		<key>correctTAnswer</key>
+		<string>Malta</string>
+		<key>date</key>
+		<string>1565</string>
+		<key>id</key>
+		<string>c18d5c98-f1a3-11ed-a05b-0242ac120003</string>
+		<key>incorrectAnswer1</key>
+		<string>Chipre</string>
+		<key>incorrectAnswer2</key>
+		<string>Creta</string>
+		<key>incorrectAnswer3</key>
+		<string>Sicilia</string>
+		<key>numberOfBadAnswers</key>
+		<integer>0</integer>
+		<key>numberOfBadAnswersQuiz</key>
+		<integer>0</integer>
+		<key>numberOfGoodAnswers</key>
+		<integer>0</integer>
+		<key>numberOfGoodAnswersQuiz</key>
+		<integer>0</integer>
+		<key>order</key>
+		<integer>19</integer>
+		<key>question</key>
+		<string>¿Qué isla no lograron capturar los otomanos de los Caballeros Hospitalarios en 1565?</string>
+		<key>questionTrueOrFalse</key>
+		<string>El sitio de Malta es considerado uno de los asedios más importantes de la historia militar. </string>
+		<key>theme</key>
+		<string>El Imperio Otomano 1480-1571</string>
+		<key>timeLine</key>
+		<string>Fracasa el asedio a Malta</string>
+		<key>trueOrFalseAnswer</key>
+		<string>Verdadero</string>
+		<key>wikiSearchWord</key>
+		<string>Sitio de Malta (1565)</string>
+	</dict>
+	<dict>
+		<key>correctTAnswer</key>
+		<string>Batalla de Lepanto</string>
+		<key>date</key>
+		<string>1571</string>
+		<key>id</key>
+		<string>c18d5e0a-f1a3-11ed-a05b-0242ac120003</string>
+		<key>incorrectAnswer1</key>
+		<string>Batalla de Preveza</string>
+		<key>incorrectAnswer2</key>
+		<string>Batalla de Navarino</string>
+		<key>incorrectAnswer3</key>
+		<string>Batalla de Djerba</string>
+		<key>numberOfBadAnswers</key>
+		<integer>0</integer>
+		<key>numberOfBadAnswersQuiz</key>
+		<integer>0</integer>
+		<key>numberOfGoodAnswers</key>
+		<integer>0</integer>
+		<key>numberOfGoodAnswersQuiz</key>
+		<integer>0</integer>
+		<key>order</key>
+		<integer>20</integer>
+		<key>question</key>
+		<string>¿En qué batalla sufrió el Imperio Otomano una gran derrota naval contra una coalición cristiana?</string>
+		<key>questionTrueOrFalse</key>
+		<string>La batalla de Lepanto fue la última gran batalla naval de la historia occidental que se libró con naves de remo.</string>
+		<key>theme</key>
+		<string>El Imperio Otomano 1480-1571</string>
+		<key>timeLine</key>
+		<string>Lepanto: Derrota naval</string>
+		<key>trueOrFalseAnswer</key>
+		<string>Verdadero</string>
+		<key>wikiSearchWord</key>
+		<string>Batalla de Lepanto</string>
+	</dict>
+</array>
+</plist>

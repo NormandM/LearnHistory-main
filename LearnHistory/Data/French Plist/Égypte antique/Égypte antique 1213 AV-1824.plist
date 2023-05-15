@@ -1,0 +1,366 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<!DOCTYPE plist PUBLIC "-//Apple//DTD PLIST 1.0//EN" "http://www.apple.com/DTDs/PropertyList-1.0.dtd">
+<plist version="1.0">
+<array>
+	<dict>
+		<key>correctTAnswer</key>
+		<string>Ramsès II</string>
+		<key>date</key>
+		<string>1303–1213 Av</string>
+		<key>id</key>
+		<string>932abed4-b9c0-11ec-8422-0242ac120002</string>
+		<key>incorrectAnswer1</key>
+		<string>Djoser</string>
+		<key>incorrectAnswer2</key>
+		<string>Akhénaton</string>
+		<key>incorrectAnswer3</key>
+		<string>Toutankhamon</string>
+		<key>numberOfBadAnswers</key>
+		<integer>0</integer>
+		<key>numberOfBadAnswersQuiz</key>
+		<integer>0</integer>
+		<key>numberOfGoodAnswers</key>
+		<integer>0</integer>
+		<key>numberOfGoodAnswersQuiz</key>
+		<integer>0</integer>
+		<key>order</key>
+		<integer>22</integer>
+		<key>question</key>
+		<string>Qui était considéré comme le plus grand et le plus puissant pharaon du Nouvel Empire ?</string>
+		<key>questionTrueOrFalse</key>
+		<string>Ramsès II n&apos;a jamais fait de campagne militaire.</string>
+		<key>theme</key>
+		<string>Égypte antique 1213 AV-1824</string>
+		<key>timeLine</key>
+		<string>Ramsès II</string>
+		<key>trueOrFalseAnswer</key>
+		<string>Faux</string>
+		<key>wikiSearchWord</key>
+		<string>Ramsès II</string>
+	</dict>
+	<dict>
+		<key>correctTAnswer</key>
+		<string>L&apos;Obélisque</string>
+		<key>date</key>
+		<string>1250 Av</string>
+		<key>id</key>
+		<string>932ac000-b9c0-11ec-8422-0242ac120002</string>
+		<key>incorrectAnswer1</key>
+		<string>La Pyramide</string>
+		<key>incorrectAnswer2</key>
+		<string>Le temple</string>
+		<key>incorrectAnswer3</key>
+		<string>La colonne </string>
+		<key>numberOfBadAnswers</key>
+		<integer>0</integer>
+		<key>numberOfBadAnswersQuiz</key>
+		<integer>0</integer>
+		<key>numberOfGoodAnswers</key>
+		<integer>0</integer>
+		<key>numberOfGoodAnswersQuiz</key>
+		<integer>0</integer>
+		<key>order</key>
+		<integer>23</integer>
+		<key>question</key>
+		<string>Quelles structures étaient censées attirer les rayons du soleil, permettant ainsi des résurrections ?</string>
+		<key>questionTrueOrFalse</key>
+		<string>L&apos;obélisque de Louxor est au centre de la place de la Concorde à Paris.</string>
+		<key>theme</key>
+		<string>Égypte antique 1213 AV-1824</string>
+		<key>timeLine</key>
+		<string>Obélisques de Louxor</string>
+		<key>trueOrFalseAnswer</key>
+		<string>Vrai</string>
+		<key>wikiSearchWord</key>
+		<string>Obélisque de Louxor</string>
+	</dict>
+	<dict>
+		<key>correctTAnswer</key>
+		<string>Ptolémée I</string>
+		<key>date</key>
+		<string>305 Av</string>
+		<key>id</key>
+		<string>932ac384-b9c0-11ec-8422-0242ac120002</string>
+		<key>incorrectAnswer1</key>
+		<string>Cassandre</string>
+		<key>incorrectAnswer2</key>
+		<string>Séleucus I Nicator</string>
+		<key>incorrectAnswer3</key>
+		<string>Lysimaque </string>
+		<key>numberOfBadAnswers</key>
+		<integer>0</integer>
+		<key>numberOfBadAnswersQuiz</key>
+		<integer>0</integer>
+		<key>numberOfGoodAnswers</key>
+		<integer>0</integer>
+		<key>numberOfGoodAnswersQuiz</key>
+		<integer>0</integer>
+		<key>order</key>
+		<integer>24</integer>
+		<key>question</key>
+		<string>Quel ancien général d’Alexandre s’est proclamé pharaon d’Égypte?</string>
+		<key>questionTrueOrFalse</key>
+		<string>La famille de Ptolémée a régné sur l&apos;Égypte jusqu&apos;à la conquête romaine de 30 avant Jésus-Christ.</string>
+		<key>theme</key>
+		<string>Égypte antique 1213 AV-1824</string>
+		<key>timeLine</key>
+		<string>Fondation de la dynastie ptolémaïque.</string>
+		<key>trueOrFalseAnswer</key>
+		<string>Vrai</string>
+		<key>wikiSearchWord</key>
+		<string>Dynastie lagide</string>
+	</dict>
+	<dict>
+		<key>correctTAnswer</key>
+		<string>Ptolémée Ier Sôter</string>
+		<key>date</key>
+		<string>304 – 282 Av</string>
+		<key>id</key>
+		<string>932ac4b0-b9c0-11ec-8422-0242ac120002</string>
+		<key>incorrectAnswer1</key>
+		<string>Alexandre le Grand</string>
+		<key>incorrectAnswer2</key>
+		<string>Cléopâtre</string>
+		<key>incorrectAnswer3</key>
+		<string>Toutankhamon</string>
+		<key>numberOfBadAnswers</key>
+		<integer>0</integer>
+		<key>numberOfBadAnswersQuiz</key>
+		<integer>0</integer>
+		<key>numberOfGoodAnswers</key>
+		<integer>0</integer>
+		<key>numberOfGoodAnswersQuiz</key>
+		<integer>0</integer>
+		<key>order</key>
+		<integer>25</integer>
+		<key>question</key>
+		<string>Quel souverain de l&apos;Egypte ancienne a créé la bibliothèque royale ?</string>
+		<key>questionTrueOrFalse</key>
+		<string>Ptolémée Ier  est né à Thèbes.</string>
+		<key>theme</key>
+		<string>Égypte antique 1213 AV-1824</string>
+		<key>timeLine</key>
+		<string>Règne de Ptolémée Ier Sôter</string>
+		<key>trueOrFalseAnswer</key>
+		<string>Faux</string>
+		<key>wikiSearchWord</key>
+		<string>Ptolémée Ier</string>
+	</dict>
+	<dict>
+		<key>correctTAnswer</key>
+		<string>Le phare d&apos;Alexandrie</string>
+		<key>date</key>
+		<string>284-246 Av</string>
+		<key>id</key>
+		<string>932ac5be-b9c0-11ec-8422-0242ac120002</string>
+		<key>incorrectAnswer1</key>
+		<string>La Vallée des Rois</string>
+		<key>incorrectAnswer2</key>
+		<string>La vallée des reines</string>
+		<key>incorrectAnswer3</key>
+		<string>Temple de Louxor</string>
+		<key>numberOfBadAnswers</key>
+		<integer>0</integer>
+		<key>numberOfBadAnswersQuiz</key>
+		<integer>0</integer>
+		<key>numberOfGoodAnswers</key>
+		<integer>0</integer>
+		<key>numberOfGoodAnswersQuiz</key>
+		<integer>0</integer>
+		<key>order</key>
+		<integer>26</integer>
+		<key>question</key>
+		<string>Une des 7 merveilles était la grande pyramide, quelle autre possédait l’Égypte?</string>
+		<key>questionTrueOrFalse</key>
+		<string>À ce jour, le phare d&apos;Alexandrie existe toujours.</string>
+		<key>theme</key>
+		<string>Égypte antique 1213 AV-1824</string>
+		<key>timeLine</key>
+		<string>Construction du Phare d&apos;Alexandrie.</string>
+		<key>trueOrFalseAnswer</key>
+		<string>Faux</string>
+		<key>wikiSearchWord</key>
+		<string>Le Phare d&apos;Alexandrie</string>
+	</dict>
+	<dict>
+		<key>correctTAnswer</key>
+		<string>Alexandrie</string>
+		<key>date</key>
+		<string>285–246 Av</string>
+		<key>id</key>
+		<string>932ac6cc-b9c0-11ec-8422-0242ac120002</string>
+		<key>incorrectAnswer1</key>
+		<string>Memphis</string>
+		<key>incorrectAnswer2</key>
+		<string>Thèbes</string>
+		<key>incorrectAnswer3</key>
+		<string>Le Caire</string>
+		<key>numberOfBadAnswers</key>
+		<integer>0</integer>
+		<key>numberOfBadAnswersQuiz</key>
+		<integer>0</integer>
+		<key>numberOfGoodAnswers</key>
+		<integer>0</integer>
+		<key>numberOfGoodAnswersQuiz</key>
+		<integer>0</integer>
+		<key>order</key>
+		<integer>27</integer>
+		<key>question</key>
+		<string>Dans quelle ville égyptienne se trouvait la plus grande bibliothèque de l’antiquité</string>
+		<key>questionTrueOrFalse</key>
+		<string>La bibliothèque d&apos;Alexandrie a survécu jusqu&apos;au 10e siécle.</string>
+		<key>theme</key>
+		<string>Égypte antique 1213 AV-1824</string>
+		<key>timeLine</key>
+		<string>Création de la Bibliothèque d&apos;Alexandrie</string>
+		<key>trueOrFalseAnswer</key>
+		<string>Faux</string>
+		<key>wikiSearchWord</key>
+		<string>Bibliothèque d&apos;Alexandrie</string>
+	</dict>
+	<dict>
+		<key>correctTAnswer</key>
+		<string>La pierre de Rosette</string>
+		<key>date</key>
+		<string>196 Av</string>
+		<key>id</key>
+		<string>932ac7ee-b9c0-11ec-8422-0242ac120002</string>
+		<key>incorrectAnswer1</key>
+		<string>Le livre des morts</string>
+		<key>incorrectAnswer2</key>
+		<string>Le livre des hiéroglyphes</string>
+		<key>incorrectAnswer3</key>
+		<string>Traductions d&apos;Hérodote</string>
+		<key>numberOfBadAnswers</key>
+		<integer>0</integer>
+		<key>numberOfBadAnswersQuiz</key>
+		<integer>0</integer>
+		<key>numberOfGoodAnswers</key>
+		<integer>0</integer>
+		<key>numberOfGoodAnswersQuiz</key>
+		<integer>0</integer>
+		<key>order</key>
+		<integer>28</integer>
+		<key>question</key>
+		<string>Quel artefact a permis de déchiffrer les hiéroglyphes égyptiens ?</string>
+		<key>questionTrueOrFalse</key>
+		<string>Des hiéroglyphes et le latin sont sur la pierre de Rosette.</string>
+		<key>theme</key>
+		<string>Égypte antique 1213 AV-1824</string>
+		<key>timeLine</key>
+		<string>Création de la pierre de Rosette</string>
+		<key>trueOrFalseAnswer</key>
+		<string>Faux</string>
+		<key>wikiSearchWord</key>
+		<string>Pierre de Rosette</string>
+	</dict>
+	<dict>
+		<key>correctTAnswer</key>
+		<string>Cléopâtre VII</string>
+		<key>date</key>
+		<string>69-30 Av</string>
+		<key>id</key>
+		<string>932ac906-b9c0-11ec-8422-0242ac120002</string>
+		<key>incorrectAnswer1</key>
+		<string>César</string>
+		<key>incorrectAnswer2</key>
+		<string>Ptolémée XIV</string>
+		<key>incorrectAnswer3</key>
+		<string>Marcus Antonius</string>
+		<key>numberOfBadAnswers</key>
+		<integer>0</integer>
+		<key>numberOfBadAnswersQuiz</key>
+		<integer>0</integer>
+		<key>numberOfGoodAnswers</key>
+		<integer>0</integer>
+		<key>numberOfGoodAnswersQuiz</key>
+		<integer>0</integer>
+		<key>order</key>
+		<integer>29</integer>
+		<key>question</key>
+		<string>Qui fut le dernier souverain de la dynastie des Ptolémées ?</string>
+		<key>questionTrueOrFalse</key>
+		<string>Cléopâtre a eu un fils avec César : Césarion</string>
+		<key>theme</key>
+		<string>Égypte antique 1213 AV-1824</string>
+		<key>timeLine</key>
+		<string>Cléopâtre</string>
+		<key>trueOrFalseAnswer</key>
+		<string>Vrai</string>
+		<key>wikiSearchWord</key>
+		<string>Cléopâtre VII</string>
+	</dict>
+	<dict>
+		<key>correctTAnswer</key>
+		<string>Napoléon</string>
+		<key>date</key>
+		<string>1798–1801</string>
+		<key>id</key>
+		<string>932aca28-b9c0-11ec-8422-0242ac120002</string>
+		<key>incorrectAnswer1</key>
+		<string>César</string>
+		<key>incorrectAnswer2</key>
+		<string>Ptolémée</string>
+		<key>incorrectAnswer3</key>
+		<string>Marcus Antonius</string>
+		<key>numberOfBadAnswers</key>
+		<integer>0</integer>
+		<key>numberOfBadAnswersQuiz</key>
+		<integer>0</integer>
+		<key>numberOfGoodAnswers</key>
+		<integer>0</integer>
+		<key>numberOfGoodAnswersQuiz</key>
+		<integer>0</integer>
+		<key>order</key>
+		<integer>30</integer>
+		<key>question</key>
+		<string>Son expédition militaire en Égypte amorce le début de l&apos;égyptologie. Qui est-il ?</string>
+		<key>questionTrueOrFalse</key>
+		<string>L&apos;expédition de Napoléon en Égypte a conduit à la découverte de la pierre de Rosette.</string>
+		<key>theme</key>
+		<string>Égypte antique 1213 AV-1824</string>
+		<key>timeLine</key>
+		<string>Campagne française en Egypte</string>
+		<key>trueOrFalseAnswer</key>
+		<string>Vrai</string>
+		<key>wikiSearchWord</key>
+		<string>Campagne française en Egypte et en Syrie</string>
+	</dict>
+	<dict>
+		<key>correctTAnswer</key>
+		<string>Jean-François Champollion</string>
+		<key>date</key>
+		<string>1824</string>
+		<key>id</key>
+		<string>9eb46ed0-17f3-11ed-861d-0242ac120002</string>
+		<key>incorrectAnswer1</key>
+		<string>César</string>
+		<key>incorrectAnswer2</key>
+		<string>Ptolémée</string>
+		<key>incorrectAnswer3</key>
+		<string>Napoléon</string>
+		<key>numberOfBadAnswers</key>
+		<integer>0</integer>
+		<key>numberOfBadAnswersQuiz</key>
+		<integer>0</integer>
+		<key>numberOfGoodAnswers</key>
+		<integer>0</integer>
+		<key>numberOfGoodAnswersQuiz</key>
+		<integer>0</integer>
+		<key>order</key>
+		<integer>31</integer>
+		<key>question</key>
+		<string>Qui fut le premier à traduire les hiéroglyphes égyptiens ?</string>
+		<key>questionTrueOrFalse</key>
+		<string>Champollion est considéré comme le père de l&apos;égyptologie</string>
+		<key>theme</key>
+		<string>Égypte antique 1213 AV-1824</string>
+		<key>timeLine</key>
+		<string>Campagne française en Egypte</string>
+		<key>trueOrFalseAnswer</key>
+		<string>Vrai</string>
+		<key>wikiSearchWord</key>
+		<string>Jean-François Champollion</string>
+	</dict>
+</array>
+</plist>

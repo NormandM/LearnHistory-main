@@ -1,0 +1,366 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<!DOCTYPE plist PUBLIC "-//Apple//DTD PLIST 1.0//EN" "http://www.apple.com/DTDs/PropertyList-1.0.dtd">
+<plist version="1.0">
+<array>
+	<dict>
+		<key>correctTAnswer</key>
+		<string>Chevaliers Hospitaliers</string>
+		<key>date</key>
+		<string>1480</string>
+		<key>id</key>
+		<string>c92a2978-ef72-11ed-a05b-0242ac120003</string>
+		<key>incorrectAnswer1</key>
+		<string>Chevaliers du Temple</string>
+		<key>incorrectAnswer2</key>
+		<string>Chevaliers Teutoniques</string>
+		<key>incorrectAnswer3</key>
+		<string>Chevaliers de Malte</string>
+		<key>numberOfBadAnswers</key>
+		<integer>0</integer>
+		<key>numberOfBadAnswersQuiz</key>
+		<integer>0</integer>
+		<key>numberOfGoodAnswers</key>
+		<integer>0</integer>
+		<key>numberOfGoodAnswersQuiz</key>
+		<integer>0</integer>
+		<key>order</key>
+		<integer>11</integer>
+		<key>question</key>
+		<string>Quel ordre de chevaliers a défendu avec succès l&apos;île de Rhodes contre un siège ottoman en 1480 ?</string>
+		<key>questionTrueOrFalse</key>
+		<string>Les troupes ottomanes étaient inférieures en nombre à la garnison des Hospitaliers. </string>
+		<key>theme</key>
+		<string>L&apos;empire ottoman  1480-1571</string>
+		<key>timeLine</key>
+		<string>Le siège de Rhodes échoue</string>
+		<key>trueOrFalseAnswer</key>
+		<string>Faux</string>
+		<key>wikiSearchWord</key>
+		<string>Siège de Rhodes (1480)</string>
+	</dict>
+	<dict>
+		<key>correctTAnswer</key>
+		<string>Empire safavide</string>
+		<key>date</key>
+		<string>1514</string>
+		<key>id</key>
+		<string>c92a2a90-ef72-11ed-a05b-0242ac120003</string>
+		<key>incorrectAnswer1</key>
+		<string>Empire byzantin</string>
+		<key>incorrectAnswer2</key>
+		<string>Empire mamelouk</string>
+		<key>incorrectAnswer3</key>
+		<string>Empire ayyoubide</string>
+		<key>numberOfBadAnswers</key>
+		<integer>0</integer>
+		<key>numberOfBadAnswersQuiz</key>
+		<integer>0</integer>
+		<key>numberOfGoodAnswers</key>
+		<integer>0</integer>
+		<key>numberOfGoodAnswersQuiz</key>
+		<integer>0</integer>
+		<key>order</key>
+		<integer>12</integer>
+		<key>question</key>
+		<string>Quel empire les Ottomans ont-ils vaincu lors de la bataille de Chaldiran ?</string>
+		<key>questionTrueOrFalse</key>
+		<string>Les Ottomans ont massacré des chiites en Anatolie après leur victoire à Tchaldiran.</string>
+		<key>theme</key>
+		<string>L&apos;empire ottoman  1480-1571</string>
+		<key>timeLine</key>
+		<string>Chaldiran : Les Safavides sont battus</string>
+		<key>trueOrFalseAnswer</key>
+		<string>Vrai</string>
+		<key>wikiSearchWord</key>
+		<string>Bataille de Tchaldiran</string>
+	</dict>
+	<dict>
+		<key>correctTAnswer</key>
+		<string>Calife</string>
+		<key>date</key>
+		<string>1517</string>
+		<key>id</key>
+		<string>c92a2b94-ef72-11ed-a05b-0242ac120003</string>
+		<key>incorrectAnswer1</key>
+		<string>Roi</string>
+		<key>incorrectAnswer2</key>
+		<string>Empereur</string>
+		<key>incorrectAnswer3</key>
+		<string>Shah</string>
+		<key>numberOfBadAnswers</key>
+		<integer>0</integer>
+		<key>numberOfBadAnswersQuiz</key>
+		<integer>0</integer>
+		<key>numberOfGoodAnswers</key>
+		<integer>0</integer>
+		<key>numberOfGoodAnswersQuiz</key>
+		<integer>0</integer>
+		<key>order</key>
+		<integer>13</integer>
+		<key>question</key>
+		<string>Après avoir conquis l&apos;Égypte mamelouke, quel titre a été ajouté au portefeuille du sultan ottoman ?</string>
+		<key>questionTrueOrFalse</key>
+		<string>La bataille de Marj Dabiq a marqué la suprématie des Ottomans.</string>
+		<key>theme</key>
+		<string>L&apos;empire ottoman  1480-1571</string>
+		<key>timeLine</key>
+		<string>L&apos;Égypte mamelouke est conquise</string>
+		<key>trueOrFalseAnswer</key>
+		<string>Vrai</string>
+		<key>wikiSearchWord</key>
+		<string>Bataille de Marj Dabiq</string>
+	</dict>
+	<dict>
+		<key>correctTAnswer</key>
+		<string>Soliman le Magnifique</string>
+		<key>date</key>
+		<string>1520-1566</string>
+		<key>id</key>
+		<string>c92a2c98-ef72-11ed-a05b-0242ac120003</string>
+		<key>incorrectAnswer1</key>
+		<string>Selim I</string>
+		<key>incorrectAnswer2</key>
+		<string>Mehmed II</string>
+		<key>incorrectAnswer3</key>
+		<string>Bayezid II</string>
+		<key>numberOfBadAnswers</key>
+		<integer>0</integer>
+		<key>numberOfBadAnswersQuiz</key>
+		<integer>0</integer>
+		<key>numberOfGoodAnswers</key>
+		<integer>0</integer>
+		<key>numberOfGoodAnswersQuiz</key>
+		<integer>0</integer>
+		<key>order</key>
+		<integer>14</integer>
+		<key>question</key>
+		<string>Qui était le sultan pendant l&apos;apogée de l&apos;Empire ottoman en termes d&apos;expansion territoriale et de réalisations culturelles ?</string>
+		<key>questionTrueOrFalse</key>
+		<string>La marine ottomane a dominé la mer Méditerranée, la mer Rouge et le golfe Persique sous le règne de Soliman. </string>
+		<key>theme</key>
+		<string>L&apos;empire ottoman  1480-1571</string>
+		<key>timeLine</key>
+		<string>Le règne de Soliman : l&apos;apogée de l&apos;empire</string>
+		<key>trueOrFalseAnswer</key>
+		<string>Vrai</string>
+		<key>wikiSearchWord</key>
+		<string>Soliman le Magnifique</string>
+	</dict>
+	<dict>
+		<key>correctTAnswer</key>
+		<string>Belgrade</string>
+		<key>date</key>
+		<string>1521</string>
+		<key>id</key>
+		<string>c92a2d9c-ef72-11ed-a05b-0242ac120003</string>
+		<key>incorrectAnswer1</key>
+		<string>Vienne</string>
+		<key>incorrectAnswer2</key>
+		<string>Sofia</string>
+		<key>incorrectAnswer3</key>
+		<string>Budapest</string>
+		<key>numberOfBadAnswers</key>
+		<integer>0</integer>
+		<key>numberOfBadAnswersQuiz</key>
+		<integer>0</integer>
+		<key>numberOfGoodAnswers</key>
+		<integer>0</integer>
+		<key>numberOfGoodAnswersQuiz</key>
+		<integer>0</integer>
+		<key>order</key>
+		<integer>15</integer>
+		<key>question</key>
+		<string>Quelle ville les Ottomans ont-ils conquise en 1521, consolidant ainsi leur contrôle dans les Balkans ?</string>
+		<key>questionTrueOrFalse</key>
+		<string>La ville de Belgrade a réussi à résister à l&apos;armée ottomane lors du siège. </string>
+		<key>theme</key>
+		<string>L&apos;empire ottoman  1480-1571</string>
+		<key>timeLine</key>
+		<string>Capture de Belgrade</string>
+		<key>trueOrFalseAnswer</key>
+		<string>Faux</string>
+		<key>wikiSearchWord</key>
+		<string>Siège de Belgrade (1521)</string>
+	</dict>
+	<dict>
+		<key>correctTAnswer</key>
+		<string>Chevaliers Hospitaliers</string>
+		<key>date</key>
+		<string>1522</string>
+		<key>id</key>
+		<string>c92a31c0-ef72-11ed-a05b-0242ac120003</string>
+		<key>incorrectAnswer1</key>
+		<string>Chevaliers du Temple</string>
+		<key>incorrectAnswer2</key>
+		<string>Chevaliers Teutoniques</string>
+		<key>incorrectAnswer3</key>
+		<string>Chevaliers de Malte</string>
+		<key>numberOfBadAnswers</key>
+		<integer>0</integer>
+		<key>numberOfBadAnswersQuiz</key>
+		<integer>0</integer>
+		<key>numberOfGoodAnswers</key>
+		<integer>0</integer>
+		<key>numberOfGoodAnswersQuiz</key>
+		<integer>0</integer>
+		<key>order</key>
+		<integer>16</integer>
+		<key>question</key>
+		<string>Quel ordre de chevaliers a perdu l&apos;île de Rhodes aux mains des Ottomans en 1522 ?</string>
+		<key>questionTrueOrFalse</key>
+		<string>Le siège de Rhodes de 1522 a duré cinq mois. </string>
+		<key>theme</key>
+		<string>L&apos;empire ottoman  1480-1571</string>
+		<key>timeLine</key>
+		<string>Rhodes tombe aux mains des Ottomans</string>
+		<key>trueOrFalseAnswer</key>
+		<string>Vrai</string>
+		<key>wikiSearchWord</key>
+		<string>Siège de Rhodes (1522)</string>
+	</dict>
+	<dict>
+		<key>correctTAnswer</key>
+		<string>Vienne</string>
+		<key>date</key>
+		<string>1529</string>
+		<key>id</key>
+		<string>c92a3346-ef72-11ed-a05b-0242ac120003</string>
+		<key>incorrectAnswer1</key>
+		<string>Belgrade</string>
+		<key>incorrectAnswer2</key>
+		<string>Budapest</string>
+		<key>incorrectAnswer3</key>
+		<string>Prague</string>
+		<key>numberOfBadAnswers</key>
+		<integer>0</integer>
+		<key>numberOfBadAnswersQuiz</key>
+		<integer>0</integer>
+		<key>numberOfGoodAnswers</key>
+		<integer>0</integer>
+		<key>numberOfGoodAnswersQuiz</key>
+		<integer>0</integer>
+		<key>order</key>
+		<integer>17</integer>
+		<key>question</key>
+		<string>Quelle ville les Ottomans ont-ils assiégée sans succès pour la première fois en 1529 ?</string>
+		<key>questionTrueOrFalse</key>
+		<string>Le siège de Vienne de 1529 a mis fin aux guerres entre l&apos;Empire ottoman et le Saint-Empire. </string>
+		<key>theme</key>
+		<string>L&apos;empire ottoman  1480-1571</string>
+		<key>timeLine</key>
+		<string>Le siège de Vienne échoue</string>
+		<key>trueOrFalseAnswer</key>
+		<string>Faux</string>
+		<key>wikiSearchWord</key>
+		<string>Siège de Vienne (1529)</string>
+	</dict>
+	<dict>
+		<key>correctTAnswer</key>
+		<string>Bataille de Prévéza</string>
+		<key>date</key>
+		<string>1538</string>
+		<key>id</key>
+		<string>c92a34b8-ef72-11ed-a05b-0242ac120003</string>
+		<key>incorrectAnswer1</key>
+		<string>Bataille de Lépante</string>
+		<key>incorrectAnswer2</key>
+		<string>Bataille de Navarin</string>
+		<key>incorrectAnswer3</key>
+		<string>Bataille de Djerba</string>
+		<key>numberOfBadAnswers</key>
+		<integer>0</integer>
+		<key>numberOfBadAnswersQuiz</key>
+		<integer>0</integer>
+		<key>numberOfGoodAnswers</key>
+		<integer>0</integer>
+		<key>numberOfGoodAnswersQuiz</key>
+		<integer>0</integer>
+		<key>order</key>
+		<integer>18</integer>
+		<key>question</key>
+		<string>Dans quelle bataille les Ottomans ont-ils remporté une victoire navale décisive contre une alliance chrétienne ?</string>
+		<key>questionTrueOrFalse</key>
+		<string>La bataille de Préveza a eu lieu sur terre. </string>
+		<key>theme</key>
+		<string>L&apos;empire ottoman  1480-1571</string>
+		<key>timeLine</key>
+		<string>Preveza : Victoire navale</string>
+		<key>trueOrFalseAnswer</key>
+		<string>Faux</string>
+		<key>wikiSearchWord</key>
+		<string>Bataille de Préveza</string>
+	</dict>
+	<dict>
+		<key>correctTAnswer</key>
+		<string>Malte</string>
+		<key>date</key>
+		<string>1565</string>
+		<key>id</key>
+		<string>c92a3666-ef72-11ed-a05b-0242ac120003</string>
+		<key>incorrectAnswer1</key>
+		<string>Chypre</string>
+		<key>incorrectAnswer2</key>
+		<string>Crète</string>
+		<key>incorrectAnswer3</key>
+		<string>Sicile</string>
+		<key>numberOfBadAnswers</key>
+		<integer>0</integer>
+		<key>numberOfBadAnswersQuiz</key>
+		<integer>0</integer>
+		<key>numberOfGoodAnswers</key>
+		<integer>0</integer>
+		<key>numberOfGoodAnswersQuiz</key>
+		<integer>0</integer>
+		<key>order</key>
+		<integer>19</integer>
+		<key>question</key>
+		<string>Quelle île les Ottomans n&apos;ont-ils pas réussi à capturer des Chevaliers hospitaliers en 1565 ?</string>
+		<key>questionTrueOrFalse</key>
+		<string>La défaite ottomane lors du Grand Siège de Malte a eu des conséquences militaires importantes pour l&apos;Empire ottoman. </string>
+		<key>theme</key>
+		<string>L&apos;empire ottoman  1480-1571</string>
+		<key>timeLine</key>
+		<string>Le siège de Malte échoue</string>
+		<key>trueOrFalseAnswer</key>
+		<string>Faux</string>
+		<key>wikiSearchWord</key>
+		<string>Grand Siège de Malte</string>
+	</dict>
+	<dict>
+		<key>correctTAnswer</key>
+		<string>Bataille de Lépante</string>
+		<key>date</key>
+		<string>1571</string>
+		<key>id</key>
+		<string>c92a37a6-ef72-11ed-a05b-0242ac120003</string>
+		<key>incorrectAnswer1</key>
+		<string>Bataille de Preveza</string>
+		<key>incorrectAnswer2</key>
+		<string>Bataille de Navarin</string>
+		<key>incorrectAnswer3</key>
+		<string>Bataille de Djerba</string>
+		<key>numberOfBadAnswers</key>
+		<integer>0</integer>
+		<key>numberOfBadAnswersQuiz</key>
+		<integer>0</integer>
+		<key>numberOfGoodAnswers</key>
+		<integer>0</integer>
+		<key>numberOfGoodAnswersQuiz</key>
+		<integer>0</integer>
+		<key>order</key>
+		<integer>20</integer>
+		<key>question</key>
+		<string>Dans quelle bataille l&apos;Empire ottoman a-t-il subi une défaite navale majeure contre une coalition chrétienne ?</string>
+		<key>questionTrueOrFalse</key>
+		<string>La bataille de Lépante a eu un retentissement considérable en Europe, car elle a été perçue comme un coup d&apos;arrêt décisif à l&apos;expansionnisme ottoman.</string>
+		<key>theme</key>
+		<string>L&apos;empire ottoman  1480-1571</string>
+		<key>timeLine</key>
+		<string>Lépante : Défaite navale</string>
+		<key>trueOrFalseAnswer</key>
+		<string>Vrai</string>
+		<key>wikiSearchWord</key>
+		<string>Bataille de Lépante</string>
+	</dict>
+</array>
+</plist>
