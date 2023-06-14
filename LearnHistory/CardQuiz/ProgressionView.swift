@@ -91,6 +91,7 @@ struct CustomProgressViewUser: View {
     @State private var comment = String()
     @State private var numberOfCoinsAdded = String()
     var progressionMessage: ProgressionMessage
+    @FetchRequest(sortDescriptors: []) var historicalSectionForSpecialEffect: FetchedResults<HistoricalSectionForSpecialEffect>
     init(progress: CGFloat, theme: String, progressionMessage: ProgressionMessage, numberOfAnswers: Int, numberOfQuestions: Int, score: Double, answerIsGood: Bool, sectionName: String){
         self._theme = State(wrappedValue: theme)
         self.progressionMessage = progressionMessage
@@ -185,14 +186,21 @@ struct CustomProgressViewUser: View {
                     Spacer()
                     HStack {
                         NMRoundButton(buttonText: "Back".localized, buttonAction: {
+                            for section in historicalSectionForSpecialEffect{
+                                if section.themeTitle == sectionName {
+                                    section.completedThemes += 1
+                                    if section.completedThemes == section.subitemsCount {
+                                        section.isFinished = true
+                                    }
+                                    try?moc.save()
+                                }
+                            }
                             EraseQuizResult.erase(fetchRequest: fetchRequest, theme: theme)
                             try? moc.save()
                             if UserDefaults.standard.double(forKey: theme) < score {
                                 UserDefaults.standard.set(score, forKey: theme)
                             }
                             presentationMode.wrappedValue.dismiss()
-
-                            
                         })
                             .padding(.trailing)
                     }
@@ -205,7 +213,6 @@ struct CustomProgressViewUser: View {
                     VStack {
                         Text("The quiz is in Progress".localized)
                             .font(.title)
-                        
                     }
                 case .inProgress3QuestionFinished:
                     Spacer()
@@ -229,16 +236,12 @@ struct CustomProgressViewUser: View {
                         
                 }
                 Spacer()
-                
             }
-            
             .onAppear{
                 lastScore = UserDefaults.standard.double(forKey: theme)
                 let result = determineMessage()
                 comment = result.0
                 numberOfCoinsAdded = result.1
-                
-                
             }
         }
         .preferredColorScheme(.light)

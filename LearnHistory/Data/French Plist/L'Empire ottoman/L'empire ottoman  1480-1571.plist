@@ -134,7 +134,7 @@
 		<key>order</key>
 		<integer>14</integer>
 		<key>question</key>
-		<string>Qui était le sultan pendant l&apos;apogée de l&apos;Empire ottoman en termes d&apos;expansion territoriale et de réalisations culturelles ?</string>
+		<string>Qui était le sultan pendant l&apos;apogée de l&apos;Empire ottoman?</string>
 		<key>questionTrueOrFalse</key>
 		<string>La marine ottomane a dominé la mer Méditerranée, la mer Rouge et le golfe Persique sous le règne de Soliman. </string>
 		<key>theme</key>

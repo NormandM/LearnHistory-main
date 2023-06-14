@@ -45,7 +45,6 @@
 		8E246FF527A5EE2B004CF602 /* SelectionView.swift in Sources */ = {isa = PBXBuildFile; fileRef = 8E246FF427A5EE2B004CF602 /* SelectionView.swift */; };
 		8E246FF827A71AF3004CF602 /* IntroductionTitlesView.swift in Sources */ = {isa = PBXBuildFile; fileRef = 8E246FF727A71AF3004CF602 /* IntroductionTitlesView.swift */; };
 		8E2592C328D666C200E32AC5 /* CoinsAtZero.swift in Sources */ = {isa = PBXBuildFile; fileRef = 8E2592C228D666C200E32AC5 /* CoinsAtZero.swift */; };
-		8E269B8329FD928D00F71F1D /* Grèce antique.plist in Resources */ = {isa = PBXBuildFile; fileRef = 8E269B8229FD928D00F71F1D /* Grèce antique.plist */; };
 		8E3AD98E29FD8B8F00941529 /* List.json in Resources */ = {isa = PBXBuildFile; fileRef = 8E3AD98D29FD8B8F00941529 /* List.json */; };
 		8E3AD99029FD8B9D00941529 /* ListFrench.json in Resources */ = {isa = PBXBuildFile; fileRef = 8E3AD98F29FD8B9D00941529 /* ListFrench.json */; };
 		8E3AD99229FD8BAB00941529 /* ListSpanish.json in Resources */ = {isa = PBXBuildFile; fileRef = 8E3AD99129FD8BAB00941529 /* ListSpanish.json */; };
@@ -87,6 +86,8 @@
 		8E558A1528A6CD7000BB28F4 /* Inde 30000 AV-232 AV.plist in Resources */ = {isa = PBXBuildFile; fileRef = 8E558A1428A6CD7000BB28F4 /* Inde 30000 AV-232 AV.plist */; };
 		8E558A1728A6CD7600BB28F4 /* Inde 369-1948.plist in Resources */ = {isa = PBXBuildFile; fileRef = 8E558A1628A6CD7600BB28F4 /* Inde 369-1948.plist */; };
 		8E56AC82280746A6005D5104 /* Inglaterra.plist in Resources */ = {isa = PBXBuildFile; fileRef = 8E56AC81280746A6005D5104 /* Inglaterra.plist */; };
+		8E5BC6F92A293A920023B0DE /* SectionEnglish.plist in Resources */ = {isa = PBXBuildFile; fileRef = 8E5BC6F82A293A920023B0DE /* SectionEnglish.plist */; };
+		8E5BC6FD2A293C310023B0DE /* SectionFrench.plist in Resources */ = {isa = PBXBuildFile; fileRef = 8E5BC6FC2A293C310023B0DE /* SectionFrench.plist */; };
 		8E6EE780289EFF5C00C966F6 /* ParticlesModifier.swift in Sources */ = {isa = PBXBuildFile; fileRef = 8E6EE77F289EFF5C00C966F6 /* ParticlesModifier.swift */; };
 		8E6EE782289EFF6400C966F6 /* FireworkParticlesGeometryEffect.swift in Sources */ = {isa = PBXBuildFile; fileRef = 8E6EE781289EFF6400C966F6 /* FireworkParticlesGeometryEffect.swift */; };
 		8E6EE784289EFF7C00C966F6 /* ParticleEffectView.swift in Sources */ = {isa = PBXBuildFile; fileRef = 8E6EE783289EFF7800C966F6 /* ParticleEffectView.swift */; };
@@ -144,9 +145,10 @@
 		8E74F82A2A10056F001D5270 /* El Imperio Otomano 1593-1923.plist in Resources */ = {isa = PBXBuildFile; fileRef = 8E74F8272A10056F001D5270 /* El Imperio Otomano 1593-1923.plist */; };
 		8E74F82B2A10056F001D5270 /* El Imperio Otomano 1480-1571.plist in Resources */ = {isa = PBXBuildFile; fileRef = 8E74F8282A10056F001D5270 /* El Imperio Otomano 1480-1571.plist */; };
 		8E74F82D2A10058E001D5270 /* El Imperio Otomano.plist in Resources */ = {isa = PBXBuildFile; fileRef = 8E74F82C2A10058E001D5270 /* El Imperio Otomano.plist */; };
-		8E80556228A581890088A552 /* Grèce antique 1650 AV-560 AV.plist in Resources */ = {isa = PBXBuildFile; fileRef = 8E80556128A581890088A552 /* Grèce antique 1650 AV-560 AV.plist */; };
-		8E80556428A5818E0088A552 /* Grèce antique 508 AV-399 AV.plist in Resources */ = {isa = PBXBuildFile; fileRef = 8E80556328A5818E0088A552 /* Grèce antique 508 AV-399 AV.plist */; };
-		8E80556628A581940088A552 /* Grèce antique 384 AV-146 AV.plist in Resources */ = {isa = PBXBuildFile; fileRef = 8E80556528A581940088A552 /* Grèce antique 384 AV-146 AV.plist */; };
+		8E74F8652A14034F001D5270 /* ExpandableRow.swift in Sources */ = {isa = PBXBuildFile; fileRef = 8E74F8642A14034F001D5270 /* ExpandableRow.swift */; };
+		8E7975212A2D172700C7E9FB /* Informations supplémentaires.plist in Resources */ = {isa = PBXBuildFile; fileRef = 8E7975202A2D172600C7E9FB /* Informations supplémentaires.plist */; };
+		8E7975232A2E55EB00C7E9FB /* Additional Information.plist in Resources */ = {isa = PBXBuildFile; fileRef = 8E7975222A2E55EB00C7E9FB /* Additional Information.plist */; };
+		8E7975252A2E568800C7E9FB /* Información adicional.plist in Resources */ = {isa = PBXBuildFile; fileRef = 8E7975242A2E568800C7E9FB /* Información adicional.plist */; };
 		8E80556828A581A30088A552 /* Ancient Greece 1650 BC-560 BC.plist in Resources */ = {isa = PBXBuildFile; fileRef = 8E80556728A581A30088A552 /* Ancient Greece 1650 BC-560 BC.plist */; };
 		8E80556A28A581A90088A552 /* Ancient Greece 508 BC-399 BC.plist in Resources */ = {isa = PBXBuildFile; fileRef = 8E80556928A581A90088A552 /* Ancient Greece 508 BC-399 BC.plist */; };
 		8E80556C28A581AE0088A552 /* Ancient Greece 384 BC-146 BC.plist in Resources */ = {isa = PBXBuildFile; fileRef = 8E80556B28A581AE0088A552 /* Ancient Greece 384 BC-146 BC.plist */; };
@@ -155,6 +157,7 @@
 		8E80557228A581C80088A552 /* Antigua Grecia 384 A.C.-146 A.C..plist in Resources */ = {isa = PBXBuildFile; fileRef = 8E80557128A581C80088A552 /* Antigua Grecia 384 A.C.-146 A.C..plist */; };
 		8E80FFD227D4029400A52776 /* HistoricalEvent.xcdatamodeld in Sources */ = {isa = PBXBuildFile; fileRef = 8E80FFD027D4029400A52776 /* HistoricalEvent.xcdatamodeld */; };
 		8E80FFD827D4059D00A52776 /* DataController.swift in Sources */ = {isa = PBXBuildFile; fileRef = 8E80FFD727D4059D00A52776 /* DataController.swift */; };
+		8E862F072A1FBD210026E2BE /* SectionSpanish.plist in Resources */ = {isa = PBXBuildFile; fileRef = 8E862F062A1FBD210026E2BE /* SectionSpanish.plist */; };
 		8E86674127A9D4FA0010EB1E /* TimeLinesDetailView.swift in Sources */ = {isa = PBXBuildFile; fileRef = 8E86674027A9D4FA0010EB1E /* TimeLinesDetailView.swift */; };
 		8E86674327AB17F20010EB1E /* Extension.swift in Sources */ = {isa = PBXBuildFile; fileRef = 8E86674227AB17F20010EB1E /* Extension.swift */; };
 		8E86676B27AC38660010EB1E /* TimeLinesDescriptionsView.swift in Sources */ = {isa = PBXBuildFile; fileRef = 8E86676A27AC38660010EB1E /* TimeLinesDescriptionsView.swift */; };
@@ -170,10 +173,6 @@
 		8EABDE8928DE595A00137E15 /* United_States 1607-1789.plist in Resources */ = {isa = PBXBuildFile; fileRef = 8EABDE8628DE595A00137E15 /* United_States 1607-1789.plist */; };
 		8EABDE8A28DE595A00137E15 /* United_States 1789-1908.plist in Resources */ = {isa = PBXBuildFile; fileRef = 8EABDE8728DE595A00137E15 /* United_States 1789-1908.plist */; };
 		8EABDE8C28DE596300137E15 /* United_States.plist in Resources */ = {isa = PBXBuildFile; fileRef = 8EABDE8B28DE596300137E15 /* United_States.plist */; };
-		8EABDE9928DE652C00137E15 /* États-Unis.plist in Resources */ = {isa = PBXBuildFile; fileRef = 8EABDE9828DE652C00137E15 /* États-Unis.plist */; };
-		8EABDE9D28DE653600137E15 /* États-Unis 1789-1908.plist in Resources */ = {isa = PBXBuildFile; fileRef = 8EABDE9A28DE653500137E15 /* États-Unis 1789-1908.plist */; };
-		8EABDE9E28DE653600137E15 /* États-Unis 1917-1969.plist in Resources */ = {isa = PBXBuildFile; fileRef = 8EABDE9B28DE653600137E15 /* États-Unis 1917-1969.plist */; };
-		8EABDE9F28DE653600137E15 /* États-Unis 1607-1789.plist in Resources */ = {isa = PBXBuildFile; fileRef = 8EABDE9C28DE653600137E15 /* États-Unis 1607-1789.plist */; };
 		8EABDEA328DE664D00137E15 /* Estados Unidos.plist in Resources */ = {isa = PBXBuildFile; fileRef = 8EABDEA228DE664D00137E15 /* Estados Unidos.plist */; };
 		8EABDEA728DE665B00137E15 /* Estados Unidos 1917-1969.plist in Resources */ = {isa = PBXBuildFile; fileRef = 8EABDEA428DE665A00137E15 /* Estados Unidos 1917-1969.plist */; };
 		8EABDEA828DE665B00137E15 /* Estados Unidos 1607-1789.plist in Resources */ = {isa = PBXBuildFile; fileRef = 8EABDEA528DE665A00137E15 /* Estados Unidos 1607-1789.plist */; };
@@ -241,6 +240,14 @@
 		8EF70D52288F18F700F128B7 /* Francia 40000 aC - 843.plist in Resources */ = {isa = PBXBuildFile; fileRef = 8EF70D51288F18F700F128B7 /* Francia 40000 aC - 843.plist */; };
 		8EF70D54288F190200F128B7 /* Francia 1309 - 1793.plist in Resources */ = {isa = PBXBuildFile; fileRef = 8EF70D53288F190200F128B7 /* Francia 1309 - 1793.plist */; };
 		8EF70D56288F190800F128B7 /* Francia 1794 - 1940.plist in Resources */ = {isa = PBXBuildFile; fileRef = 8EF70D55288F190800F128B7 /* Francia 1794 - 1940.plist */; };
+		8EFD646F2A264CA6001B45B0 /* États-Unis 1789-1908.plist in Resources */ = {isa = PBXBuildFile; fileRef = 8EFD646B2A264CA6001B45B0 /* États-Unis 1789-1908.plist */; };
+		8EFD64702A264CA6001B45B0 /* États-Unis 1607-1789.plist in Resources */ = {isa = PBXBuildFile; fileRef = 8EFD646C2A264CA6001B45B0 /* États-Unis 1607-1789.plist */; };
+		8EFD64712A264CA6001B45B0 /* États-Unis 1917-1969.plist in Resources */ = {isa = PBXBuildFile; fileRef = 8EFD646D2A264CA6001B45B0 /* États-Unis 1917-1969.plist */; };
+		8EFD64722A264CA6001B45B0 /* États-Unis.plist in Resources */ = {isa = PBXBuildFile; fileRef = 8EFD646E2A264CA6001B45B0 /* États-Unis.plist */; };
+		8EFD64742A264CEE001B45B0 /* Grèce antique.plist in Resources */ = {isa = PBXBuildFile; fileRef = 8EFD64732A264CEE001B45B0 /* Grèce antique.plist */; };
+		8EFD64782A264CF6001B45B0 /* Grèce antique 384 AV-146 AV.plist in Resources */ = {isa = PBXBuildFile; fileRef = 8EFD64752A264CF6001B45B0 /* Grèce antique 384 AV-146 AV.plist */; };
+		8EFD64792A264CF6001B45B0 /* Grèce antique 508 AV-399 AV.plist in Resources */ = {isa = PBXBuildFile; fileRef = 8EFD64762A264CF6001B45B0 /* Grèce antique 508 AV-399 AV.plist */; };
+		8EFD647A2A264CF6001B45B0 /* Grèce antique 1650 AV-560 AV.plist in Resources */ = {isa = PBXBuildFile; fileRef = 8EFD64772A264CF6001B45B0 /* Grèce antique 1650 AV-560 AV.plist */; };
 		8EFFB41827CE9E5F00F224CA /* EnumCardDisplaced.swift in Sources */ = {isa = PBXBuildFile; fileRef = 8EFFB41727CE9E5F00F224CA /* EnumCardDisplaced.swift */; };
 /* End PBXBuildFile section */
 
@@ -283,7 +290,6 @@
 		8E246FF427A5EE2B004CF602 /* SelectionView.swift */ = {isa = PBXFileReference; lastKnownFileType = sourcecode.swift; path = SelectionView.swift; sourceTree = "<group>"; };
 		8E246FF727A71AF3004CF602 /* IntroductionTitlesView.swift */ = {isa = PBXFileReference; lastKnownFileType = sourcecode.swift; path = IntroductionTitlesView.swift; sourceTree = "<group>"; };
 		8E2592C228D666C200E32AC5 /* CoinsAtZero.swift */ = {isa = PBXFileReference; lastKnownFileType = sourcecode.swift; path = CoinsAtZero.swift; sourceTree = "<group>"; };
-		8E269B8229FD928D00F71F1D /* Grèce antique.plist */ = {isa = PBXFileReference; fileEncoding = 4; lastKnownFileType = text.plist.xml; path = "Grèce antique.plist"; sourceTree = "<group>"; };
 		8E2D32E629FD916300910648 /* fr */ = {isa = PBXFileReference; lastKnownFileType = text.plist.strings; name = fr; path = fr.lproj/Localizable.strings; sourceTree = "<group>"; };
 		8E3AD98D29FD8B8F00941529 /* List.json */ = {isa = PBXFileReference; fileEncoding = 4; lastKnownFileType = text.json; path = List.json; sourceTree = "<group>"; };
 		8E3AD98F29FD8B9D00941529 /* ListFrench.json */ = {isa = PBXFileReference; fileEncoding = 4; lastKnownFileType = text.json; path = ListFrench.json; sourceTree = "<group>"; };
@@ -327,6 +333,8 @@
 		8E558A1428A6CD7000BB28F4 /* Inde 30000 AV-232 AV.plist */ = {isa = PBXFileReference; fileEncoding = 4; lastKnownFileType = text.plist.xml; path = "Inde 30000 AV-232 AV.plist"; sourceTree = "<group>"; };
 		8E558A1628A6CD7600BB28F4 /* Inde 369-1948.plist */ = {isa = PBXFileReference; fileEncoding = 4; lastKnownFileType = text.plist.xml; path = "Inde 369-1948.plist"; sourceTree = "<group>"; };
 		8E56AC81280746A6005D5104 /* Inglaterra.plist */ = {isa = PBXFileReference; fileEncoding = 4; lastKnownFileType = text.plist.xml; path = Inglaterra.plist; sourceTree = "<group>"; };
+		8E5BC6F82A293A920023B0DE /* SectionEnglish.plist */ = {isa = PBXFileReference; fileEncoding = 4; lastKnownFileType = text.plist.xml; path = SectionEnglish.plist; sourceTree = "<group>"; };
+		8E5BC6FC2A293C310023B0DE /* SectionFrench.plist */ = {isa = PBXFileReference; fileEncoding = 4; lastKnownFileType = text.plist.xml; path = SectionFrench.plist; sourceTree = "<group>"; };
 		8E6EE77F289EFF5C00C966F6 /* ParticlesModifier.swift */ = {isa = PBXFileReference; fileEncoding = 4; lastKnownFileType = sourcecode.swift; path = ParticlesModifier.swift; sourceTree = "<group>"; };
 		8E6EE781289EFF6400C966F6 /* FireworkParticlesGeometryEffect.swift */ = {isa = PBXFileReference; fileEncoding = 4; lastKnownFileType = sourcecode.swift; path = FireworkParticlesGeometryEffect.swift; sourceTree = "<group>"; };
 		8E6EE783289EFF7800C966F6 /* ParticleEffectView.swift */ = {isa = PBXFileReference; fileEncoding = 4; lastKnownFileType = sourcecode.swift; path = ParticleEffectView.swift; sourceTree = "<group>"; };
@@ -384,9 +392,10 @@
 		8E74F8272A10056F001D5270 /* El Imperio Otomano 1593-1923.plist */ = {isa = PBXFileReference; fileEncoding = 4; lastKnownFileType = text.plist.xml; path = "El Imperio Otomano 1593-1923.plist"; sourceTree = "<group>"; };
 		8E74F8282A10056F001D5270 /* El Imperio Otomano 1480-1571.plist */ = {isa = PBXFileReference; fileEncoding = 4; lastKnownFileType = text.plist.xml; path = "El Imperio Otomano 1480-1571.plist"; sourceTree = "<group>"; };
 		8E74F82C2A10058E001D5270 /* El Imperio Otomano.plist */ = {isa = PBXFileReference; fileEncoding = 4; lastKnownFileType = text.plist.xml; path = "El Imperio Otomano.plist"; sourceTree = "<group>"; };
-		8E80556128A581890088A552 /* Grèce antique 1650 AV-560 AV.plist */ = {isa = PBXFileReference; fileEncoding = 4; lastKnownFileType = text.plist.xml; path = "Grèce antique 1650 AV-560 AV.plist"; sourceTree = "<group>"; };
-		8E80556328A5818E0088A552 /* Grèce antique 508 AV-399 AV.plist */ = {isa = PBXFileReference; fileEncoding = 4; lastKnownFileType = text.plist.xml; path = "Grèce antique 508 AV-399 AV.plist"; sourceTree = "<group>"; };
-		8E80556528A581940088A552 /* Grèce antique 384 AV-146 AV.plist */ = {isa = PBXFileReference; fileEncoding = 4; lastKnownFileType = text.plist.xml; path = "Grèce antique 384 AV-146 AV.plist"; sourceTree = "<group>"; };
+		8E74F8642A14034F001D5270 /* ExpandableRow.swift */ = {isa = PBXFileReference; lastKnownFileType = sourcecode.swift; path = ExpandableRow.swift; sourceTree = "<group>"; };
+		8E7975202A2D172600C7E9FB /* Informations supplémentaires.plist */ = {isa = PBXFileReference; fileEncoding = 4; lastKnownFileType = text.plist.xml; path = "Informations supplémentaires.plist"; sourceTree = "<group>"; };
+		8E7975222A2E55EB00C7E9FB /* Additional Information.plist */ = {isa = PBXFileReference; lastKnownFileType = text.plist; name = "Additional Information.plist"; path = "LearnHistory/Data/French Plist/Information dur L'App/Additional Information.plist"; sourceTree = SOURCE_ROOT; };
+		8E7975242A2E568800C7E9FB /* Información adicional.plist */ = {isa = PBXFileReference; lastKnownFileType = text.plist; name = "Información adicional.plist"; path = "LearnHistory/Data/French Plist/Information dur L'App/Información adicional.plist"; sourceTree = SOURCE_ROOT; };
 		8E80556728A581A30088A552 /* Ancient Greece 1650 BC-560 BC.plist */ = {isa = PBXFileReference; fileEncoding = 4; lastKnownFileType = text.plist.xml; path = "Ancient Greece 1650 BC-560 BC.plist"; sourceTree = "<group>"; };
 		8E80556928A581A90088A552 /* Ancient Greece 508 BC-399 BC.plist */ = {isa = PBXFileReference; fileEncoding = 4; lastKnownFileType = text.plist.xml; path = "Ancient Greece 508 BC-399 BC.plist"; sourceTree = "<group>"; };
 		8E80556B28A581AE0088A552 /* Ancient Greece 384 BC-146 BC.plist */ = {isa = PBXFileReference; fileEncoding = 4; lastKnownFileType = text.plist.xml; path = "Ancient Greece 384 BC-146 BC.plist"; sourceTree = "<group>"; };
@@ -395,6 +404,7 @@
 		8E80557128A581C80088A552 /* Antigua Grecia 384 A.C.-146 A.C..plist */ = {isa = PBXFileReference; fileEncoding = 4; lastKnownFileType = text.plist.xml; path = "Antigua Grecia 384 A.C.-146 A.C..plist"; sourceTree = "<group>"; };
 		8E80FFD127D4029400A52776 /* HistoricalEvent.xcdatamodel */ = {isa = PBXFileReference; lastKnownFileType = wrapper.xcdatamodel; path = HistoricalEvent.xcdatamodel; sourceTree = "<group>"; };
 		8E80FFD727D4059D00A52776 /* DataController.swift */ = {isa = PBXFileReference; fileEncoding = 4; lastKnownFileType = sourcecode.swift; path = DataController.swift; sourceTree = "<group>"; };
+		8E862F062A1FBD210026E2BE /* SectionSpanish.plist */ = {isa = PBXFileReference; fileEncoding = 4; lastKnownFileType = text.plist.xml; path = SectionSpanish.plist; sourceTree = "<group>"; };
 		8E86674027A9D4FA0010EB1E /* TimeLinesDetailView.swift */ = {isa = PBXFileReference; lastKnownFileType = sourcecode.swift; path = TimeLinesDetailView.swift; sourceTree = "<group>"; };
 		8E86674227AB17F20010EB1E /* Extension.swift */ = {isa = PBXFileReference; lastKnownFileType = sourcecode.swift; path = Extension.swift; sourceTree = "<group>"; };
 		8E86676A27AC38660010EB1E /* TimeLinesDescriptionsView.swift */ = {isa = PBXFileReference; lastKnownFileType = sourcecode.swift; path = TimeLinesDescriptionsView.swift; sourceTree = "<group>"; };
@@ -411,10 +421,6 @@
 		8EABDE8628DE595A00137E15 /* United_States 1607-1789.plist */ = {isa = PBXFileReference; fileEncoding = 4; lastKnownFileType = text.plist.xml; path = "United_States 1607-1789.plist"; sourceTree = "<group>"; };
 		8EABDE8728DE595A00137E15 /* United_States 1789-1908.plist */ = {isa = PBXFileReference; fileEncoding = 4; lastKnownFileType = text.plist.xml; path = "United_States 1789-1908.plist"; sourceTree = "<group>"; };
 		8EABDE8B28DE596300137E15 /* United_States.plist */ = {isa = PBXFileReference; fileEncoding = 4; lastKnownFileType = text.plist.xml; path = United_States.plist; sourceTree = "<group>"; };
-		8EABDE9828DE652C00137E15 /* États-Unis.plist */ = {isa = PBXFileReference; fileEncoding = 4; lastKnownFileType = text.plist.xml; path = "États-Unis.plist"; sourceTree = "<group>"; };
-		8EABDE9A28DE653500137E15 /* États-Unis 1789-1908.plist */ = {isa = PBXFileReference; fileEncoding = 4; lastKnownFileType = text.plist.xml; path = "États-Unis 1789-1908.plist"; sourceTree = "<group>"; };
-		8EABDE9B28DE653600137E15 /* États-Unis 1917-1969.plist */ = {isa = PBXFileReference; fileEncoding = 4; lastKnownFileType = text.plist.xml; path = "États-Unis 1917-1969.plist"; sourceTree = "<group>"; };
-		8EABDE9C28DE653600137E15 /* États-Unis 1607-1789.plist */ = {isa = PBXFileReference; fileEncoding = 4; lastKnownFileType = text.plist.xml; path = "États-Unis 1607-1789.plist"; sourceTree = "<group>"; };
 		8EABDEA228DE664D00137E15 /* Estados Unidos.plist */ = {isa = PBXFileReference; fileEncoding = 4; lastKnownFileType = text.plist.xml; path = "Estados Unidos.plist"; sourceTree = "<group>"; };
 		8EABDEA428DE665A00137E15 /* Estados Unidos 1917-1969.plist */ = {isa = PBXFileReference; fileEncoding = 4; lastKnownFileType = text.plist.xml; path = "Estados Unidos 1917-1969.plist"; sourceTree = "<group>"; };
 		8EABDEA528DE665A00137E15 /* Estados Unidos 1607-1789.plist */ = {isa = PBXFileReference; fileEncoding = 4; lastKnownFileType = text.plist.xml; path = "Estados Unidos 1607-1789.plist"; sourceTree = "<group>"; };
@@ -483,6 +489,14 @@
 		8EF70D51288F18F700F128B7 /* Francia 40000 aC - 843.plist */ = {isa = PBXFileReference; fileEncoding = 4; lastKnownFileType = text.plist.xml; path = "Francia 40000 aC - 843.plist"; sourceTree = "<group>"; };
 		8EF70D53288F190200F128B7 /* Francia 1309 - 1793.plist */ = {isa = PBXFileReference; fileEncoding = 4; lastKnownFileType = text.plist.xml; path = "Francia 1309 - 1793.plist"; sourceTree = "<group>"; };
 		8EF70D55288F190800F128B7 /* Francia 1794 - 1940.plist */ = {isa = PBXFileReference; fileEncoding = 4; lastKnownFileType = text.plist.xml; path = "Francia 1794 - 1940.plist"; sourceTree = "<group>"; };
+		8EFD646B2A264CA6001B45B0 /* États-Unis 1789-1908.plist */ = {isa = PBXFileReference; fileEncoding = 4; lastKnownFileType = text.plist.xml; path = "États-Unis 1789-1908.plist"; sourceTree = "<group>"; };
+		8EFD646C2A264CA6001B45B0 /* États-Unis 1607-1789.plist */ = {isa = PBXFileReference; fileEncoding = 4; lastKnownFileType = text.plist.xml; path = "États-Unis 1607-1789.plist"; sourceTree = "<group>"; };
+		8EFD646D2A264CA6001B45B0 /* États-Unis 1917-1969.plist */ = {isa = PBXFileReference; fileEncoding = 4; lastKnownFileType = text.plist.xml; path = "États-Unis 1917-1969.plist"; sourceTree = "<group>"; };
+		8EFD646E2A264CA6001B45B0 /* États-Unis.plist */ = {isa = PBXFileReference; fileEncoding = 4; lastKnownFileType = text.plist.xml; path = "États-Unis.plist"; sourceTree = "<group>"; };
+		8EFD64732A264CEE001B45B0 /* Grèce antique.plist */ = {isa = PBXFileReference; fileEncoding = 4; lastKnownFileType = text.plist.xml; path = "Grèce antique.plist"; sourceTree = "<group>"; };
+		8EFD64752A264CF6001B45B0 /* Grèce antique 384 AV-146 AV.plist */ = {isa = PBXFileReference; fileEncoding = 4; lastKnownFileType = text.plist.xml; path = "Grèce antique 384 AV-146 AV.plist"; sourceTree = "<group>"; };
+		8EFD64762A264CF6001B45B0 /* Grèce antique 508 AV-399 AV.plist */ = {isa = PBXFileReference; fileEncoding = 4; lastKnownFileType = text.plist.xml; path = "Grèce antique 508 AV-399 AV.plist"; sourceTree = "<group>"; };
+		8EFD64772A264CF6001B45B0 /* Grèce antique 1650 AV-560 AV.plist */ = {isa = PBXFileReference; fileEncoding = 4; lastKnownFileType = text.plist.xml; path = "Grèce antique 1650 AV-560 AV.plist"; sourceTree = "<group>"; };
 		8EFFB41727CE9E5F00F224CA /* EnumCardDisplaced.swift */ = {isa = PBXFileReference; lastKnownFileType = sourcecode.swift; path = EnumCardDisplaced.swift; sourceTree = "<group>"; };
 /* End PBXFileReference section */
 
@@ -537,6 +551,7 @@
 		8E22B04D29FD6F9500037A3B /* Information dur L'App */ = {
 			isa = PBXGroup;
 			children = (
+				8E7975202A2D172600C7E9FB /* Informations supplémentaires.plist */,
 				8E3AD9B229FD8CE500941529 /* Bibliographie.plist */,
 				8E3AD9B329FD8CE500941529 /* Qu'en pensez-vous ?.plist */,
 			);
@@ -623,6 +638,7 @@
 		8E22B09B29FD73D600037A3B /* Informacion sobre l'App */ = {
 			isa = PBXGroup;
 			children = (
+				8E7975242A2E568800C7E9FB /* Información adicional.plist */,
 				8EEB28A729FD88DA00D7006B /* ¿Qué opinas?.plist */,
 				8EEB28A829FD88DA00D7006B /* Bibliografía.plist */,
 			);
@@ -905,10 +921,10 @@
 		8E6EE80828A43CA000C966F6 /* Grèce antique */ = {
 			isa = PBXGroup;
 			children = (
-				8E269B8229FD928D00F71F1D /* Grèce antique.plist */,
-				8E80556128A581890088A552 /* Grèce antique 1650 AV-560 AV.plist */,
-				8E80556328A5818E0088A552 /* Grèce antique 508 AV-399 AV.plist */,
-				8E80556528A581940088A552 /* Grèce antique 384 AV-146 AV.plist */,
+				8EFD64732A264CEE001B45B0 /* Grèce antique.plist */,
+				8EFD64752A264CF6001B45B0 /* Grèce antique 384 AV-146 AV.plist */,
+				8EFD64762A264CF6001B45B0 /* Grèce antique 508 AV-399 AV.plist */,
+				8EFD64772A264CF6001B45B0 /* Grèce antique 1650 AV-560 AV.plist */,
 			);
 			path = "Grèce antique";
 			sourceTree = "<group>";
@@ -1047,6 +1063,7 @@
 		8EA6972A2800823500B349C5 /* French Plist */ = {
 			isa = PBXGroup;
 			children = (
+				8E5BC6FC2A293C310023B0DE /* SectionFrench.plist */,
 				8E74F80B2A0AE61E001D5270 /* L'Empire ottoman */,
 				8E74F7D42A045031001D5270 /* L'empire byzantin */,
 				8E22B06E29FD722C00037A3B /* Espagne */,
@@ -1069,6 +1086,7 @@
 		8EA6972B2800824E00B349C5 /* English Plist */ = {
 			isa = PBXGroup;
 			children = (
+				8E5BC6F82A293A920023B0DE /* SectionEnglish.plist */,
 				8E74F7F42A081C6E001D5270 /* The Ottoman Empire */,
 				8E22B08929FD730C00037A3B /* Spain */,
 				8E22B08029FD72D500037A3B /* The Byzantine Empire */,
@@ -1091,6 +1109,7 @@
 		8EA6972C2800825C00B349C5 /* Spanish Plist */ = {
 			isa = PBXGroup;
 			children = (
+				8E862F062A1FBD210026E2BE /* SectionSpanish.plist */,
 				8E74F8252A10054F001D5270 /* El Imperio Otomano */,
 				8E74F7E92A05C301001D5270 /* El Imperio bizantino */,
 				8E22B0A429FD84FA00037A3B /* España */,
@@ -1135,10 +1154,10 @@
 		8EABDE8D28DE596D00137E15 /* États-Unis */ = {
 			isa = PBXGroup;
 			children = (
-				8EABDE9828DE652C00137E15 /* États-Unis.plist */,
-				8EABDE9C28DE653600137E15 /* États-Unis 1607-1789.plist */,
-				8EABDE9A28DE653500137E15 /* États-Unis 1789-1908.plist */,
-				8EABDE9B28DE653600137E15 /* États-Unis 1917-1969.plist */,
+				8EFD646C2A264CA6001B45B0 /* États-Unis 1607-1789.plist */,
+				8EFD646B2A264CA6001B45B0 /* États-Unis 1789-1908.plist */,
+				8EFD646D2A264CA6001B45B0 /* États-Unis 1917-1969.plist */,
+				8EFD646E2A264CA6001B45B0 /* États-Unis.plist */,
 			);
 			name = "États-Unis";
 			path = "États-Unis";
@@ -1209,6 +1228,7 @@
 				8EC89F2127876B6300E9743B /* FlipView.swift */,
 				8E1E1A6D278E034400CAC6C7 /* SoundOption.swift */,
 				8ED9397528F1FA3100A3F2E3 /* NoInternetConnectionView.swift */,
+				8E74F8642A14034F001D5270 /* ExpandableRow.swift */,
 			);
 			path = MultipleChoiceQuizView;
 			sourceTree = "<group>";
@@ -1228,6 +1248,7 @@
 		8EF674D328E37DFC004D61C2 /* Information about App */ = {
 			isa = PBXGroup;
 			children = (
+				8E7975222A2E55EB00C7E9FB /* Additional Information.plist */,
 				8EF674D428E37E1D004D61C2 /* What do you think?.plist */,
 				8E22B0CD29FD878F00037A3B /* Bibliography.plist */,
 			);
@@ -1327,10 +1348,12 @@
 				8E6EE7B628A19EC300C966F6 /* Rome antique 27 AV - 476 AV.plist in Resources */,
 				8E6EE7DC28A303B600C966F6 /* Mesopotamia  10000 BC-2000 BC.plist in Resources */,
 				8E6EE7CE28A2B87900C966F6 /* Antiguo Egipto  3200 A.C.-2400 A.C..plist in Resources */,
+				8EFD647A2A264CF6001B45B0 /* Grèce antique 1650 AV-560 AV.plist in Resources */,
 				8E460D5427FCB34D006C4928 /* Localizable.strings in Resources */,
 				8E558A0F28A6CD5500BB28F4 /* India 369-1948.plist in Resources */,
 				8E6EE7B028A19B5700C966F6 /* Antigua Roma 27 AC - 476.plist in Resources */,
 				8E6EE79C28A1837000C966F6 /* Inglaterra 1016-1509.plist in Resources */,
+				8EFD646F2A264CA6001B45B0 /* États-Unis 1789-1908.plist in Resources */,
 				8E4E86E22932BAEC007ED755 /* De 538 a 6 millones de años.plist in Resources */,
 				8EEA3D7F284169850044F70D /* Inde.plist in Resources */,
 				8E4E86D42932B709007ED755 /* 538 to 6 million years ago.plist in Resources */,
@@ -1350,6 +1373,7 @@
 				8E6EE7D828A3039700C966F6 /* Mesopotamia 10000 A.C.-2000 A.C..plist in Resources */,
 				8E22B0BB29FD86CD00037A3B /* Spain 1478-1618.plist in Resources */,
 				8E558A1528A6CD7000BB28F4 /* Inde 30000 AV-232 AV.plist in Resources */,
+				8E7975232A2E55EB00C7E9FB /* Additional Information.plist in Resources */,
 				8E12DA812A02E38E0025B8B8 /* The Byzantine Empire 1204-1461.plist in Resources */,
 				8E22B0C929FD875C00037A3B /* Islamic Empire 610-712.plist in Resources */,
 				8E3AD9A729FD8CC800941529 /* Espagne 35000-1469.plist in Resources */,
@@ -1360,6 +1384,7 @@
 				8E6EE7D228A2B88B00C966F6 /* Antiguo Egipto 1213 A.C.-1824.plist in Resources */,
 				8E6EE7F028A4382600C966F6 /* China 220-1949.plist in Resources */,
 				8EF70D56288F190800F128B7 /* Francia 1794 - 1940.plist in Resources */,
+				8EFD64742A264CEE001B45B0 /* Grèce antique.plist in Resources */,
 				8E3AD9A829FD8CC800941529 /* Espagne.plist in Resources */,
 				8E3AD9B529FD8CE500941529 /* Qu'en pensez-vous ?.plist in Resources */,
 				8EABDEA928DE665B00137E15 /* Estados Unidos 1789-1908.plist in Resources */,
@@ -1368,27 +1393,25 @@
 				8EC89EE92784B3D300E9743B /* Preview Assets.xcassets in Resources */,
 				8E6EE7EC28A4380200C966F6 /* China  220-1949.plist in Resources */,
 				8E1E1A68278DE31E00CAC6C7 /* chime_clickbell_octave_up.mp3 in Resources */,
+				8E5BC6FD2A293C310023B0DE /* SectionFrench.plist in Resources */,
 				8E3AD9B429FD8CE500941529 /* Bibliographie.plist in Resources */,
 				8E3AD9A629FD8CC800941529 /* Espagne 1701-1975.plist in Resources */,
-				8E80556428A5818E0088A552 /* Grèce antique 508 AV-399 AV.plist in Resources */,
 				8E22B0B329FD853A00037A3B /* España 1478-1618.plist in Resources */,
+				8EFD64782A264CF6001B45B0 /* Grèce antique 384 AV-146 AV.plist in Resources */,
 				8E74F7F12A05C31F001D5270 /* El Imperio bizantino 330-636.plist in Resources */,
 				8E558A1128A6CD6000BB28F4 /* Indian History 30000 BC-232 BC.plist in Resources */,
 				8EF674D528E37E1D004D61C2 /* What do you think?.plist in Resources */,
 				8E4E86CC2932B5F3007ED755 /* From the Big Bang to humans.plist in Resources */,
 				8E12DA832A02E38E0025B8B8 /* The Byzantine Empire 674-1118.plist in Resources */,
-				8E80556228A581890088A552 /* Grèce antique 1650 AV-560 AV.plist in Resources */,
 				8EEA3D7D28413E950044F70D /* Indian History.plist in Resources */,
+				8E7975252A2E568800C7E9FB /* Información adicional.plist in Resources */,
 				8E74F82A2A10056F001D5270 /* El Imperio Otomano 1593-1923.plist in Resources */,
 				8E0BA30C2814A06D00DECB80 /* Mesopotamia.plist in Resources */,
 				8E22B0B129FD853A00037A3B /* España.plist in Resources */,
 				8E6EE79628A181C700C966F6 /* British History 1528-1837.plist in Resources */,
 				8E4E86DC2932B922007ED755 /* De 4 millions à 3500 ans av..plist in Resources */,
-				8E269B8329FD928D00F71F1D /* Grèce antique.plist in Resources */,
 				8E74F7F02A05C31F001D5270 /* El Imperio bizantino 1204-1461.plist in Resources */,
 				8E6EE7C228A2AD1D00C966F6 /* Ancient Egypt.plist in Resources */,
-				8EABDE9928DE652C00137E15 /* États-Unis.plist in Resources */,
-				8EABDE9F28DE653600137E15 /* États-Unis 1607-1789.plist in Resources */,
 				8E12DA852A02E39F0025B8B8 /* The Byzantine Empire.plist in Resources */,
 				8E6EE7C028A2AB9300C966F6 /* Ancient Egypt 1213 BC-1824.plist in Resources */,
 				8E6EE7DA28A3039F00C966F6 /* Mesopotamia 1894 A.C.-651.plist in Resources */,
@@ -1404,6 +1427,7 @@
 				8E6EE7A428A1972F00C966F6 /* Ancient Rome 753 BC - 30 BC.plist in Resources */,
 				8E4E86E42932BAF3007ED755 /* De 4 millones de años a 3500 a.C..plist in Resources */,
 				8E0BA312281AE63500DECB80 /* Antigua Roma.plist in Resources */,
+				8EFD64712A264CA6001B45B0 /* États-Unis 1917-1969.plist in Resources */,
 				8E3AD99229FD8BAB00941529 /* ListSpanish.json in Resources */,
 				8EC89EE62784B3D300E9743B /* Assets.xcassets in Resources */,
 				8E3AD99029FD8B9D00941529 /* ListFrench.json in Resources */,
@@ -1417,6 +1441,7 @@
 				8EEA3D832842A0650044F70D /* India.plist in Resources */,
 				8E6EE7A228A1972300C966F6 /* Ancient Rome 27 BC - 476.plist in Resources */,
 				8E3AD99F29FD8CBB00941529 /* Empire islamique 732-846.plist in Resources */,
+				8E862F072A1FBD210026E2BE /* SectionSpanish.plist in Resources */,
 				8EF70D382889D29400F128B7 /* France 1309 - 1793.plist in Resources */,
 				8E74F7E52A0587BD001D5270 /* L'empire byzantin 674-1118.plist in Resources */,
 				8E4E86CA2932B5E9007ED755 /* Du Big Bang à l'homme.plist in Resources */,
@@ -1429,12 +1454,11 @@
 				8E74F7EB2A05C312001D5270 /* El Imperio bizantino.plist in Resources */,
 				8E6EE78628A052D400C966F6 /* Acoustic Trio.wav in Resources */,
 				8E6EE7F428A4383A00C966F6 /* Chine 220-1949.plist in Resources */,
-				8E80556628A581940088A552 /* Grèce antique 384 AV-146 AV.plist in Resources */,
+				8E7975212A2D172700C7E9FB /* Informations supplémentaires.plist in Resources */,
 				8E74F7E62A0587BD001D5270 /* L'empire byzantin 1204-1461.plist in Resources */,
 				8E80557228A581C80088A552 /* Antigua Grecia 384 A.C.-146 A.C..plist in Resources */,
 				8EEB28B129FD890200D7006B /* El Imperio Islámico.plist in Resources */,
 				8E6EE78E28A17E3400C966F6 /* Angleterre 1528-1837.plist in Resources */,
-				8EABDE9D28DE653600137E15 /* États-Unis 1789-1908.plist in Resources */,
 				8E74F7F62A081C85001D5270 /* The Ottoman Empire.plist in Resources */,
 				8E6EE79A28A1836800C966F6 /* Inglaterra 6000 BC-878.plist in Resources */,
 				8E6EE7DE28A303C500C966F6 /* Mesopotamia  1894 BC-651 AD.plist in Resources */,
@@ -1466,22 +1490,25 @@
 				8E6EE7B428A19EBB00C966F6 /* Rome antique 753 AV - 30 AV.plist in Resources */,
 				8E4E86DA2932B919007ED755 /* De 538 à 6 millions d'années.plist in Resources */,
 				8EABDEA728DE665B00137E15 /* Estados Unidos 1917-1969.plist in Resources */,
+				8EFD64792A264CF6001B45B0 /* Grèce antique 508 AV-399 AV.plist in Resources */,
 				8EF70D52288F18F700F128B7 /* Francia 40000 aC - 843.plist in Resources */,
 				8E22B0CE29FD878F00037A3B /* Bibliography.plist in Resources */,
 				8E22B05F29FD716E00037A3B /* Mésopotamie 10000 AV-2000 AV.plist in Resources */,
 				8EABDEA328DE664D00137E15 /* Estados Unidos.plist in Resources */,
 				8EDC383D27D686CB00FFAD23 /* British History.plist in Resources */,
 				8E22B0CC29FD875C00037A3B /* The Islamic Empire.plist in Resources */,
+				8E5BC6F92A293A920023B0DE /* SectionEnglish.plist in Resources */,
 				8EF70D4A288F17E200F128B7 /* French History 40000 BC - 843.plist in Resources */,
 				8E74F7E02A0587B5001D5270 /* L'empire byzantin.plist in Resources */,
 				8EF70D46288F114500F128B7 /* ListSpanishTitle.json in Resources */,
 				8E74F8132A0C3BBD001D5270 /* The Ottoman Empire 1299-1473.plist in Resources */,
+				8EFD64722A264CA6001B45B0 /* États-Unis.plist in Resources */,
 				8E56AC82280746A6005D5104 /* Inglaterra.plist in Resources */,
 				8E22B0B229FD853A00037A3B /* España 35000-1469.plist in Resources */,
 				8EF70D3A2889D29B00F128B7 /* France 1794 - 1940.plist in Resources */,
 				8EF70D4C288F17E900F128B7 /* French History 1309 - 1793.plist in Resources */,
 				8E3AD9AF29FD8CD700941529 /* Égypte antique 3200 AV-2400 AV.plist in Resources */,
-				8EABDE9E28DE653600137E15 /* États-Unis 1917-1969.plist in Resources */,
+				8EFD64702A264CA6001B45B0 /* États-Unis 1607-1789.plist in Resources */,
 				8E3AD9A929FD8CC800941529 /* Espagne 1478-1618.plist in Resources */,
 				8E6EE7BE28A2AB8C00C966F6 /* Ancient Egypt 2300 BC-1323 BC.plist in Resources */,
 				8E80556828A581A30088A552 /* Ancient Greece 1650 BC-560 BC.plist in Resources */,
@@ -1554,6 +1581,7 @@
 				8E1F7C1E27E62E3800147176 /* StatisticsView.swift in Sources */,
 				8EEA3D85284693250044F70D /* LineView.swift in Sources */,
 				8ED842AA28592D9800518E0B /* CoinManagementView.swift in Sources */,
+				8E74F8652A14034F001D5270 /* ExpandableRow.swift in Sources */,
 				8EC89EE22784B3CF00E9743B /* LearnHistoryApp.swift in Sources */,
 				8E86676E27AC560F0010EB1E /* StudyView.swift in Sources */,
 				8E3AD99929FD8C7F00941529 /* ReviewHandler.swift in Sources */,
@@ -1718,7 +1746,7 @@
 					"$(inherited)",
 					"@executable_path/Frameworks",
 				);
-				MARKETING_VERSION = 1.5;
+				MARKETING_VERSION = 1.7;
 				PRODUCT_BUNDLE_IDENTIFIER = NM.LearnHistory;
 				PRODUCT_NAME = LearnHistory;
 				SUPPORTS_MACCATALYST = YES;
@@ -1751,7 +1779,7 @@
 					"$(inherited)",
 					"@executable_path/Frameworks",
 				);
-				MARKETING_VERSION = 1.5;
+				MARKETING_VERSION = 1.7;
 				PRODUCT_BUNDLE_IDENTIFIER = NM.LearnHistory;
 				PRODUCT_NAME = LearnHistory;
 				SUPPORTS_MACCATALYST = YES;

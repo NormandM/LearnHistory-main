@@ -4,42 +4,6 @@
 <array>
 	<dict>
 		<key>id</key>
-		<string>74b482f2-199f-11ed-861d-0242ac120002</string>
-		<key>date</key>
-		<string>1650 AV-1100 AV</string>
-		<key>question</key>
-		<string>Comment s&apos;appelle la phase de la civilisation grecque qui s&apos;étend de 1650 à 1100 avant JC à la fin de l&apos;âge du bronze ?</string>
-		<key>correctTAnswer</key>
-		<string>Mycénienne</string>
-		<key>incorrectAnswer1</key>
-		<string>Classique</string>
-		<key>incorrectAnswer2</key>
-		<string>Hellénistique</string>
-		<key>incorrectAnswer3</key>
-		<string>Primitive</string>
-		<key>wikiSearchWord</key>
-		<string>Civilisation mycénienne</string>
-		<key>questionTrueOrFalse</key>
-		<string>La guerre de Troie se déroule à l&apos;époque mycénienne.</string>
-		<key>trueOrFalseAnswer</key>
-		<string>Vrai</string>
-		<key>timeLine</key>
-		<string>Civilisation mycénienne</string>
-		<key>theme</key>
-		<string>Grèce antique</string>
-		<key>numberOfGoodAnswers</key>
-		<integer>0</integer>
-		<key>numberOfBadAnswers</key>
-		<integer>0</integer>
-		<key>numberOfGoodAnswersQuiz</key>
-		<integer>0</integer>
-		<key>numberOfBadAnswersQuiz</key>
-		<integer>0</integer>
-		<key>order</key>
-		<integer>0</integer>
-	</dict>
-	<dict>
-		<key>id</key>
 		<string>135fb242-ba90-11ec-8422-0242ac120002</string>
 		<key>date</key>
 		<string>1600 Av</string>
@@ -344,7 +308,7 @@
 		<key>wikiSearchWord</key>
 		<string>Solon</string>
 		<key>questionTrueOrFalse</key>
-		<string>Solon fait partie des Sept Sages de la Grèce. </string>
+		<string>Il fait partie des Sept Sages de la Grèce. </string>
 		<key>trueOrFalseAnswer</key>
 		<string>Vrai</string>
 		<key>timeLine</key>
@@ -452,7 +416,7 @@
 		<key>wikiSearchWord</key>
 		<string>Première guerre médique</string>
 		<key>questionTrueOrFalse</key>
-		<string>Les Perses ont gagné la première guerre médique.</string>
+		<string>Les Perses ont gagné cette première guerre.</string>
 		<key>trueOrFalseAnswer</key>
 		<string>Faux</string>
 		<key>timeLine</key>

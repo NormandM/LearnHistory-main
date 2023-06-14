@@ -292,7 +292,7 @@
 	</dict>
 	<dict>
 		<key>correctTAnswer</key>
-		<string>Neutres</string>
+		<string>Neutre</string>
 		<key>date</key>
 		<string>1939</string>
 		<key>id</key>
@@ -320,7 +320,7 @@
 		<key>theme</key>
 		<string>Espagne 1701-1975</string>
 		<key>timeLine</key>
-		<string>L&apos;Espagne pendant la Seconde Guerre mondiale</string>
+		<string>Neutralité de l&apos;Espagne pendant la seconde guerre mondiale.</string>
 		<key>trueOrFalseAnswer</key>
 		<string>Faux</string>
 		<key>wikiSearchWord</key>

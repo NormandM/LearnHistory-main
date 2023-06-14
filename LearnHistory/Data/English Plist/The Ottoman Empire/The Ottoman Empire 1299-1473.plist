@@ -28,13 +28,13 @@
 		<key>question</key>
 		<string> Who founded the Ottoman Empire?</string>
 		<key>questionTrueOrFalse</key>
-		<string> Osman I was the founder of the Ottoman Empire</string>
+		<string>During Osman&apos;s lifetime, his principality transformed into a world empire.</string>
 		<key>theme</key>
 		<string>The Ottoman Empire 1299-1473</string>
 		<key>timeLine</key>
 		<string> Osman I founds Ottoman Empire</string>
 		<key>trueOrFalseAnswer</key>
-		<string>True</string>
+		<string>False</string>
 		<key>wikiSearchWord</key>
 		<string> Osman I </string>
 	</dict>
@@ -64,13 +64,13 @@
 		<key>question</key>
 		<string> What was the first capital of the Ottoman Empire?</string>
 		<key>questionTrueOrFalse</key>
-		<string> Bursa was the second capital of the Ottoman Empire</string>
+		<string>The siege of Bursa was the first time the Ottomans captured a city. </string>
 		<key>theme</key>
 		<string>The Ottoman Empire 1299-1473</string>
 		<key>timeLine</key>
 		<string> Bursa: 1st Ottoman capital</string>
 		<key>trueOrFalseAnswer</key>
-		<string>False</string>
+		<string>True</string>
 		<key>wikiSearchWord</key>
 		<string> Conquest of Bursa </string>
 	</dict>
@@ -136,7 +136,7 @@
 		<key>question</key>
 		<string> Which battle resulted in an Ottoman victory over the Serbian army?</string>
 		<key>questionTrueOrFalse</key>
-		<string> The Battle of Kosovo resulted in a Serbian victory over the Ottomans</string>
+		<string>The Serbian principalities had enough manpower to field large armies against future Ottoman campaigns. </string>
 		<key>theme</key>
 		<string>The Ottoman Empire 1299-1473</string>
 		<key>timeLine</key>
@@ -286,7 +286,7 @@
 		<key>timeLine</key>
 		<string> Constantinople falls</string>
 		<key>trueOrFalseAnswer</key>
-		<string>False</string>
+		<string>True</string>
 		<key>wikiSearchWord</key>
 		<string> Fall of Constantinople </string>
 	</dict>

@@ -28,9 +28,10 @@ struct TimeLinesDetailView: View {
                         Text(event.wrappedDate)
                             .fontWeight(.semibold)
                             .frame(width: 120, alignment: .leading)
-                            
+                            .foregroundColor(.black)
                         Text(event.wrappedTimeLine)
                             .fontWeight(.bold)
+                            .foregroundColor(.black)
                             .multilineTextAlignment(.leading)
                             .fixedSize(horizontal: false, vertical: true)
                             .padding()

@@ -4,7 +4,7 @@
 <array>
 	<dict>
 		<key>correctTAnswer</key>
-		<string>Sufrieron muchas bajas y perdieron la moral, lo que provocó conflictos internos</string>
+		<string>El fin de la expansión musulmana en Europa Occidental...</string>
 		<key>date</key>
 		<string>732</string>
 		<key>id</key>
@@ -28,7 +28,7 @@
 		<key>question</key>
 		<string>¿Cuál fue la consecuencia a largo plazo de la batalla de Tours para los moros?</string>
 		<key>questionTrueOrFalse</key>
-		<string>La batalla de Poitiers fue una victoria para los musulmanes.</string>
+		<string>Carlos Martel era el líder del ejército musulmán durante la batalla de Poitiers.</string>
 		<key>theme</key>
 		<string>Imperio Islámico 732-846</string>
 		<key>timeLine</key>
@@ -172,7 +172,7 @@
 		<key>question</key>
 		<string>¿Cuál fue el principal objetivo de la fundación de Bagdad?</string>
 		<key>questionTrueOrFalse</key>
-		<string>Bagdad fue fundada en el siglo VIII y se convirtió en la capital del Califato abasí.</string>
+		<string> Bagdad fue en gran medida destruida por las tropas del Imperio mongol en 1258, lo que resultó en un declive que duró muchos siglos.</string>
 		<key>theme</key>
 		<string>Imperio Islámico 732-846</string>
 		<key>timeLine</key>
@@ -258,7 +258,7 @@
 		<key>correctTAnswer</key>
 		<string>El califa Harun al-Rashid</string>
 		<key>date</key>
-		<string>786</string>
+		<string>786-809</string>
 		<key>id</key>
 		<string>fd9dbfb2-8884-11ed-a1eb-0242ac120002</string>
 		<key>incorrectAnswer1</key>
@@ -294,7 +294,7 @@
 		<key>correctTAnswer</key>
 		<string>Árabe</string>
 		<key>date</key>
-		<string>786</string>
+		<string>786-800</string>
 		<key>id</key>
 		<string>fd9dc19c-8884-11ed-a1eb-0242ac120002</string>
 		<key>incorrectAnswer1</key>
@@ -316,7 +316,7 @@
 		<key>question</key>
 		<string>¿Cuál es la lengua original de Las mil y una noches?</string>
 		<key>questionTrueOrFalse</key>
-		<string>Las Mil y una noches fue escrita por un solo autor durante un corto período de tiempo. </string>
+		<string> Todas las historias incluidas en &quot;Las mil y una noches&quot; fueron escritas originalmente en el período abasí.</string>
 		<key>theme</key>
 		<string>Imperio Islámico 732-846</string>
 		<key>timeLine</key>
@@ -330,7 +330,7 @@
 		<key>correctTAnswer</key>
 		<string>Sherezade</string>
 		<key>date</key>
-		<string>786</string>
+		<string>786-800</string>
 		<key>id</key>
 		<string>fd9dc50c-8884-11ed-a1eb-0242ac120002</string>
 		<key>incorrectAnswer1</key>
@@ -352,13 +352,13 @@
 		<key>question</key>
 		<string>¿Quién es el personaje principal de Las mil y una noches?</string>
 		<key>questionTrueOrFalse</key>
-		<string>Las Mil y una noches fue traducida al árabe desde una obra persa llamada Hezār Afsān. </string>
+		<string>Las Mil y una noches fue escrita por un solo autor durante un corto período de tiempo. </string>
 		<key>theme</key>
 		<string>Imperio Islámico 732-846</string>
 		<key>timeLine</key>
 		<string> Se escriben Las mil y una noches</string>
 		<key>trueOrFalseAnswer</key>
-		<string>Verdadero</string>
+		<string>Falso</string>
 		<key>wikiSearchWord</key>
 		<string>Las mil y una noches</string>
 	</dict>

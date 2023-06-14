@@ -208,7 +208,7 @@
 		<key>question</key>
 		<string>Which of the following works is NOT attributed to Avicenna?</string>
 		<key>questionTrueOrFalse</key>
-		<string>Avicenna was a Greek polymath who is regarded as one of the most significant philosophers and writers of the modern era.</string>
+		<string>Avicenna was heavily influenced by Chinese Confucian philosophy.</string>
 		<key>theme</key>
 		<string>Islamic Empire 853-1258</string>
 		<key>timeLine</key>
@@ -316,13 +316,13 @@
 		<key>question</key>
 		<string>Which of the following factors facilitated the spread of Islam through the Mongol Empire?</string>
 		<key>questionTrueOrFalse</key>
-		<string>The Mongols were not highly tolerant of all religions during the early Mongol Empire.</string>
+		<string>Three of the four principal khanates embraced Islam in the later years of the empire, indicating that Islam was favored over other religions.</string>
 		<key>theme</key>
 		<string>Islamic Empire 853-1258</string>
 		<key>timeLine</key>
 		<string>The conquests of the Mongol Empire, of much of the Muslim world.</string>
 		<key>trueOrFalseAnswer</key>
-		<string>False</string>
+		<string>True</string>
 		<key>wikiSearchWord</key>
 		<string>Religion in the Mongol Empire</string>
 	</dict>

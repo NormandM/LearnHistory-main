@@ -24,9 +24,9 @@
 		<key>trueOrFalseAnswer</key>
 		<string>True</string>
 		<key>timeLine</key>
-		<string>Homo sapiens may have arrived in the Iberian Peninsula</string>
+		<string>Homo sapiens arrive in the Iberian Peninsula</string>
 		<key>theme</key>
-		<string>Spain</string>
+		<string>Spain History</string>
 		<key>numberOfGoodAnswers</key>
 		<integer>0</integer>
 		<key>numberOfBadAnswers</key>
@@ -120,7 +120,7 @@
 		<key>question</key>
 		<string>How long did the Roman conquest of the Iberian Peninsula last?</string>
 		<key>correctTAnswer</key>
-		<string>More than three centuries</string>
+		<string>About 200 years</string>
 		<key>incorrectAnswer1</key>
 		<string>Less than a decade</string>
 		<key>incorrectAnswer2</key>
@@ -298,19 +298,19 @@
 		<key>date</key>
 		<string>1139</string>
 		<key>question</key>
-		<string>What other country was the Kingdom of Portugal allied with during its early history?</string>
+		<string>The creation of Portugal was a process that occurred in the context of which broader historical event?</string>
 		<key>correctTAnswer</key>
-		<string>Castile (Spain)</string>
+		<string>The Reconquista</string>
 		<key>incorrectAnswer1</key>
-		<string>France</string>
+		<string>The Crusades</string>
 		<key>incorrectAnswer2</key>
-		<string>England</string>
+		<string>The Fall of Rome</string>
 		<key>incorrectAnswer3</key>
-		<string>The Netherlands</string>
+		<string>The Hundred Years&apos; War</string>
 		<key>wikiSearchWord</key>
 		<string>History of Portugal</string>
 		<key>questionTrueOrFalse</key>
-		<string>The Kingdom of Portugal was established after the fall of Rome.</string>
+		<string>The Kingdom of Portugal was established immediately after the fall of Rome.</string>
 		<key>trueOrFalseAnswer</key>
 		<string>False</string>
 		<key>timeLine</key>
@@ -334,15 +334,15 @@
 		<key>date</key>
 		<string>1469</string>
 		<key>question</key>
-		<string>What was Isabella I of Castile known for?</string>
+		<string>What controversial action did Queen Isabella of Castile initiate during her reign?</string>
 		<key>correctTAnswer</key>
-		<string>She was a key figure in the unification of Spain.</string>
+		<string> The initiation of the Spanish Inquisition</string>
 		<key>incorrectAnswer1</key>
-		<string>She was a successful military leader.</string>
+		<string>The creation of the University of Salamanca</string>
 		<key>incorrectAnswer2</key>
-		<string>She was a skilled diplomat.</string>
+		<string>Support for transatlantic exploration by Christopher Columbus</string>
 		<key>incorrectAnswer3</key>
-		<string>She was a patron of the arts.</string>
+		<string>The annexation of France to Spain</string>
 		<key>wikiSearchWord</key>
 		<string>Isabella I of Castile</string>
 		<key>questionTrueOrFalse</key>
@@ -444,13 +444,13 @@
 		<key>question</key>
 		<string>Who sponsored the expedition of explorer Christopher Columbus?</string>
 		<key>correctTAnswer</key>
-		<string>Queen Isabella</string>
+		<string>Queen Isabella I of Castile and King Ferdinand II of Aragon of Spain</string>
 		<key>incorrectAnswer1</key>
-		<string>King Ferdinand</string>
+		<string>King Louis XI of France</string>
 		<key>incorrectAnswer2</key>
-		<string>Queen Elizabeth</string>
+		<string>King Henry VII of England</string>
 		<key>incorrectAnswer3</key>
-		<string>King Henry VIII</string>
+		<string> The Doge of Venice</string>
 		<key>wikiSearchWord</key>
 		<string>Christopher Columbus</string>
 		<key>questionTrueOrFalse</key>
@@ -486,7 +486,7 @@
 		<key>incorrectAnswer2</key>
 		<string>To establish a new tax system in Spain</string>
 		<key>incorrectAnswer3</key>
-		<string>o declare war on a neighboring country</string>
+		<string>To declare war on a neighboring country</string>
 		<key>wikiSearchWord</key>
 		<string>Alhambra Decree</string>
 		<key>questionTrueOrFalse</key>
@@ -637,7 +637,7 @@ of the Holy Roman Empire&apos;s decline.</string>
 		<key>questionTrueOrFalse</key>
 		<string>The English fleet was able to attack the Armada as it sailed up the Channel because it was faster and more manoeuvrable than the larger Spanish galleons.</string>
 		<key>trueOrFalseAnswer</key>
-		<string>False</string>
+		<string>True</string>
 		<key>timeLine</key>
 		<string>The Spanish Armada is defeated by the English navy</string>
 		<key>theme</key>
@@ -661,13 +661,13 @@ of the Holy Roman Empire&apos;s decline.</string>
 		<key>question</key>
 		<string>What is the main character of &quot;Don Quixote&quot; known for?</string>
 		<key>correctTAnswer</key>
-		<string>His chivalry and bravery</string>
+		<string>His idealistic pursuit of chivalric values and his tendency to confuse reality with imagination</string>
 		<key>incorrectAnswer1</key>
-		<string>His wealth and power</string>
+		<string>His talent for diplomacy and negotiation</string>
 		<key>incorrectAnswer2</key>
-		<string>His intelligence and wit</string>
+		<string>His role as a great Spanish conqueror</string>
 		<key>incorrectAnswer3</key>
-		<string>His charm and charisma</string>
+		<string>His great wealth and influence on the Spanish royal court</string>
 		<key>wikiSearchWord</key>
 		<string>Don Quixote</string>
 		<key>questionTrueOrFalse</key>
@@ -1031,7 +1031,7 @@ of the Holy Roman Empire&apos;s decline.</string>
 		<key>wikiSearchWord</key>
 		<string>Spain during World War II</string>
 		<key>questionTrueOrFalse</key>
-		<string>In WW II Spain did not offer to join the war on the side of the Axis Powers.</string>
+		<string> Francisco Franco maintained a strict neutrality policy throughout the entirety of World War II.</string>
 		<key>trueOrFalseAnswer</key>
 		<string>False</string>
 		<key>timeLine</key>

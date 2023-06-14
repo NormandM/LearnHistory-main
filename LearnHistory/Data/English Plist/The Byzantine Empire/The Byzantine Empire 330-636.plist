@@ -28,7 +28,7 @@
 		<key>question</key>
 		<string>Who founded the city of Constantinople?</string>
 		<key>questionTrueOrFalse</key>
-		<string> Constantinople was founded by Emperor Augustus.</string>
+		<string>After the Fourth Crusade in 1204, the city of Constantinople thrived and grew in population under Latin occupation.</string>
 		<key>theme</key>
 		<string>The Byzantine Empire 330-636</string>
 		<key>timeLine</key>
@@ -320,7 +320,7 @@
 		<key>theme</key>
 		<string>The Byzantine Empire 330-636</string>
 		<key>timeLine</key>
-		<string> Siege of Constantinople </string>
+		<string> Siege of Constantinople by  Avar and Persian</string>
 		<key>trueOrFalseAnswer</key>
 		<string>False</string>
 		<key>wikiSearchWord</key>

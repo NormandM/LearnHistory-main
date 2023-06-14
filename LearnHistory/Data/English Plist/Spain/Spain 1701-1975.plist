@@ -215,6 +215,8 @@
 		<string> The Spanish Civil War begins </string>
 		<key>trueOrFalseAnswer</key>
 		<string>False</string>
+		<key>New item</key>
+		<string></string>
 		<key>wikiSearchWord</key>
 		<string>Spanish Civil War</string>
 	</dict>
@@ -316,7 +318,7 @@
 		<key>question</key>
 		<string>Which of the following best describes Spain&apos;s stance during World War II?</string>
 		<key>questionTrueOrFalse</key>
-		<string>In WW II Spain did not offer to join the war on the side of the Axis Powers.</string>
+		<string> Francisco Franco maintained a strict neutrality policy throughout the entirety of World War II.</string>
 		<key>theme</key>
 		<string>Spain 1701-1975</string>
 		<key>timeLine</key>

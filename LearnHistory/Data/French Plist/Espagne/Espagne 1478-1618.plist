@@ -76,17 +76,17 @@
 	</dict>
 	<dict>
 		<key>correctTAnswer</key>
-		<string>La reine Isabelle</string>
+		<string>La reine Isabelle I de Castille et le roi Ferdinand II d&apos;Aragon d&apos;Espagne</string>
 		<key>date</key>
 		<string>1492</string>
 		<key>id</key>
 		<string>f506063a-8310-11ed-a1eb-0242ac120002</string>
 		<key>incorrectAnswer1</key>
-		<string>Le roi Ferdinand</string>
+		<string>Le roi Louis XI de France</string>
 		<key>incorrectAnswer2</key>
-		<string>La reine Elizabeth</string>
+		<string>Le roi Henry VII d&apos;Angleterre</string>
 		<key>incorrectAnswer3</key>
-		<string>Le roi Henri VIII</string>
+		<string> Le Doge de Venise</string>
 		<key>numberOfBadAnswers</key>
 		<integer>0</integer>
 		<key>numberOfBadAnswersQuiz</key>
@@ -98,7 +98,7 @@
 		<key>order</key>
 		<integer>13</integer>
 		<key>question</key>
-		<string>Qui a parrainé l&apos;expédition de l&apos;explorateur Christophe Colomb ?</string>
+		<string>Qui a financé l&apos;expédition de 1492 de Christophe Colomb à la recherche d&apos;une nouvelle route vers l&apos;Asie?</string>
 		<key>questionTrueOrFalse</key>
 		<string>Christophe Colomb a été nommé &quot;amiral de la mer Océane, gouverneur et vice-roi des Indes&quot; après son premier voyage en 1492.</string>
 		<key>theme</key>
@@ -172,13 +172,13 @@
 		<key>question</key>
 		<string>Quelle est la signification du couronnement de Charles Ier comme empereur du Saint Empire romain germanique ?</string>
 		<key>questionTrueOrFalse</key>
-		<string>Charles de Habsbourg a abandonné ses pouvoirs à la fin de sa vie en raison de révoltes en Castille et dans le Saint-Empire.</string>
+		<string>À la fin de sa vie, Charles de Habsbourg a volontairement abdiqué de ses pouvoirs, cédant les États autrichiens et la dignité impériale à son frère Ferdinand et ses droits sur les Pays-Bas et l&apos;Espagne à son fils Philippe.</string>
 		<key>theme</key>
 		<string>Espagne 1478-1618</string>
 		<key>timeLine</key>
 		<string>Charles Ier est couronné empereur du Saint Empire romain germanique.</string>
 		<key>trueOrFalseAnswer</key>
-		<string>Faux</string>
+		<string>Vrai</string>
 		<key>wikiSearchWord</key>
 		<string>Charles Quint</string>
 	</dict>
@@ -256,17 +256,17 @@
 	</dict>
 	<dict>
 		<key>correctTAnswer</key>
-		<string>Pour punir l&apos;Angleterre d&apos;avoir soutenu la rébellion hollandaise.</string>
+		<string>Pour mettre fin à la piraterie des corsaires anglais contre les navires et colonies espagnols</string>
 		<key>date</key>
 		<string>1588</string>
 		<key>id</key>
 		<string>f506112a-8310-11ed-a1eb-0242ac120002</string>
 		<key>incorrectAnswer1</key>
-		<string>Convertir les Anglais au catholicisme</string>
+		<string>Pour prendre contrôle des ressources naturelles de l&apos;Angleterre</string>
 		<key>incorrectAnswer2</key>
-		<string>Pour prendre le contrôle du trône d&apos;Angleterre</string>
+		<string>Pour soutenir l&apos;indépendance de l&apos;Écosse</string>
 		<key>incorrectAnswer3</key>
-		<string>Pour établir une colonie espagnole en Angleterre</string>
+		<string>Pour établir une colonie espagnole sur le territoire anglais</string>
 		<key>numberOfBadAnswers</key>
 		<integer>0</integer>
 		<key>numberOfBadAnswersQuiz</key>
@@ -278,7 +278,7 @@
 		<key>order</key>
 		<integer>18</integer>
 		<key>question</key>
-		<string>Pourquoi l&apos;Armada espagnole a-t-elle entrepris d&apos;envahir l&apos;Angleterre en 1588 ?</string>
+		<string>Quelle était une des principales raisons pour lesquelles l&apos;Armada espagnole a tenté d&apos;envahir l&apos;Angleterre en 1588 ?</string>
 		<key>questionTrueOrFalse</key>
 		<string>La bataille de Gravelines a été présentée comme une éclatante victoire espagnole.</string>
 		<key>theme</key>
@@ -292,17 +292,17 @@
 	</dict>
 	<dict>
 		<key>correctTAnswer</key>
-		<string>Sa chevalerie et sa bravoure</string>
+		<string>Sa poursuite idéaliste des valeurs chevaleresques et sa tendance à confondre la réalité et l&apos;imagination</string>
 		<key>date</key>
 		<string>1605</string>
 		<key>id</key>
 		<string>f5061224-8310-11ed-a1eb-0242ac120002</string>
 		<key>incorrectAnswer1</key>
-		<string>Sa richesse et sa puissance</string>
+		<string>Son talent pour la diplomatie et la négociation</string>
 		<key>incorrectAnswer2</key>
-		<string>Son intelligence et son esprit</string>
+		<string>Son rôle en tant que grand conquérant espagnol</string>
 		<key>incorrectAnswer3</key>
-		<string>Son charme et son charisme</string>
+		<string>Sa grande richesse et son influence sur la cour royale espagnole</string>
 		<key>numberOfBadAnswers</key>
 		<integer>0</integer>
 		<key>numberOfBadAnswersQuiz</key>

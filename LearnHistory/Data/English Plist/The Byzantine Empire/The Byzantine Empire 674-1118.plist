@@ -100,7 +100,7 @@
 		<key>question</key>
 		<string>Who initiated the first period of Iconoclasm in the Byzantine Empire?</string>
 		<key>questionTrueOrFalse</key>
-		<string> Iconoclasm in the Byzantine Empire began in the 7th century AD.</string>
+		<string> Iconoclasm in the Byzantine Empire began in the 6th century AD.</string>
 		<key>theme</key>
 		<string>The Byzantine Empire 674-1118</string>
 		<key>timeLine</key>
@@ -316,13 +316,13 @@
 		<key>question</key>
 		<string>Which Turkish leader defeated the Byzantines at the Battle of Manzikert?</string>
 		<key>questionTrueOrFalse</key>
-		<string> The Battle of Manzikert took place in 1071 AD.</string>
+		<string>After the Battle of Manzikert, the Byzantine Empire immediately regained stability and could adequately defend its borders again.</string>
 		<key>theme</key>
 		<string>The Byzantine Empire 674-1118</string>
 		<key>timeLine</key>
 		<string> Battle of Manzikert </string>
 		<key>trueOrFalseAnswer</key>
-		<string>True</string>
+		<string>False</string>
 		<key>wikiSearchWord</key>
 		<string> Battle of Manzikert</string>
 	</dict>

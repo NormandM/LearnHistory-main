@@ -50,9 +50,7 @@
 		<key>incorrectAnswer2</key>
 		<string>Guerre et conquête</string>
 		<key>incorrectAnswer3</key>
-		<string>Chasse et cueillette
-
-</string>
+		<string>Chasse et cueillette</string>
 		<key>numberOfBadAnswers</key>
 		<integer>0</integer>
 		<key>numberOfBadAnswersQuiz</key>
@@ -114,7 +112,7 @@
 	</dict>
 	<dict>
 		<key>correctTAnswer</key>
-		<string>Plus de trois siècles</string>
+		<string>Environ 200 ans</string>
 		<key>date</key>
 		<string>200 av.</string>
 		<key>id</key>
@@ -294,17 +292,17 @@
 	</dict>
 	<dict>
 		<key>correctTAnswer</key>
-		<string>Castille (Espagne)</string>
+		<string>La Reconquista</string>
 		<key>date</key>
 		<string>1139</string>
 		<key>id</key>
 		<string>f50601f8-8310-11ed-a1eb-0242ac120002</string>
 		<key>incorrectAnswer1</key>
-		<string>La France</string>
+		<string>Les croisades</string>
 		<key>incorrectAnswer2</key>
-		<string>Angleterre</string>
+		<string>La chute de Rome</string>
 		<key>incorrectAnswer3</key>
-		<string>Les Pays-Bas</string>
+		<string>La guerre de Cent Ans</string>
 		<key>numberOfBadAnswers</key>
 		<integer>0</integer>
 		<key>numberOfBadAnswersQuiz</key>
@@ -316,7 +314,7 @@
 		<key>order</key>
 		<integer>9</integer>
 		<key>question</key>
-		<string>Avec quel autre pays le royaume du Portugal a-t-il été allié au début de son histoire ?</string>
+		<string>La création du Portugal est un processus qui s&apos;inscrit dans le cadre de quel événement historique plus large ?</string>
 		<key>questionTrueOrFalse</key>
 		<string>La vocation maritime du Portugal s&apos;est affirmée en raison de son littoral propice à la grande navigation et de sa situation géographique proche des grands axes européens.</string>
 		<key>theme</key>
@@ -330,17 +328,17 @@
 	</dict>
 	<dict>
 		<key>correctTAnswer</key>
-		<string>Elle a été un personnage clé dans l&apos;unification de l&apos;Espagne.</string>
+		<string> L&apos;initiation de l&apos;Inquisition espagnole</string>
 		<key>date</key>
 		<string>1469</string>
 		<key>id</key>
 		<string>f506031a-8310-11ed-a1eb-0242ac120002</string>
 		<key>incorrectAnswer1</key>
-		<string>Elle était un chef militaire efficace.</string>
+		<string>La création de l&apos;Université de Salamanque</string>
 		<key>incorrectAnswer2</key>
-		<string>Elle était une diplomate compétente.</string>
+		<string>Le soutien à l&apos;exploration transatlantique par Christophe Colomb</string>
 		<key>incorrectAnswer3</key>
-		<string>Elle était un mécène des arts.</string>
+		<string> L&apos;annexion de la France à l&apos;Espagne</string>
 		<key>numberOfBadAnswers</key>
 		<integer>0</integer>
 		<key>numberOfBadAnswersQuiz</key>
@@ -352,7 +350,7 @@
 		<key>order</key>
 		<integer>10</integer>
 		<key>question</key>
-		<string>Quelle était la réputation d&apos;Isabelle Ier de Castille ?</string>
+		<string>Quelle action controversée a été initiée par la reine Isabelle de Castille durant son règne ?</string>
 		<key>questionTrueOrFalse</key>
 		<string>Christophe Colomb a découvert l&apos;Amérique pendant le règne d&apos;Isabelle la Catholique ?</string>
 		<key>theme</key>

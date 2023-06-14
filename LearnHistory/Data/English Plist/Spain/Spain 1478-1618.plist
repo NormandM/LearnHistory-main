@@ -76,17 +76,17 @@
 	</dict>
 	<dict>
 		<key>correctTAnswer</key>
-		<string>Queen Isabella</string>
+		<string>Queen Isabella I of Castile and King Ferdinand II of Aragon of Spain</string>
 		<key>date</key>
 		<string>1492</string>
 		<key>id</key>
 		<string>f33ad346-8246-11ed-a1eb-0242ac120002</string>
 		<key>incorrectAnswer1</key>
-		<string>King Ferdinand</string>
+		<string>King Louis XI of France</string>
 		<key>incorrectAnswer2</key>
-		<string>Queen Elizabeth</string>
+		<string>King Henry VII of England</string>
 		<key>incorrectAnswer3</key>
-		<string>King Henry VIII</string>
+		<string> The Doge of Venice</string>
 		<key>numberOfBadAnswers</key>
 		<integer>0</integer>
 		<key>numberOfBadAnswersQuiz</key>
@@ -122,7 +122,7 @@
 		<key>incorrectAnswer2</key>
 		<string>To establish a new tax system in Spain</string>
 		<key>incorrectAnswer3</key>
-		<string>o declare war on a neighboring country</string>
+		<string>To declare war on a neighboring country</string>
 		<key>numberOfBadAnswers</key>
 		<integer>0</integer>
 		<key>numberOfBadAnswersQuiz</key>
@@ -286,23 +286,23 @@
 		<key>timeLine</key>
 		<string>The Spanish Armada is defeated by the English navy</string>
 		<key>trueOrFalseAnswer</key>
-		<string>False</string>
+		<string>True</string>
 		<key>wikiSearchWord</key>
 		<string>Spanish Armada</string>
 	</dict>
 	<dict>
 		<key>correctTAnswer</key>
-		<string>His chivalry and bravery</string>
+		<string>His idealistic pursuit of chivalric values and his tendency to confuse reality with imagination</string>
 		<key>date</key>
 		<string>1605</string>
 		<key>id</key>
 		<string>f33adbca-8246-11ed-a1eb-0242ac120002</string>
 		<key>incorrectAnswer1</key>
-		<string>His wealth and power</string>
+		<string>His talent for diplomacy and negotiation</string>
 		<key>incorrectAnswer2</key>
-		<string>His intelligence and wit</string>
+		<string>His role as a great Spanish conqueror</string>
 		<key>incorrectAnswer3</key>
-		<string>His charm and charisma</string>
+		<string>His great wealth and influence on the Spanish royal court</string>
 		<key>numberOfBadAnswers</key>
 		<integer>0</integer>
 		<key>numberOfBadAnswersQuiz</key>

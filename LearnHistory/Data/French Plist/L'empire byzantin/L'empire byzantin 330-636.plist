@@ -64,7 +64,7 @@
 		<key>question</key>
 		<string>Quel empereur romain a divisé l&apos;empire en Empire romain d&apos;Orient et d&apos;Occident ?</string>
 		<key>questionTrueOrFalse</key>
-		<string> L&apos;Empire romain a été divisé en deux parties en 395 après.</string>
+		<string> L&apos;Empire romain a été divisé en deux parties en 395.</string>
 		<key>theme</key>
 		<string>L&apos;empire byzantin 330-636</string>
 		<key>timeLine</key>
@@ -320,7 +320,7 @@
 		<key>theme</key>
 		<string>L&apos;empire byzantin 330-636</string>
 		<key>timeLine</key>
-		<string>Siège de Constantinople (626)</string>
+		<string>Siège de Constantinople par l&apos;empire Sassanides </string>
 		<key>trueOrFalseAnswer</key>
 		<string>Faux</string>
 		<key>wikiSearchWord</key>

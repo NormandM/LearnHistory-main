@@ -208,13 +208,13 @@
 		<key>question</key>
 		<string>Lequel des ouvrages suivants n&apos;est PAS attribué à Avicenne ?</string>
 		<key>questionTrueOrFalse</key>
-		<string>L&apos;encyclopédie médicale Qanûn d&apos;Ibn Sina n&apos;a qu&apos;un intérêt historique.</string>
+		<string>L&apos;encyclopédie médicale Qanûn d&apos;Ibn Sina n&apos;a plus qu&apos;un intérêt historique.</string>
 		<key>theme</key>
 		<string>Empire islamique 853-1258</string>
 		<key>timeLine</key>
 		<string>Naissance d&apos;Avicenne</string>
 		<key>trueOrFalseAnswer</key>
-		<string>Faux</string>
+		<string>Vrai</string>
 		<key>wikiSearchWord</key>
 		<string>Avicenne</string>
 	</dict>

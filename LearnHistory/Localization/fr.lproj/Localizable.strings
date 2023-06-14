@@ -158,7 +158,7 @@
 "There are no coins for hints!" = "Il n'y a plus de jetons pour les indices!";
 "Back to Quiz" = "Retour au quiz";
 "Help me improve Learn History. Tell me what you think of the app. Any suggestions? Any topics you'd like me to add?" = "Aidez-moi à améliorer Apprendre l'histoire. Dites-moi ce que vous pensez de l'application. Des suggestions ? Des sujets que vous aimeriez que j'ajoute ?";
-"ADDITIONAL INFORMATION" = "INFORMATIONS SUPPLÉMENTAIRES";
+"Additional Information" = "Informations supplémentaires";
 "Leave your comments here" = "Laissez vos commentaires ici";
 "What do you think?" = "Qu'en pensez-vous ?";
 "Bibliography" = "Bibliographie";
@@ -171,4 +171,13 @@
 "You are not connected to the internet" = "Vous n'êtes pas connecté à l'Internet";
 "You cannot make a purchase" = "Vous ne pouvez pas faire d'achat";
 "History Timelines" =  "Chronologie";
+"SectionEnglish" = "SectionFrench";
+"References" = "Références";
+"Welcome to the new version of LEARN HISTORY!" = "Bienvenue dans la nouvelle version d'APPRENDRE L'HISTOIRE !";
+"New themes were added" = "De nouveaux thèmes ont été ajoutés";
+"Byzantine Empire" = "Empire byzantin";
+"Muslim Empire" = "Empire musulman";
+"Ottoman Empire" = "Empire Ottoman";
+"Have fun, more themes to come!" = "Amusez-vous bien, d'autres thèmes sont à venir !";
+"New themes were added\nMIDDLE EAST\nByzantine Empire\nMuslim Empire\nOttoman Empire\n\nHave fun, more themes to come!" = "De nouveaux thèmes ont été ajoutés\nMOYEN-ORIENT\nEmpire byzantin\nEmpire musulman\nEmpire Ottoman\n\nAmusez-vous bien, d'autres thèmes sont à venir !";
 

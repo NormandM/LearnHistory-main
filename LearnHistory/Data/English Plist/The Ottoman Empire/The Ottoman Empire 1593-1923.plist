@@ -28,11 +28,11 @@
 		<key>question</key>
 		<string> What was the outcome of the Long War between the Ottomans and the Habsburgs?</string>
 		<key>questionTrueOrFalse</key>
-		<string> The Long War (Ottoman wars) ended in a clear victory for the Habsburgs</string>
+		<string>The Ottomans were able to maintain military parity with the Habsburgs until the early twentieth century.</string>
 		<key>theme</key>
 		<string>The Ottoman Empire 1593-1923</string>
 		<key>timeLine</key>
-		<string> Long War: Stalemate</string>
+		<string> Long War: Stalemate with the Habsburgs</string>
 		<key>trueOrFalseAnswer</key>
 		<string>False</string>
 		<key>wikiSearchWord</key>
@@ -180,21 +180,21 @@
 		<key>trueOrFalseAnswer</key>
 		<string>True</string>
 		<key>wikiSearchWord</key>
-		<string> Nizam</string>
+		<string>Nizam-I Cedid</string>
 	</dict>
 	<dict>
 		<key>correctTAnswer</key>
-		<string> Greek War of Independence</string>
+		<string>The Filiki Eteria</string>
 		<key>date</key>
 		<string>1821-1832</string>
 		<key>id</key>
 		<string>8a69f2f8-ecfd-11ed-a05b-0242ac120003</string>
 		<key>incorrectAnswer1</key>
-		<string> Russo-Turkish War</string>
+		<string>The Knights Templar</string>
 		<key>incorrectAnswer2</key>
-		<string> Crimean War</string>
+		<string>The Illuminati</string>
 		<key>incorrectAnswer3</key>
-		<string> Balkan Wars</string>
+		<string>The Freemasons</string>
 		<key>numberOfBadAnswers</key>
 		<integer>0</integer>
 		<key>numberOfBadAnswersQuiz</key>
@@ -206,15 +206,15 @@
 		<key>order</key>
 		<integer>26</integer>
 		<key>question</key>
-		<string> During which war did Greece gain independence from the Ottoman Empire?</string>
+		<string>Which secret society, founded in 1814, played a significant role in organizing and coordinating the Greek War of Independence?</string>
 		<key>questionTrueOrFalse</key>
-		<string> The Greek War of Independence resulted in Greece remaining under Ottoman control</string>
+		<string> During the Greek War of Independence, the Greeks received assistance from the British Empire, Kingdom of France, and the Russian Empire.</string>
 		<key>theme</key>
 		<string>The Ottoman Empire 1593-1923</string>
 		<key>timeLine</key>
 		<string> Greece gains independence</string>
 		<key>trueOrFalseAnswer</key>
-		<string>False</string>
+		<string>True</string>
 		<key>wikiSearchWord</key>
 		<string> Greek War of Independence </string>
 	</dict>
@@ -244,7 +244,7 @@
 		<key>question</key>
 		<string> Which period of far-reaching reforms aimed to modernize the Ottoman Empire from 1839 to 1876?</string>
 		<key>questionTrueOrFalse</key>
-		<string> The Tanzimat era was a period of limited reforms in the Ottoman Empire</string>
+		<string>The main goal of the Tanzimat era was to completely transform the Ottoman Empire into a Western-style nation.</string>
 		<key>theme</key>
 		<string>The Ottoman Empire 1593-1923</string>
 		<key>timeLine</key>
@@ -316,7 +316,7 @@
 		<key>question</key>
 		<string> Which side did the Ottoman Empire join during World War I?</string>
 		<key>questionTrueOrFalse</key>
-		<string> The Ottoman Empire remained neutral during World War I</string>
+		<string> The Ottoman Empire was an industrial state well-prepared for the modern warfare of World War I.</string>
 		<key>theme</key>
 		<string>The Ottoman Empire 1593-1923</string>
 		<key>timeLine</key>

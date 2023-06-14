@@ -4,7 +4,7 @@
 <array>
 	<dict>
 		<key>correctTAnswer</key>
-		<string>They suffered heavy casualties and lost morale, leading to internal conflict</string>
+		<string>The end of Muslim expansion in Western Europe...</string>
 		<key>date</key>
 		<string>732</string>
 		<key>id</key>
@@ -294,7 +294,7 @@
 		<key>correctTAnswer</key>
 		<string>Arabic</string>
 		<key>date</key>
-		<string>786</string>
+		<string>786-800  </string>
 		<key>id</key>
 		<string>be7c81b0-8884-11ed-a1eb-0242ac120002</string>
 		<key>incorrectAnswer1</key>
@@ -320,7 +320,7 @@
 		<key>theme</key>
 		<string>Islamic Empire 732-846</string>
 		<key>timeLine</key>
-		<string> One Thousand and One Nights written</string>
+		<string>One Thousand and One Nights first written</string>
 		<key>trueOrFalseAnswer</key>
 		<string>False</string>
 		<key>wikiSearchWord</key>
@@ -330,7 +330,7 @@
 		<key>correctTAnswer</key>
 		<string>Scheherazade</string>
 		<key>date</key>
-		<string>786</string>
+		<string>786-800  </string>
 		<key>id</key>
 		<string>be7c850c-8884-11ed-a1eb-0242ac120002</string>
 		<key>incorrectAnswer1</key>

@@ -20,7 +20,7 @@
 		<key>wikiSearchWord</key>
 		<string> Constantinople</string>
 		<key>questionTrueOrFalse</key>
-		<string> Constantinople was founded by Emperor Augustus.</string>
+		<string>After the Fourth Crusade in 1204, the city of Constantinople thrived and grew in population under Latin occupation.</string>
 		<key>trueOrFalseAnswer</key>
 		<string>False</string>
 		<key>timeLine</key>
@@ -312,7 +312,7 @@
 		<key>trueOrFalseAnswer</key>
 		<string>False</string>
 		<key>timeLine</key>
-		<string> Siege of Constantinople </string>
+		<string>Siege of Constantinople by  Avar and Persian</string>
 		<key>theme</key>
 		<string>The Byzantine Empire</string>
 		<key>numberOfGoodAnswers</key>
@@ -452,7 +452,7 @@
 		<key>wikiSearchWord</key>
 		<string> Byzantine Iconoclasm</string>
 		<key>questionTrueOrFalse</key>
-		<string> Iconoclasm in the Byzantine Empire began in the 7th century AD.</string>
+		<string> Iconoclasm in the Byzantine Empire began in the 6th century AD.</string>
 		<key>trueOrFalseAnswer</key>
 		<string>False</string>
 		<key>timeLine</key>
@@ -668,9 +668,9 @@
 		<key>wikiSearchWord</key>
 		<string> Battle of Manzikert</string>
 		<key>questionTrueOrFalse</key>
-		<string> The Battle of Manzikert took place in 1071 AD.</string>
+		<string>After the Battle of Manzikert, the Byzantine Empire immediately regained stability and could adequately defend its borders again.</string>
 		<key>trueOrFalseAnswer</key>
-		<string>True</string>
+		<string>False</string>
 		<key>timeLine</key>
 		<string> Battle of Manzikert </string>
 		<key>theme</key>

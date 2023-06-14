@@ -208,13 +208,13 @@
 		<key>question</key>
 		<string>¿Cuál de las siguientes obras NO se atribuye a Avicena?</string>
 		<key>questionTrueOrFalse</key>
-		<string>Ibn Sina es conocido principalmente como un astrónomo y científico persa de la Edad de Oro del Islam.</string>
+		<string> El libro de la curación y El canon de medicina son algunas de las obras más reconocidas de Avicena.</string>
 		<key>theme</key>
 		<string>Imperio Islámico 853-1258</string>
 		<key>timeLine</key>
 		<string>Nace Avicena</string>
 		<key>trueOrFalseAnswer</key>
-		<string>Falso</string>
+		<string>Verdadero</string>
 		<key>wikiSearchWord</key>
 		<string>Avicena</string>
 	</dict>

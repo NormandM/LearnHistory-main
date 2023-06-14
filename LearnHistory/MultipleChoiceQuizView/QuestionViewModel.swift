@@ -36,6 +36,7 @@ class QuestionViewModel: ObservableObject {
     }
     func initialize() {
         var numberOfEvents = allEvents.count
+        
         arrayOfIndex = [Int]()
         if indexOfQuestion == numberOfEvents - 1{
             numberOfEvents = 0

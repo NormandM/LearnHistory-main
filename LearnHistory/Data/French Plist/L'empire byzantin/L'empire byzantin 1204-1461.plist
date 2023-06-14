@@ -68,7 +68,7 @@
 		<key>theme</key>
 		<string>L&apos;empire byzantin 1204-1461</string>
 		<key>timeLine</key>
-		<string>Reprise de Constantinople</string>
+		<string>Reprise de Constantinople aux latins</string>
 		<key>trueOrFalseAnswer</key>
 		<string>Faux</string>
 		<key>wikiSearchWord</key>
@@ -176,7 +176,7 @@
 		<key>theme</key>
 		<string>L&apos;empire byzantin 1204-1461</string>
 		<key>timeLine</key>
-		<string>État vassal ottoman</string>
+		<string>Constantinople devient un état vassal ottoman</string>
 		<key>trueOrFalseAnswer</key>
 		<string>Faux</string>
 		<key>wikiSearchWord</key>
@@ -208,7 +208,7 @@
 		<key>question</key>
 		<string>Quelle était la dernière ville byzantine à tomber aux mains des Ottomans avant la chute de Constantinople ?</string>
 		<key>questionTrueOrFalse</key>
-		<string> La chute de Philadelphie en 1456 marque la fin de l&apos;Empire byzantin.</string>
+		<string> La chute de Philadelphie marque la fin de l&apos;Empire byzantin.</string>
 		<key>theme</key>
 		<string>L&apos;empire byzantin 1204-1461</string>
 		<key>timeLine</key>
@@ -244,13 +244,13 @@
 		<key>question</key>
 		<string>Quel sultan ottoman a dirigé le second siège de Constantinople en 1422 ?</string>
 		<key>questionTrueOrFalse</key>
-		<string> Les guerres turco-byzantines ont été déclenchées par des conflits religieux.</string>
+		<string>Les guerres entre les peuples turcs et l&apos;Empire byzantin ont conduit à la destruction de l&apos;Empire ottoman.</string>
 		<key>theme</key>
 		<string>L&apos;empire byzantin 1204-1461</string>
 		<key>timeLine</key>
 		<string>Deuxième siège ottoman de Constantinople</string>
 		<key>trueOrFalseAnswer</key>
-		<string>Vrai</string>
+		<string>Faux</string>
 		<key>wikiSearchWord</key>
 		<string>Guerres turco-byzantines</string>
 	</dict>
@@ -358,7 +358,7 @@
 		<key>timeLine</key>
 		<string>Chute de l&apos;Empire de Trébizonde</string>
 		<key>trueOrFalseAnswer</key>
-		<string>Faux</string>
+		<string>Vrai</string>
 		<key>wikiSearchWord</key>
 		<string>Empire de Trébizonde</string>
 	</dict>

@@ -65,6 +65,8 @@
 		<string>The Ottoman Empire</string>
 		<key>numberOfGoodAnswers</key>
 		<integer>0</integer>
+		<key>New item</key>
+		<string></string>
 		<key>numberOfBadAnswers</key>
 		<integer>0</integer>
 		<key>numberOfGoodAnswersQuiz</key>
@@ -560,9 +562,9 @@
 		<key>wikiSearchWord</key>
 		<string> Siege of Rhodes (1522) </string>
 		<key>questionTrueOrFalse</key>
-		<string>The walls were not demolished during the siege of Rhodes in 1522.</string>
+		<string>Turkish artillery and mines were used to demolish the walls of the Knights of Rhodes stronghold over a six-month period.</string>
 		<key>trueOrFalseAnswer</key>
-		<string>False</string>
+		<string>True</string>
 		<key>timeLine</key>
 		<string>Rhodes falls to Ottomans</string>
 		<key>theme</key>
@@ -704,7 +706,7 @@
 		<key>wikiSearchWord</key>
 		<string> Battle of Lepanto </string>
 		<key>questionTrueOrFalse</key>
-		<string>The battle involved more than 400 warships, making it the largest naval battle in Western history since classical antiquity.</string>
+		<string> The Battle of Lepanto  marked a turning point in the halt of Ottoman military expansion into the Mediterranean.</string>
 		<key>trueOrFalseAnswer</key>
 		<string>True</string>
 		<key>timeLine</key>
@@ -812,7 +814,7 @@
 		<key>wikiSearchWord</key>
 		<string> Treaty of Karlowitz </string>
 		<key>questionTrueOrFalse</key>
-		<string>The Ottoman Empire was victorious in the Battle of Zenta, which led to the signing of the Treaty of Karlowitz.</string>
+		<string> The Treaty of Karlowitz resulted in territorial gains for the Ottoman Empire in Europe</string>
 		<key>trueOrFalseAnswer</key>
 		<string>False</string>
 		<key>timeLine</key>

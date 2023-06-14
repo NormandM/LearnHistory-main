@@ -134,7 +134,7 @@
 		<key>order</key>
 		<integer>4</integer>
 		<key>question</key>
-		<string>Qui était le souverain de l&apos;Egypte avant la conquête arabo-islamique ?</string>
+		<string>Avant la conquête arabo-islamique, l’Égypte était sous le contrôle de quel empire?</string>
 		<key>questionTrueOrFalse</key>
 		<string>L&apos;armée arabe envoyée par le calife Omar ibn al-Khattâb pour répandre l&apos;Islam en Égypte était composée de 4 000 soldats.</string>
 		<key>theme</key>

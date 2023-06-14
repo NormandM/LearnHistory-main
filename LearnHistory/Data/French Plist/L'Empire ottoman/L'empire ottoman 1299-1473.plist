@@ -70,7 +70,7 @@
 		<key>timeLine</key>
 		<string> Bursa: 1ère capitale ottomane</string>
 		<key>trueOrFalseAnswer</key>
-		<string>Faux</string>
+		<string>Vrai</string>
 		<key>wikiSearchWord</key>
 		<string>Siège de Bursa</string>
 	</dict>
@@ -349,10 +349,10 @@
 		<integer>0</integer>
 		<key>order</key>
 		<integer>10</integer>
-		<key>question</key>
-		<string>Quel était le rôle du noble et commandant militaire albanais Skanderbeg lors de la conquête ottomane de l&apos;Albanie en 1479 ?</string>
 		<key>questionTrueOrFalse</key>
 		<string>La révolte a été motivée par le remplacement de la noblesse locale par des propriétaires fonciers ottomans.</string>
+		<key>question</key>
+		<string>Quel était le rôle du commandant albanais Skanderbeg lors de la conquête ottomane de l&apos;Albanie en 1479 ?</string>
 		<key>theme</key>
 		<string>L&apos;empire ottoman 1299-1473</string>
 		<key>timeLine</key>

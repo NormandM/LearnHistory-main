@@ -116,7 +116,7 @@
 		<key>date</key>
 		<string>632-640</string>
 		<key>question</key>
-		<string>Who was the ruler of Egypt before the Arab-Islam conquest?</string>
+		<string>Before the Arab-Islamic conquest, which empire controlled Egypt?</string>
 		<key>correctTAnswer</key>
 		<string>Byzantines</string>
 		<key>incorrectAnswer1</key>
@@ -370,7 +370,7 @@
 		<key>question</key>
 		<string>What was the long-term consequence of the Battle of Tours for the Moors?</string>
 		<key>correctTAnswer</key>
-		<string>They suffered heavy casualties and lost morale, leading to internal conflict</string>
+		<string>The end of Muslim expansion in Western Europe...</string>
 		<key>incorrectAnswer1</key>
 		<string>They gained control of new territory and spread Islam throughout Europe</string>
 		<key>incorrectAnswer2</key>
@@ -654,7 +654,7 @@
 		<key>id</key>
 		<string>be7c81b0-8884-11ed-a1eb-0242ac120002</string>
 		<key>date</key>
-		<string>786</string>
+		<string>786-800</string>
 		<key>question</key>
 		<string>What is the original language of One Thousand and One Nights?</string>
 		<key>correctTAnswer</key>
@@ -956,9 +956,9 @@
 		<key>wikiSearchWord</key>
 		<string>Religion in the Mongol Empire</string>
 		<key>questionTrueOrFalse</key>
-		<string>The Mongols were not highly tolerant of all religions during the early Mongol Empire.</string>
+		<string>Three of the four principal khanates embraced Islam in the later years of the empire, indicating that Islam was favored over other religions.</string>
 		<key>trueOrFalseAnswer</key>
-		<string>False</string>
+		<string>True</string>
 		<key>timeLine</key>
 		<string>The conquests of the Mongol Empire, of much of the Muslim world.</string>
 		<key>theme</key>

@@ -18,3 +18,7 @@ public class HistoricalEvent: NSManagedObject {
 public class HistoricalEventDetail: NSManagedObject {
 
 }
+@objc(HistoricalSectionForSpecialEffect)
+public class HistoricalSectionForSpecialEffect: NSManagedObject {
+
+}

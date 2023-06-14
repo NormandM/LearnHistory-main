@@ -116,7 +116,7 @@
 		<key>date</key>
 		<string>632-640</string>
 		<key>question</key>
-		<string>Qui était le souverain de l&apos;Egypte avant la conquête arabo-islamique ?</string>
+		<string>Avant la conquête arabo-islamique, l’Égypte était sous le contrôle de quel empire?</string>
 		<key>correctTAnswer</key>
 		<string>Byzantins</string>
 		<key>incorrectAnswer1</key>
@@ -370,7 +370,7 @@
 		<key>question</key>
 		<string>Quelle a été la conséquence à long terme de la bataille de Tours pour les Maures ?</string>
 		<key>correctTAnswer</key>
-		<string>Ils ont subi de lourdes pertes et ont perdu le moral, ce qui a entraîné des conflits internes.</string>
+		<string>L&apos;arrêt de  l&apos;expansion musulmane en Europe occidentale..</string>
 		<key>incorrectAnswer1</key>
 		<string>Ils ont pris le contrôle de nouveaux territoires et ont répandu l&apos;Islam dans toute l&apos;Europe</string>
 		<key>incorrectAnswer2</key>
@@ -596,7 +596,7 @@
 		<key>wikiSearchWord</key>
 		<string>Mosquée-cathédrale de Cordoue</string>
 		<key>questionTrueOrFalse</key>
-		<string>La mosquée-cathédrale de Cordoue a été une mosquée du viiie siècle jusqu&apos;à la Reconquête menée par le roi Ferdinand III de Castille.</string>
+		<string>La mosquée-cathédrale de Cordoue a été une mosquée du viiie siècle jusqu&apos;à la Reconquête.</string>
 		<key>trueOrFalseAnswer</key>
 		<string>Vrai</string>
 		<key>timeLine</key>
@@ -654,7 +654,7 @@
 		<key>id</key>
 		<string>adaaf1e6-8884-11ed-a1eb-0242ac120002</string>
 		<key>date</key>
-		<string>786</string>
+		<string>786-800</string>
 		<key>question</key>
 		<string>Quelle est la langue originale des Mille et Une Nuits ?</string>
 		<key>correctTAnswer</key>

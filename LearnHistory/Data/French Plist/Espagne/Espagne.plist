@@ -52,9 +52,7 @@
 		<key>incorrectAnswer2</key>
 		<string>Guerre et conquête</string>
 		<key>incorrectAnswer3</key>
-		<string>Chasse et cueillette
-
-</string>
+		<string>Chasse et cueillette</string>
 		<key>wikiSearchWord</key>
 		<string>Culture d&apos;El Argar</string>
 		<key>questionTrueOrFalse</key>
@@ -120,7 +118,7 @@
 		<key>question</key>
 		<string>Combien de temps a duré la conquête romaine de la péninsule ibérique ?</string>
 		<key>correctTAnswer</key>
-		<string>Plus de trois siècles</string>
+		<string>Environ 200 ans</string>
 		<key>incorrectAnswer1</key>
 		<string>En moins d&apos;une décennie</string>
 		<key>incorrectAnswer2</key>
@@ -298,15 +296,15 @@
 		<key>date</key>
 		<string>1139</string>
 		<key>question</key>
-		<string>Avec quel autre pays le royaume du Portugal a-t-il été allié au début de son histoire ?</string>
+		<string>La création du Portugal est un processus qui s&apos;inscrit dans le cadre de quel événement historique plus large ?</string>
 		<key>correctTAnswer</key>
-		<string>Castille (Espagne)</string>
+		<string>La Reconquista</string>
 		<key>incorrectAnswer1</key>
-		<string>La France</string>
+		<string>Les croisades</string>
 		<key>incorrectAnswer2</key>
-		<string>Angleterre</string>
+		<string>La chute de Rome</string>
 		<key>incorrectAnswer3</key>
-		<string>Les Pays-Bas</string>
+		<string>La guerre de Cent Ans</string>
 		<key>wikiSearchWord</key>
 		<string>Histoire du Portugal</string>
 		<key>questionTrueOrFalse</key>
@@ -334,15 +332,15 @@
 		<key>date</key>
 		<string>1469</string>
 		<key>question</key>
-		<string>Quelle était la réputation d&apos;Isabelle Ier de Castille ?</string>
+		<string>Quelle action controversée a été initiée par la reine Isabelle de Castille durant son règne ?</string>
 		<key>correctTAnswer</key>
-		<string>Elle a été un personnage clé dans l&apos;unification de l&apos;Espagne.</string>
+		<string> L&apos;initiation de l&apos;Inquisition espagnole</string>
 		<key>incorrectAnswer1</key>
-		<string>Elle était un chef militaire efficace.</string>
+		<string>La création de l&apos;Université de Salamanque</string>
 		<key>incorrectAnswer2</key>
-		<string>Elle était une diplomate compétente.</string>
+		<string>Le soutien à l&apos;exploration transatlantique par Christophe Colomb</string>
 		<key>incorrectAnswer3</key>
-		<string>Elle était un mécène des arts.</string>
+		<string> L&apos;annexion de la France à l&apos;Espagne</string>
 		<key>wikiSearchWord</key>
 		<string>Isabelle la Catholique</string>
 		<key>questionTrueOrFalse</key>
@@ -442,15 +440,15 @@
 		<key>date</key>
 		<string>1492</string>
 		<key>question</key>
-		<string>Qui a parrainé l&apos;expédition de l&apos;explorateur Christophe Colomb ?</string>
+		<string>Qui a financé l&apos;expédition de 1492 de Christophe Colomb à la recherche d&apos;une nouvelle route vers l&apos;Asie?</string>
 		<key>correctTAnswer</key>
-		<string>La reine Isabelle</string>
+		<string>La reine Isabelle I de Castille et le roi Ferdinand II d&apos;Aragon d&apos;Espagne</string>
 		<key>incorrectAnswer1</key>
-		<string>Le roi Ferdinand</string>
+		<string>Le roi Louis XI de France</string>
 		<key>incorrectAnswer2</key>
-		<string>La reine Elizabeth</string>
+		<string>Le roi Henry VII d&apos;Angleterre</string>
 		<key>incorrectAnswer3</key>
-		<string>Le roi Henri VIII</string>
+		<string> Le Doge de Venise</string>
 		<key>wikiSearchWord</key>
 		<string>Christophe Colomb</string>
 		<key>questionTrueOrFalse</key>
@@ -526,9 +524,9 @@
 		<key>wikiSearchWord</key>
 		<string>Charles Quint</string>
 		<key>questionTrueOrFalse</key>
-		<string>Charles de Habsbourg a abandonné ses pouvoirs à la fin de sa vie en raison de révoltes en Castille et dans le Saint-Empire.</string>
+		<string>À la fin de sa vie, Charles de Habsbourg a volontairement abdiqué de ses pouvoirs, cédant les États autrichiens et la dignité impériale à son frère Ferdinand et ses droits sur les Pays-Bas et l&apos;Espagne à son fils Philippe.</string>
 		<key>trueOrFalseAnswer</key>
-		<string>Faux</string>
+		<string>Vrai</string>
 		<key>timeLine</key>
 		<string>Charles Ier est couronné empereur du Saint Empire romain germanique.</string>
 		<key>theme</key>
@@ -622,15 +620,15 @@
 		<key>date</key>
 		<string>1588</string>
 		<key>question</key>
-		<string>Pourquoi l&apos;Armada espagnole a-t-elle entrepris d&apos;envahir l&apos;Angleterre en 1588 ?</string>
+		<string>Quelle était une des principales raisons pour lesquelles l&apos;Armada espagnole a tenté d&apos;envahir l&apos;Angleterre en 1588 ?</string>
 		<key>correctTAnswer</key>
-		<string>Pour punir l&apos;Angleterre d&apos;avoir soutenu la rébellion hollandaise.</string>
+		<string>Pour mettre fin à la piraterie des corsaires anglais contre les navires et colonies espagnols</string>
 		<key>incorrectAnswer1</key>
-		<string>Convertir les Anglais au catholicisme</string>
+		<string>Pour prendre contrôle des ressources naturelles de l&apos;Angleterre</string>
 		<key>incorrectAnswer2</key>
-		<string>Pour prendre le contrôle du trône d&apos;Angleterre</string>
+		<string>Pour soutenir l&apos;indépendance de l&apos;Écosse</string>
 		<key>incorrectAnswer3</key>
-		<string>Pour établir une colonie espagnole en Angleterre</string>
+		<string>Pour établir une colonie espagnole sur le territoire anglais</string>
 		<key>wikiSearchWord</key>
 		<string>Invincible Armada</string>
 		<key>questionTrueOrFalse</key>
@@ -658,15 +656,15 @@
 		<key>date</key>
 		<string>1605</string>
 		<key>question</key>
-		<string>Pour quelle raison le personnage principal de &quot;Don Quichotte&quot; est-il connu ?</string>
+		<string>Qu&apos;est-ce qui caractérise le plus le personnage de Don Quichotte dans le roman de Miguel de Cervantes?</string>
 		<key>correctTAnswer</key>
-		<string>Sa chevalerie et sa bravoure</string>
+		<string>Sa poursuite idéaliste des valeurs chevaleresques et sa tendance à confondre la réalité et l&apos;imagination</string>
 		<key>incorrectAnswer1</key>
-		<string>Sa richesse et sa puissance</string>
+		<string>Son talent pour la diplomatie et la négociation</string>
 		<key>incorrectAnswer2</key>
-		<string>Son intelligence et son esprit</string>
+		<string>Son rôle en tant que grand conquérant espagnol</string>
 		<key>incorrectAnswer3</key>
-		<string>Son charme et son charisme</string>
+		<string>Sa grande richesse et son influence sur la cour royale espagnole</string>
 		<key>wikiSearchWord</key>
 		<string>Don Quichotte</string>
 		<key>questionTrueOrFalse</key>
@@ -1020,7 +1018,7 @@
 		<key>question</key>
 		<string>Lequel des énoncés suivants décrit le mieux la position de l&apos;Espagne pendant la Seconde Guerre mondiale ?</string>
 		<key>correctTAnswer</key>
-		<string>Neutres</string>
+		<string>Neutre</string>
 		<key>incorrectAnswer1</key>
 		<string>Alliés des puissances de l&apos;Axe</string>
 		<key>incorrectAnswer2</key>
@@ -1034,7 +1032,7 @@
 		<key>trueOrFalseAnswer</key>
 		<string>Faux</string>
 		<key>timeLine</key>
-		<string>L&apos;Espagne pendant la Seconde Guerre mondiale</string>
+		<string>Neutralité de l&apos;Espagne pendant la seconde guerre mondiale.</string>
 		<key>theme</key>
 		<string>Espagne</string>
 		<key>numberOfGoodAnswers</key>

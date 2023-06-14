@@ -52,6 +52,7 @@ struct NMLogo:  View {
                 }
                 
             }.onAppear{
+                
                 if !indexOfQuestionAlreadyExist(indexOfQuestion: indexOfQuestion) {
                     UserDefaults.standard.set(0, forKey: "indexOfQuestion")
                 }

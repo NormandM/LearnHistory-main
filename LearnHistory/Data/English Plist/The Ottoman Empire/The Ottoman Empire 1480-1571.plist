@@ -28,15 +28,15 @@
 		<key>question</key>
 		<string> Which order of knights successfully defended the island of Rhodes from an Ottoman siege in 1480?</string>
 		<key>questionTrueOrFalse</key>
-		<string> The Siege of Rhodes (1522) was a successful Ottoman conquest</string>
+		<string> The Siege of Rhodes (1480) was a successful Ottoman conquest</string>
 		<key>theme</key>
 		<string>The Ottoman Empire 1480-1571</string>
 		<key>timeLine</key>
 		<string> Rhodes siege fails</string>
 		<key>trueOrFalseAnswer</key>
-		<string>True</string>
+		<string>False</string>
 		<key>wikiSearchWord</key>
-		<string> Siege of Rhodes (1522) </string>
+		<string>Siege of Rhodes (1480)</string>
 	</dict>
 	<dict>
 		<key>correctTAnswer</key>
@@ -64,7 +64,7 @@
 		<key>question</key>
 		<string> Which empire did the Ottomans defeat in the Battle of Chaldiran?</string>
 		<key>questionTrueOrFalse</key>
-		<string> The Battle of Chaldiran resulted in a decisive Ottoman victory over the Safavids</string>
+		<string>The Battle of Chaldiran marked the beginning of a 41-year-long war between the Ottoman Empire and the Safavid Empire.</string>
 		<key>theme</key>
 		<string>The Ottoman Empire 1480-1571</string>
 		<key>timeLine</key>
@@ -100,7 +100,7 @@
 		<key>question</key>
 		<string> After conquering Mamluk Egypt, which title was added to the Ottoman sultan&apos;s portfolio?</string>
 		<key>questionTrueOrFalse</key>
-		<string> The Ottoman conquest of Egypt led to the addition of the title &quot;King&quot; to the Ottoman sultan&apos;s portfolio</string>
+		<string>The Ottoman–Mamluk War of 1516–1517 was the first major conflict between the Mamluk Sultanate and the Ottoman Empire.</string>
 		<key>theme</key>
 		<string>The Ottoman Empire 1480-1571</string>
 		<key>timeLine</key>
@@ -136,7 +136,7 @@
 		<key>question</key>
 		<string> Who was the sultan during the peak of the Ottoman Empire in terms of territorial expansion and cultural achievements?</string>
 		<key>questionTrueOrFalse</key>
-		<string> Suleiman the Magnificent&apos;s reign marked the peak of the Ottoman Empire&apos;s decline</string>
+		<string>Suleiman I personally led Ottoman armies in conquering Vienna in 1529.</string>
 		<key>theme</key>
 		<string>The Ottoman Empire 1480-1571</string>
 		<key>timeLine</key>
@@ -172,7 +172,7 @@
 		<key>question</key>
 		<string> Which city did the Ottomans conquer in 1521, consolidating their control in the Balkans?</string>
 		<key>questionTrueOrFalse</key>
-		<string> The Siege of Belgrade (1521) led to the city&apos;s capture by the Ottomans</string>
+		<string>Most of the Serbian inhabitants of Belgrade were deported to Constantinople after the fall of the city to the Ottomans.</string>
 		<key>theme</key>
 		<string>The Ottoman Empire 1480-1571</string>
 		<key>timeLine</key>
@@ -208,13 +208,13 @@
 		<key>question</key>
 		<string> Which order of knights lost the island of Rhodes to the Ottomans in 1522?</string>
 		<key>questionTrueOrFalse</key>
-		<string> The Siege of Rhodes (1522) was an unsuccessful Ottoman attempt</string>
+		<string>Turkish artillery and mines were used to demolish the walls of the Knights of Rhodes stronghold over a six-month period.</string>
 		<key>theme</key>
 		<string>The Ottoman Empire 1480-1571</string>
 		<key>timeLine</key>
 		<string> Rhodes falls to Ottomans</string>
 		<key>trueOrFalseAnswer</key>
-		<string>False</string>
+		<string>True</string>
 		<key>wikiSearchWord</key>
 		<string> Siege of Rhodes (1522) </string>
 	</dict>
@@ -244,7 +244,7 @@
 		<key>question</key>
 		<string> Which city did the Ottomans unsuccessfully besiege for the first time in 1529?</string>
 		<key>questionTrueOrFalse</key>
-		<string> The Siege of Vienna (1529) resulted in the city&apos;s capture by the Ottomans</string>
+		<string>The failure of the siege of Vienna marked the beginning of 150 years of peaceful relations between the Habsburgs and Ottomans.</string>
 		<key>theme</key>
 		<string>The Ottoman Empire 1480-1571</string>
 		<key>timeLine</key>
@@ -280,13 +280,13 @@
 		<key>question</key>
 		<string> In which battle did the Ottomans achieve a decisive naval victory against a Christian alliance?</string>
 		<key>questionTrueOrFalse</key>
-		<string> The Battle of Preveza was a decisive Ottoman victory against a Christian alliance</string>
+		<string>The Battle of Preveza was a land battle between the Ottoman Empire and the Holy League.</string>
 		<key>theme</key>
 		<string>The Ottoman Empire 1480-1571</string>
 		<key>timeLine</key>
 		<string> Preveza: Naval victory</string>
 		<key>trueOrFalseAnswer</key>
-		<string>True</string>
+		<string>False</string>
 		<key>wikiSearchWord</key>
 		<string> Battle of Preveza </string>
 	</dict>
@@ -316,13 +316,13 @@
 		<key>question</key>
 		<string> Which island did the Ottomans fail to capture from the Knights Hospitaller in 1565?</string>
 		<key>questionTrueOrFalse</key>
-		<string> The Great Siege of Malta ended with an Ottoman victory</string>
+		<string>The Knights Hospitaller moved their headquarters to Malta after being expelled from Rhodes by the Ottomans in 1522.</string>
 		<key>theme</key>
 		<string>The Ottoman Empire 1480-1571</string>
 		<key>timeLine</key>
 		<string> Malta siege fails</string>
 		<key>trueOrFalseAnswer</key>
-		<string>False</string>
+		<string>True</string>
 		<key>wikiSearchWord</key>
 		<string> Great Siege of Malta </string>
 	</dict>
@@ -352,13 +352,13 @@
 		<key>question</key>
 		<string> In which battle did the Ottoman Empire suffer a major naval defeat against a Christian coalition?</string>
 		<key>questionTrueOrFalse</key>
-		<string> The Battle of Lepanto was a major naval victory for the Ottomans</string>
+		<string> The Battle of Lepanto  marked a turning point in the halt of Ottoman military expansion into the Mediterranean.</string>
 		<key>theme</key>
 		<string>The Ottoman Empire 1480-1571</string>
 		<key>timeLine</key>
 		<string> Lepanto: Naval loss</string>
 		<key>trueOrFalseAnswer</key>
-		<string>False</string>
+		<string>True</string>
 		<key>wikiSearchWord</key>
 		<string> Battle of Lepanto </string>
 	</dict>

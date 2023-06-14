@@ -16,6 +16,8 @@ struct IntroductionTitlesView: View {
     var deviceHeight: CGFloat {
         UIScreen.main.bounds.height
     }
+    @AppStorage("hasLaunchedBefore") var hasLaunchedBefore: Bool = false
+    @State var showWelcome = false
     var body: some View {
         ZStack {
             ColorReference.darkGreen
@@ -33,23 +35,14 @@ struct IntroductionTitlesView: View {
                     Spacer()
                     NavigationLink("Timelines") {
                         SelectionView(selection: "TimeLinesDetailView")
+                        
                     }
                     .fontWeight(.bold)
                     .italic()
                     .textCase(.uppercase)
                     .foregroundColor(.white)
                     .font(.headline)
-//                    Button(action:
-//                            {
-//                        isTimeLineView =  true
-//
-//                    },
-//                           label: {
-//                        Text("Timelines")
-                            
-//
-//
-//                    })
+                    
                     Text("Start here")
                         .font(.caption)
                         .foregroundColor(ColorReference.lightGreen)
@@ -63,23 +56,24 @@ struct IntroductionTitlesView: View {
                     .foregroundColor(.white)
                     .font(.headline)
                     Group {
-                    Text("Read and learn")
-                        .font(.caption)
-                        .foregroundColor(ColorReference.lightGreen)
-                    Spacer()
+                        Text("Read and learn")
+                            .font(.caption)
+                            .foregroundColor(ColorReference.lightGreen)
+                        Spacer()
                         NavigationLink("Quiz") {
                             SelectionMultipleChoiceView()
+                            
                         }
                         .fontWeight(.bold)
                         .italic()
                         .textCase(.uppercase)
                         .foregroundColor(.white)
                         .font(.headline)
-                    Text("Test your knowledge")
-                        .font(.caption)
-                        .foregroundColor(ColorReference.lightGreen)
-
-                    Spacer()
+                        Text("Test your knowledge")
+                            .font(.caption)
+                            .foregroundColor(ColorReference.lightGreen)
+                        
+                        Spacer()
                         NavigationLink("Manage your credits") {
                             CoinManagementView(questionSection: $questionSection, coins: $coins, nextButtonIsVisible: $nextButtonIsVisible, hintButtonIsVisible: $hintButtonIsVisible, fromNocoinsView: $fromNoCoinsView, lastQuizSection: .menuPage)
                         }
@@ -88,17 +82,15 @@ struct IntroductionTitlesView: View {
                         .textCase(.uppercase)
                         .foregroundColor(.white)
                         .font(.headline)
-
+                        
                     }
-                    Spacer()
-                    
                 }
-
+                Spacer()
+                
             }
         }
         .navigationBarHidden(true)
         .onAppear{
-            
             var numberOfOpen: Int = UserDefaults.standard.integer(forKey: "numberOfOpen")
             if numberOfOpen > 10 {
                 SKStoreReviewController.requestReview()
@@ -106,6 +98,15 @@ struct IntroductionTitlesView: View {
                 UserDefaults.standard.set(numberOfOpen, forKey: "numberOfOpen")
             }
             UserDefaults.standard.set(numberOfOpen + 1, forKey: "numberOfOpen")
+            if !hasLaunchedBefore {
+                self.showWelcome = true
+                self.hasLaunchedBefore = true
+            }
+        }
+        .alert(isPresented: $showWelcome) {
+            Alert(title: Text("Welcome to the new version of LEARN HISTORY!".localized),
+                  message: Text("New themes were added\nMIDDLE EAST\nByzantine Empire\nMuslim Empire\nOttoman Empire\n\nHave fun, more themes to come!".localized),
+                  dismissButton: .default(Text("OK")))
         }
     }
 }

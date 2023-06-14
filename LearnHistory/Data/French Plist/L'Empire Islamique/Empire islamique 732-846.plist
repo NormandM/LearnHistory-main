@@ -4,7 +4,7 @@
 <array>
 	<dict>
 		<key>correctTAnswer</key>
-		<string>Ils ont subi de lourdes pertes et ont perdu le moral, ce qui a entraîné des conflits internes.</string>
+		<string>L&apos;arrêt de  l&apos;expansion musulmane en Europe occidentale..</string>
 		<key>date</key>
 		<string>732</string>
 		<key>id</key>
@@ -244,7 +244,7 @@
 		<key>question</key>
 		<string>Dans quel pays la Grande Mosquée de Cordoue a-t-elle été construite ?</string>
 		<key>questionTrueOrFalse</key>
-		<string>La mosquée-cathédrale de Cordoue a été une mosquée du viiie siècle jusqu&apos;à la Reconquête menée par le roi Ferdinand III de Castille.</string>
+		<string>La mosquée-cathédrale de Cordoue a été une mosquée du viiie siècle jusqu&apos;à la Reconquête.</string>
 		<key>theme</key>
 		<string>Empire islamique 732-846</string>
 		<key>timeLine</key>
@@ -294,7 +294,7 @@
 		<key>correctTAnswer</key>
 		<string>Arabe</string>
 		<key>date</key>
-		<string>786</string>
+		<string>786-800</string>
 		<key>id</key>
 		<string>adaaf1e6-8884-11ed-a1eb-0242ac120002</string>
 		<key>incorrectAnswer1</key>

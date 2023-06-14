@@ -63,12 +63,11 @@ struct MultipleChoiceQuizView: View {
             NSSortDescriptor(keyPath: \HistoricalEventDetail.order, ascending: true)
         ],predicate: NSPredicate(format: "theme == %@", selectedTheme))
         self.numberOfQuestion = allEvents.count
-        
     }
     
     var body: some View {
         if UserDefaults.standard.double(forKey: selectedTheme) == 1.0 && !startOver {
-            AlreadyAnExpertView(theme: selectedTheme, startOver: $startOver)
+            AlreadyAnExpertView(theme: selectedTheme, startOver: $startOver, sectionName: sectionName)
                 .transition(.asymmetric(insertion: .slide, removal: .scale))
                 .background(Color.black)
         }else{
@@ -321,6 +320,7 @@ struct MultipleChoiceQuizView: View {
                             imageIsLoading = false
                         }
                     }
+                    
                 }
                 .alert(isPresented: $showAlertQuizExit) {
                     Alert(

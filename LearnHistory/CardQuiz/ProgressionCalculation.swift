@@ -37,6 +37,7 @@ struct Progression {
         var numberOfGoodAnswersQuiz = 0
         var numberOfBadAnswersQuiz = 0
         var numberOfAnswersQuiz = 0
+        
         for event in fetchRequest {
             if event.wrappedNumberOfGoodAnswersQuiz > 0{
                 numberOfGoodAnswersQuiz = numberOfGoodAnswersQuiz + 1

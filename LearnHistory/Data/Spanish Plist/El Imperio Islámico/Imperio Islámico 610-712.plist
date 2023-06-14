@@ -134,7 +134,7 @@
 		<key>order</key>
 		<integer>4</integer>
 		<key>question</key>
-		<string>¿Quién gobernaba Egipto antes de la conquista árabe-islámica?</string>
+		<string>Antes de la conquista árabe-islámica, ¿qué imperio controlaba Egipto?</string>
 		<key>questionTrueOrFalse</key>
 		<string>Los musulmanes conquistaron Egipto antes de tomar el control de las provincias bizantinas del Levante.</string>
 		<key>theme</key>
@@ -172,7 +172,7 @@
 		<key>question</key>
 		<string>¿Qué califa Rashidun es considerado el primer califa e Imam legítimo por los musulmanes chiíes?</string>
 		<key>questionTrueOrFalse</key>
-		<string>Según los chiíes, el primer califa fue Alí ibn Abi Tálib.</string>
+		<string>El Califato Rashidun se refiere a los primeros cuatro califas que sucedieron a Mahoma.</string>
 		<key>theme</key>
 		<string>Imperio Islámico 610-712</string>
 		<key>timeLine</key>

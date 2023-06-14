@@ -56,7 +56,7 @@
 		<key>wikiSearchWord</key>
 		<string>Division de l&apos;Empire romain</string>
 		<key>questionTrueOrFalse</key>
-		<string> L&apos;Empire romain a été divisé en deux parties en 395 après.</string>
+		<string> L&apos;Empire romain a été divisé en deux parties en 395.</string>
 		<key>trueOrFalseAnswer</key>
 		<string>Vrai</string>
 		<key>timeLine</key>
@@ -306,7 +306,7 @@
 		<key>incorrectAnswer3</key>
 		<string>Perse et Slave</string>
 		<key>wikiSearchWord</key>
-		<string>Siège de Constantinople (626)</string>
+		<string>Siège de Constantinople par l&apos;empire Sassanides </string>
 		<key>questionTrueOrFalse</key>
 		<string> Le siège de Constantinople a eu lieu au 5ème siècle.</string>
 		<key>trueOrFalseAnswer</key>
@@ -620,7 +620,7 @@
 		<key>date</key>
 		<string>1054</string>
 		<key>question</key>
-		<string>Quel était le point de discorde théologique entre l&apos;Église orthodoxe orientale et l&apos;Église catholique romaine lors du schisme Est-Ouest ?</string>
+		<string>Quel était le point de discorde théologique a mené schisme Est-Ouest ?</string>
 		<key>correctTAnswer</key>
 		<string>Le rôle du Saint-Esprit</string>
 		<key>incorrectAnswer1</key>
@@ -780,7 +780,7 @@
 		<key>trueOrFalseAnswer</key>
 		<string>Faux</string>
 		<key>timeLine</key>
-		<string>Reprise de Constantinople</string>
+		<string>Reprise de Constantinople aux latins</string>
 		<key>theme</key>
 		<string>L&apos;empire byzantin</string>
 		<key>numberOfGoodAnswers</key>
@@ -888,7 +888,7 @@
 		<key>trueOrFalseAnswer</key>
 		<string>Faux</string>
 		<key>timeLine</key>
-		<string>État vassal ottoman</string>
+		<string>Constantinople devient un état vassal ottoman</string>
 		<key>theme</key>
 		<string>L&apos;empire byzantin</string>
 		<key>numberOfGoodAnswers</key>
@@ -906,7 +906,7 @@
 		<key>id</key>
 		<string>65e79814-eab8-11ed-a05b-0242ac120003</string>
 		<key>date</key>
-		<string>1390</string>
+		<string>1378-1390</string>
 		<key>question</key>
 		<string>Quelle était la dernière ville byzantine à tomber aux mains des Ottomans avant la chute de Constantinople ?</string>
 		<key>correctTAnswer</key>
@@ -920,7 +920,7 @@
 		<key>wikiSearchWord</key>
 		<string>Chute de Philadelphie</string>
 		<key>questionTrueOrFalse</key>
-		<string> La chute de Philadelphie en 1456 marque la fin de l&apos;Empire byzantin.</string>
+		<string> La chute de Philadelphie marque la fin de l&apos;Empire byzantin.</string>
 		<key>trueOrFalseAnswer</key>
 		<string>Faux</string>
 		<key>timeLine</key>
@@ -956,9 +956,9 @@
 		<key>wikiSearchWord</key>
 		<string>Guerres turco-byzantines</string>
 		<key>questionTrueOrFalse</key>
-		<string> Les guerres turco-byzantines ont été déclenchées par des conflits religieux.</string>
+		<string>Les guerres entre les peuples turcs et l&apos;Empire byzantin ont conduit à la destruction de l&apos;Empire ottoman.</string>
 		<key>trueOrFalseAnswer</key>
-		<string>Vrai</string>
+		<string>Faux</string>
 		<key>timeLine</key>
 		<string>Deuxième siège ottoman de Constantinople</string>
 		<key>theme</key>
@@ -1066,7 +1066,7 @@
 		<key>questionTrueOrFalse</key>
 		<string> L&apos;Empire de Trébizonde a été fondé par des descendants d&apos;Alexis Ier Comnène.</string>
 		<key>trueOrFalseAnswer</key>
-		<string>Faux</string>
+		<string>Vrai</string>
 		<key>timeLine</key>
 		<string>Chute de l&apos;Empire de Trébizonde</string>
 		<key>theme</key>

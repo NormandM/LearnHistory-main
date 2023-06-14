@@ -118,7 +118,7 @@
 		<key>question</key>
 		<string>¿Cuánto duró la conquista romana de la Península Ibérica?</string>
 		<key>correctTAnswer</key>
-		<string>Más de tres siglos</string>
+		<string>Unos 200 años</string>
 		<key>incorrectAnswer1</key>
 		<string>En menos de una década</string>
 		<key>incorrectAnswer2</key>
@@ -296,15 +296,15 @@
 		<key>date</key>
 		<string>1139</string>
 		<key>question</key>
-		<string>¿Con qué otro país estuvo aliado el Reino de Portugal durante sus primeros años de historia?</string>
+		<string>La creación de Portugal fue un proceso que se produjo en el contexto de ¿qué acontecimiento histórico más amplio?</string>
 		<key>correctTAnswer</key>
-		<string>Castilla (España)</string>
+		<string>La Reconquista</string>
 		<key>incorrectAnswer1</key>
-		<string>Francia</string>
+		<string>Las Cruzadas</string>
 		<key>incorrectAnswer2</key>
-		<string>Inglaterra</string>
+		<string>La caída de Roma</string>
 		<key>incorrectAnswer3</key>
-		<string>Los Países Bajos</string>
+		<string>La Guerra de los Cien Años</string>
 		<key>wikiSearchWord</key>
 		<string>Historia de Portugal</string>
 		<key>questionTrueOrFalse</key>
@@ -332,15 +332,15 @@
 		<key>date</key>
 		<string>1469</string>
 		<key>question</key>
-		<string>¿Por qué era conocida Isabel I de Castilla?</string>
+		<string>¿Qué acción controvertida inició la Reina Isabel de Castilla durante su reinado?</string>
 		<key>correctTAnswer</key>
-		<string>Fue una figura clave en la unificación de España.</string>
+		<string> El inicio de la Inquisición española</string>
 		<key>incorrectAnswer1</key>
-		<string>Fue una exitosa líder militar</string>
+		<string>La creación de la Universidad de Salamanca</string>
 		<key>incorrectAnswer2</key>
-		<string>Era una hábil diplomática</string>
+		<string>Apoyo a la exploración transatlántica de Cristóbal Colón</string>
 		<key>incorrectAnswer3</key>
-		<string>Fue mecenas de las artes</string>
+		<string>La anexión de Francia a España</string>
 		<key>wikiSearchWord</key>
 		<string>Isabel I de Castilla</string>
 		<key>questionTrueOrFalse</key>
@@ -442,13 +442,13 @@
 		<key>question</key>
 		<string>¿Quién patrocinó la expedición del explorador Cristóbal Colón?</string>
 		<key>correctTAnswer</key>
-		<string>Reina Isabel</string>
+		<string>La reina Isabel I y el rey Fernando II</string>
 		<key>incorrectAnswer1</key>
-		<string>El rey Fernando</string>
+		<string>Rey Luis XI de Francia</string>
 		<key>incorrectAnswer2</key>
-		<string>Reina Isabel</string>
+		<string> El Dux de Venecia</string>
 		<key>incorrectAnswer3</key>
-		<string>El rey Enrique VIII</string>
+		<string>Rey Enrique VII de Inglaterra</string>
 		<key>wikiSearchWord</key>
 		<string>Cristóbal Colón</string>
 		<key>questionTrueOrFalse</key>
@@ -658,13 +658,13 @@
 		<key>question</key>
 		<string>¿Por qué es conocido el protagonista de &quot;El Quijote&quot;?</string>
 		<key>correctTAnswer</key>
-		<string>Su caballerosidad y valentía</string>
+		<string>Su búsqueda idealista de valores caballerescos y su tendencia a confundir la realidad con la imaginación</string>
 		<key>incorrectAnswer1</key>
-		<string>Su riqueza y poder</string>
+		<string>Su talento para la diplomacia y la negociación</string>
 		<key>incorrectAnswer2</key>
-		<string>Su inteligencia e ingenio</string>
+		<string>Su papel como gran conquistador español</string>
 		<key>incorrectAnswer3</key>
-		<string>Su encanto y carisma</string>
+		<string>Su gran riqueza e influencia en la corte real española</string>
 		<key>wikiSearchWord</key>
 		<string>Don Quijote de la Mancha</string>
 		<key>questionTrueOrFalse</key>

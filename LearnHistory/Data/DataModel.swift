@@ -6,6 +6,7 @@
 //
 
 import SwiftUI
+import Combine
 struct Event: Codable, Equatable, Identifiable {
     var id: UUID
     var date: String
@@ -45,6 +46,16 @@ struct EventDetail: Codable, Equatable, Identifiable {
     var numberOfBadAnswersQuiz: Int
     var order: Int
 }
+
+struct EffectForThemeSections: Codable, Equatable, Identifiable {
+    var id: UUID
+    var themeTitle: String
+    var isFinished: Bool
+    var effectTriggered: Bool
+    var subitemsCount: Int16
+    var completedThemes: Int16
+}
+
 
 
 

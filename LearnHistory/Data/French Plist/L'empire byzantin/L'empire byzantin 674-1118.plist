@@ -208,7 +208,7 @@
 		<key>question</key>
 		<string>Qui était le dirigeant des Kievan Rus&apos; lors de l&apos;attaque de Constantinople en 941 après J.-C. ?</string>
 		<key>questionTrueOrFalse</key>
-		<string> La guerre entre Rus&apos; et Byzantins (860) a entraîné l&apos;effondrement de L&apos;empire byzantin 674-1118.</string>
+		<string> La guerre entre Rus&apos; et Byzantins (860) a entraîné l&apos;effondrement de L&apos;empire byzantin.</string>
 		<key>theme</key>
 		<string>L&apos;empire byzantin 674-1118</string>
 		<key>timeLine</key>
@@ -278,7 +278,7 @@
 		<key>order</key>
 		<integer>18</integer>
 		<key>question</key>
-		<string>Quel était le point de discorde théologique entre l&apos;Église orthodoxe orientale et l&apos;Église catholique romaine lors du schisme Est-Ouest ?</string>
+		<string>Quel était le point de discorde théologique a mené schisme Est-Ouest ?</string>
 		<key>questionTrueOrFalse</key>
 		<string> La séparation des Églises d&apos;Orient et d&apos;Occident a eu lieu en 1154.</string>
 		<key>theme</key>

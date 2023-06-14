@@ -112,7 +112,7 @@
 	</dict>
 	<dict>
 		<key>correctTAnswer</key>
-		<string>Más de tres siglos</string>
+		<string>Unos 200 años</string>
 		<key>date</key>
 		<string>200 A.C.</string>
 		<key>id</key>
@@ -292,17 +292,17 @@
 	</dict>
 	<dict>
 		<key>correctTAnswer</key>
-		<string>Castilla (España)</string>
+		<string>La Reconquista</string>
 		<key>date</key>
 		<string>1139</string>
 		<key>id</key>
 		<string>08f4b092-8311-11ed-a1eb-0242ac120002</string>
 		<key>incorrectAnswer1</key>
-		<string>Francia</string>
+		<string>Las Cruzadas</string>
 		<key>incorrectAnswer2</key>
-		<string>Inglaterra</string>
+		<string>La caída de Roma</string>
 		<key>incorrectAnswer3</key>
-		<string>Los Países Bajos</string>
+		<string>La Guerra de los Cien Años</string>
 		<key>numberOfBadAnswers</key>
 		<integer>0</integer>
 		<key>numberOfBadAnswersQuiz</key>
@@ -314,7 +314,7 @@
 		<key>order</key>
 		<integer>9</integer>
 		<key>question</key>
-		<string>¿Con qué otro país estuvo aliado el Reino de Portugal durante sus primeros años de historia?</string>
+		<string>La creación de Portugal fue un proceso que se produjo en el contexto de ¿qué acontecimiento histórico más amplio?</string>
 		<key>questionTrueOrFalse</key>
 		<string>Portugal se originó en la Edad Media y se convirtió en una potencia mundial durante la Edad Moderna</string>
 		<key>theme</key>
@@ -328,17 +328,17 @@
 	</dict>
 	<dict>
 		<key>correctTAnswer</key>
-		<string>Fue una figura clave en la unificación de España.</string>
+		<string> El inicio de la Inquisición española</string>
 		<key>date</key>
 		<string>1469</string>
 		<key>id</key>
 		<string>08f4b1c8-8311-11ed-a1eb-0242ac120002</string>
 		<key>incorrectAnswer1</key>
-		<string>Fue una exitosa líder militar</string>
+		<string>La creación de la Universidad de Salamanca</string>
 		<key>incorrectAnswer2</key>
-		<string>Era una hábil diplomática</string>
+		<string>Apoyo a la exploración transatlántica de Cristóbal Colón</string>
 		<key>incorrectAnswer3</key>
-		<string>Fue mecenas de las artes</string>
+		<string>La anexión de Francia a España</string>
 		<key>numberOfBadAnswers</key>
 		<integer>0</integer>
 		<key>numberOfBadAnswersQuiz</key>
@@ -350,7 +350,7 @@
 		<key>order</key>
 		<integer>10</integer>
 		<key>question</key>
-		<string>¿Por qué era conocida Isabel I de Castilla?</string>
+		<string>¿Qué acción controvertida inició la Reina Isabel de Castilla durante su reinado?</string>
 		<key>questionTrueOrFalse</key>
 		<string>Isabel I de Castilla y Fernando de Aragón expulsaron a los judíos de sus reinos después de ganar la guerra de Granada.</string>
 		<key>theme</key>

@@ -175,3 +175,23 @@ extension HistoricalEventDetail {
 extension HistoricalEventDetail : Identifiable {
 
 }
+extension HistoricalSectionForSpecialEffect {
+    @nonobjc public class func fetchRequest() -> NSFetchRequest<HistoricalSectionForSpecialEffect> {
+        return NSFetchRequest<HistoricalSectionForSpecialEffect>(entityName: "HistoricalSectionForSpecialEffect")
+    }
+    @NSManaged public var id: UUID?
+    @NSManaged public var themeTitle: String?
+    @NSManaged public var isFinished: Bool
+    @NSManaged public var effectTriggered: Bool
+    @NSManaged public var subitemsCount: Int16
+    @NSManaged public var completedThemes: Int16
+    var wrappedId: UUID {
+        id ?? UUID()
+    }
+    var wrappedThemeTitle: String{
+        themeTitle ?? ""
+    }
+}
+extension HistoricalSectionForSpecialEffect : Identifiable {
+
+}

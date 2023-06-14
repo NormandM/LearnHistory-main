@@ -9,11 +9,15 @@ import SwiftUI
 
 struct AlreadyAnExpertView: View {
     @Environment(\.dismiss) private var dismiss
+    @Environment(\.managedObjectContext) var moc
+    @FetchRequest(sortDescriptors: []) var historicalSectionForSpecialEffect: FetchedResults<HistoricalSectionForSpecialEffect>
     var deviceHeight: CGFloat {
         UIScreen.main.bounds.height
     }
     var theme: String
+
     @Binding var startOver: Bool
+    var sectionName: String
     var body: some View {
         ZStack {
             ColorReference.lightGreen
@@ -61,6 +65,13 @@ struct AlreadyAnExpertView: View {
         withAnimation {
             startOver = true
             UserDefaults.standard.set(0.0, forKey: theme)
+            for section in historicalSectionForSpecialEffect{
+                if section.wrappedThemeTitle == sectionName {
+                    section.completedThemes -= 1
+                    try?moc.save()
+                }
+            }
+
         }
         
     }
@@ -72,6 +83,6 @@ struct AlreadyAnExpertView: View {
 
 struct AlreadyAnExpertView_Previews: PreviewProvider {
     static var previews: some View {
-        AlreadyAnExpertView(theme: "France", startOver: .constant(false))
+        AlreadyAnExpertView(theme: "France", startOver: .constant(false), sectionName: "")
     }
 }

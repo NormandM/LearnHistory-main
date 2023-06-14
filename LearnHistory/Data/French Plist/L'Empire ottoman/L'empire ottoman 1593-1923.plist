@@ -64,7 +64,7 @@
 		<key>question</key>
 		<string>Quelle ville les Ottomans ont-ils assiégée sans succès pour la deuxième fois en 1683 ?</string>
 		<key>questionTrueOrFalse</key>
-		<string>La campagne militaire de 16 ans a conduit à la reprise des territoires de Hongrie-Croatie par les Ottomans. </string>
+		<string>Suite à la bataille de Vienne, la campagne militaire de 16 ans a conduit à la reprise des territoires de Hongrie-Croatie par les Ottomans. </string>
 		<key>theme</key>
 		<string>L&apos;empire ottoman 1593-1923</string>
 		<key>timeLine</key>
@@ -134,9 +134,9 @@
 		<key>order</key>
 		<integer>24</integer>
 		<key>question</key>
-		<string>Comment s&apos;appelait la période de paix relative, de croissance économique et d&apos;efflorescence culturelle de 1703 à 1730 ?</string>
+		<string>Comment s&apos;appelait la période de paix relative et de croissance économique  de 1703 à 1730 ?</string>
 		<key>questionTrueOrFalse</key>
-		<string>La période des Tulipes a vu le début de l&apos;occidentalisation de l&apos;Empire ottoman. Vrai ou Faux? </string>
+		<string>La période des Tulipes a vu le début de l&apos;occidentalisation de l&apos;Empire ottoman.</string>
 		<key>theme</key>
 		<string>L&apos;empire ottoman 1593-1923</string>
 		<key>timeLine</key>
@@ -206,7 +206,7 @@
 		<key>order</key>
 		<integer>26</integer>
 		<key>question</key>
-		<string>Quelle société secrète, fondée en 1814, a joué un rôle important dans l&apos;organisation et la coordination de la guerre d&apos;indépendance grecque ?</string>
+		<string>Quelle société secrète, fondée en 1814, a joué un rôle important dans la guerre d&apos;indépendance grecque ?</string>
 		<key>questionTrueOrFalse</key>
 		<string>L&apos;Autriche et la Prusse ont refusé d&apos;autoriser l&apos;indépendance grecque.</string>
 		<key>theme</key>
@@ -278,7 +278,7 @@
 		<key>order</key>
 		<integer>28</integer>
 		<key>question</key>
-		<string>Quel événement en 1908 a conduit à la restauration de la Constitution ottomane et à la Seconde ère constitutionnelle ?</string>
+		<string>Quel événement en 1908 a conduit à la restauration de la Constitution ottomane ?</string>
 		<key>questionTrueOrFalse</key>
 		<string>Les Jeunes-Turcs ont planifié le génocide arménien. </string>
 		<key>theme</key>

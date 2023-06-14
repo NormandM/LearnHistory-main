@@ -9,6 +9,7 @@ import SwiftUI
 import WikipediaKit
 @main
 struct LearnHistoryApp: App {
+ 
     @StateObject private var dataController = DataController()
     init(){
         WikipediaNetworking.appAuthorEmailForAPI = "nmartin1956@gmail.com"

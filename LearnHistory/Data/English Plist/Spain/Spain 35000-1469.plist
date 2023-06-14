@@ -32,7 +32,7 @@
 		<key>theme</key>
 		<string>Spain 35000-1469</string>
 		<key>timeLine</key>
-		<string>Homo sapiens may have arrived in the Iberian Peninsula</string>
+		<string>Homo sapiens arrive in the Iberian Peninsula</string>
 		<key>trueOrFalseAnswer</key>
 		<string>True</string>
 		<key>wikiSearchWord</key>
@@ -49,12 +49,10 @@
 		<string>Trade and commerce</string>
 		<key>incorrectAnswer2</key>
 		<string>Warfare and conquest</string>
-		<key>incorrectAnswer3</key>
-		<string>Hunting and gathering
-
-</string>
 		<key>numberOfBadAnswers</key>
 		<integer>0</integer>
+		<key>incorrectAnswer3</key>
+		<string>Hunting and gathering</string>
 		<key>numberOfBadAnswersQuiz</key>
 		<integer>0</integer>
 		<key>numberOfGoodAnswers</key>
@@ -114,7 +112,7 @@
 	</dict>
 	<dict>
 		<key>correctTAnswer</key>
-		<string>More than three centuries</string>
+		<string>About 200 years</string>
 		<key>date</key>
 		<string>200 BC</string>
 		<key>id</key>
@@ -294,17 +292,17 @@
 	</dict>
 	<dict>
 		<key>correctTAnswer</key>
-		<string>Castile (Spain)</string>
+		<string>The Reconquista</string>
 		<key>date</key>
 		<string>1139</string>
 		<key>id</key>
 		<string>f33ace82-8246-11ed-a1eb-0242ac120002</string>
 		<key>incorrectAnswer1</key>
-		<string>France</string>
+		<string>The Crusades</string>
 		<key>incorrectAnswer2</key>
-		<string>England</string>
+		<string>The Fall of Rome</string>
 		<key>incorrectAnswer3</key>
-		<string>The Netherlands</string>
+		<string>The Hundred Years&apos; War</string>
 		<key>numberOfBadAnswers</key>
 		<integer>0</integer>
 		<key>numberOfBadAnswersQuiz</key>
@@ -316,9 +314,9 @@
 		<key>order</key>
 		<integer>9</integer>
 		<key>question</key>
-		<string>What other country was the Kingdom of Portugal allied with during its early history?</string>
+		<string>The creation of Portugal was a process that occurred in the context of which broader historical event?</string>
 		<key>questionTrueOrFalse</key>
-		<string>The Kingdom of Portugal was established after the fall of Rome.</string>
+		<string>The Kingdom of Portugal was established immediately after the fall of Rome.</string>
 		<key>theme</key>
 		<string>Spain 35000-1469</string>
 		<key>timeLine</key>
@@ -330,17 +328,17 @@
 	</dict>
 	<dict>
 		<key>correctTAnswer</key>
-		<string>She was a key figure in the unification of Spain.</string>
+		<string> The initiation of the Spanish Inquisition</string>
 		<key>date</key>
 		<string>1469</string>
 		<key>id</key>
 		<string>f33acf90-8246-11ed-a1eb-0242ac120002</string>
 		<key>incorrectAnswer1</key>
-		<string>She was a successful military leader.</string>
+		<string>The creation of the University of Salamanca</string>
 		<key>incorrectAnswer2</key>
-		<string>She was a skilled diplomat.</string>
+		<string>Support for transatlantic exploration by Christopher Columbus</string>
 		<key>incorrectAnswer3</key>
-		<string>She was a patron of the arts.</string>
+		<string>The annexation of France to Spain</string>
 		<key>numberOfBadAnswers</key>
 		<integer>0</integer>
 		<key>numberOfBadAnswersQuiz</key>
@@ -352,7 +350,7 @@
 		<key>order</key>
 		<integer>10</integer>
 		<key>question</key>
-		<string>What was Isabella I of Castile known for?</string>
+		<string>What controversial action did Queen Isabella of Castile initiate during her reign?</string>
 		<key>questionTrueOrFalse</key>
 		<string>Isabella and Ferdinand supported and financed Christopher Columbus&apos;s 1492 voyage to the New World. </string>
 		<key>theme</key>
